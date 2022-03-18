@@ -1,0 +1,882 @@
+[
+ {
+  "id": 0, 
+  "intro": "The time for retreating is over, now we must drive the fascist beasts from the soil of the Motherland! Now we began with Operation Uranus here on the Chir. With the fascist armies trapped at Stalingrad, it is important to keep the pressure on to prevent the fascists from mounting strong counter-attacks to relieve their trapped comrades. Here we attack the remnants of the Romanians, though must move quickly to prevent the Germans from sending reinforcements to stabilize this sector.  Za Rodinu!<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 900, 
+    "text": "Very good General! STAVKA will be pleased at this news, the breakthrough here has trapped hundreds of thousands of fascist troops in Stalingrad.<br><br>The Third Romanian Army began to be routed by the end of 19 November. The Soviet 21st Army and 5th Tank Army were able to capture some 27,000 Romanian prisoners the bulk of three divisions and then continue their advance southwards. Soviet cavalry was used to exploit the breakthrough, sever communications between the Romanians and the Italian 8th Army, and to block any possible counterattack against the Soviet flank."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Comrade General, STAVKA has sent these NKVD troops for you, I'm afraid you have been relieved of command..."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Comrade, while this can be called a victory, it has failed to impress STAVKA and many more victories such as this will mean we will not have an army to fight with. You must do better by our people and for the Motherland!<br><br>The Third Romanian Army began to be routed by the end of 19 November. The Soviet 21st Army and 5th Tank Army were able to capture some 27,000 Romanian prisoners the bulk of three divisions and then continue their advance southwards. Soviet cavalry was used to exploit the breakthrough, sever communications between the Romanians and the Italian 8th Army, and to block any possible counterattack against the Soviet flank."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "Comrade General! Victory is sweet, no? However, if you had moved quicker it would have been more brilliant, but STAVKA approves. We have destroyed many fascist forces and trapped German troops in Stalingrad.<br><br>The Third Romanian Army began to be routed by the end of 19 November. The Soviet 21st Army and 5th Tank Army were able to capture some 27,000 Romanian prisoners the bulk of three divisions and then continue their advance southwards. Soviet cavalry was used to exploit the breakthrough, sever communications between the Romanians and the Italian 8th Army, and to block any possible counterattack against the Soviet flank.<br>"
+   }
+  }, 
+  "scenario": "ruscam00.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 1, 
+  "intro": "Now is the time to crush the Italians.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 900, 
+    "text": "General Fyodor Isidorovich Kuznetsov's 1st Guards Army and General Dmitri Danilovich Lelyushenko's 3rd Guards Army attacked from the north, encircling 130,000 soldiers of the Italian 8th Army on the Don and advancing to Millerovo. (Manstein sent the 6th Panzer Division to the Italians' aid of the 130,000 encircled troops, 45,000 survived to join the Panzers at Chertkovo on 17 January)."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You are relieved of command!"
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "General Fyodor Isidorovich Kuznetsov's 1st Guards Army and General Dmitri Danilovich Lelyushenko's 3rd Guards Army attacked from the north, encircling 130,000 soldiers of the Italian 8th Army on the Don and advancing to Millerovo. (Manstein sent the 6th Panzer Division to the Italians' aid of the 130,000 encircled troops, 45,000 survived to join the Panzers at Chertkovo on 17 January)."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 950, 
+    "text": "General Fyodor Isidorovich Kuznetsov's 1st Guards Army and General Dmitri Danilovich Lelyushenko's 3rd Guards Army attacked from the north, encircling 130,000 soldiers of the Italian 8th Army on the Don and advancing to Millerovo. (Manstein sent the 6th Panzer Division to the Italians' aid of the 130,000 encircled troops, 45,000 survived to join the Panzers at Chertkovo on 17 January)."
+   }
+  }, 
+  "scenario": "ruscam01.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 2, 
+  "intro": "Clear the Highway of Hungarians and break their line of communications and reinforcement in support of our attack in the south on Rostov and Kharkov.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On January 13, 1943, Russian forces, overwhelming in numbers and equipment, began the Voronezh-Kharkov Strategic Offensive Operation on the Bryansk, Voronezh, and Southwestern Fronts simultaneously . The Russians rapidly destroyed the Hungarian Second Army near Svoboda on the Don River. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Defeat!"
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "On January 13, 1943, Russian forces, overwhelming in numbers and equipment, began the Voronezh-Kharkov Strategic Offensive Operation on the Bryansk, Voronezh, and Southwestern Fronts simultaneously . The Russians rapidly destroyed the Hungarian Second Army near Svoboda on the Don River. "
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 950, 
+    "text": "On January 13, 1943, Russian forces, overwhelming in numbers and equipment, began the Voronezh-Kharkov Strategic Offensive Operation on the Bryansk, Voronezh, and Southwestern Fronts simultaneously . The Russians rapidly destroyed the Hungarian Second Army near Svoboda on the Don River. "
+   }
+  }, 
+  "scenario": "ruscam02.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 3, 
+  "intro": "Operation Star<br><br>We have swung you around to the north now, a little more now and we liberate Izium, we must drive on, drive the point of the sword through and gut the Fascist beast.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1700, 
+    "text": "As the German Sixth Army was encircled in Stalingrad, the Red Army undertook a series of wider offensives against the rest of Army Group South. These culminated on 2 January 1943, when the Soviets launched Operation Star, which between January and early February broke German defenses and led to the Soviet recapture of Kharkov, Belgorod and Kursk. The Soviet offensive was successful, but caused participating Soviet units to over-extend themselves."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2300, 
+    "text": "As the German Sixth Army was encircled in Stalingrad, the Red Army undertook a series of wider offensives against the rest of Army Group South. These culminated on 2 January 1943, when the Soviets launched Operation Star, which between January and early February broke German defenses and led to the Soviet recapture of Kharkov, Belgorod and Kursk. The Soviet offensive was successful, but caused participating Soviet units to over-extend themselves."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2100, 
+    "text": "As the German Sixth Army was encircled in Stalingrad, the Red Army undertook a series of wider offensives against the rest of Army Group South. These culminated on 2 January 1943, when the Soviets launched Operation Star, which between January and early February broke German defenses and led to the Soviet recapture of Kharkov, Belgorod and Kursk. The Soviet offensive was successful, but caused participating Soviet units to over-extend themselves."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1850, 
+    "text": "As the German Sixth Army was encircled in Stalingrad, the Red Army undertook a series of wider offensives against the rest of Army Group South. These culminated on 2 January 1943, when the Soviets launched Operation Star, which between January and early February broke German defenses and led to the Soviet recapture of Kharkov, Belgorod and Kursk. The Soviet offensive was successful, but caused participating Soviet units to over-extend themselves."
+   }
+  }, 
+  "scenario": "ruscam03.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 4, 
+  "intro": "Here at Prokhorovka you have been attached to the 5th Guards Tank Army, this will not be easy Comrade General. Directly facing you is the elite of the SS: Adolf Hitler's named Liebstandarte Division and Das Reich in the south.  You must be very careful here not to let your army be destroyed in senseless attacks but to let them attack first, yet hold Prokhorovka, then once their assault burns itself out, counterattack, drive them back and take Ivanovski. This will be the swansong of the panzerkorps, you shall be the conductor of this orchestra of destruction and they will see their last Blitzkrieg lay broken and dying at your feet!<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "Regardless of the tactical outcome, the Battle of Prokhorovka was turned into a critical propaganda and operational victory for the Red Army. The Germans had first thought they were almost through the defenses and were expecting nothing more than a few anti-tank guns; instead, they met the better part of a thousand tanks. Clearly the Soviets were not beaten, and this had a significant impact upon German decision making.<br><br>It also became clear that the German advantage in quality of officers and men was now eroding and the self-confident Soviets were ready to begin launching larger offensives and driving the German forces back towards Germany. From this point forward, the strategic initiative would remain with the Red Army.<br><br>"
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 900, 
+    "text": "Regardless of the tactical outcome, the Battle of Prokhorovka was turned into a critical propaganda and operational victory for the Red Army. The Germans had first thought they were almost through the defenses and were expecting nothing more than a few anti-tank guns; instead, they met the better part of a thousand tanks. Clearly the Soviets were not beaten, and this had a significant impact upon German decision making.<br><br>It also became clear that the German advantage in quality of officers and men was now eroding and the self-confident Soviets were ready to begin launching larger offensives and driving the German forces back towards Germany. From this point forward, the strategic initiative would remain with the Red Army.<br>"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Regardless of the tactical outcome, the Battle of Prokhorovka was turned into a critical propaganda and operational victory for the Red Army. The Germans had first thought they were almost through the defenses and were expecting nothing more than a few anti-tank guns; instead, they met the better part of a thousand tanks. Clearly the Soviets were not beaten, and this had a significant impact upon German decision making.<br><br>It also became clear that the German advantage in quality of officers and men was now eroding and the self-confident Soviets were ready to begin launching larger offensives and driving the German forces back towards Germany. From this point forward, the strategic initiative would remain with the Red Army.<br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "Regardless of the tactical outcome, the Battle of Prokhorovka was turned into a critical propaganda and operational victory for the Red Army. The Germans had first thought they were almost through the defenses and were expecting nothing more than a few anti-tank guns; instead, they met the better part of a thousand tanks. Clearly the Soviets were not beaten, and this had a significant impact upon German decision making.<br><br>It also became clear that the German advantage in quality of officers and men was now eroding and the self-confident Soviets were ready to begin launching larger offensives and driving the German forces back towards Germany. From this point forward, the strategic initiative would remain with the Red Army.<br>"
+   }
+  }, 
+  "scenario": "ruscam04.xml", 
+  "startprestige": 500
+ }, 
+ {
+  "id": 5, 
+  "intro": "Here is our counter stroke to the German operations aimed at Kursk, it is to break through at Karachev and destroy this fortified salient around Orel. Beware the Fortresses at both Orel and Bryansk are fortified with heavy artillery, invest these fortresses and we shall move west.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "The Soviet forces pressed back the German defenders and liberated Orel. Operation Kutuzov set the stage for the liberation of Smolensk in September 1943. The Germans were greatly weakened by this thrust, and thus were unable to stop further Soviet advances westwards.<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Defeat and Disgrace!"
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Soviet forces pressed back the German defenders and liberated Orel. Operation Kutuzov set the stage for the liberation of Smolensk in September 1943. The Germans were greatly weakened by this thrust, and thus were unable to stop further Soviet advances westwards.<br><br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "The Soviet forces pressed back the German defenders and liberated Orel. Operation Kutuzov set the stage for the liberation of Smolensk in September 1943. The Germans were greatly weakened by this thrust, and thus were unable to stop further Soviet advances westwards."
+   }
+  }, 
+  "scenario": "ruscam05.xml", 
+  "startprestige": 500
+ }, 
+ {
+  "id": 6, 
+  "intro": "On 17 October Konev attacked out of his bridgehead at Kremenchug and swung to the south toward the iron ore center at Krivoi Rog and the main rail line into the Dnepr bend from the west. This threat forced the Germans to give up Dnepropetrovsk, but the First Panzer Army was able to hold in front of Krivoi Rog. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "While the attack seemed of little value, it did force the Germans back, even further from the Dnepr and any territory freed, meant a better hope for life to the civilians there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure!"
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "While the attack seemed of little value, it did force the Germans back, even further from the Dnepr and any territory freed, meant a better hope for life to the civilians there."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "While the attack seemed of little value, it did force the Germans back, even further from the Dnepr and any territory freed, meant a better hope for life to the civilians there."
+   }
+  }, 
+  "scenario": "ruscam06.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 7, 
+  "intro": "Kiev has languished for too long under Nazi rule, they impatiently await your liberation. Nobody has said this will be easy, undoubtably the Germans will throw much strength into the defence of the city in their \"fortress\" ideology.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "On the morning of 3 November 1943, the 4th Panzer Army awoke to a massive Soviet bombardment. The German forces screening the bridgehead were smashed, and Kiev was liberated in short order. The 1st Czechoslovak Independent Brigade started the assault at 12.30 on 5 November, reaching the Dniepr at 02.00 on the 6th, after sweeping through the western suburbs of the City, with Kiev finally being liberated at 06.50 on the 6th."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have been relieved of command!"
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On the morning of 3 November 1943, the 4th Panzer Army awoke to a massive Soviet bombardment. The German forces screening the bridgehead were smashed, and Kiev was liberated in short order. The 1st Czechoslovak Independent Brigade started the assault at 12.30 on 5 November, reaching the Dniepr at 02.00 on the 6th, after sweeping through the western suburbs of the City, with Kiev finally being liberated at 06.50 on the 6th."
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "On the morning of 3 November 1943, the 4th Panzer Army awoke to a massive Soviet bombardment. The German forces screening the bridgehead were smashed, and Kiev was liberated in short order. The 1st Czechoslovak Independent Brigade started the assault at 12.30 on 5 November, reaching the Dniepr at 02.00 on the 6th, after sweeping through the western suburbs of the City, with Kiev finally being liberated at 06.50 on the 6th."
+   }
+  }, 
+  "scenario": "ruscam07.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 8, 
+  "intro": "Taking Zhitomir will cut communications between Army Groups North and South, the 25th Panzer Division under General Jauer is counter-attacking here reinforced by Fallschirmjagers. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1800, 
+    "text": "The first unit to arrive from 48th Panzer Corps was the newly formed 25th Panzer Division commanded by General der Panzertruppen Georg Jauer, on 7 November. Its drive on Fastov was halted by the 7th Guards Tank Corps. Rybalko was soon just 40 miles from Berdichev. Zhitomir was taken by the 38th Army. The 4th Panzer Army was in deep trouble. However, the situation changed with the arrival of the 1st SS Division, 1st and 7th Panzer Divisions, under the command of 48th Panzer Corps. These new forces drove north to Brusilov and then west to retake Zhitomir. Rybalko sent the 7th Guards Tank Corps, to counter the German assault, and a huge tank battle ensued, although not quite on the scale seen at Kursk. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure and Defeat!"
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1800, 
+    "text": "The first unit to arrive from 48th Panzer Corps was the newly formed 25th Panzer Division commanded by General der Panzertruppen Georg Jauer, on 7 November. Its drive on Fastov was halted by the 7th Guards Tank Corps. Rybalko was soon just 40 miles from Berdichev. Zhitomir was taken by the 38th Army. The 4th Panzer Army was in deep trouble. However, the situation changed with the arrival of the 1st SS Division, 1st and 7th Panzer Divisions, under the command of 48th Panzer Corps. These new forces drove north to Brusilov and then west to retake Zhitomir. Rybalko sent the 7th Guards Tank Corps, to counter the German assault, and a huge tank battle ensued, although not quite on the scale seen at Kursk. "
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1850, 
+    "text": "The first unit to arrive from 48th Panzer Corps was the newly formed 25th Panzer Division commanded by General der Panzertruppen Georg Jauer, on 7 November. Its drive on Fastov was halted by the 7th Guards Tank Corps. Rybalko was soon just 40 miles from Berdichev. Zhitomir was taken by the 38th Army. The 4th Panzer Army was in deep trouble. However, the situation changed with the arrival of the 1st SS Division, 1st and 7th Panzer Divisions, under the command of 48th Panzer Corps. These new forces drove north to Brusilov and then west to retake Zhitomir. Rybalko sent the 7th Guards Tank Corps, to counter the German assault, and a huge tank battle ensued, although not quite on the scale seen at Kursk. "
+   }
+  }, 
+  "scenario": "ruscam08.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 9, 
+  "intro": "Comrade General, STAVKA feels that the whole Romanian army here can be brought down with a few hard blows, your mission is to apply those blows here at Iasi.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "The First Jassy-Kishinev Offensive, was fought between 8 April and 6 June 1944 by the Soviets and Axis powers of World War II. The offensive was actually a coordinated invasion of Romania conducted by Red Army's 2nd and 3rd Ukrainian Fronts, according to the plans of the Main Command of the Soviet Military (Stavka), the two Soviet fronts would cut-off Axis vital defensive lines in Northern Romania. This then would facilitate a subsequent advance by the Red Army into the entire Balkan region. The Soviet attack commenced with the First Battle of Targu Frumos and Battle of Podu Iloaiei, and culminated with the Second Battle of Targu Frumos. However, Soviet forces failed to overcome German defenses in the region and the offensive operation ultimately failed."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure!"
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 900, 
+    "text": "The First Jassy-Kishinev Offensive, was fought between 8 April and 6 June 1944 by the Soviets and Axis powers of World War II. The offensive was actually a coordinated invasion of Romania conducted by Red Army's 2nd and 3rd Ukrainian Fronts, according to the plans of the Main Command of the Soviet Military (Stavka), the two Soviet fronts would cut-off Axis vital defensive lines in Northern Romania. This then would facilitate a subsequent advance by the Red Army into the entire Balkan region. The Soviet attack commenced with the First Battle of Targu Frumos and Battle of Podu Iloaiei, and culminated with the Second Battle of Targu Frumos. However, Soviet forces failed to overcome German defenses in the region and the offensive operation ultimately failed."
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "The First Jassy-Kishinev Offensive, was fought between 8 April and 6 June 1944 by the Soviets and Axis powers of World War II. The offensive was actually a coordinated invasion of Romania conducted by Red Army's 2nd and 3rd Ukrainian Fronts, according to the plans of the Main Command of the Soviet Military (Stavka), the two Soviet fronts would cut-off Axis vital defensive lines in Northern Romania. This then would facilitate a subsequent advance by the Red Army into the entire Balkan region. The Soviet attack commenced with the First Battle of Targu Frumos and Battle of Podu Iloaiei, and culminated with the Second Battle of Targu Frumos. However, Soviet forces failed to overcome German defenses in the region and the offensive operation ultimately failed."
+   }
+  }, 
+  "scenario": "ruscam09.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 10, 
+  "intro": "Three years ago, the fascists invaded Mother Russia causing untold suffering to the Russian people. Today on the 3rd anniversary of that hateful day, we begin the final Operation to drive them from our soil, Operation Bagration shall be their creshendo of doom.<br><br>We shall show the Germans the error of their Festung strategy, they have built a hedgehog on the road before us, destroy it and link up at Bobruisk with the 3rd and 48th Armies. This will split their front, encircling the German 4th and 9th Armies.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "Bobruisk was liberated on June 29, the  German 383rd Infantry Division commencing withdrawal towards dawn: no further elements of Ninth Army would escape from east of the Berezina. The German breakout had allowed around 12,000 troops - mostly demoralised and without weapons - from the pocket east of Bobruisk to get out, but the Soviets claimed 20,000 taken prisoner. A further 50,000 were dead: Soviet accounts speak of the area being carpeted with bodies and littered with abandoned materiel. The Soviet writer, Vasily Grossman, entered Bobruisk shortly after the end of the battle:<br><br>\"Men are walking over German corpses. Corpses, hundreds and thousands of them, pave the road, lie in ditches, under the pines, in the green barley. In some places, vehicles have to drive over the corpses, so densely they lie upon the ground [...] A cauldron of death was boiling here, where the revenge was carried out.\"<br><br>Ninth Army had been decisively defeated, and the southern route to Minsk was open.<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure!"
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Bobruisk was liberated on June 29, the  German 383rd Infantry Division commencing withdrawal towards dawn: no further elements of Ninth Army would escape from east of the Berezina. The German breakout had allowed around 12,000 troops - mostly demoralised and without weapons - from the pocket east of Bobruisk to get out, but the Soviets claimed 20,000 taken prisoner. A further 50,000 were dead: Soviet accounts speak of the area being carpeted with bodies and littered with abandoned materiel. The Soviet writer, Vasily Grossman, entered Bobruisk shortly after the end of the battle:<br><br>\"Men are walking over German corpses. Corpses, hundreds and thousands of them, pave the road, lie in ditches, under the pines, in the green barley. In some places, vehicles have to drive over the corpses, so densely they lie upon the ground [...] A cauldron of death was boiling here, where the revenge was carried out.\"<br><br>Ninth Army had been decisively defeated, and the southern route to Minsk was open."
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 950, 
+    "text": "Bobruisk was liberated on June 29, the  German 383rd Infantry Division commencing withdrawal towards dawn: no further elements of Ninth Army would escape from east of the Berezina. The German breakout had allowed around 12,000 troops - mostly demoralised and without weapons - from the pocket east of Bobruisk to get out, but the Soviets claimed 20,000 taken prisoner. A further 50,000 were dead: Soviet accounts speak of the area being carpeted with bodies and littered with abandoned materiel. The Soviet writer, Vasily Grossman, entered Bobruisk shortly after the end of the battle:<br><br>\"Men are walking over German corpses. Corpses, hundreds and thousands of them, pave the road, lie in ditches, under the pines, in the green barley. In some places, vehicles have to drive over the corpses, so densely they lie upon the ground [...] A cauldron of death was boiling here, where the revenge was carried out.\"<br><br>Ninth Army had been decisively defeated, and the southern route to Minsk was open."
+   }
+  }, 
+  "scenario": "ruscam10.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 11, 
+  "intro": "Here at Minsk the Germans have little chance of reinforcement before you surround them and destroy their Festung. With this action we will completely encircle their 4th Army from the north.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "The forces of the German Army Group Center were almost completely shattered within a matter of days in a victory of unprecedented scale. In particular, nearly the entire Fourth Army, plus many of the elements of Ninth Army that had escaped from the Bobruisk Offensive, were destroyed. In total, around 100,000 troops from Fourth and Ninth Armies were caught in the encirclement, of whom some 40,000 were killed, most of the remainder being captured."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Stalin will be furious!"
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The forces of the German Army Group Center were almost completely shattered within a matter of days in a victory of unprecedented scale. In particular, nearly the entire Fourth Army, plus many of the elements of Ninth Army that had escaped from the Bobruisk Offensive, were destroyed. In total, around 100,000 troops from Fourth and Ninth Armies were caught in the encirclement, of whom some 40,000 were killed, most of the remainder being captured."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "The forces of the German Army Group Center were almost completely shattered within a matter of days in a victory of unprecedented scale. In particular, nearly the entire Fourth Army, plus many of the elements of Ninth Army that had escaped from the Bobruisk Offensive, were destroyed. In total, around 100,000 troops from Fourth and Ninth Armies were caught in the encirclement, of whom some 40,000 were killed, most of the remainder being captured."
+   }
+  }, 
+  "scenario": "ruscam11.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 12, 
+  "intro": "Chernyakhovsky ordered that his main mobile 'exploitation' forces, the 5th Guards Tank Army and 3rd Guards Cavalry Corps continue their advance from Minsk on July 5 in the direction of Vilnius, with the aim of reaching the city by the following day: they were to encircle Vilnius from the south and north respectively. The rifle divisions of 5th Army were ordered to follow and close up to them. To the south, the 39th Army was directed to move on Lida, while the 11th Guards Army would advance in the Front's center.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "While the German aim of holding Vilnius as fortress was not achieved, the tenacious defence made a contribution in stopping the Red Army's drive west for a few precious days: most importantly, it tied down the 5th Guards Tank Army, which had been instrumental in the initial successes of the Red Army during Operation Bagration. Without the traffic network based on Vilnius, the German position in the northern Baltics was untenable. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You're fired!"
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "While the German aim of holding Vilnius as fortress was not achieved, the tenacious defence made a contribution in stopping the Red Army's drive west for a few precious days: most importantly, it tied down the 5th Guards Tank Army, which had been instrumental in the initial successes of the Red Army during Operation Bagration. Without the traffic network based on Vilnius, the German position in the northern Baltics was untenable. "
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "While the German aim of holding Vilnius as fortress was not achieved, the tenacious defence made a contribution in stopping the Red Army's drive west for a few precious days: most importantly, it tied down the 5th Guards Tank Army, which had been instrumental in the initial successes of the Red Army during Operation Bagration. Without the traffic network based on Vilnius, the German position in the norththern Baltics was untenable. "
+   }
+  }, 
+  "scenario": "ruscam12.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 13, 
+  "intro": "After the Russian reconnaissance units reached Warsaw in late July, on August 1, 1944 the Warsaw Uprising started. Starting from an area south of Minsk Mazowiecki, Lieutenant-General N. D. Vedeneev's 3rd Tank Corps (part of the Soviet Second Tank Army) thrust northwest through Okuniew and Wolomin to Radzymin, reaching an area only three miles (five kilometers) from the strategic bridge over the Narew River at Zegrze.<br><br>In response to Vedeneev's thrust, the Germans started a tactical counter-attack near Radzymin on July 31. The offensive, carried out by 4 understrength Panzer divisions, was to secure the eastern approaches to Warsaw and Vistula crossings, and aimed to destroy the three tank corps of the Second Tank Army in detail. Under the leadership of German Field Marshal Model, the 4th, 19th, Hermann Goring, and 5th SS Panzer Divisions were concentrated from different areas with their arrival in the area of Wolomin occurring between July 31 and August 1, 1944. Although the 3rd Tank Corps gamely defended the initial assaults of the Hermann Goring and 19th Panzer Divisions, the arrival of the 4th Panzer and 5th SS Panzer Divisions spelled doom for the isolated and outnumbered unit.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Between August 1 and August 10, 1944 at the conclusion of the Belorussian strategic offensive operation near the town of Radzymin in the vicinity of Warsaw, part of which entailed a large tank battle at Wolomin. It was the largest tank battle on the territories of Poland during WWII.<br><br>Approach of the Red Army forces into the proximity of Warsaw served to initiate the Warsaw Uprising by the Home Army with expectation of help from the Red Army.<br><br>Further combat lasted until August 10, when the Germans finally withdrew. Soviet losses were heavy, but not heavy enough to affect the overall course of their thrust to the vicinity of Warsaw. The 3rd Tank Corps was destroyed, the 8th Guards Tank Corps took heavy losses, and the 16th Tank Corps took significant losses as well. <br><br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You Lose!"
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Between August 1 and August 10, 1944 at the conclusion of the Belorussian strategic offensive operation near the town of Radzymin in the vicinity of Warsaw, part of which entailed a large tank battle at Wolomin. It was the largest tank battle on the territories of Poland during WWII.<br><br>Approach of the Red Army forces into the proximity of Warsaw served to initiate the Warsaw Uprising by the Home Army with expectation of help from the Red Army.<br><br>Further combat lasted until August 10, when the Germans finally withdrew. Soviet losses were heavy, but not heavy enough to affect the overall course of their thrust to the vicinity of Warsaw. The 3rd Tank Corps was destroyed, the 8th Guards Tank Corps took heavy losses, and the 16th Tank Corps took significant losses as well. "
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "Between August 1 and August 10, 1944 at the conclusion of the Belorussian strategic offensive operation near the town of Radzymin in the vicinity of Warsaw, part of which entailed a large tank battle at Wolomin. It was the largest tank battle on the territories of Poland during WWII.<br><br>Approach of the Red Army forces into the proximity of Warsaw served to initiate the Warsaw Uprising by the Home Army with expectation of help from the Red Army.<br><br>Further combat lasted until August 10, when the Germans finally withdrew. Soviet losses were heavy, but not heavy enough to affect the overall course of their thrust to the vicinity of Warsaw. The 3rd Tank Corps was destroyed, the 8th Guards Tank Corps took heavy losses, and the 16th Tank Corps took significant losses as well. "
+   }
+  }, 
+  "scenario": "ruscam13.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 14, 
+  "intro": "Cavalry-Mechanized Group Pliyev is in danger of being cut off at Nyiregyhaza, your Corps has been attached to the 6th Guards Tank Army and will attack north from Debrecen in order to relieve Cavalry Mechanized Group Pliyev. Holding Nyiregyhaza will cut off the escape route of the German 8th Army. The Germans and Hungarians have launched a counter-attack with 1st and 23rd Panzer Divisions reinforced by the Konigstigers of the sPz Abt 503. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "The Debrecen operation saw Soviet forces advance anywhere from 60 to 120 miles further west into Hungary, leaving the 2nd and 3rd Ukrainian Fronts in position to renew the offensive towards Budapest. The tank battle at Debrecen itself had drawn the German Panzer units away from defending the approaches to Budapest.<br><br>Under the 6th Guards Tank Army's ferocious attacks, the front line near Oradea (Southeast near Debrecen) was steadily pushed back, in what historian Earl F. Ziemke described as \"one of the wildest tank battles of the war\"."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You Lose!"
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Debrecen operation saw Soviet forces advance anywhere from 60 to 120 miles further west into Hungary, leaving the 2nd and 3rd Ukrainian Fronts in position to renew the offensive towards Budapest. The tank battle at Debrecen itself had drawn the German Panzer units away from defending the approaches to Budapest.<br><br>Under the 6th Guards Tank Army's ferocious attacks, the front line near Oradea (Southeast near Debrecen) was steadily pushed back, in what historian Earl F. Ziemke described as \"one of the wildest tank battles of the war\"."
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "The Debrecen operation saw Soviet forces advance anywhere from 60 to 120 miles further west into Hungary, leaving the 2nd and 3rd Ukrainian Fronts in position to renew the offensive towards Budapest. The tank battle at Debrecen itself had drawn the German Panzer units away from defending the approaches to Budapest.<br><br>Under the 6th Guards Tank Army's ferocious attacks, the front line near Oradea (Southeast near Debrecen) was steadily pushed back, in what historian Earl F. Ziemke described as \"one of the wildest tank battles of the war\"."
+   }
+  }, 
+  "scenario": "ruscam14.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 15, 
+  "intro": "On 29 October 1944, the Red Army started its offensive against the city of Budapest. More than 1,000,000 men split into two operating maneuver groups rushed towards the city. The plan was to cut Budapest off from the rest of the German and Hungarian forces. On 7 November 1944, Soviet and Romanian troops entered the eastern suburbs of Budapest, 20 kilometers from the old town.", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "From October 1944, the 2nd, 3rd, and 4th Ukrainian Fronts advanced into Hungary. After isolating the Hungarian capital city in late December, the Soviets besieged and assaulted Budapest. On 13 February 1945, the city fell. While this destroyed most of the German forces in the region, troops were rushed from the Western Front and, in March, the Germans launched the ill fated Operation Spring Awakening (Unternehmen Fruhlingserwachen) in the Lake Balaton area. The expansive goals of this operation were to protect one of the last oil producing regions available to the Axis and to retake Budapest. Neither goal was achieved.<br><br>"
+   }, 
+   "lose": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "From October 1944, the 2nd, 3rd, and 4th Ukrainian Fronts advanced into Hungary. After isolating the Hungarian capital city in late December, the Soviets besieged and assaulted Budapest. On 13 February 1945, the city fell. While this destroyed most of the German forces in the region, troops were rushed from the Western Front and, in March, the Germans launched the ill fated Operation Spring Awakening (Unternehmen Fruhlingserwachen) in the Lake Balaton area. The expansive goals of this operation were to protect one of the last oil producing regions available to the Axis and to retake Budapest. Neither goal was achieved."
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "From October 1944, the 2nd, 3rd, and 4th Ukrainian Fronts advanced into Hungary. After isolating the Hungarian capital city in late December, the Soviets besieged and assaulted Budapest. On 13 February 1945, the city fell. While this destroyed most of the German forces in the region, troops were rushed from the Western Front and, in March, the Germans launched the ill fated Operation Spring Awakening (Unternehmen Fruhlingserwachen) in the Lake Balaton area. The expansive goals of this operation were to protect one of the last oil producing regions available to the Axis and to retake Budapest. Neither goal was achieved."
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "From October 1944, the 2nd, 3rd, and 4th Ukrainian Fronts advanced into Hungary. After isolating the Hungarian capital city in late December, the Soviets besieged and assaulted Budapest. On 13 February 1945, the city fell. While this destroyed most of the German forces in the region, troops were rushed from the Western Front and, in March, the Germans launched the ill fated Operation Spring Awakening (Unternehmen Fruhlingserwachen) in the Lake Balaton area. The expansive goals of this operation were to protect one of the last oil producing regions available to the Axis and to retake Budapest. Neither goal was achieved."
+   }
+  }, 
+  "scenario": "ruscam15.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 16, 
+  "intro": "The main thrust of the offensive wil to be conducted by the 3rd Belorussian Front under Chernyakhovsky. Your forces are tasked with driving westwards towards Konigsberg, against the defensive positions of Third Panzer Army and Fourth Army, the northern armies of General Georg-Hans Reinhardt's Army Group Center. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "The remnants of Third Panzer Army, placed under Fourth Army's command, became isolated in the Siege of Konigsberg. The city was finally taken, after brutal combat, on April 9. After this point the remaining German forces around the Bight of Danzig were reorganised into Armee Ostpreussen under the overall command of Dietrich von Saucken. <br>The third group of German forces, the XXVIII Corps or Armeeabteilung Samland under General Hans Gollnick, occupied the Samland peninsula, where the port of Pillau was retained as the last effective evacuation point for the area. The last elements were cleared from Pillau on April 25 in the Zemland offensive operation. <br>Even after this time German forces continued to resist on the Frische Nehrung, the long sandbar enclosing the Vistula Lagoon, until the end of the war.<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Defeat!"
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The remnants of Third Panzer Army, placed under Fourth Army's command, became isolated in the Siege of Konigsberg. The city was finally taken, after brutal combat, on April 9. After this point the remaining German forces around the Bight of Danzig were reorganised into Armee Ostpreussen under the overall command of Dietrich von Saucken. <br>The third group of German forces, the XXVIII Corps or Armeeabteilung Samland under General Hans Gollnick, occupied the Samland peninsula, where the port of Pillau was retained as the last effective evacuation point for the area. The last elements were cleared from Pillau on April 25 in the Zemland offensive operation. <br>Even after this time German forces continued to resist on the Frische Nehrung, the long sandbar enclosing the Vistula Lagoon, until the end of the war."
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "The remnants of Third Panzer Army, placed under Fourth Army's command, became isolated in the Siege of Konigsberg. The city was finally taken, after brutal combat, on April 9. After this point the remaining German forces around the Bight of Danzig were reorganised into Armee Ostpreussen under the overall command of Dietrich von Saucken. <br>The third group of German forces, the XXVIII Corps or Armeeabteilung Samland under General Hans Gollnick, occupied the Samland peninsula, where the port of Pillau was retained as the last effective evacuation point for the area. The last elements were cleared from Pillau on April 25 in the Zemland offensive operation. <br>Even after this time German forces continued to resist on the Frische Nehrung, the long sandbar enclosing the Vistula Lagoon, until the end of the war."
+   }
+  }, 
+  "scenario": "ruscam16.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 17, 
+  "intro": "Operation Solstice (German: Unternehmen Sonnenwende), also known as Unternehmen Husarenritt or the 'Stargard tank battle', was a German armoured offensive operation on the Eastern Front, one of the last such operations.<br><br>Originally planned as a major offensive, it was eventually executed as a more limited attack.<br>It was repulsed by the Red Army, but helped to convince the Soviet High Command to postpone the planned attack on Berlin.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "Despite the initial gains, the operation was, in tactical terms, a complete failure. German forces failed to penetrate towards Kustrin and suffered major losses of heavy equipment in the subsequent retreat. However, the operation convinced Marshal Zhukov and Joseph Stalin that the northern flank of the Soviet advance on Berlin was vulnerable, and therefore postponed the latter by some two months while Pomerania was cleared in the East Pomeranian Offensive.<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure!"
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Despite the initial gains, the operation was, in tactical terms, a complete failure. German forces failed to penetrate towards Kustrin and suffered major losses of heavy equipment in the subsequent retreat. However, the operation convinced Marshal Zhukov and Joseph Stalin that the northern flank of the Soviet advance on Berlin was vulnerable, and therefore postponed the latter by some two months while Pomerania was cleared in the East Pomeranian Offensive."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 850, 
+    "text": "Despite the initial gains, the operation was, in tactical terms, a complete failure. German forces failed to penetrate towards Kustrin and suffered major losses of heavy equipment in the subsequent retreat. However, the operation convinced Marshal Zhukov and Joseph Stalin that the northern flank of the Soviet advance on Berlin was vulnerable, and therefore postponed the latter by some two months while Pomerania was cleared in the East Pomeranian Offensive."
+   }
+  }, 
+  "scenario": "ruscam17.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 18, 
+  "intro": "The beginning of the end, Battle of the Seelow Heights.<br><br>In the early hours of 16 April, the offensive began with a massive bombardment by thousands of artillery pieces and Katyushas. Well before dawn, the 1st Belorussian Front attacked across the Oder and the 1st Ukrainian Front attacked across the Neisse. The 1st Belorussian Front was the stronger force but it had the more difficult assignment since it was facing the bulk of the German forces.<br><br>\"The offensive demands a boundless mass of energy from us in order to bring the Fascist filth to an even quicker end.\" -Inscription on a Soviet monument.", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200, 
+    "text": "The sector in which most of the fighting in the overall offensive took place was the Seelow Heights, the last major defensive line outside Berlin. The Battle of the Seelow Heights, fought over four days from 16 April until 19 April, was one of the last pitched battles of World War II, given that it required a commitment of almost one million Red Army troops and more than 20,000 tanks and artillery pieces were in action to break through the \"Gates to Berlin\" which was defended by about 100,000 German soldiers and 1,200 tanks and guns. However, the Soviet forces led by Zhukov eventually broke through the defensive positions, having suffered about 30,000 casualties, while the Germans lost 12,000 personnel."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Failure!"
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3100, 
+    "text": "The sector in which most of the fighting in the overall offensive took place was the Seelow Heights, the last major defensive line outside Berlin. The Battle of the Seelow Heights, fought over four days from 16 April until 19 April, was one of the last pitched battles of World War II, given that it required a commitment of almost one million Red Army troops and more than 20,000 tanks and artillery pieces were in action to break through the \"Gates to Berlin\" which was defended by about 100,000 German soldiers and 1,200 tanks and guns. However, the Soviet forces led by Zhukov eventually broke through the defensive positions, having suffered about 30,000 casualties, while the Germans lost 12,000 personnel."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3150, 
+    "text": "The sector in which most of the fighting in the overall offensive took place was the Seelow Heights, the last major defensive line outside Berlin. The Battle of the Seelow Heights, fought over four days from 16 April until 19 April, was one of the last pitched battles of World War II, given that it required a commitment of almost one million Red Army troops and more than 20,000 tanks and artillery pieces were in action to break through the \"Gates to Berlin\" which was defended by about 100,000 German soldiers and 1,200 tanks and guns. However, the Soviet forces led by Zhukov eventually broke through the defensive positions, having suffered about 30,000 casualties, while the Germans lost 12,000 personnel."
+   }
+  }, 
+  "scenario": "ruscam18.xml", 
+  "startprestige": 200
+ }, 
+ {
+  "id": 19, 
+  "intro": "\"On the walls of the houses we saw Goebbels' appeals, hurriedly scrawled in white paint: 'Every German will defend his capital. We shall stop the Red hordes at the walls of our Berlin.' Just try and stop them!<br>Steel pillboxes, barricades, mines, traps, suicide squads with grenades clutched in their hands all are swept aside before the tidal wave.<br>Drizzling rain began to fall. Near Bisdorf I saw batteries preparing to open fire.<br>'What are the targets?' I asked the battery commander.<br>Center of Berlin, Spree bridges, and the northern and Stettin railway stations,' he answered.<br>Then came the tremendous words of command: 'Open fire at the capital of Fascist Germany.'<br>I noted the time. It was exactly 8:30 a.m. on 22 April. Ninety-six shells fell in the center of Berlin in the course of a few minutes.\"<br><br>-A Soviet war correspondent. <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Before the battle was over, German Fuhrer Adolf Hitler and many of his followers committed suicide. The city's defenders finally surrendered on 2 May. At 02:41 on the morning of 7 May 1945, at the SHAEF headquarters, German Chief-of-Staff General Alfred Jodl signed the unconditional surrender documents for all German forces to the Allies. It included the phrase All forces under German control to cease active operations at 2301 hours Central European time on 8 May 1945. The next day shortly before midnight, Field Marshal Wilhelm Keitel repeated the signing in Berlin at Zhukov's headquarters. The war in Europe was over.<br><br>The Eastern Front of World War II was the largest theater of war in history and was notorious for its unprecedented ferocity, destruction, and immense loss of life. More people fought and died on the Eastern Front than in all other theatres of World War II combined. Various figures average a total number of 70,000,000 dead because of World War II; with over 30 million dead, many of them civilians, the Eastern Front represents well over one-third of this total, and has been called a war of extermination. It resulted in the destruction of the Third Reich, the partition of Germany and the rise of the Soviet Union as a military and industrial superpower."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Before the battle was over, German Fuhrer Adolf Hitler and many of his followers committed suicide. The city's defenders finally surrendered on 2 May. At 02:41 on the morning of 7 May 1945, at the SHAEF headquarters, German Chief-of-Staff General Alfred Jodl signed the unconditional surrender documents for all German forces to the Allies. It included the phrase All forces under German control to cease active operations at 2301 hours Central European time on 8 May 1945. The next day shortly before midnight, Field Marshal Wilhelm Keitel repeated the signing in Berlin at Zhukov's headquarters. The war in Europe was over.<br><br>The Eastern Front of World War II was the largest theater of war in history and was notorious for its unprecedented ferocity, destruction, and immense loss of life. More people fought and died on the Eastern Front than in all other theatres of World War II combined. Various figures average a total number of 70,000,000 dead because of World War II; with over 30 million dead, many of them civilians, the Eastern Front represents well over one-third of this total, and has been called a war of extermination. It resulted in the destruction of the Third Reich, the partition of Germany and the rise of the Soviet Union as a military and industrial superpower."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Before the battle was over, German Fuhrer Adolf Hitler and many of his followers committed suicide. The city's defenders finally surrendered on 2 May. At 02:41 on the morning of 7 May 1945, at the SHAEF headquarters, German Chief-of-Staff General Alfred Jodl signed the unconditional surrender documents for all German forces to the Allies. It included the phrase All forces under German control to cease active operations at 2301 hours Central European time on 8 May 1945. The next day shortly before midnight, Field Marshal Wilhelm Keitel repeated the signing in Berlin at Zhukov's headquarters. The war in Europe was over.<br><br>The Eastern Front of World War II was the largest theater of war in history and was notorious for its unprecedented ferocity, destruction, and immense loss of life. More people fought and died on the Eastern Front than in all other theatres of World War II combined. Various figures average a total number of 70,000,000 dead because of World War II; with over 30 million dead, many of them civilians, the Eastern Front represents well over one-third of this total, and has been called a war of extermination. It resulted in the destruction of the Third Reich, the partition of Germany and the rise of the Soviet Union as a military and industrial superpower."
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Before the battle was over, German Fuhrer Adolf Hitler and many of his followers committed suicide. The city's defenders finally surrendered on 2 May. At 02:41 on the morning of 7 May 1945, at the SHAEF headquarters, German Chief-of-Staff General Alfred Jodl signed the unconditional surrender documents for all German forces to the Allies. It included the phrase All forces under German control to cease active operations at 2301 hours Central European time on 8 May 1945. The next day shortly before midnight, Field Marshal Wilhelm Keitel repeated the signing in Berlin at Zhukov's headquarters. The war in Europe was over.<br><br>The Eastern Front of World War II was the largest theater of war in history and was notorious for its unprecedented ferocity, destruction, and immense loss of life. More people fought and died on the Eastern Front than in all other theatres of World War II combined. Various figures average a total number of 70,000,000 dead because of World War II; with over 30 million dead, many of them civilians, the Eastern Front represents well over one-third of this total, and has been called a war of extermination. It resulted in the destruction of the Third Reich, the partition of Germany and the rise of the Soviet Union as a military and industrial superpower."
+   }
+  }, 
+  "scenario": "ruscam19.xml", 
+  "startprestige": 1000
+ }
+]

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom08.scn" name="Crimean Partisans" turns="7, 10, 13" date="December 27, 1943" dayturns="3" ground="1" atmosferic="3" latitude="3" rows="11" cols="17" eqp="eqp-adlerkorps" image="resources/maps/images/map_722.png">
+  <player id="0" country="17" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 220"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200"/>
+  <reinforce turn="4">
+    <at row="5" col="1">
+      <unit id="876" owner="1" flag="20" face="7" exp="300" str="8"/>
+    </at>
+    <at row="1" col="9">
+      <unit id="876" owner="1" flag="20" face="13" exp="300" str="7"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="5"/>
+  <hex row="0" col="2" terrain="5"/>
+  <hex row="0" col="3" terrain="6"/>
+  <hex row="0" col="4" terrain="6"/>
+  <hex row="0" col="5" terrain="6"/>
+  <hex row="0" col="6" terrain="6"/>
+  <hex row="0" col="7" terrain="6"/>
+  <hex row="0" col="9" terrain="6"/>
+  <hex row="0" col="10" terrain="6"/>
+  <hex row="0" col="11" terrain="6"/>
+  <hex row="0" col="12" terrain="6"/>
+  <hex row="0" col="13" terrain="6"/>
+  <hex row="0" col="14" terrain="6"/>
+  <hex row="0" col="15" terrain="6"/>
+  <hex row="0" col="16" terrain="6"/>
+  <hex row="1" col="1" terrain="1" road="8" name="Perevalne" flag="17" owner="0" victory="1" deploy="0"/>
+  <hex row="1" col="2" terrain="5"/>
+  <hex row="1" col="3" terrain="6"/>
+  <hex row="1" col="4" terrain="6"/>
+  <hex row="1" col="5" terrain="6"/>
+  <hex row="1" col="6" terrain="6"/>
+  <hex row="1" col="7" terrain="6"/>
+  <hex row="1" col="8" terrain="6"/>
+  <hex row="1" col="9" terrain="6"/>
+  <hex row="1" col="10" terrain="6"/>
+  <hex row="1" col="11" terrain="6"/>
+  <hex row="1" col="12" terrain="6"/>
+  <hex row="1" col="13" terrain="6"/>
+  <hex row="1" col="14" terrain="6"/>
+  <hex row="1" col="15" terrain="6"/>
+  <hex row="1" col="16" terrain="6"/>
+  <hex row="2" col="1" terrain="5" deploy="0"/>
+  <hex row="2" col="2" terrain="5" road="144" deploy="0"/>
+  <hex row="2" col="3" terrain="3"/>
+  <hex row="2" col="4" terrain="6"/>
+  <hex row="2" col="5" terrain="6"/>
+  <hex row="2" col="6" terrain="6"/>
+  <hex row="2" col="7" terrain="6"/>
+  <hex row="2" col="8" terrain="6"/>
+  <hex row="2" col="9" terrain="6"/>
+  <hex row="2" col="10" terrain="6"/>
+  <hex row="2" col="11" terrain="6"/>
+  <hex row="2" col="12" terrain="6"/>
+  <hex row="2" col="13" terrain="14"/>
+  <hex row="2" col="14" terrain="6"/>
+  <hex row="2" col="15" terrain="6"/>
+  <hex row="2" col="16" terrain="6"/>
+  <hex row="3" col="1" terrain="6"/>
+  <hex row="3" col="2" terrain="5" road="9"/>
+  <hex row="3" col="3" terrain="5" road="144"/>
+  <hex row="3" col="4" terrain="6"/>
+  <hex row="3" col="5" terrain="6"/>
+  <hex row="3" col="6" terrain="6"/>
+  <hex row="3" col="7" terrain="6"/>
+  <hex row="3" col="8" terrain="6"/>
+  <hex row="3" col="9" terrain="6"/>
+  <hex row="3" col="10" terrain="6"/>
+  <hex row="3" col="11" terrain="14"/>
+  <hex row="3" col="12" terrain="6"/>
+  <hex row="3" col="13" terrain="6"/>
+  <hex row="3" col="14" terrain="14"/>
+  <hex row="3" col="15" terrain="14"/>
+  <hex row="3" col="16" terrain="14"/>
+  <hex row="4" col="1" terrain="6"/>
+  <hex row="4" col="2" terrain="6"/>
+  <hex row="4" col="3" terrain="5" road="33" name="Angarsky Pass"/>
+  <hex row="4" col="4" terrain="6"/>
+  <hex row="4" col="5" terrain="6"/>
+  <hex row="4" col="6" terrain="6"/>
+  <hex row="4" col="7" terrain="6"/>
+  <hex row="4" col="8" terrain="6"/>
+  <hex row="4" col="9" terrain="6"/>
+  <hex row="4" col="10" terrain="14"/>
+  <hex row="4" col="11" terrain="5"/>
+  <hex row="4" col="12" terrain="6"/>
+  <hex row="4" col="13" terrain="5"/>
+  <hex row="4" col="14" terrain="6"/>
+  <hex row="4" col="15" terrain="6"/>
+  <hex row="4" col="16" terrain="5"/>
+  <hex row="5" col="1" terrain="6"/>
+  <hex row="5" col="2" terrain="5" road="18"/>
+  <hex row="5" col="3" terrain="5"/>
+  <hex row="5" col="4" terrain="6"/>
+  <hex row="5" col="5" terrain="6"/>
+  <hex row="5" col="6" terrain="6"/>
+  <hex row="5" col="7" terrain="6">
+    <unit id="876" owner="1" flag="20" face="12" exp="300" ent="5" str="8"/>
+  </hex>
+  <hex row="5" col="8" terrain="6">
+    <unit id="3395" owner="1" flag="20" face="11" transport="2587" exp="350" ent="5" str="8"/>
+  </hex>
+  <hex row="5" col="9" terrain="6"/>
+  <hex row="5" col="10" terrain="6"/>
+  <hex row="5" col="11" terrain="5"/>
+  <hex row="5" col="12" terrain="5"/>
+  <hex row="5" col="13" terrain="5"/>
+  <hex row="5" col="14" terrain="5"/>
+  <hex row="5" col="15" terrain="5"/>
+  <hex row="5" col="16" terrain="5"/>
+  <hex row="6" col="1" terrain="6"/>
+  <hex row="6" col="2" terrain="5" road="9"/>
+  <hex row="6" col="3" terrain="5" road="144"/>
+  <hex row="6" col="4" terrain="6"/>
+  <hex row="6" col="5" terrain="6"/>
+  <hex row="6" col="6" terrain="6"/>
+  <hex row="6" col="7" terrain="6">
+    <unit id="876" owner="1" flag="20" face="11" exp="350" ent="10" str="9" ldr="1"/>
+  </hex>
+  <hex row="6" col="8" terrain="6" flag="19" owner="1" victory="0">
+    <unit id="3394" owner="1" flag="20" face="14" transport="2587" exp="320" ent="12" str="9"/>
+  </hex>
+  <hex row="6" col="9" terrain="14"/>
+  <hex row="6" col="10" terrain="14"/>
+  <hex row="6" col="11" terrain="5"/>
+  <hex row="6" col="12" terrain="5"/>
+  <hex row="6" col="13" terrain="5"/>
+  <hex row="6" col="14" terrain="5"/>
+  <hex row="6" col="15" terrain="5"/>
+  <hex row="6" col="16" terrain="5"/>
+  <hex row="7" col="1" terrain="6"/>
+  <hex row="7" col="2" terrain="5"/>
+  <hex row="7" col="3" terrain="5" road="17"/>
+  <hex row="7" col="4" terrain="6"/>
+  <hex row="7" col="5" terrain="6"/>
+  <hex row="7" col="6" terrain="6"/>
+  <hex row="7" col="7" terrain="6"/>
+  <hex row="7" col="8" terrain="6"/>
+  <hex row="7" col="9" terrain="14"/>
+  <hex row="7" col="10" terrain="5"/>
+  <hex row="7" col="11" terrain="5"/>
+  <hex row="7" col="12" terrain="5"/>
+  <hex row="7" col="13" terrain="5"/>
+  <hex row="7" col="14" terrain="5"/>
+  <hex row="7" col="15" terrain="5"/>
+  <hex row="7" col="16" terrain="5"/>
+  <hex row="8" col="1" terrain="6"/>
+  <hex row="8" col="2" terrain="5"/>
+  <hex row="8" col="3" terrain="5" road="17"/>
+  <hex row="8" col="4" terrain="6"/>
+  <hex row="8" col="5" terrain="6"/>
+  <hex row="8" col="6" terrain="6"/>
+  <hex row="8" col="7" terrain="6"/>
+  <hex row="8" col="8" terrain="6">
+    <unit id="876" owner="1" flag="20" face="13" exp="350" ent="10" str="8"/>
+  </hex>
+  <hex row="8" col="9" terrain="6"/>
+  <hex row="8" col="10" terrain="5"/>
+  <hex row="8" col="11" terrain="5"/>
+  <hex row="8" col="12" terrain="5"/>
+  <hex row="8" col="13" terrain="5"/>
+  <hex row="8" col="16" terrain="5"/>
+  <hex row="9" col="1" terrain="6"/>
+  <hex row="9" col="2" terrain="6"/>
+  <hex row="9" col="3" road="9"/>
+  <hex row="9" col="4" terrain="5"/>
+  <hex row="9" col="5" terrain="5"/>
+  <hex row="9" col="6" terrain="6"/>
+  <hex row="9" col="7" terrain="6"/>
+  <hex row="9" col="8" terrain="6"/>
+  <hex row="9" col="9" terrain="5"/>
+  <hex row="9" col="10" terrain="5"/>
+  <hex row="9" col="11" terrain="5"/>
+  <hex row="9" col="12" terrain="5"/>
+  <hex row="9" col="13" terrain="16"/>
+  <hex row="10" col="1" terrain="5"/>
+  <hex row="10" col="2" terrain="5"/>
+  <hex row="10" col="4" road="144"/>
+  <hex row="10" col="5" terrain="5"/>
+  <hex row="10" col="6" terrain="5"/>
+  <hex row="10" col="7" terrain="5"/>
+  <hex row="10" col="8" terrain="5"/>
+  <hex row="10" col="9" terrain="5"/>
+  <hex row="10" col="10" terrain="5"/>
+  <hex row="10" col="11" terrain="5"/>
+  <hex row="10" col="14" terrain="16"/>
+  <hex row="10" col="15" terrain="9" name="Black Sea"/>
+  <hex row="10" col="16" terrain="9" name="Black Sea"/>
+</map>

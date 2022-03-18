@@ -1,0 +1,750 @@
+[
+ {
+  "id": 0, 
+  "intro": "    Bridgehead over Prut river -29 June 1941<br><br>    On June 22, 1941, Germany launched Operation Barbarossa, attacking the Soviet Union on a wide front. Romania joined in the offensive, with Romanian troops crossing the River Prut.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "<br>On 2 July, the southern section of Army Group South  the Romanian 3rd and 4th Armies, alongside the German 11th Army  invaded Soviet Moldavia, which was defended by the Southern Front. Counterattacks by the Front's 2nd Mechanized Corps and 9th Army were defeated, but on 9 July the Axis advance stalled along the defenses of the Soviet 18th Army between the Prut and Dniester Rivers.<br><br><br>R-35 light tank<br> <br>     Only forty-one Renault R-35 tanks were received by 1939, the delivery being cut off after the fall of France in 1940. In late September 1939 a number of thirty-four Polish R-35 tanks of the 305th Battalion that have escaped into Romania were also interned in accordance with a Romanian-Polish agreement, resulting in a total of seventy-five R-35 tanks available to the Romanian Army in late 1939. The R-35 tanks equipped the 2nd Tank Regiment, set up on 1 November 1939.<br><br>   After the 1941 campaign the 2nd Tank Regiment was kept in reserve for training personnel for the 1st Tank Regiment and the security of Transnistria (the southern Ukrainian region between Dniester and Bug). A number of 30 was modernised in 1944 by replacing the 37mm gun with a 45mm anti-tank gun resulting the Vanatorul de care R-35 (R-35 tank destroyer).<br><br>    In spring of 1945 the 2nd Tank Regiment included 28 original and modernised R-35 tanks. During the fights of the Hron River valley on 26/27 March 1945, eight R-35s were destroyed and other two damaged. Further R-35s were lost during the regiment advance through Czechoslovakia and Austria, by the end of operations none surviving.<br><br>( article from www.worldwar2.ro )<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "<br>On 2 July, the southern section of Army Group South  the Romanian 3rd and 4th Armies, alongside the German 11th Army  invaded Soviet Moldavia, which was defended by the Southern Front. Counterattacks by the Front's 2nd Mechanized Corps and 9th Army were defeated, but on 9 July the Axis advance stalled along the defenses of the Soviet 18th Army between the Prut and Dniester Rivers.<br><br><br>Hurricane Mk. I <br><br>     Only twelve out of 50 originally ordered were delivered. Because the war had begun, the British government received priority from Hawker. Anyway, after Romania joined the Axis the acquisition of new Hurricanes from England was out of the question.<br><br>    The available Hurricanes were assigned to the 53rd Fighter Squadron, which in 1941 was included in the Dobruja Air Comand. Its main mission was to defend the Constanta harbor and Cernavoda railway bridge. It also carried out bomber escort missions.<br><br>    During the first day of war (22 June 1941) the Romanian Hurricanes shot down four I-16s, opening the kill list of one of the most successful fighter squadron of the 1941 campaign, during which they claimed 35 Soviet aircraft. The lack of spare parts was a very big problem for the Romanian Hurricanes and after more IAR-80s became available in late 1942 and early 1943 they were taken out of active duty.<br><br>    One notable thing to mention is that the top Romanian ace, cpt. Constantin Cantacuzino, got his first four kills on this aircraft in 1941.<br><br>(article from wroldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "<br>On 2 July, the southern section of Army Group South  the Romanian 3rd and 4th Armies, alongside the German 11th Army  invaded Soviet Moldavia, which was defended by the Southern Front. Counterattacks by the Front's 2nd Mechanized Corps and 9th Army were defeated, but on 9 July the Axis advance stalled along the defenses of the Soviet 18th Army between the Prut and Dniester Rivers.<br><br><br>FT light tank<br><br>     Seventy-six Renault FT-17 tanks were obtained by Romanian-French collaboration in 1919 and equipped the first Romanian tank battalion. 48 of these tanks were armed with a Puteaux 37mm gun and 28 were armed with a Hotchkiss 8mm machine-gun. The vehicle was operated by a crew of two: the driver and the commander, the latter handling the armament in a 360 degrees rotating turret. During the inter-war period, part of the Renault FT-17 tanks were refurbished at Leonida Works and at the Arsenal of the Army in Bucharest. At the outbreak of the war in the East, the outdated FT-17 tanks, designated \"FT\", formed the independent FT Tank Battalion. They were used for security duties in important industrial and urban centres of Romania (Bucharest, Ploiesti, Sibiu, Resita) and training. They played an important role in the rapid annihilation of German forces in these centres during the insurgency of 23 August 1944. All of them were confiscated by the Soviets in February 1945.<br>                                                     <br>(article from www.worldwar2.ro )<br><br>"
+   }
+  }, 
+  "scenario": "dragrom00.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Battle for Kishinev - 14 July 1941<br><br>      The general offensive on the Prut River line for the recovery of Bassarabia and Bukovina , named Operation Munchen, was planned for 2 July. The experimented 11th german army and the romanian 3rd and 4th armies faced the  9th and 18th soviet armies.The task of liberating Kishinev was assigned to romanian 3rd corps and german 54th corps.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "    Romanian tanks entered Kishinev in the early morning hours of the 16th, taking a number of Soviet units there by surprise. By nightfall the Red Army was retreating from the city, heading toward the Dnestr River bridge at Tighina on the border between Bessarabia and Ukraine. The entire Bessarabian campaign cost Romania 22,000 casualties, against 17,000 Soviets, but at the time most of the population supported what they saw as the liberation of national territory. But on 3 August 1941 Romanian cavalrymen forced a crossing of the Dnester into the Soviet Union proper, as Antonescu acceded to Adolf Hitlers request for active Romanian participation beyond the old frontier. A new war, massive casualties and national disaster awaited. <br><br><br> R-2 light tank<br><br>     As part of the Army modernisation program started in 1935, in August 1936 126 Skoda LT vz.35 tanks were ordered from Czechoslovakia.<br>    R-2 equipped the 1st Tank Regiment of the Armoured Division during 1941-42. Acting as a shock unit, the Armoured Division achieved considerable successes in the battle for Kishinev, but at Odessa it suffered bitter losses when the R-2 tanks were used in infantry support role, their thin armour making them an easy prey even for the Soviet AT rifles.<br><br>    The Armoured Division finished rebuilding in country in August 1942 and was assigned to the 3rd Army defending the Don's Bend. During the battle of the Don's Bend, where the Soviet masses of medium and heavy tanks played havoc with the exhausted and poorly equipped Romanian troops, the Armoured Division lost 60 per cent of its combat capacity, crossing the Chir River with nineteen R-2 tanks, some towed by T-3 and T-4 tanks from lack of fuel.<br><br>   Some surviving R-2s were used by ad-hoc formed armoured detachments in 1944 (Cantemir Mixed Armoured Group on the Bessarabian front and Popescu Armoured Detachment at Ploiesti oil fields). Two R-2 tanks that escaped Soviet seizings in February 1945 were used by the 2nd Tank Regiment during the operations in Czechoslovakia and Austria.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "<br>Romanian tanks entered Kishinev in the early morning hours of the 16th, taking a number of Soviet units there by surprise. By nightfall the Red Army was retreating from the city, heading toward the Dnestr River bridge at Tighina on the border between Bessarabia and Ukraine. The entire Bessarabian campaign cost Romania 22,000 casualties, against 17,000 Soviets, but at the time most of the population supported what they saw as the liberation of national territory. But on 3 August 1941 Romanian cavalrymen forced a crossing of the Dnester into the Soviet Union proper, as Antonescu acceded to Adolf Hitlers request for active Romanian participation beyond the old frontier. A new war, massive casualties and national disaster awaited. <br><br>R-1 light tank<br><br>    On 1 April 1936 the Romanian Military accepted in service the AH IV light tank produced by Ceskomoravska Kolben Danek (CKD) factories and in August 1936 they placed an order of thirty-five vehicles. Upon delivery, the AH IV tanks (often reffered as tankettes) were modified according to the Romanian Army needs. The commander cupola was removed from the top of the turret, the armour was diminished from 15mm to a maximum thickness of 12mm and the original 60hp Praha engine was replaced with a lighter 50hp engine of the same type. The weight reduction with over half a ton also reduced the mileage and increased the maximum range on road to 160 kilometers. The vehicle, designated \"R-1\", equipped the mechanised reconnaissance squadrons of the cavalry brigades.<br><br>    In 1941-42 they saw action with the Cavalry Corps (5th, 6th and 8th Cavalry Brigades) advancing in southern Ukraine and in Caucasus, and on other fronts assigned to cavalry troops (Odessa). After the disastruos battle of Stalingrad, the Cavalry Training Centre retreated R-1 from the active service. <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Romanian tanks entered Kishinev in the early morning hours of the 16th, taking a number of Soviet units there by surprise. By nightfall the Red Army was retreating from the city, heading toward the Dnestr River bridge at Tighina on the border between Bessarabia and Ukraine. The entire Bessarabian campaign cost Romania 22,000 casualties, against 17,000 Soviets, but at the time most of the population supported what they saw as the liberation of national territory. But on 3 August 1941 Romanian cavalrymen forced a crossing of the Dnester into the Soviet Union proper, as Antonescu acceded to Adolf Hitlers request for active Romanian participation beyond the old frontier. A new war, massive casualties and national disaster awaited. <br><br><br> R-2 light tank<br><br>     As part of the Army modernisation program started in 1935, in August 1936 126 Skoda LT vz.35 tanks were ordered from Czechoslovakia.<br>    R-2 equipped the 1st Tank Regiment of the Armoured Division during 1941-42. Acting as a shock unit, the Armoured Division achieved considerable successes in the battle for Kishinev, but at Odessa it suffered bitter losses when the R-2 tanks were used in infantry support role, their thin armour making them an easy prey even for the Soviet AT rifles.<br><br>    The Armoured Division finished rebuilding in country in August 1942 and was assigned to the 3rd Army defending the Don's Bend. During the battle of the Don's Bend, where the Soviet masses of medium and heavy tanks played havoc with the exhausted and poorly equipped Romanian troops, the Armoured Division lost 60 per cent of its combat capacity, crossing the Chir River with nineteen R-2 tanks, some towed by T-3 and T-4 tanks from lack of fuel.<br><br>   Some surviving R-2s were used by ad-hoc formed armoured detachments in 1944 (Cantemir Mixed Armoured Group on the Bessarabian front and Popescu Armoured Detachment at Ploiesti oil fields). Two R-2 tanks that escaped Soviet seizings in February 1945 were used by the 2nd Tank Regiment during the operations in Czechoslovakia and Austria.<br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom01.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "   Siege of Odessa  18 August 1941<br><br>   The siege was primarily conducted by Romanian forces and elements of the German Army's (Wehrmacht Heer) 11th Army (11. Armee). Due to the heavy resistance of the 9th Independent Army (initially) and the rapidly formed Separate Coastal Army, which was formed from the Coastal Group of the 9th Army[1]), and the Black Sea Fleet forces in Odessa, it took the Romanian army 73 days of siege and four attempts to take the city, during which they suffered 93,000 casualties.<br><br>On 14 October 1941, most of the remaining forces of the Red Army were evacuated.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>The operations at Odessa highlighted significant weaknesses in the Romanian Army, leading both military and political leaders in the country to call for a discontinuation of military operations against the Soviet Union.Antonescu ignored such objections, regarding continued participation and eventual victory on the Eastern Front as necessary for the restoration of Romania's territorial integrity.<br><br>The Romanian victory at Odessa represented the most significant victory ever achieved independently by an Axis satellite.<br><br>The recapture of Bessarabia and Northern Bukovina in Operation Mnchen and the subsequent victory at Odessa led to a partial demobilization of the Romanian army, which was reduced in size from nearly 900,000 personnel on 1 October to 465,000 on 1 January 1942. Politically, the presence of Romanian troops in Odessa and the establishment of the Transnistria Governorate led to a deterioration of Romania's international situation, with the British declaring war on Romania on 6 December, and on 12 December Romania declared war on the United States in solidarity with Germany and Japan.<br><br>NMS Delfinul<br><br>At the beginning of the war (22 June 1941), the Marina Regala Romana (Romanian Royal Navy) had only one submarine: the NMS Delfinul. It had been built in Italian shipyards, at Fiume, and had been launched on 5 May 1936.<br><br>On the other side, the Soviet ChF (Chernomorsky Flot = Black Sea Fleet) had 47 submarines. But the existence of this one Romanian submarine forced the Soviet fleet divert a lot of resources to anti-submarine duties in the first two years of war. For this reason it was used very carefully, since its loss was almost irreplaceable in that period. <br><br>It was confiscated by the Soviets after 23 August 1944, but was returned to Romania after a while, damaged. It was the most successful Romanian submarine in WWII.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>The operations at Odessa highlighted significant weaknesses in the Romanian Army, leading both military and political leaders in the country to call for a discontinuation of military operations against the Soviet Union.Antonescu ignored such objections, regarding continued participation and eventual victory on the Eastern Front as necessary for the restoration of Romania's territorial integrity.<br><br>The Romanian victory at Odessa represented the most significant victory ever achieved independently by an Axis satellite.<br><br>The recapture of Bessarabia and Northern Bukovina in Operation Mnchen and the subsequent victory at Odessa led to a partial demobilization of the Romanian army, which was reduced in size from nearly 900,000 personnel on 1 October to 465,000 on 1 January 1942. Politically, the presence of Romanian troops in Odessa and the establishment of the Transnistria Governorate led to a deterioration of Romania's international situation, with the British declaring war on Romania on 6 December, and on 12 December Romania declared war on the United States in solidarity with Germany and Japan.<br><br>Malaxa tip UE<br><br>    Between the second half of 1939 and the first months of 1941, 126 Malaxa tip UE carriers have been built at Malaxa (Rogifer) factory in Bucharest, out of a planned number of 300. The carrier was a licensed version of Renault Chenillette d'Infanterie Type UE, and it was intended for towing the Schneider anti-tank guns in the anti-tank companies and for carrying the fuel and ammunition of the motorised cavalry regiments. After the invasion of France the production could not be resumed as it depended on Renault imports. During the first years of the campaign in the East many carriers were destroyed or captured by the Soviets and by 1943 the fifty surviving vehicles were retreated to depots. Thirty-three carriers were distributed to different training centres, the other seventeen being sent to Rogifer factory for repairs. Between January and March 1944, the carriers in factory were adapted to tow the German 50mm anti-tank guns, after which they were distributed to different divisions on the Moldavian front. Most of them were captured by the Soviets during the immediate period after 23 August. <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>The operations at Odessa highlighted significant weaknesses in the Romanian Army, leading both military and political leaders in the country to call for a discontinuation of military operations against the Soviet Union.Antonescu ignored such objections, regarding continued participation and eventual victory on the Eastern Front as necessary for the restoration of Romania's territorial integrity.<br><br>The Romanian victory at Odessa represented the most significant victory ever achieved independently by an Axis satellite.<br><br>The recapture of Bessarabia and Northern Bukovina in Operation Mnchen and the subsequent victory at Odessa led to a partial demobilization of the Romanian army, which was reduced in size from nearly 900,000 personnel on 1 October to 465,000 on 1 January 1942. Politically, the presence of Romanian troops in Odessa and the establishment of the Transnistria Governorate led to a deterioration of Romania's international situation, with the British declaring war on Romania on 6 December, and on 12 December Romania declared war on the United States in solidarity with Germany and Japan.<br><br>NMS Delfinul<br><br>At the beginning of the war (22 June 1941), the Marina Regala Romana (Romanian Royal Navy) had only one submarine: the NMS Delfinul. It had been built in Italian shipyards, at Fiume, and had been launched on 5 May 1936.<br><br>On the other side, the Soviet ChF (Chernomorsky Flot = Black Sea Fleet) had 47 submarines. But the existence of this one Romanian submarine forced the Soviet fleet divert a lot of resources to anti-submarine duties in the first two years of war. For this reason it was used very carefully, since its loss was almost irreplaceable in that period. <br><br>It was confiscated by the Soviets after 23 August 1944, but was returned to Romania after a while, damaged. It was the most successful Romanian submarine in WWII.<br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom02.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "    Operation \"Trappenjagd\"  May 8th, 1942.<br><br>    Battle of the Kerch Peninsula (German: Unternehmen Trappenjagd) was a World War II offensive by German and Romanian armies against the Soviet Crimean Front forces defending the Kerch Peninsula, in the eastern part of the Crimea. It was launched on May 8, 1942 and concluded around May 18, 1942 with the near complete destruction of the Soviet defending forces. The Red Army lost over 170,000 men killed [1] or taken prisoner, and three armies (44th, 47th, and 51st) with twenty-one divisions.[2] The operation was one of the battles immediately preceding the German summer offensive (Operation Blau), and its successful conclusion made it possible for the Axis to launch a successful assault on Sevastopol in the following months.<br><br>(from en.wikipedia.org ) <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Trappenjagd was a total success. The Red Army lost 162,282 soldiers (dead and prisoners), almost all the heavy weapons and equipment and 417 airplanes.<br><br>   IAR 80<br><br>   The IAR 80 was a Romanian World War II low-wing, monoplane, all-metal construction fighter aircraft. When first flew in 1938 it was competitive with most contemporary designs like the German Bf 109E, the British Hawker Hurricane and the Supermarine Spitfire. However, production problems and lack of available armament delayed entry of the IAR 80 into service until 1941. Although there were plans to replace it fairly quickly it was forced to remain in front-line use until 1944, by which point it was entirely outdated.<br><br><br>   IAR 81<br><br>   The modification of  IAR 80 as a dive bomber was seen as a reasonable response, easier than designing an entirely new aircraft  as well as having all of the obvious production benefits. The design was a rather modest change to the IAR 80A models that were then in production, adding a hinging bomb cradle under the centerline to throw a 225 kg (500 lb) bomb clear of the propeller (many dive bombers used a similar system). <br><br>(from en.wikipedia.org ) "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Operation Trappenjagd was a total success. The Red Army lost 162,282 soldiers (dead and prisoners), almost all the heavy weapons and equipment and 417 airplanes.<br><br>    S-79B <br><br>    In May 1937, an order was issued to Savoia Marchetti for 24 bombers. The Italians offered the tri-motored S.M. 79, but ARR wanted that the bombers be modified. The new airplane was designated S-79B and was powered by two Romanian-built Gnme-Rhne 14K engines.<br><br>   The airplane was much appreciated, so it was decided to buy the license to produce 36 new Savoias at IAR Brasov. However, the new bombers were also going to be fitted with the more powerful Jumo 211 Da engines. Eight of these new airplanes were ordered in Italy. They were designated JIS-79B (Jumo Italian S-79B). But they didn't arrive until August 1941.<br><br>    The only S-79B equipped unit at the beginning of Barbarossa in the ARR was the 1st Bomber Group. The first Savoias were shot down from the very first day. Because of heavy losses, in July 1941, one of the 2nd Bomber Group's squadrons, the 75th, was re-equipped with brand new JRS-79Bs (Jumo Roman S-79B). These went on to fight in the battle of Odessa together with the remnants of the 1st Bomber Group.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Operation Trappenjagd was a total success. The Red Army lost 162,282 soldiers (dead and prisoners), almost all the heavy weapons and equipment and 417 airplanes.<br><br><br>   IAR 80<br><br>   The IAR 80 was a Romanian World War II low-wing, monoplane, all-metal construction fighter aircraft. When first flew in 1938 it was competitive with most contemporary designs like the German Bf 109E, the British Hawker Hurricane and the Supermarine Spitfire. However, production problems and lack of available armament delayed entry of the IAR 80 into service until 1941. Although there were plans to replace it fairly quickly it was forced to remain in front-line use until 1944, by which point it was entirely outdated.<br><br><br>   IAR 81<br><br>   The modification of  IAR.80 as a dive bomber was seen as a reasonable response, easier than designing an entirely new aircraft as well as having all of the obvious production benefits. The design was a rather modest change to the IAR.80A models that were then in production, adding a hinging bomb cradle under the centerline to throw a 225 kg (500 lb) bomb clear of the propeller (many dive bombers used a similar system). <br><br>(from en.wikipedia.org ) "
+   }
+  }, 
+  "scenario": "dragrom03.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "      Operation \"Uranus\" - 19 November 1942<br>   <br>      Operation \"Uranus\" was the codename of the Soviet strategic operation in World War II which led to the encirclement of the German Sixth Army, Third and Fourth Romanian armies, and portions of the German Fourth Panzer Army. <br>      The Red Army took advantage of the fact that German forces in the southern Soviet Union were overstretched, using weaker Romanian and Italian armies to guard their flanks; the offensives' starting points were established along the section of the front directly opposite Romanian forces.<br>       At 07:20 (Moscow time) on 19 November Soviet forces on the northern flank of the Axis forces at Stalingrad began their offensive; forces in the south began on 20 November. Although Romanian units were able to repel the first attacks, by the end of 20 November the Third and Fourth Romanian armies were in headlong retreat.<br>(from en.wikipedia.org )<br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": " At 07:20 (Moscow time) on 19 November Soviet forces on the northern flank of the Axis forces at Stalingrad began their offensive; forces in the south began on 20 November. Although Romanian units were able to repel the first attacks, by the end of 20 November the Third and Fourth Romanian armies were in headlong retreat.<br><br><br>   T-3 medium tank.<br><br>    On 17 October 1942, awared by the poor condition of their allies facing an increasing power of the Soviet armoured force, Germany agreed to deliver twenty-two of their medium-type tanks to the Romanian Army. These included eleven Panzerkampfwagen III Ausf N, the final version of the Pzkpfw III series, produced by Daimler-Benz during 1942-43.<br> <br>    The Pzkpfw III N was of little value against heavy armoured targets, nevertheless it was far more better armoured and armed than the obsolete R-2 tank that equipped the Romanian Armoured Division by the time. The eleven Pzkpfw III tanks, designated by Romanians \"T-3\" (T being the acronim of Tank in Romanian), formed up a medium tank company in the 1st Tank Regiment.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "   8 deploy hexes in the next scenario<br>___________________________________<br><br>   T-3 medium tank.<br><br>    On 17 October 1942, awared by the poor condition of their allies facing an increasing power of the Soviet armoured force, Germany agreed to deliver twenty-two of their medium-type tanks to the Romanian Army. These included eleven Panzerkampfwagen III Ausf N, the final version of the Pzkpfw III series, produced by Daimler-Benz during 1942-43.<br> <br>    The Pzkpfw III N was of little value against heavy armoured targets, nevertheless it was far more better armoured and armed than the obsolete R-2 tank that equipped the Romanian Armoured Division by the time. The eleven Pzkpfw III tanks, designated by Romanians \"T-3\" (T being the acronim of Tank in Romanian), formed up a medium tank company in the 1st Tank Regiment.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": " At 07:20 (Moscow time) on 19 November Soviet forces on the northern flank of the Axis forces at Stalingrad began their offensive; forces in the south began on 20 November. Although Romanian units were able to repel the first attacks, by the end of 20 November the Third and Fourth Romanian armies were in headlong retreat.<br><br><br>   T-3 medium tank.<br><br>    On 17 October 1942, awared by the poor condition of their allies facing an increasing power of the Soviet armoured force, Germany agreed to deliver twenty-two of their medium-type tanks to the Romanian Army. These included eleven Panzerkampfwagen III Ausf N, the final version of the Pzkpfw III series, produced by Daimler-Benz during 1942-43.<br> <br>    The Pzkpfw III N was of little value against heavy armoured targets, nevertheless it was far more better armoured and armed than the obsolete R-2 tank that equipped the Romanian Armoured Division by the time. The eleven Pzkpfw III tanks, designated by Romanians \"T-3\" (T being the acronim of Tank in Romanian), formed up a medium tank company in the 1st Tank Regiment.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": " At 07:20 (Moscow time) on 19 November Soviet forces on the northern flank of the Axis forces at Stalingrad began their offensive; forces in the south began on 20 November. Although Romanian units were able to repel the first attacks, by the end of 20 November the Third and Fourth Romanian armies were in headlong retreat.<br><br><br>   T-3 medium tank.<br><br>    On 17 October 1942, awared by the poor condition of their allies facing an increasing power of the Soviet armoured force, Germany agreed to deliver twenty-two of their medium-type tanks to the Romanian Army. These included eleven Panzerkampfwagen III Ausf N, the final version of the Pzkpfw III series, produced by Daimler-Benz during 1942-43.<br> <br>    The Pzkpfw III N was of little value against heavy armoured targets, nevertheless it was far more better armoured and armed than the obsolete R-2 tank that equipped the Romanian Armoured Division by the time. The eleven Pzkpfw III tanks, designated by Romanians \"T-3\" (T being the acronim of Tank in Romanian), formed up a medium tank company in the 1st Tank Regiment.<br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom04.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "    Operation \"Wintergewitter\" - 12 dec 1942<br><br>    Operation \"Wintergewitter\" undertaken between 12 and 23 December 1942 aimed to create a link with the Axis troops in Stalingrad. The main blow was going to be delivered by the German 57th Panzer Corps (6th and 23rd Panzer Division - 230 tanks). On its left flank was the Romanian 6th Corps (2nd and 18th Infantry Divisions). On the right flank was the Romanian 7th Corps (1st and 4th Infantry Divisions) and the Cavalry Group \"Gen. Popescu\" (5th and 8th Cavalry Divisions). The German tanks advanced up to 50 km from Stalingrad, but were stopped.<br>    On 24 December, the Red Army counterattacked, with 149,000 men and 635 tanks, the German 57th Panzer Corps and the Romanian 4th Army. The Cavalry Group \"Gen. Popescu\" was nearly destroyed on 26 in the fights at Sharnutovsky with the Soviet 6th Mechanized Corps. The Romanian 6th Corps was pushed back by the Soviet 7th Tank Corps and 4th Cavalry Corps. On 29 December, the 57th Panzer Corps had to abandon Kotelnikovsky. The failure of Operation \"Wintergewitter\" sealed the fate of Axis troops inside Stalingrad.<br>(article from www.worldwar2.ro)<br><br>-scenario type - offensive scenario<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": " On 24 December, the Red Army counterattacked, with 149,000 men and 635 tanks, the German 57th Panzer Corps and the Romanian 4th Army. The Cavalry Group \"Gen. Popescu\" was nearly destroyed on 26 in the fights at Sharnutovsky with the Soviet 6th Mechanized Corps. The Romanian 6th Corps was pushed back by the Soviet 7th Tank Corps and 4th Cavalry Corps. On 29 December, the 57th Panzer Corps had to abandon Kotelnikovsky. The failure of Operation \"Wintergewitter\" sealed the fate of Axis troops inside Stalingrad.<br><br>   T-4 medium tank<br><br>    Panzerkampfwagen IV was designated as T-4 in Romanian Army service.<br>On 9 October 1942, 1st Tank Regiment of 1st Romanian Armored Division received 11 T-3 (Pzkpfw III N) and 11 T-4 (Pzkpfw IV G) tanks, that formed two medium tank companies. During the battle of Don's Bend, 1st Tank Regiment lost 10 of the 11 T-4 tanks.<br><br>    In early 1943, Romanian Ministry of Army Endowment and War Production placed an order of 150 T-3 and T-4 tanks and 56 self-propelled guns, quantities that had to be delivered by Germany within two years. The delivery was slow and by August 1944 only a total of 110 T-4 tanks had been received.<br><br>   Delivery included PzKpfw IV F, G, H anf J models. Some of these tanks were already worn as they were conveyed from 23rd Panzer Division. Thirty T-4 tanks serviced in the Mixed Armored Group \"Cantemir\", formed on 24 February 1944, that actioned on Moldavian front until April. Thirty-two pieces serviced in the Fast Armored Detachment, a training and intervention unit formed on March 28 1944, which also actioned on Moldavian front. Forty-eight T-4 tanks endowed 1st Regiment of 1st Armored Division. During the fights between 19 and 23 August 1944 in Moldavia, 1st Armored Division suffered heavy losses.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "   8 deploy hexes in the next scenario<br>___________________________________<br><br>    T-4 medium tank<br><br>    Panzerkampfwagen IV was designated as T-4 in Romanian Army service.<br>On 9 October 1942, 1st Tank Regiment of 1st Romanian Armored Division received 11 T-3 (Pzkpfw III N) and 11 T-4 (Pzkpfw IV G) tanks, that formed two medium tank companies. During the battle of Don's Bend, 1st Tank Regiment lost 10 of the 11 T-4 tanks.<br><br>    In early 1943, Romanian Ministry of Army Endowment and War Production placed an order of 150 T-3 and T-4 tanks and 56 self-propelled guns, quantities that had to be delivered by Germany within two years. The delivery was slow and by August 1944 only a total of 110 T-4 tanks had been received.<br><br>   Delivery included PzKpfw IV F, G, H anf J models. Some of these tanks were already worn as they were conveyed from 23rd Panzer Division. Thirty T-4 tanks serviced in the Mixed Armored Group \"Cantemir\", formed on 24 February 1944, that actioned on Moldavian front until April. Thirty-two pieces serviced in the Fast Armored Detachment, a training and intervention unit formed on March 28 1944, which also actioned on Moldavian front. Forty-eight T-4 tanks endowed 1st Regiment of 1st Armored Division. During the fights between 19 and 23 August 1944 in Moldavia, 1st Armored Division suffered heavy losses.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": " On 24 December, the Red Army counterattacked, with 149,000 men and 635 tanks, the German 57th Panzer Corps and the Romanian 4th Army. The Cavalry Group \"Gen. Popescu\" was nearly destroyed on 26 in the fights at Sharnutovsky with the Soviet 6th Mechanized Corps. The Romanian 6th Corps was pushed back by the Soviet 7th Tank Corps and 4th Cavalry Corps. On 29 December, the 57th Panzer Corps had to abandon Kotelnikovsky. The failure of Operation \"Wintergewitter\" sealed the fate of Axis troops inside Stalingrad.<br><br>    T-4 medium tank<br><br>    Panzerkampfwagen IV was designated as T-4 in Romanian Army service.<br>On 9 October 1942, 1st Tank Regiment of 1st Romanian Armored Division received 11 T-3 (Pzkpfw III N) and 11 T-4 (Pzkpfw IV G) tanks, that formed two medium tank companies. During the battle of Don's Bend, 1st Tank Regiment lost 10 of the 11 T-4 tanks.<br><br>    In early 1943, Romanian Ministry of Army Endowment and War Production placed an order of 150 T-3 and T-4 tanks and 56 self-propelled guns, quantities that had to be delivered by Germany within two years. The delivery was slow and by August 1944 only a total of 110 T-4 tanks had been received.<br><br>   Delivery included PzKpfw IV F, G, H anf J models. Some of these tanks were already worn as they were conveyed from 23rd Panzer Division. Thirty T-4 tanks serviced in the Mixed Armored Group \"Cantemir\", formed on 24 February 1944, that actioned on Moldavian front until April. Thirty-two pieces serviced in the Fast Armored Detachment, a training and intervention unit formed on March 28 1944, which also actioned on Moldavian front. Forty-eight T-4 tanks endowed 1st Regiment of 1st Armored Division. During the fights between 19 and 23 August 1944 in Moldavia, 1st Armored Division suffered heavy losses.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": " On 24 December, the Red Army counterattacked, with 149,000 men and 635 tanks, the German 57th Panzer Corps and the Romanian 4th Army. The Cavalry Group \"Gen. Popescu\" was nearly destroyed on 26 in the fights at Sharnutovsky with the Soviet 6th Mechanized Corps. The Romanian 6th Corps was pushed back by the Soviet 7th Tank Corps and 4th Cavalry Corps. On 29 December, the 57th Panzer Corps had to abandon Kotelnikovsky. The failure of Operation \"Wintergewitter\" sealed the fate of Axis troops inside Stalingrad.<br><br><br>    T-4 medium tank<br><br>    Panzerkampfwagen IV was designated as T-4 in Romanian Army service.<br>On 9 October 1942, 1st Tank Regiment of 1st Romanian Armored Division received 11 T-3 (Pzkpfw III N) and 11 T-4 (Pzkpfw IV G) tanks, that formed two medium tank companies. During the battle of Don's Bend, 1st Tank Regiment lost 10 of the 11 T-4 tanks.<br><br>    In early 1943, Romanian Ministry of Army Endowment and War Production placed an order of 150 T-3 and T-4 tanks and 56 self-propelled guns, quantities that had to be delivered by Germany within two years. The delivery was slow and by August 1944 only a total of 110 T-4 tanks had been received.<br><br>   Delivery included PzKpfw IV F, G, H anf J models. Some of these tanks were already worn as they were conveyed from 23rd Panzer Division. Thirty T-4 tanks serviced in the Mixed Armored Group \"Cantemir\", formed on 24 February 1944, that actioned on Moldavian front until April. Thirty-two pieces serviced in the Fast Armored Detachment, a training and intervention unit formed on March 28 1944, which also actioned on Moldavian front. Forty-eight T-4 tanks endowed 1st Regiment of 1st Armored Division. During the fights between 19 and 23 August 1944 in Moldavia, 1st Armored Division suffered heavy losses.<br><br>(from www.worldwar2.ro)  "
+   }
+  }, 
+  "scenario": "dragrom05.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "   Taman Bridgehead : Krymskaya  - 19 April 1943<br><br>   Following the Soviet offensive near Stalingrad in November 1942, the supply lines of the Axis forces in the Caucasus were threatened. Thus a general retreat was ordered. The 1st Panzer Army pulled back towards Rostov, while the 17th Army, to which the bulk of the Romanian forces were assigned, towards the Taman Peninsula.<br>   The first Soviet offensive against the Taman bridgehead took place between 25 February and 12 March 1943. The 17th Army generally managed to hold the line and repulse the assaults. The second Soviet offensive started on 25 March while the third from  the second half of April.<br><br>(from worldwar2.ro) <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "     TACAM T-60 tank-destroyer<br><br>     Following the campaign of 1941 Romanians realised that they lack anti-tank weapons effective against Soviet medium and heavy tanks.<br>      By the end of 1942 there was available a large amount of captured material, including 175 tanks and 154 artillery pieces. Having these resources at his disposal, Lieutenant-Colonel Constantin Ghiulai was charged to design a self-propelled anti-tank gun. <br>For the chassis he chose the T-60 Soviet light tank as being accessible to the Romanian industry. The engine of vehicle was GAZ 202, licensed Dodge-Derretto-Fargo FH2, for which there were enough spare parts in Romania and Germany. The main armament was the Soviet 76.2mm F-22 field gun model 1939. The crew-protecting shield was made of 15mm armour plates salvaged from BT-7 tanks. On 12 January 1943 the prototype was completed .<br>     Sixteen TACAM T-60 were distributed to the 1st Tank Regiment and formed the 61st Tank-destroyer Company and eighteen TACAM T-60 were distributed to the 2nd Tank Regiment where they formed the 62nd Tank-destroyer Company. They saw action on the Bessarabian and Moldavian front from February to August 1944. The Soviets confiscated the surviving TACAM T-60s in October 1944. <br><br>(from www.worldwar2.ro)  "
+   }, 
+   "lose": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "  9 deploy hexes in the next scenario<br>___________________________________<br><br>'Vanatorul de care R-35' (R-35 tank destroyer) <br><br>    After the disastrous results of the battle of Stalingrad, suggestions were made to modernise the existing R-35 tanks, either by replacing the original turret with the one of the Soviet T-26 light tank or replacing the main gun with a Soviet 45mm or Schneider 47mm anti-tank gun. In December 1942 it has been decided that the research should focus on replacing the original 37mm gun with the Soviet 45mm gun salvaged from captured BT-7 and T-26 tanks.<br>    The prototype was ready at the end of February 1943 and after it was tested in the summer of 1943, the Mechanised Troops Command ordered the conversion of thirty R-35 tanks.<br>    The R-35 tank destroyers were used together with the R-35 tanks in the campaign in Czechoslovakia and Austria, all being lost by the end of the war.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "'Vanatorul de care R-35' (R-35 tank destroyer) <br><br>    After the disastrous results of the battle of Stalingrad, suggestions were made to modernise the existing R-35 tanks, either by replacing the original turret with the one of the Soviet T-26 light tank or replacing the main gun with a Soviet 45mm or Schneider 47mm anti-tank gun. In December 1942 it has been decided that the research should focus on replacing the original 37mm gun with the Soviet 45mm gun salvaged from captured BT-7 and T-26 tanks.<br>    The prototype was ready at the end of February 1943 and after it was tested in the summer of 1943, the Mechanised Troops Command ordered the conversion of thirty R-35 tanks.<br>    The R-35 tank destroyers were used together with the R-35 tanks in the campaign in Czechoslovakia and Austria, all being lost by the end of the war.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "     TACAM T-60 tank-destroyer<br><br>     Following the campaign of 1941 Romanians realised that they lack anti-tank weapons effective against Soviet medium and heavy tanks.<br>      By the end of 1942 there was available a large amount of captured material, including 175 tanks and 154 artillery pieces. Having these resources at his disposal, Lieutenant - Colonel Constantin Ghiulai was charged to design a self-propelled anti-tank gun. <br>For the chassis he chose the T-60 Soviet light tank as being accessible to the Romanian industry. The engine of vehicle was GAZ 202, licensed Dodge-Derretto-Fargo FH2, for which there were enough spare parts in Romania and Germany. The main armament was the Soviet 76.2mm F-22 field gun model 1939. The crew-protecting shield was made of 15mm armour plates salvaged from BT-7 tanks. On 12 January 1943 the prototype was completed .<br>     Sixteen TACAM T-60 were distributed to the 1st Tank Regiment and formed the 61st Tank-destroyer Company and eighteen TACAM T-60 were distributed to the 2nd Tank Regiment where they formed the 62nd Tank-destroyer Company. They saw action on the Bessarabian and Moldavian front from February to August 1944. The Soviets confiscated the surviving TACAM T-60s in October 1944. <br><br>(from www.worldwar2.ro)  "
+   }
+  }, 
+  "scenario": "dragrom06.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "     Taman Bridgehead : Evacuation - 21 Sep 1943<br><br>      Despite the superiority of soviet forces the battle for Taman Peninsula was fought on German's OKH terms which decided the moments of withdrawal on defensive lines and also the time for the evacuation.  The decision to evacuate was not a result of defeats in Taman but because of unfavorable unfolding operations to the north of Azov Sea .<br>      The evacuation operations, started in mid september, surprised at first the soviet forces which after 22 Sep managed to organize efforts to disrupt the retreat with landings in the rear of the defensive lines both on Black Sea and Azov Sea coastline.<br><br><br>       ", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "    T-38 light tank<br><br>    Between May and June 1943 Germany delivered to Romanian troops in Kuban fifty worn Panzerkampfwagen 38(t). <br>     The tanks were little superior to R-2 and still vulnerable to all Soviet anti-tank guns and AT rifles. They received designation \"T-38\" and formed the T-38 Tank Battalion in the organic of the 2nd Tank Regiment, with the 51st, 52nd and 53rd companies of fifteen T-38s each.<br>     They took part in the defensive battles of Kuban and Crimea.  Starting from November 1943 the T-38s of the 51st and 52nd companies were evacuated to Romania. However, in April 1944 there were still ten T-38s of the 53rd Tank Company in support of the 10th Infantry Division in Crimea. Many have been lost in these operations and in August 1944 the 2nd Tank Regiment could hardly set up a company of 9 T-38 tanks. They participated in the fights around Bucharest and at Ploiesti oil fields, and from March 1945 in the forcing of rivers Hron, Nitra, Vah, Morava in Czechoslovakia and then into Austria.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "lose": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "  4 deploy hexes in the next scenario<br>___________________________________"
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "    T-38 light tank<br><br>    Between May and June 1943 Germany delivered to Romanian troops in Kuban fifty worn Panzerkampfwagen 38(t). <br>     The tanks were little superior to R-2 and still vulnerable to all Soviet anti-tank guns and AT rifles. They received designation \"T-38\" and formed the T-38 Tank Battalion in the organic of the 2nd Tank Regiment, with the 51st, 52nd and 53rd companies of fifteen T-38s each.<br>     They took part in the defensive battles of Kuban and Crimea.  Starting from November 1943 the T-38s of the 51st and 52nd companies were evacuated to Romania. However, in April 1944 there were still ten T-38s of the 53rd Tank Company in support of the 10th Infantry Division in Crimea. Many have been lost in these operations and in August 1944 the 2nd Tank Regiment could hardly set up a company of 9 T-38 tanks. They participated in the fights around Bucharest and at Ploiesti oil fields, and from March 1945 in the forcing of rivers Hron, Nitra, Vah, Morava in Czechoslovakia and then into Austria.<br><br>(from www.worldwar2.ro)  "
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "    T-38 light tank<br><br>    Between May and June 1943 Germany delivered to Romanian troops in Kuban fifty worn Panzerkampfwagen 38(t). <br>     The tanks were little superior to R-2 and still vulnerable to all Soviet anti-tank guns and AT rifles. They received designation \"T-38\" and formed the T-38 Tank Battalion in the organic of the 2nd Tank Regiment, with the 51st, 52nd and 53rd companies of fifteen T-38s each.<br>     They took part in the defensive battles of Kuban and Crimea.  Starting from November 1943 the T-38s of the 51st and 52nd companies were evacuated to Romania. However, in April 1944 there were still ten T-38s of the 53rd Tank Company in support of the 10th Infantry Division in Crimea. Many have been lost in these operations and in August 1944 the 2nd Tank Regiment could hardly set up a company of 9 T-38 tanks. They participated in the fights around Bucharest and at Ploiesti oil fields, and from March 1945 in the forcing of rivers Hron, Nitra, Vah, Morava in Czechoslovakia and then into Austria.<br><br>(from www.worldwar2.ro)  "
+   }
+  }, 
+  "scenario": "dragrom07.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "     Crimean Partisans - 27 December 1943<br><br>      An important problem for the defenders of Crimea were the large partisan formations in the Yaila Mountains, which in November 1943 were estimated to be about 7-8,000 men strong. After the Red Army had reached the Perekop Isthmus, they intensified their actions, which until then had been pretty rare and involved small groups. They became so troublesome that the Romanian Mountain Corps was ordered to clear the main partisan group, 20 km east of Simferopol. The operation took place between 29 December and 4 January. <br><br>(from www.worldwar2.ro)", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Partisans proved to be quite a problem. The 1st Mountain Brigade also fought them between 6 and 18 november, before it was sent to take part in the assault on Sevastopol, but did not manage to wipe them out. However, by 15 December, the 4th mountain brigade managed to secure most of communication routes and to destroy the partisan nests, despite the terrible winter conditions.<br><br><br>     TAs assault gun <br><br>     Between November 1943 and August 1944 Germany delivered 108 Sturmgeschutz III Ausf G that were distributed to the 1st Armoured Division, the 8th Motorised Cavalry Division and the Armoured Detachment of the 4th Army, under the designation \"TAs\" (Tun de Asalt, Assault Gun). <br>     The assault guns of the 1st Armoured Division saw action during the battle of Moldavia and the Iassy-Khisinev operation, but those of the 8th Cavalry never saw action as they were seized by the Germans on 22 August and formed the Braun Armoured Detachment. Most of the armoured vehicles of the 1st Armoured Division, including assault guns, were captured by the Soviets during 23-28 August, in spite of the fact that Romanian troops have ceased hostilities. The remaining TAs were used against Germans in the liberation of Romanian territory and with the 2nd Tank Regiment in the operations in Czechoslovakia and Austria. <br><br>(from www.worldwar2.ro)  "
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Partisans proved to be quite a problem. The 1st Mountain Brigade also fought them between 6 and 18 november, before it was sent to take part in the assault on Sevastopol, but did not manage to wipe them out. However, by 15 December, the 4th mountain brigade managed to secure most of communication routes and to destroy the partisan nests, despite the terrible winter conditions.<br><br>  TAs assault gun <br><br>     Between November 1943 and August 1944 Germany delivered 108 Sturmgeschutz III Ausf G that were distributed to the 1st Armoured Division, the 8th Motorised Cavalry Division and the Armoured Detachment of the 4th Army, under the designation \"TAs\" (Tun de Asalt, Assault Gun). <br>     The assault guns of the 1st Armoured Division saw action during the battle of Moldavia and the Iassy-Khisinev operation, but those of the 8th Cavalry never saw action as they were seized by the Germans on 22 August and formed the Braun Armoured Detachment. Most of the armoured vehicles of the 1st Armoured Division, including assault guns, were captured by the Soviets during 23-28 August, in spite of the fact that Romanian troops have ceased hostilities. The remaining TAs were used against Germans in the liberation of Romanian territory and with the 2nd Tank Regiment in the operations in Czechoslovakia and Austria. <br><br>(from www.worldwar2.ro)  "
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Partisans proved to be quite a problem. The 1st Mountain Brigade also fought them between 6 and 18 november, before it was sent to take part in the assault on Sevastopol, but did not manage to wipe them out. However, by 15 December, the 4th mountain brigade managed to secure most of communication routes and to destroy the partisan nests, despite the terrible winter conditions.<br><br>     TAs assault gun <br><br>     Between November 1943 and August 1944 Germany delivered 108 Sturmgeschutz III Ausf G that were distributed to the 1st Armoured Division, the 8th Motorised Cavalry Division and the Armoured Detachment of the 4th Army, under the designation \"TAs\" (Tun de Asalt, Assault Gun). <br>     The assault guns of the 1st Armoured Division saw action during the battle of Moldavia and the Iassy-Khisinev operation, but those of the 8th Cavalry never saw action as they were seized by the Germans on 22 August and formed the Braun Armoured Detachment. Most of the armoured vehicles of the 1st Armoured Division, including assault guns, were captured by the Soviets during 23-28 August, in spite of the fact that Romanian troops have ceased hostilities. The remaining TAs were used against Germans in the liberation of Romanian territory and with the 2nd Tank Regiment in the operations in Czechoslovakia and Austria. <br><br>(from www.worldwar2.ro)  "
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Partisans proved to be quite a problem. The 1st Mountain Brigade also fought them between 6 and 18 november, before it was sent to take part in the assault on Sevastopol, but did not manage to wipe them out. However, by 15 December, the 4th mountain brigade managed to secure most of communication routes and to destroy the partisan nests, despite the terrible winter conditions.<br><br><br>     TAs assault gun <br><br>     Between November 1943 and August 1944 Germany delivered 108 Sturmgeschutz III Ausf G that were distributed to the 1st Armoured Division, the 8th Motorised Cavalry Division and the Armoured Detachment of the 4th Army, under the designation \"TAs\" (Tun de Asalt, Assault Gun). <br>     The assault guns of the 1st Armoured Division saw action during the battle of Moldavia and the Iassy-Khisinev operation, but those of the 8th Cavalry never saw action as they were seized by the Germans on 22 August and formed the Braun Armoured Detachment. Most of the armoured vehicles of the 1st Armoured Division, including assault guns, were captured by the Soviets during 23-28 August, in spite of the fact that Romanian troops have ceased hostilities. The remaining TAs were used against Germans in the liberation of Romanian territory and with the 2nd Tank Regiment in the operations in Czechoslovakia and Austria. <br><br>(from www.worldwar2.ro)  "
+   }
+  }, 
+  "scenario": "dragrom08.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "      Defence of Sevastopol - 26 April 1944<br><br>     The Crimean Offensive (8 April 1944 - 12 May 1944) was a series of offensives by the Red Army in the effort to liberate Crimea from the German Wehrmacht occupation. The Red Army's 4th Ukrainian Front engaged German 17. Armee of Army Group South, which consisted of German and Romanian formations, in an operation to liberate the Crimean peninsula. <br>      Soviet landings across the Kerch Strait and in the north-eastern sector of the Crimea near Sivash at the end of 1943, together with an attack at the Perekop Isthmus forced 17. Armee back towards Sevastopol from 10 April 1944. The OKW intended to hold Sevastopol as a fortress, as the Red Army had done during the first battle for the Crimea in 1941/42. The rapid movement of the Red Army together with inadequate preparation of the defences of Sevastopol made this impossible, and on 9 May 1944, not even one month after the start of the battle, Sevastopol fell.<br>(from en.wikipedia.org )                                                          ", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": " The 3rd Mountain Division was attacked in its positions at Nikolaevka on 9 May by Soviet infantry and tanks. After repeated assaults it was forced to also pull back towards the bridgehead at Kherson. Thus, during the night, the remains of the German divisions overlapped the Romanian vanatori de munte already in position. About 200-300 German soldiers, carrying only light armament, were distributed to each mountain battalion. The general command was assumed by the CO of the German 49th Corps, because the fresh CO of the 17th Army, general Karl Allmendinger, had already been.<br><br>On 10 May, the bridgehead were incessantly bombarded by Soviet artillery and by VVS aircraft. There was an attack in the sector of the 1st, 3rd and 9th Mountain Battalions, which resisted stubbornly and managed to separate the infantry from the tanks and destroy those that had entered their positions. The same day were evacuated the commands of the Romanian Mountain Corps and of the 3rd Mountain Division. On 11 May, the 1st, 3rd and 9th Battalions repulsed a new Soviet attack, destroying 6 tanks. At 1700 hours the troops in the Kherson positions had to break contact and at 2300 hours they had to be loaded onto the ships. Unfortunately, the majority of the troops couldn't be evacuated, because the ships weren't able to approach the beaches because of the powerful Soviet artillery fire. Only the command of the1st Mountain Division and of the 5th Mountain Group escaped.<br><br>In total 92 officers, 103 NCOs and 2,561 soldiers of the 1st and 2nd Mountain Divisions remained at Kherson. The resistance ceased on 12 May at 0800 hours. 15,078 Romanians, 28,992 Germans, 346 Russian volunteers, 52 POWs and 3,367 civilians were evacuated. During transport about 11,000 died, of which 4,000 were Romanians.<br><br> TACAM R-2 tank destroyer<br><br>    The stringent need for modernising the Romanian armoured force made the specialists of the Ministry of Army Endowment and War Production to study the possibility of upgrading the R-2 tank in early 1943.<br>     It was accepted to convert the vehicle into a self-propelled gun by using the captured 76.2mm artillery pieces and armour plates of the captured T-26 and T-60 tanks.<br>    On 12 February 1944 the military officials decided that forty R-2 tanks to be converted in TACAMs. On July 22nd 1944 the High Command of Motomechanized Troops suspended the production of the last twenty TACAMs, resulting a total of twenty-one produced together with the prototype. In July 1944, the TACAM R-2s were distributed to the 1st Tank Regiment were they formed the 63th Tank-destroyer Company. They were used in the liberation of Romanian territory, by September 1944 only six serviceable TACAM R-2s remaining. After the 1st Tank Regiment was disbanded at Soviet order, the six TACAMs entered the composition of the 2nd Tank Regiment and took part in the operations in Austria and Moravia, at the end of the war only one surviving. <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": " The 3rd Mountain Division was attacked in its positions at Nikolaevka on 9 May by Soviet infantry and tanks. After repeated assaults it was forced to also pull back towards the bridgehead at Kherson. Thus, during the night, the remains of the German divisions overlapped the Romanian vanatori de munte already in position. About 200-300 German soldiers, carrying only light armament, were distributed to each mountain battalion. The general command was assumed by the CO of the German 49th Corps, because the fresh CO of the 17th Army, general Karl Allmendinger, had already been.<br><br>On 10 May, the bridgehead were incessantly bombarded by Soviet artillery and by VVS aircraft. There was an attack in the sector of the 1st, 3rd and 9th Mountain Battalions, which resisted stubbornly and managed to separate the infantry from the tanks and destroy those that had entered their positions. The same day were evacuated the commands of the Romanian Mountain Corps and of the 3rd Mountain Division. On 11 May, the 1st, 3rd and 9th Battalions repulsed a new Soviet attack, destroying 6 tanks. At 1700 hours the troops in the Kherson positions had to break contact and at 2300 hours they had to be loaded onto the ships. Unfortunately, the majority of the troops couldn't be evacuated, because the ships weren't able to approach the beaches because of the powerful Soviet artillery fire. Only the command of the1st Mountain Division and of the 5th Mountain Group escaped.<br><br>In total 92 officers, 103 NCOs and 2,561 soldiers of the 1st and 2nd Mountain Divisions remained at Kherson. The resistance ceased on 12 May at 0800 hours. 15,078 Romanians, 28,992 Germans, 346 Russian volunteers, 52 POWs and 3,367 civilians were evacuated. During transport about 11,000 died, of which 4,000 were Romanians.<br><br><br>    TACAM R-2 tank destroyer<br><br>    The stringent need for modernising the Romanian armoured force made the specialists of the Ministry of Army Endowment and War Production to study the possibility of upgrading the R-2 tank in early 1943.<br>     It was accepted to convert the vehicle into a self-propelled gun by using the captured 76.2mm artillery pieces and armour plates of the captured T-26 and T-60 tanks.<br>    On 12 February 1944 the military officials decided that forty R-2 tanks to be converted in TACAMs. On July 22nd 1944 the High Command of Motomechanized Troops suspended the production of the last twenty TACAMs, resulting a total of twenty-one produced together with the prototype. In July 1944, the TACAM R-2s were distributed to the 1st Tank Regiment were they formed the 63th Tank-destroyer Company. They were used in the liberation of Romanian territory, by September 1944 only six serviceable TACAM R-2s remaining. After the 1st Tank Regiment was disbanded at Soviet order, the six TACAMs entered the composition of the 2nd Tank Regiment and took part in the operations in Austria and Moravia, at the end of the war only one surviving. <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": " The 3rd Mountain Division was attacked in its positions at Nikolaevka on 9 May by Soviet infantry and tanks. After repeated assaults it was forced to also pull back towards the bridgehead at Kherson. Thus, during the night, the remains of the German divisions overlapped the Romanian vanatori de munte already in position. About 200-300 German soldiers, carrying only light armament, were distributed to each mountain battalion. The general command was assumed by the CO of the German 49th Corps, because the fresh CO of the 17th Army, general Karl Allmendinger, had already been.<br><br>On 10 May, the bridgehead were incessantly bombarded by Soviet artillery and by VVS aircraft. There was an attack in the sector of the 1st, 3rd and 9th Mountain Battalions, which resisted stubbornly and managed to separate the infantry from the tanks and destroy those that had entered their positions. The same day were evacuated the commands of the Romanian Mountain Corps and of the 3rd Mountain Division. On 11 May, the 1st, 3rd and 9th Battalions repulsed a new Soviet attack, destroying 6 tanks. At 1700 hours the troops in the Kherson positions had to break contact and at 2300 hours they had to be loaded onto the ships. Unfortunately, the majority of the troops couldn't be evacuated, because the ships weren't able to approach the beaches because of the powerful Soviet artillery fire. Only the command of the1st Mountain Division and of the 5th Mountain Group escaped.<br><br>In total 92 officers, 103 NCOs and 2,561 soldiers of the 1st and 2nd Mountain Divisions remained at Kherson. The resistance ceased on 12 May at 0800 hours. 15,078 Romanians, 28,992 Germans, 346 Russian volunteers, 52 POWs and 3,367 civilians were evacuated. During transport about 11,000 died, of which 4,000 were Romanians.<br><br>    TACAM R-2 tank destroyer<br><br>    The stringent need for modernising the Romanian armoured force made the specialists of the Ministry of Army Endowment and War Production to study the possibility of upgrading the R-2 tank in early 1943.<br>     It was accepted to convert the vehicle into a self-propelled gun by using the captured 76.2mm artillery pieces and armour plates of the captured T-26 and T-60 tanks.<br>    On 12 February 1944 the military officials decided that forty R-2 tanks to be converted in TACAMs. On July 22nd 1944 the High Command of Motomechanized Troops suspended the production of the last twenty TACAMs, resulting a total of twenty-one produced together with the prototype. In July 1944, the TACAM R-2s were distributed to the 1st Tank Regiment were they formed the 63th Tank-destroyer Company. They were used in the liberation of Romanian territory, by September 1944 only six serviceable TACAM R-2s remaining. After the 1st Tank Regiment was disbanded at Soviet order, the six TACAMs entered the composition of the 2nd Tank Regiment and took part in the operations in Austria and Moravia, at the end of the war only one surviving. <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": " The 3rd Mountain Division was attacked in its positions at Nikolaevka on 9 May by Soviet infantry and tanks. After repeated assaults it was forced to also pull back towards the bridgehead at Kherson. Thus, during the night, the remains of the German divisions overlapped the Romanian vanatori de munte already in position. About 200-300 German soldiers, carrying only light armament, were distributed to each mountain battalion. The general command was assumed by the CO of the German 49th Corps, because the fresh CO of the 17th Army, general Karl Allmendinger, had already been.<br><br>On 10 May, the bridgehead were incessantly bombarded by Soviet artillery and by VVS aircraft. There was an attack in the sector of the 1st, 3rd and 9th Mountain Battalions, which resisted stubbornly and managed to separate the infantry from the tanks and destroy those that had entered their positions. The same day were evacuated the commands of the Romanian Mountain Corps and of the 3rd Mountain Division. On 11 May, the 1st, 3rd and 9th Battalions repulsed a new Soviet attack, destroying 6 tanks. At 1700 hours the troops in the Kherson positions had to break contact and at 2300 hours they had to be loaded onto the ships. Unfortunately, the majority of the troops couldn't be evacuated, because the ships weren't able to approach the beaches because of the powerful Soviet artillery fire. Only the command of the1st Mountain Division and of the 5th Mountain Group escaped.<br><br>In total 92 officers, 103 NCOs and 2,561 soldiers of the 1st and 2nd Mountain Divisions remained at Kherson. The resistance ceased on 12 May at 0800 hours. 15,078 Romanians, 28,992 Germans, 346 Russian volunteers, 52 POWs and 3,367 civilians were evacuated. During transport about 11,000 died, of which 4,000 were Romanians.<br><br> TACAM R-2 tank destroyer<br><br>    The stringent need for modernising the Romanian armoured force made the specialists of the Ministry of Army Endowment and War Production to study the possibility of upgrading the R-2 tank in early 1943.<br>     It was accepted to convert the vehicle into a self-propelled gun by using the captured 76.2mm artillery pieces and armour plates of the captured T-26 and T-60 tanks.<br>    On 12 February 1944 the military officials decided that forty R-2 tanks to be converted in TACAMs. On July 22nd 1944 the High Command of Motomechanized Troops suspended the production of the last twenty TACAMs, resulting a total of twenty-one produced together with the prototype. In July 1944, the TACAM R-2s were distributed to the 1st Tank Regiment were they formed the 63th Tank-destroyer Company. They were used in the liberation of Romanian territory, by September 1944 only six serviceable TACAM R-2s remaining. After the 1st Tank Regiment was disbanded at Soviet order, the six TACAMs entered the composition of the 2nd Tank Regiment and took part in the operations in Austria and Moravia, at the end of the war only one surviving. <br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom09.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "There are only two choices :<br><br>1. Take a Brilliant Victory for Jassy-Kishinev Offensive : Jassy<br><br>This is a harder, more difficult scenario which only has 10 deploy hexes.<br>A TV is possible but a loss is acceptabe too. <br><br><br>2.  Take a Victory or Tactical Victory for Jassy-Kishinev Offensive : Defence on Dniester<br>This is an easier scenario and has 11 deploy hexes. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You will be transfered to  Jassy-Kishinev Offensive : Jassy operations"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "You will be transfered to  Jassy-Kishinev Offensive : Defence on Dniester operations"
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "You will be transfered to  Jassy-Kishinev Offensive : Defence on Dniester operations"
+   }
+  }, 
+  "scenario": "dragrom10.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "     Jassy-Kishinev Offensive : Jassy - 20 August 1944<br><br>     The Jassy-Kishinev Operation, named after the two major cities (Iasi and Chisinau) that define its staging area, was a Soviet offensive against Axis forces, which took place in Eastern Romania during 20-29 August 1944. The 2nd and 3rd Ukrainian Fronts of the Red Army engaged Army Group South Ukraine, which consisted of combined German and Romanian formations, in an operation to reclaim the Moldavian SSR and destroy the Axis forces in the region, opening a way into Romania and the Balkans.<br><br>     The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br>    Important Hint : Defend and hold on to city Iasi (Jassy ) for at least 4 turns. Afterwards a retreat is possible. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal."
+   }, 
+   "lose": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal.<br>(article from www.worldwar2.ro)"
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal.<br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal."
+   }
+  }, 
+  "scenario": "dragrom11.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "       Jassy-Kishinev Offensive : Defence on Dniester - 19 August 1944<br><br>      The Jassy-Kishinev Operation, named after the two major cities (Iasi and Chisinau) that define its staging area, was a Soviet offensive against Axis forces, which took place in Eastern Romania during 20-29 August 1944. The 2nd and 3rd Ukrainian Fronts of the Red Army engaged Army Group South Ukraine, which consisted of combined German and Romanian formations, in an operation to reclaim the Moldavian SSR and destroy the Axis forces in the region, opening a way into Romania and the Balkans.<br><br>      The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "      The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal."
+   }, 
+   "lose": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "      The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal.<br>(article from www.worldwar2.ro)"
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "      The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal.<br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "      The offensive resulted in the encirclement and complete decimation of defending German forces, allowing the Soviet Army to resume its strategic advance further into Eastern Europe. It also forced Romania to switch allegiance from the Axis powers to the Soviet Union.<br><br><br>      Maresal tank destroyer<br><br>      In parallel with the conversion of captured tanks, research started in December 1942 for development of a Romanian tank-destroyer. The solution of Marshal Ion Antonescu was the construction of a light, highly mobile and powerful armed vehicle that Romanian industry could handle alone.<br>      The research team made of Major Nicolae Anghel and Captain Gheorghe Sambotin had to develop an unique vehicle having at its disposal components of local or captured material. With the help of engineer Constantin Ghiulai, they started by mounting the 122mm Putilov-Obuhov howitzer model 1904/30 and a coaxial 7.92mm ZB machine-gun on a modified T-60 chassis. The upper structure was made of four sloped armour plates 20-30mm thick that was giving vehicle a turtle shape. The resulting prototype was nicknamed Maresal (marshal).<br>       The events following 23 August 1944 led to the cancellation of production on 29 August. However, it has been decided the resuming of trials with the M-05 and the finishing of the first series of ten vehicles. Invoking the terms of armistice, on 26 October the Soviets confiscated the prototypes, the first series that was almost completed and everything related to the Maresal."
+   }
+  }, 
+  "scenario": "dragrom12.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "    Liberation of Carei-Satu Mare area - 22 October 1944<br><br>     On the political level, the Soviet Offensive on the Yassy-Kishinev line triggered King Michael's coup d'etat in Romania, and the switch of Romania from the Axis to the Allies. Almost immediately, a small border war between Romania and Germany's ally Hungary erupted over territory that Romania was forced to cede to Hungary in 1940, as a result of the Second Vienna Award.<br><br>      In late october begun the offensive for liberation of last major cities of  the territory of Northern Transylvania : Carei and Satu Mare  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>    AB armored cars<br><br>    On 12 December 1942 the Reconnaissance Group of the 1st Armored Division received a company of German armored cars SdKfz 222 (10 pieces), with the designation AB.<br>     In September 1943, the German Army offered as logistic support to Romanian Army eight AB 41 armored cars, former belonging to the Italian expeditionary corps in Russia. <br>More armored cars were imported from Germany as part of the armament delivery program that took place between November 1943 - August 1944. <br>     At the moment of the Soviet offensive of 19 August 1944 on Moldavian front, the 1st Armored Division had 12 armored cars. <br>     The 2nd Tank Regiment, the last formation of the 1st Armored Division operational at the end of the war, had one reconnaissance company made of eight armored cars and five SPWs.  <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>    AB armored cars<br><br>    On 12 December 1942 the Reconnaissance Group of the 1st Armored Division received a company of German armored cars SdKfz 222 (10 pieces), with the designation AB.<br>     In September 1943, the German Army offered as logistic support to Romanian Army eight AB 41 armored cars, former belonging to the Italian expeditionary corps in Russia. <br>More armored cars were imported from Germany as part of the armament delivery program that took place between November 1943 - August 1944. <br>     At the moment of the Soviet offensive of 19 August 1944 on Moldavian front, the 1st Armored Division had 12 armored cars. <br>     The 2nd Tank Regiment, the last formation of the 1st Armored Division operational at the end of the war, had one reconnaissance company made of eight armored cars and five SPWs.  <br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "<br>    AB armored cars<br><br>    On 12 December 1942 the Reconnaissance Group of the 1st Armored Division received a company of German armored cars SdKfz 222 (10 pieces), with the designation AB.<br>     In September 1943, the German Army offered as logistic support to Romanian Army eight AB 41 armored cars, former belonging to the Italian expeditionary corps in Russia. <br>More armored cars were imported from Germany as part of the armament delivery program that took place between November 1943 - August 1944. <br>     At the moment of the Soviet offensive of 19 August 1944 on Moldavian front, the 1st Armored Division had 12 armored cars. <br>     The 2nd Tank Regiment, the last formation of the 1st Armored Division operational at the end of the war, had one reconnaissance company made of eight armored cars and five SPWs.  <br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom13.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "    The Siege of (Buda)Pest  -  1 Jan. 1945<br><br>    The Siege of Budapest was a siege of the Hungarian capital city of Budapest, fought towards the end of World War II in Europe, during the Soviet Budapest Offensive. <br>    The siege started when Budapest, defended by Hungarian and German troops, was first encircled on 29 December 1944 by the Red Army and the Romanian Army.The Soviet forces besieging the city were part of Rodion Malinovsky's 2nd Ukrainian Front. Arrayed against the Soviets was a collection of German Army (Wehrmacht Heer), Waffen-SS, and Hungarian Army (Honvdsg) forces.<br><br>     The Siege of Budapest was one of the bloodiest sieges of World War II and it ended when the city was unconditionally surrendered on 13 February 1945. <br><br>(from en.wikipedia.org )<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "The remaining defenders finally surrendered 13 February 1945. German and Hungarian military losses were high, with entire divisions having been eliminated. The Germans lost all or most of the 13th Panzer Division, 60th Panzergrenadier Division Feldherrnhalle, 8th SS Cavalry Division Florian Geyer and the 22nd SS Volunteer Cavalry Division Maria Theresa. The Hungarian I Corps was virtually annihilated, as well as the 10th and 12th Infantry Divisions and the 1st Armored Division.<br><br>Budapest lay in ruins, with more than 80 percent of its buildings destroyed or damaged, with historical buildings like the Hungarian Parliament Building and the Castle among them. All seven bridges spanning the Danube were destroyed. <br><br>    Bf-109G2/4/6 \"Gustav\"<br><br>    The Bf-109G entered ARR service March 1943. The first unit to be equipped with it was the 7th Fighter Group. This unit had previously flown the Bf-109E and received the new airplanes directly on the front, when it was part of JG 3 Udet. <br>     The first mission flown by a Romanian Bf-109G was on 29 March. The first combat casualty occurred the same day, as did the first victory in a Gustav. The Group enjoyed a lot of victories until late October 1943, when it was replaced by the 9th Fighter Group, which took over its airplanes and a part of its most experimented pilots.<br>     By summer 1944, the 7th Fighter Group was partially re-equipped with Bf-109Gs and joined the 9th Fighter Group in the fights against the VVS and the USAAF. After 23 August 1944, the two groups were brought in to defend the capital against German air raids and shot down a part of the Luftwaffe bombers and transports.<br>      The Romanian Bf-109Gs remained in front line service until the end of the war and even managed to score a kill against a Bf-109K, the last and best model of this legendary airplane.<br>The majority of Romanian aces achieved their victories with the Gustav. They all spoke very highly of it. Lt. av. Teodor Greceanu (20 victories) once said \"it fit him like a glove\". <br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "The remaining defenders finally surrendered 13 February 1945. German and Hungarian military losses were high, with entire divisions having been eliminated. The Germans lost all or most of the 13th Panzer Division, 60th Panzergrenadier Division Feldherrnhalle, 8th SS Cavalry Division Florian Geyer and the 22nd SS Volunteer Cavalry Division Maria Theresa. The Hungarian I Corps was virtually annihilated, as well as the 10th and 12th Infantry Divisions and the 1st Armored Division.<br><br>Budapest lay in ruins, with more than 80 percent of its buildings destroyed or damaged, with historical buildings like the Hungarian Parliament Building and the Castle among them. All seven bridges spanning the Danube were destroyed. <br><br>    Bf-109G2/4/6 \"Gustav\"<br><br>    The Bf-109G entered ARR service March 1943. The first unit to be equipped with it was the 7th Fighter Group. This unit had previously flown the Bf-109E and received the new airplanes directly on the front, when it was part of JG 3 Udet. <br>     The first mission flown by a Romanian Bf-109G was on 29 March. The first combat casualty occurred the same day, as did the first victory in a Gustav. The Group enjoyed a lot of victories until late October 1943, when it was replaced by the 9th Fighter Group, which took over its airplanes and a part of its most experimented pilots.<br>     By summer 1944, the 7th Fighter Group was partially re-equipped with Bf-109Gs and joined the 9th Fighter Group in the fights against the VVS and the USAAF. After 23 August 1944, the two groups were brought in to defend the capital against German air raids and shot down a part of the Luftwaffe bombers and transports.<br>      The Romanian Bf-109Gs remained in front line service until the end of the war and even managed to score a kill against a Bf-109K, the last and best model of this legendary airplane.<br>The majority of Romanian aces achieved their victories with the Gustav. They all spoke very highly of it. Lt. av. Teodor Greceanu (20 victories) once said \"it fit him like a glove\". <br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "The remaining defenders finally surrendered 13 February 1945. German and Hungarian military losses were high, with entire divisions having been eliminated. The Germans lost all or most of the 13th Panzer Division, 60th Panzergrenadier Division Feldherrnhalle, 8th SS Cavalry Division Florian Geyer and the 22nd SS Volunteer Cavalry Division Maria Theresa. The Hungarian I Corps was virtually annihilated, as well as the 10th and 12th Infantry Divisions and the 1st Armored Division.<br><br>Budapest lay in ruins, with more than 80 percent of its buildings destroyed or damaged, with historical buildings like the Hungarian Parliament Building and the Castle among them. All seven bridges spanning the Danube were destroyed. <br><br><br>    Bf-109G2/4/6 \"Gustav\"<br><br>    The Bf-109G entered ARR service March 1943. The first unit to be equipped with it was the 7th Fighter Group. This unit had previously flown the Bf-109E and received the new airplanes directly on the front, when it was part of JG 3 Udet. <br>     The first mission flown by a Romanian Bf-109G was on 29 March. The first combat casualty occurred the same day, as did the first victory in a Gustav. The Group enjoyed a lot of victories until late October 1943, when it was replaced by the 9th Fighter Group, which took over its airplanes and a part of its most experimented pilots.<br>     By summer 1944, the 7th Fighter Group was partially re-equipped with Bf-109Gs and joined the 9th Fighter Group in the fights against the VVS and the USAAF. After 23 August 1944, the two groups were brought in to defend the capital against German air raids and shot down a part of the Luftwaffe bombers and transports.<br>      The Romanian Bf-109Gs remained in front line service until the end of the war and even managed to score a kill against a Bf-109K, the last and best model of this legendary airplane.<br>The majority of Romanian aces achieved their victories with the Gustav. They all spoke very highly of it. Lt. av. Teodor Greceanu (20 victories) once said \"it fit him like a glove\". <br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom14.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "     Javorie Mountains - January 1945 <br><br>     At the begining of 1945 Romanian 1st Army received the mission of eliminating the german forces resisting in the Javorie mountains, Slovak Republic.<br>     On 29 january the offensive started, the 7th and 4th romanian army corps encountering forces of 8th german army.<br>     Difficult terrain , weather conditions and german's tenacious defense determined a slow progress for romanian troops... <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "On 29 January 1945, the Romanian 1st Army started its offensive in the Javorina mountains area with the 7th Corps (2nd, 10th and 19th Infantry Divisions) attacking towards Zavada - Oremov Laz and the 4th Corps (2nd and 3rd Mounatin Divisions) towards Halic - Horny Tisovnik. The army had 8th Cavalry Division in reserve. The advance was stopped in front of the fortifications at Oremov Laz. Only after the conquest of the Javorie Peak (1,044 m) was possible to flank this position, which was taken on 18 February. Other towns/villages occupied in the area, after the offensive was resumed on 25 February were: Neresnice, Bucny, Lopaty (by the 4th Corps) and Senohrad and Hor. Mladonice (by the 7th Corps). In March, the 1st Army took Sasa and Babina on 5 March and on 8 March Dobra Niva. Between 29 January- 4 March, the 1st Army lost 16,000 out of its 70,000 troops engaged in the Javorina Mountains. <br><br>    Hs-129B2<br><br>    The Hs-129B2 came into ARR service in 1943. It equipped the 8th Assault Group, which previously had been a fighter unit (8th Fighter Group with IAR-80Bs).<br>    The HS-129B2's presence quickly began to be felt by the Soviet troops in the area where it was deployed. This low-flying, heavily armored and armed machine was a regular butcher in the hands of trained pilot. They often flew at least 4 missions a day in support of the ground troops. But the powerful Soviet light AAA took its toll. Many times the pilots somehow managed to get back home in their Henschels, which looked more like Swiss-cheese than airplanes. They also claimed a few kills against the Il-2s.<br>     The Hs-129 remained in the front line also after Romania joined the allies and contributed a lot to the war effort against Germany. It flew one of the last missions of the war in Europe against elements of the Vlasov Army, which refused to surrender after 9 May 1945.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Campaign ended.<br><br>On 29 January 1945, the Romanian 1st Army started its offensive in the Javorina mountains area with the 7th Corps (2nd, 10th and 19th Infantry Divisions) attacking towards Zavada - Oremov Laz and the 4th Corps (2nd and 3rd Mounatin Divisions) towards Halic - Horny Tisovnik. The army had 8th Cavalry Division in reserve. The advance was stopped in front of the fortifications at Oremov Laz. Only after the conquest of the Javorie Peak (1,044 m) was possible to flank this position, which was taken on 18 February. Other towns/villages occupied in the area, after the offensive was resumed on 25 February were: Neresnice, Bucny, Lopaty (by the 4th Corps) and Senohrad and Hor. Mladonice (by the 7th Corps). In March, the 1st Army took Sasa and Babina on 5 March and on 8 March Dobra Niva. Between 29 January- 4 March, the 1st Army lost 16,000 out of its 70,000 troops engaged in the Javorina Mountains. <br><br>"
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "On 29 January 1945, the Romanian 1st Army started its offensive in the Javorina mountains area with the 7th Corps (2nd, 10th and 19th Infantry Divisions) attacking towards Zavada - Oremov Laz and the 4th Corps (2nd and 3rd Mounatin Divisions) towards Halic - Horny Tisovnik. The army had 8th Cavalry Division in reserve. The advance was stopped in front of the fortifications at Oremov Laz. Only after the conquest of the Javorie Peak (1,044 m) was possible to flank this position, which was taken on 18 February. Other towns/villages occupied in the area, after the offensive was resumed on 25 February were: Neresnice, Bucny, Lopaty (by the 4th Corps) and Senohrad and Hor. Mladonice (by the 7th Corps). In March, the 1st Army took Sasa and Babina on 5 March and on 8 March Dobra Niva. Between 29 January- 4 March, the 1st Army lost 16,000 out of its 70,000 troops engaged in the Javorina Mountains. <br><br>    Hs-129B2<br><br>    The Hs-129B2 came into ARR service in 1943. It equipped the 8th Assault Group, which previously had been a fighter unit (8th Fighter Group with IAR-80Bs).<br>    The HS-129B2's presence quickly began to be felt by the Soviet troops in the area where it was deployed. This low-flying, heavily armored and armed machine was a regular butcher in the hands of trained pilot. They often flew at least 4 missions a day in support of the ground troops. But the powerful Soviet light AAA took its toll. Many times the pilots somehow managed to get back home in their Henschels, which looked more like Swiss-cheese than airplanes. They also claimed a few kills against the Il-2s.<br>     The Hs-129 remained in the front line also after Romania joined the allies and contributed a lot to the war effort against Germany. It flew one of the last missions of the war in Europe against elements of the Vlasov Army, which refused to surrender after 9 May 1945.<br><br>(article from www.worldwar2.ro)"
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "On 29 January 1945, the Romanian 1st Army started its offensive in the Javorina mountains area with the 7th Corps (2nd, 10th and 19th Infantry Divisions) attacking towards Zavada - Oremov Laz and the 4th Corps (2nd and 3rd Mounatin Divisions) towards Halic - Horny Tisovnik. The army had 8th Cavalry Division in reserve. The advance was stopped in front of the fortifications at Oremov Laz. Only after the conquest of the Javorie Peak (1,044 m) was possible to flank this position, which was taken on 18 February. Other towns/villages occupied in the area, after the offensive was resumed on 25 February were: Neresnice, Bucny, Lopaty (by the 4th Corps) and Senohrad and Hor. Mladonice (by the 7th Corps). In March, the 1st Army took Sasa and Babina on 5 March and on 8 March Dobra Niva. Between 29 January- 4 March, the 1st Army lost 16,000 out of its 70,000 troops engaged in the Javorina Mountains. <br><br>    Hs-129B2<br><br>    The Hs-129B2 came into ARR service in 1943. It equipped the 8th Assault Group, which previously had been a fighter unit (8th Fighter Group with IAR-80Bs).<br>    The HS-129B2's presence quickly began to be felt by the Soviet troops in the area where it was deployed. This low-flying, heavily armored and armed machine was a regular butcher in the hands of trained pilot. They often flew at least 4 missions a day in support of the ground troops. But the powerful Soviet light AAA took its toll. Many times the pilots somehow managed to get back home in their Henschels, which looked more like Swiss-cheese than airplanes. They also claimed a few kills against the Il-2s.<br>     The Hs-129 remained in the front line also after Romania joined the allies and contributed a lot to the war effort against Germany. It flew one of the last missions of the war in Europe against elements of the Vlasov Army, which refused to surrender after 9 May 1945.<br><br>(article from www.worldwar2.ro)"
+   }
+  }, 
+  "scenario": "dragrom15.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "    On the Morava river : Kromeriz - Kojetin -  2 May 1945<br>   <br>   The last days of the war found romanian forces (1st and 4th Armies) active in offensives in Czechoslovakia.<br>   Important center on the Morava river, Kromeriz was part of a strong defensive area organised by 182nd and 271st german infantry divisions. Romanian 1st Army had the mission to advance north on the Morava river and eliminate all german resistance.  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "       The Romanian Army ended the war fighting against the Wehrmacht alongside the Soviets in Transylvania, Hungary, Yugoslavia, Austria and Czechoslovakia, from August 1944 until the end of the war in Europe. In May 1945, the Romanian First Army and the Romanian Fourth Army took part in the Prague Offensive. The Romanians incurred heavy casualties fighting Nazi Germany. Of some 538,000 Romanian soldiers who fought against the Axis in 1944-45, some 167,000 were casualties.<br><br>         Under the 1947 Treaty of Paris, the Allies did not acknowledge Romania as a co-belligerent nation. Northern Transylvania was, once again, recognised as an integral part of Romania, but the border with the USSR was fixed at its 1941 state, leaving the former Romanian-administered territories of Bessarabia and Northern Bukovina outside the country.<br><br>          In Romania , Soviet occupation following World War II facilitated the rise of the Communist Party as the main political force, leading ultimately to the abdication of the King and the establishment of a single-party people's republic in 1947.<br><br>(from en.wikipedia.org ) "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "Loss is not acceptable here."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "       The Romanian Army ended the war fighting against the Wehrmacht alongside the Soviets in Transylvania, Hungary, Yugoslavia, Austria and Czechoslovakia, from August 1944 until the end of the war in Europe. In May 1945, the Romanian First Army and the Romanian Fourth Army took part in the Prague Offensive. The Romanians incurred heavy casualties fighting Nazi Germany. Of some 538,000 Romanian soldiers who fought against the Axis in 1944-45, some 167,000 were casualties.<br><br>         Under the 1947 Treaty of Paris, the Allies did not acknowledge Romania as a co-belligerent nation. Northern Transylvania was, once again, recognised as an integral part of Romania, but the border with the USSR was fixed at its 1941 state, leaving the former Romanian-administered territories of Bessarabia and Northern Bukovina outside the country.<br><br>          In Romania , Soviet occupation following World War II facilitated the rise of the Communist Party as the main political force, leading ultimately to the abdication of the King and the establishment of a single-party people's republic in 1947.<br><br>(from en.wikipedia.org ) "
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "       The Romanian Army ended the war fighting against the Wehrmacht alongside the Soviets in Transylvania, Hungary, Yugoslavia, Austria and Czechoslovakia, from August 1944 until the end of the war in Europe. In May 1945, the Romanian First Army and the Romanian Fourth Army took part in the Prague Offensive. The Romanians incurred heavy casualties fighting Nazi Germany. Of some 538,000 Romanian soldiers who fought against the Axis in 1944-45, some 167,000 were casualties.<br><br>         Under the 1947 Treaty of Paris, the Allies did not acknowledge Romania as a co-belligerent nation. Northern Transylvania was, once again, recognised as an integral part of Romania, but the border with the USSR was fixed at its 1941 state, leaving the former Romanian-administered territories of Bessarabia and Northern Bukovina outside the country.<br><br>          In Romania , Soviet occupation following World War II facilitated the rise of the Communist Party as the main political force, leading ultimately to the abdication of the King and the establishment of a single-party people's republic in 1947.<br><br>(from en.wikipedia.org ) "
+   }
+  }, 
+  "scenario": "dragrom16.xml", 
+  "startprestige": 0
+ }
+]

@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom04.scn" name="Don's River Bend" turns="1, 1, 15" date="November 19, 1942" dayturns="3" ground="1" atmosferic="1" latitude="2" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_730.png">
+  <player id="0" country="17" side="0" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 150"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="100, 100, 100, 100, 100, 100, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 150"/>
+  <reinforce turn="3">
+    <at row="8" col="1">
+      <unit id="1823" owner="1" flag="20" face="4" transport="2579" exp="150"/>
+    </at>
+    <at row="9" col="1">
+      <unit id="504" owner="1" flag="20" face="4" exp="150"/>
+    </at>
+    <at row="9" col="2">
+      <unit id="504" owner="1" flag="20" face="4" exp="150"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="1" col="32">
+      <unit id="531" owner="1" flag="20" face="2" exp="150"/>
+    </at>
+    <at row="12" col="20">
+      <unit id="504" owner="1" flag="20" face="0" exp="100" ent="1"/>
+    </at>
+    <at row="12" col="18">
+      <unit id="504" owner="1" flag="20" face="0" exp="100" ent="1"/>
+    </at>
+    <at row="12" col="19">
+      <unit id="504" owner="1" flag="20" face="0" exp="100" ent="1"/>
+    </at>
+    <at row="2" col="31">
+      <unit id="540" owner="1" flag="20" face="15" exp="150"/>
+    </at>
+    <at row="11" col="19">
+      <unit id="639" owner="1" flag="20" face="0" transport="2579" exp="100" ent="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="14">
+    <at row="37" col="27">
+      <unit id="3358" owner="0" flag="18" face="9"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="14" col="40">
+      <unit id="517" owner="1" flag="20" face="14" exp="260" ldr="1"/>
+    </at>
+    <at row="14" col="41">
+      <unit id="522" owner="1" flag="20" face="13" exp="150"/>
+    </at>
+    <at row="17" col="42">
+      <unit id="3288" owner="1" flag="20" face="14" transport="2583" exp="180"/>
+    </at>
+    <at row="16" col="42">
+      <unit id="3288" owner="1" flag="20" face="0" transport="2583" exp="200"/>
+    </at>
+    <at row="15" col="42">
+      <unit id="1802" owner="1" flag="20" face="13" exp="200"/>
+    </at>
+    <at row="14" col="42">
+      <unit id="489" owner="1" flag="20" face="14" exp="250" ldr="1"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="7" terrain="10"/>
+  <hex row="0" col="15" terrain="10" name="Khuper River"/>
+  <hex row="0" col="30" terrain="10"/>
+  <hex row="1" col="3" terrain="15" name="Don River"/>
+  <hex row="1" col="4" terrain="15" name="Don River"/>
+  <hex row="1" col="5" terrain="15" name="Don River"/>
+  <hex row="1" col="8" terrain="10"/>
+  <hex row="1" col="15" terrain="10" name="Khuper River"/>
+  <hex row="1" col="29" terrain="15" name="Don River"/>
+  <hex row="1" col="30" terrain="10" name="Medveditsa River"/>
+  <hex row="1" col="33" terrain="2">
+    <unit id="543" owner="1" flag="20" face="2" exp="220"/>
+  </hex>
+  <hex row="1" col="35" terrain="15" name="Don River"/>
+  <hex row="2" col="1" terrain="15" name="Don River"/>
+  <hex row="2" col="2" terrain="15" name="Don River"/>
+  <hex row="2" col="5" terrain="16"/>
+  <hex row="2" col="6" terrain="15" name="Don River"/>
+  <hex row="2" col="7" terrain="15" name="Don River"/>
+  <hex row="2" col="8" terrain="15" name="Don River"/>
+  <hex row="2" col="9" terrain="15" name="Don River"/>
+  <hex row="2" col="10" terrain="15" name="Don River"/>
+  <hex row="2" col="11" terrain="15" name="Don River"/>
+  <hex row="2" col="12" terrain="15" name="Don River"/>
+  <hex row="2" col="13" terrain="15" name="Don River"/>
+  <hex row="2" col="14" terrain="15" name="Don River"/>
+  <hex row="2" col="15" terrain="15" name="Don River"/>
+  <hex row="2" col="17" terrain="15" name="Don River"/>
+  <hex row="2" col="18" terrain="15" name="Don River"/>
+  <hex row="2" col="19" terrain="15" name="Don River"/>
+  <hex row="2" col="21" terrain="15" name="Don River"/>
+  <hex row="2" col="22" terrain="15" name="Don River"/>
+  <hex row="2" col="23" terrain="15" name="Don River"/>
+  <hex row="2" col="25" terrain="15" name="Don River"/>
+  <hex row="2" col="26">
+    <unit id="986" owner="1" flag="20" face="0" exp="100" ent="5"/>
+  </hex>
+  <hex row="2" col="27" terrain="15" name="Don River"/>
+  <hex row="2" col="28" terrain="15" name="Don River"/>
+  <hex row="2" col="29" terrain="15" name="Don River"/>
+  <hex row="2" col="30" terrain="10" name="Medveditsa River"/>
+  <hex row="2" col="32" terrain="2" flag="19" owner="1">
+    <unit id="698" owner="1" flag="20" face="1" exp="200"/>
+  </hex>
+  <hex row="2" col="33" terrain="15" name="Don River"/>
+  <hex row="2" col="34" terrain="15" name="Don River"/>
+  <hex row="2" col="35" terrain="15" name="Don River"/>
+  <hex row="3" col="0" terrain="15"/>
+  <hex row="3" col="6" terrain="16"/>
+  <hex row="3" col="7" terrain="16"/>
+  <hex row="3" col="8" terrain="16"/>
+  <hex row="3" col="11">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="3" col="16" terrain="15" name="Don River"/>
+  <hex row="3" col="18" terrain="1" name="Ust'-Khoperskaya" flag="19" owner="1">
+    <unit id="522" owner="1" flag="20" face="0" exp="180" ent="1"/>
+  </hex>
+  <hex row="3" col="19">
+    <unit id="3334" owner="1" flag="20" face="1" exp="200"/>
+  </hex>
+  <hex row="3" col="20" terrain="15" name="Don River"/>
+  <hex row="3" col="21">
+    <unit id="522" owner="1" flag="20" face="0" exp="160" ent="1"/>
+  </hex>
+  <hex row="3" col="23">
+    <unit id="489" owner="1" flag="20" face="0" exp="200"/>
+  </hex>
+  <hex row="3" col="24" terrain="15" name="Don River"/>
+  <hex row="3" col="25">
+    <unit id="522" owner="1" flag="20" face="0" exp="190" ent="1" ldr="1"/>
+  </hex>
+  <hex row="3" col="26" terrain="15" name="Don River"/>
+  <hex row="3" col="30" terrain="15" name="Don River"/>
+  <hex row="3" col="31" terrain="15" name="Don River"/>
+  <hex row="3" col="32" terrain="10" name="Don River"/>
+  <hex row="3" col="33" terrain="1" road="16" name="Serafimov" flag="19" owner="1" supply="1">
+    <unit id="495" owner="1" flag="20" face="4" exp="350"/>
+  </hex>
+  <hex row="3" col="35" terrain="15" name="Don River"/>
+  <hex row="4" col="11">
+    <unit id="506" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="4" col="12">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="4" col="14">
+    <unit id="527" owner="1" flag="20" face="0" exp="150"/>
+  </hex>
+  <hex row="4" col="16">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="4" col="19">
+    <unit id="1802" owner="1" flag="20" face="0" exp="200"/>
+  </hex>
+  <hex row="4" col="20">
+    <unit id="522" owner="1" flag="20" face="0" exp="190" ent="1" ldr="1"/>
+  </hex>
+  <hex row="4" col="21">
+    <unit id="526" owner="1" flag="20" face="0" exp="150"/>
+  </hex>
+  <hex row="4" col="24">
+    <unit id="522" owner="1" flag="20" face="0" exp="150" ent="1"/>
+  </hex>
+  <hex row="4" col="25">
+    <unit id="506" owner="1" flag="20" face="0" exp="190"/>
+  </hex>
+  <hex row="4" col="26">
+    <unit id="522" owner="1" flag="20" face="0" exp="180" ent="1"/>
+  </hex>
+  <hex row="4" col="33" road="17"/>
+  <hex row="4" col="35" terrain="15" name="Don River"/>
+  <hex row="5" col="12">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="5" col="14">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="5" col="15">
+    <unit id="496" owner="1" flag="20" face="0" exp="200" ent="1"/>
+  </hex>
+  <hex row="5" col="17">
+    <unit id="496" owner="1" flag="20" face="0" exp="100" ent="1"/>
+  </hex>
+  <hex row="5" col="18">
+    <unit id="516" owner="1" flag="20" face="0" exp="180" ent="1" ldr="1"/>
+  </hex>
+  <hex row="5" col="21">
+    <unit id="995" owner="1" flag="20" face="0" exp="250"/>
+  </hex>
+  <hex row="5" col="24">
+    <unit id="473" owner="1" flag="20" face="1" exp="200"/>
+  </hex>
+  <hex row="5" col="33" road="17"/>
+  <hex row="5" col="35" terrain="15" name="Don River"/>
+  <hex row="6" col="7" terrain="10"/>
+  <hex row="6" col="8" terrain="10"/>
+  <hex row="6" col="17">
+    <unit id="496" owner="1" flag="20" face="0" exp="100" ent="1"/>
+  </hex>
+  <hex row="6" col="18">
+    <unit id="496" owner="1" flag="20" face="0" exp="100" ent="1"/>
+  </hex>
+  <hex row="6" col="29" terrain="16"/>
+  <hex row="6" col="33" road="33"/>
+  <hex row="6" col="35" terrain="15" name="Don River"/>
+  <hex row="7" col="8" terrain="10"/>
+  <hex row="7" col="9" terrain="3"/>
+  <hex row="7" col="28" terrain="16"/>
+  <hex row="7" col="29" terrain="16"/>
+  <hex row="7" col="30" terrain="16"/>
+  <hex row="7" col="31" terrain="16"/>
+  <hex row="7" col="32" terrain="16" road="18"/>
+  <hex row="7" col="33" terrain="16"/>
+  <hex row="7" col="35" terrain="15" name="Don River"/>
+  <hex row="8" col="3" terrain="5"/>
+  <hex row="8" col="4">
+    <unit id="1812" owner="1" flag="20" face="0" transport="2579" exp="150" ent="2" str="7"/>
+  </hex>
+  <hex row="8" col="5">
+    <unit id="484" owner="1" flag="20" face="0" transport="529" exp="150" ent="3" str="5"/>
+  </hex>
+  <hex row="8" col="8" terrain="10"/>
+  <hex row="8" col="25">
+    <unit id="3288" owner="1" flag="20" face="0" transport="528" exp="200" ent="1"/>
+  </hex>
+  <hex row="8" col="30" terrain="16"/>
+  <hex row="8" col="31" road="18"/>
+  <hex row="8" col="32" terrain="16" road="33"/>
+  <hex row="8" col="34" terrain="15" name="Don River"/>
+  <hex row="9" col="0" terrain="5"/>
+  <hex row="9" col="1" terrain="5"/>
+  <hex row="9" col="2" terrain="5"/>
+  <hex row="9" col="3" terrain="5"/>
+  <hex row="9" col="4" terrain="5">
+    <unit id="504" owner="1" flag="20" face="1" exp="150" ent="3"/>
+  </hex>
+  <hex row="9" col="6" terrain="1" name="Dubovsky" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="1" exp="150" ent="2"/>
+  </hex>
+  <hex row="9" col="7" terrain="10"/>
+  <hex row="9" col="8" terrain="10"/>
+  <hex row="9" col="9">
+    <unit id="1816" owner="1" flag="20" face="15" transport="2585" exp="220" str="5"/>
+  </hex>
+  <hex row="9" col="20">
+    <unit id="3288" owner="1" flag="20" face="0" transport="528" exp="200" ent="1"/>
+  </hex>
+  <hex row="9" col="31" road="17">
+    <unit id="1819" owner="1" flag="20" face="0" transport="2586" exp="250" str="5"/>
+  </hex>
+  <hex row="9" col="34" terrain="15" name="Don River"/>
+  <hex row="9" col="35" terrain="15" name="Don River"/>
+  <hex row="10" col="0" terrain="5"/>
+  <hex row="10" col="1" terrain="5"/>
+  <hex row="10" col="2" terrain="5"/>
+  <hex row="10" col="3" terrain="5"/>
+  <hex row="10" col="4" terrain="5"/>
+  <hex row="10" col="5" terrain="5"/>
+  <hex row="10" col="6">
+    <unit id="504" owner="1" flag="20" face="1" exp="150" ent="2"/>
+  </hex>
+  <hex row="10" col="7" terrain="10"/>
+  <hex row="10" col="8" terrain="3"/>
+  <hex row="10" col="29">
+    <unit id="484" owner="1" flag="20" face="0" transport="529" exp="200" ent="1"/>
+  </hex>
+  <hex row="10" col="31" road="33"/>
+  <hex row="10" col="33">
+    <unit id="484" owner="1" flag="20" face="15" transport="528" exp="200" ent="1"/>
+  </hex>
+  <hex row="10" col="36" terrain="15" name="Don River"/>
+  <hex row="10" col="37" terrain="15" name="Don River"/>
+  <hex row="10" col="38" terrain="15" name="Don River"/>
+  <hex row="11" col="0" terrain="5"/>
+  <hex row="11" col="1" terrain="5"/>
+  <hex row="11" col="2" terrain="5"/>
+  <hex row="11" col="3" terrain="5">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="11" col="4" terrain="5"/>
+  <hex row="11" col="5">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="11" col="7" terrain="10"/>
+  <hex row="11" col="9" terrain="3">
+    <unit id="501" owner="1" flag="20" face="15" exp="250" ent="2"/>
+  </hex>
+  <hex row="11" col="25">
+    <unit id="1812" owner="1" flag="20" face="2" transport="2579" exp="130" ent="2"/>
+  </hex>
+  <hex row="11" col="29">
+    <unit id="504" owner="1" flag="20" face="0" exp="200" ent="2"/>
+  </hex>
+  <hex row="11" col="30" road="18"/>
+  <hex row="11" col="31">
+    <unit id="504" owner="1" flag="20" face="0" exp="200" ent="3"/>
+  </hex>
+  <hex row="11" col="33">
+    <unit id="504" owner="1" flag="20" face="15" exp="200" ent="2"/>
+  </hex>
+  <hex row="11" col="34">
+    <unit id="504" owner="1" flag="20" face="15" exp="200" ent="3"/>
+  </hex>
+  <hex row="11" col="38" terrain="15" name="Don River"/>
+  <hex row="12" col="3">
+    <unit id="304" owner="0" flag="18" face="7" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="12" col="7" terrain="10"/>
+  <hex row="12" col="8" terrain="3"/>
+  <hex row="12" col="10" terrain="16"/>
+  <hex row="12" col="11" terrain="16">
+    <unit id="501" owner="1" flag="20" face="15" exp="250" ent="3" ldr="1"/>
+  </hex>
+  <hex row="12" col="13" terrain="16"/>
+  <hex row="12" col="26">
+    <unit id="504" owner="1" flag="20" face="2" exp="150" ent="2"/>
+  </hex>
+  <hex row="12" col="28">
+    <unit id="504" owner="1" flag="20" face="0" exp="200" ent="2"/>
+  </hex>
+  <hex row="12" col="29" road="18"/>
+  <hex row="12" col="30" road="33"/>
+  <hex row="12" col="34">
+    <unit id="504" owner="1" flag="20" face="15" exp="200" ent="2"/>
+  </hex>
+  <hex row="12" col="38" terrain="15" name="Don River"/>
+  <hex row="12" col="39" terrain="15" name="Don River"/>
+  <hex row="13" col="4">
+    <unit id="303" owner="0" flag="18" face="7" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="13" col="5" terrain="10"/>
+  <hex row="13" col="6" terrain="10"/>
+  <hex row="13" col="10" terrain="16"/>
+  <hex row="13" col="12" terrain="16">
+    <unit id="639" owner="1" flag="20" face="15" transport="2579" exp="200" ent="1"/>
+  </hex>
+  <hex row="13" col="13" terrain="16"/>
+  <hex row="13" col="14" terrain="16"/>
+  <hex row="13" col="24">
+    <unit id="1823" owner="1" flag="20" face="4" transport="2579" exp="150" ent="2"/>
+  </hex>
+  <hex row="13" col="25">
+    <unit id="504" owner="1" flag="20" face="2" exp="150" ent="2"/>
+  </hex>
+  <hex row="13" col="29" road="33"/>
+  <hex row="13" col="36">
+    <unit id="504" owner="1" flag="20" face="1" exp="150" ent="2"/>
+  </hex>
+  <hex row="13" col="38">
+    <unit id="484" owner="1" flag="20" face="0" transport="529" exp="150"/>
+  </hex>
+  <hex row="13" col="40" terrain="15" name="Don River"/>
+  <hex row="13" col="41" terrain="15" name="Don River"/>
+  <hex row="13" col="42" terrain="15" name="Don River"/>
+  <hex row="13" col="43" terrain="15" name="Don River"/>
+  <hex row="14" col="3">
+    <unit id="589" owner="0" flag="18" face="7" exp="250" str="5"/>
+  </hex>
+  <hex row="14" col="4" terrain="10"/>
+  <hex row="14" col="5" terrain="1" name="Gorbatovski" flag="17" owner="0"/>
+  <hex row="14" col="6">
+    <unit id="2574" owner="0" flag="18" face="7" transport="314" exp="250" ent="5" str="5"/>
+  </hex>
+  <hex row="14" col="12">
+    <unit id="501" owner="1" flag="20" face="15" exp="200" ent="2"/>
+  </hex>
+  <hex row="14" col="14" terrain="16"/>
+  <hex row="14" col="16">
+    <unit id="484" owner="1" flag="20" face="15" transport="529" exp="300" ent="1"/>
+  </hex>
+  <hex row="14" col="17" terrain="1" name="Blinovsky" flag="19" owner="1"/>
+  <hex row="14" col="18">
+    <unit id="1816" owner="1" flag="20" face="1" transport="2585" exp="200" str="5" ldr="1"/>
+  </hex>
+  <hex row="14" col="19" terrain="3"/>
+  <hex row="14" col="21">
+    <unit id="1812" owner="1" flag="20" face="0" transport="2579" exp="150" ent="3"/>
+  </hex>
+  <hex row="14" col="24">
+    <unit id="504" owner="1" flag="20" face="2" exp="150" ent="2"/>
+  </hex>
+  <hex row="14" col="28" road="18"/>
+  <hex row="14" col="30">
+    <unit id="308" owner="0" flag="18" face="7" exp="200" ent="5"/>
+  </hex>
+  <hex row="14" col="31">
+    <unit id="1569" owner="0" flag="18" face="8" transport="314" exp="250" ent="5" str="5"/>
+  </hex>
+  <hex row="14" col="32">
+    <unit id="308" owner="0" flag="18" face="7" exp="200" ent="5"/>
+  </hex>
+  <hex row="14" col="34">
+    <unit id="308" owner="0" flag="18" face="7" exp="200" ent="5"/>
+  </hex>
+  <hex row="14" col="38">
+    <unit id="504" owner="1" flag="20" face="0" exp="150" ent="3"/>
+  </hex>
+  <hex row="15" col="4" terrain="10"/>
+  <hex row="15" col="5" terrain="3"/>
+  <hex row="15" col="7">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="15" col="14">
+    <unit id="501" owner="1" flag="20" face="15" exp="200" ent="2"/>
+  </hex>
+  <hex row="15" col="15">
+    <unit id="501" owner="1" flag="20" face="15" exp="250" ent="3" ldr="1"/>
+  </hex>
+  <hex row="15" col="17">
+    <unit id="501" owner="1" flag="20" face="15" exp="200" ent="2"/>
+  </hex>
+  <hex row="15" col="18" terrain="3"/>
+  <hex row="15" col="19">
+    <unit id="504" owner="1" flag="20" face="4" exp="150" ent="3"/>
+  </hex>
+  <hex row="15" col="20">
+    <unit id="1823" owner="1" flag="20" face="1" transport="2579" exp="150" ent="2"/>
+  </hex>
+  <hex row="15" col="23" terrain="10" name="Lake"/>
+  <hex row="15" col="25" terrain="10"/>
+  <hex row="15" col="28" road="17">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="15" col="36">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5" str="9"/>
+  </hex>
+  <hex row="15" col="41" terrain="1" name="Raspopinskiy" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="0" exp="150" ent="2"/>
+  </hex>
+  <hex row="16" col="4" terrain="10"/>
+  <hex row="16" col="5" terrain="10"/>
+  <hex row="16" col="6" terrain="3"/>
+  <hex row="16" col="16" terrain="10"/>
+  <hex row="16" col="21">
+    <unit id="504" owner="1" flag="20" face="4" exp="150" ent="2"/>
+  </hex>
+  <hex row="16" col="22">
+    <unit id="504" owner="1" flag="20" face="4" exp="130" ent="2"/>
+  </hex>
+  <hex row="16" col="24" terrain="10"/>
+  <hex row="16" col="25" terrain="10"/>
+  <hex row="16" col="26">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="16" col="28" road="17"/>
+  <hex row="16" col="30">
+    <unit id="303" owner="0" flag="18" face="7" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="16" col="33">
+    <unit id="304" owner="0" flag="18" face="9" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="16" col="38">
+    <unit id="308" owner="0" flag="18" face="8" exp="200" ent="5" str="9"/>
+  </hex>
+  <hex row="17" col="3" terrain="10"/>
+  <hex row="17" col="4" terrain="10"/>
+  <hex row="17" col="10">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="17" col="13">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="17" col="16" terrain="10"/>
+  <hex row="17" col="25" terrain="10"/>
+  <hex row="17" col="27" road="18"/>
+  <hex row="17" col="28" road="33">
+    <unit id="304" owner="0" flag="18" face="9" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="17" col="35">
+    <unit id="303" owner="0" flag="18" face="9" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="17" col="40">
+    <unit id="308" owner="0" flag="18" face="9" exp="200" ent="5" str="7"/>
+  </hex>
+  <hex row="17" col="41">
+    <unit id="308" owner="0" flag="18" face="8" exp="200" ent="5" str="8"/>
+  </hex>
+  <hex row="18" col="4" terrain="10"/>
+  <hex row="18" col="15">
+    <unit id="308" owner="0" flag="18" face="6" exp="200" ent="5"/>
+  </hex>
+  <hex row="18" col="16" terrain="10"/>
+  <hex row="18" col="17">
+    <unit id="308" owner="0" flag="18" face="9" exp="200" ent="5"/>
+  </hex>
+  <hex row="18" col="19">
+    <unit id="1569" owner="0" flag="18" face="8" transport="314" exp="250" ent="5" str="5"/>
+  </hex>
+  <hex row="18" col="21">
+    <unit id="308" owner="0" flag="18" face="9" exp="200" ent="5"/>
+  </hex>
+  <hex row="18" col="24">
+    <unit id="308" owner="0" flag="18" face="9" exp="200" ent="5"/>
+  </hex>
+  <hex row="18" col="25" terrain="10"/>
+  <hex row="18" col="27" road="17">
+    <unit id="589" owner="0" flag="18" face="9" exp="250" str="5"/>
+  </hex>
+  <hex row="18" col="28">
+    <unit id="298" owner="0" flag="18" face="4" transport="2563" exp="200"/>
+  </hex>
+  <hex row="18" col="38">
+    <unit id="303" owner="0" flag="18" face="8" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="19" col="4" terrain="10"/>
+  <hex row="19" col="10">
+    <unit id="304" owner="0" flag="18" face="7" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="19" col="13">
+    <unit id="303" owner="0" flag="18" face="8" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="19" col="16" terrain="10"/>
+  <hex row="19" col="25" terrain="10"/>
+  <hex row="19" col="27" road="17"/>
+  <hex row="19" col="40">
+    <unit id="304" owner="0" flag="18" face="8" transport="2563" exp="200" ent="3"/>
+  </hex>
+  <hex row="20" col="4" terrain="10"/>
+  <hex row="20" col="15" terrain="10"/>
+  <hex row="20" col="16" terrain="10"/>
+  <hex row="20" col="17">
+    <unit id="298" owner="0" flag="18" face="7" transport="2563" exp="200"/>
+  </hex>
+  <hex row="20" col="18">
+    <unit id="303" owner="0" flag="18" face="9" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="20" col="21">
+    <unit id="304" owner="0" flag="18" face="9" transport="314" exp="200" ent="3"/>
+  </hex>
+  <hex row="20" col="26" terrain="10"/>
+  <hex row="20" col="27" terrain="1" road="17" flag="17" owner="0"/>
+  <hex row="20" col="34" deploy="0"/>
+  <hex row="21" col="3" terrain="10"/>
+  <hex row="21" col="4" terrain="10"/>
+  <hex row="21" col="14" terrain="3"/>
+  <hex row="21" col="15" terrain="10"/>
+  <hex row="21" col="16">
+    <unit id="589" owner="0" flag="18" face="8" exp="250" str="5"/>
+  </hex>
+  <hex row="21" col="26" terrain="10"/>
+  <hex row="21" col="27" road="17"/>
+  <hex row="21" col="28" terrain="3"/>
+  <hex row="21" col="36" deploy="0"/>
+  <hex row="21" col="38" deploy="0"/>
+  <hex row="22" col="3" terrain="10"/>
+  <hex row="22" col="14" terrain="10"/>
+  <hex row="22" col="26" terrain="10"/>
+  <hex row="22" col="27" road="17"/>
+  <hex row="23" col="3" terrain="10"/>
+  <hex row="23" col="13" terrain="10"/>
+  <hex row="23" col="14" terrain="10"/>
+  <hex row="23" col="26" terrain="10"/>
+  <hex row="23" col="27" terrain="1" road="17" flag="17" owner="0"/>
+  <hex row="23" col="37" terrain="10"/>
+  <hex row="24" col="1" terrain="10"/>
+  <hex row="24" col="2" terrain="10"/>
+  <hex row="24" col="11" terrain="10"/>
+  <hex row="24" col="13" terrain="10"/>
+  <hex row="24" col="26" terrain="10"/>
+  <hex row="24" col="27" road="17"/>
+  <hex row="24" col="33" terrain="10"/>
+  <hex row="24" col="34" terrain="10"/>
+  <hex row="24" col="35" terrain="10"/>
+  <hex row="24" col="36" terrain="10"/>
+  <hex row="24" col="38" terrain="10"/>
+  <hex row="24" col="39" terrain="10"/>
+  <hex row="25" col="0" terrain="10"/>
+  <hex row="25" col="10">
+    <unit id="307" owner="0" flag="18" face="9" exp="300" ent="1"/>
+  </hex>
+  <hex row="25" col="11" terrain="10"/>
+  <hex row="25" col="12" terrain="10"/>
+  <hex row="25" col="13">
+    <unit id="307" owner="0" flag="18" face="9" exp="300" ent="1"/>
+  </hex>
+  <hex row="25" col="26" terrain="10"/>
+  <hex row="25" col="27" road="17"/>
+  <hex row="25" col="31" terrain="10"/>
+  <hex row="25" col="32" terrain="10"/>
+  <hex row="25" col="35" terrain="3" deploy="0"/>
+  <hex row="25" col="36" terrain="3"/>
+  <hex row="25" col="37" deploy="0"/>
+  <hex row="25" col="38" terrain="10"/>
+  <hex row="25" col="40" terrain="10"/>
+  <hex row="25" col="41" terrain="10"/>
+  <hex row="26" col="0" terrain="10"/>
+  <hex row="26" col="1" terrain="10" name="Chir River"/>
+  <hex row="26" col="10" terrain="10"/>
+  <hex row="26" col="11" terrain="10"/>
+  <hex row="26" col="12" terrain="1" name="Pronin" flag="17" owner="0" victory="1">
+    <unit id="307" owner="0" flag="18" face="9" exp="300" ent="1" ldr="1"/>
+  </hex>
+  <hex row="26" col="13">
+    <unit id="307" owner="0" flag="18" face="7" exp="300" ent="1"/>
+  </hex>
+  <hex row="26" col="26" terrain="10"/>
+  <hex row="26" col="27" road="9"/>
+  <hex row="26" col="29" terrain="10"/>
+  <hex row="26" col="30" terrain="10"/>
+  <hex row="26" col="36" terrain="3"/>
+  <hex row="26" col="37" deploy="0"/>
+  <hex row="26" col="39" deploy="0"/>
+  <hex row="26" col="42" terrain="10"/>
+  <hex row="26" col="43" terrain="10"/>
+  <hex row="27" col="2" terrain="10" name="Chir River"/>
+  <hex row="27" col="3" terrain="10" name="Chir River"/>
+  <hex row="27" col="9" terrain="10"/>
+  <hex row="27" col="10" terrain="10"/>
+  <hex row="27" col="12">
+    <unit id="304" owner="0" flag="18" face="8" transport="314" exp="300" ent="1"/>
+  </hex>
+  <hex row="27" col="26" terrain="10"/>
+  <hex row="27" col="27" terrain="10"/>
+  <hex row="27" col="28" road="144">
+    <unit id="3285" owner="0" flag="18" face="8" transport="313" exp="300" ent="5"/>
+  </hex>
+  <hex row="27" col="29" terrain="10"/>
+  <hex row="28" col="3" terrain="10" name="Chir River"/>
+  <hex row="28" col="8" terrain="10"/>
+  <hex row="28" col="9" terrain="10"/>
+  <hex row="28" col="19" terrain="3"/>
+  <hex row="28" col="21" terrain="3"/>
+  <hex row="28" col="26" terrain="1" name="Perelazovsky" flag="17" owner="0" victory="1">
+    <unit id="3286" owner="0" flag="18" face="8" transport="313" exp="300" ent="8"/>
+  </hex>
+  <hex row="28" col="27" terrain="10"/>
+  <hex row="28" col="28" terrain="10" road="25"/>
+  <hex row="28" col="29" road="128"/>
+  <hex row="28" col="41" terrain="3"/>
+  <hex row="29" col="0" road="8"/>
+  <hex row="29" col="1" road="136"/>
+  <hex row="29" col="3" terrain="10" name="Chir River"/>
+  <hex row="29" col="5" terrain="10"/>
+  <hex row="29" col="7" terrain="10"/>
+  <hex row="29" col="8" terrain="10"/>
+  <hex row="29" col="19">
+    <unit id="118" owner="0" flag="8" face="8" exp="350" str="5"/>
+  </hex>
+  <hex row="29" col="20" terrain="1" name="Bolshaya Donschinka" flag="17" owner="0" victory="1">
+    <unit id="2928" owner="0" flag="8" face="9" transport="156" exp="300" ent="1"/>
+  </hex>
+  <hex row="29" col="21" terrain="3"/>
+  <hex row="29" col="22">
+    <unit id="2928" owner="0" flag="8" face="9" transport="156" exp="320" ent="1"/>
+  </hex>
+  <hex row="29" col="25" terrain="3"/>
+  <hex row="29" col="26" terrain="3">
+    <unit id="1576" owner="0" flag="18" face="8" transport="313" exp="300" ent="3"/>
+  </hex>
+  <hex row="29" col="27" terrain="10"/>
+  <hex row="29" col="28" road="17">
+    <unit id="311" owner="0" flag="18" face="8" exp="300" ent="1" ldr="1"/>
+  </hex>
+  <hex row="30" col="2" road="136"/>
+  <hex row="30" col="3" road="136"/>
+  <hex row="30" col="4" terrain="10" name="Chir River"/>
+  <hex row="30" col="5" terrain="10" name="Chir River"/>
+  <hex row="30" col="6" terrain="10"/>
+  <hex row="30" col="19">
+    <unit id="90" owner="0" flag="8" face="8" exp="300" str="8"/>
+  </hex>
+  <hex row="30" col="22">
+    <unit id="145" owner="0" flag="8" face="9" exp="300" ent="1"/>
+  </hex>
+  <hex row="30" col="27" terrain="10"/>
+  <hex row="30" col="28" road="17"/>
+  <hex row="30" col="29" road="32"/>
+  <hex row="31" col="4" road="144"/>
+  <hex row="31" col="5" terrain="10" name="Chir River"/>
+  <hex row="31" col="20">
+    <unit id="110" owner="0" flag="8" face="8" exp="300" str="5"/>
+  </hex>
+  <hex row="31" col="22">
+    <unit id="102" owner="0" flag="8" face="9" exp="250" ent="1" ldr="1"/>
+  </hex>
+  <hex row="31" col="27" terrain="10"/>
+  <hex row="31" col="28" terrain="10" road="19"/>
+  <hex row="31" col="29" terrain="10"/>
+  <hex row="32" col="4" road="17"/>
+  <hex row="32" col="5" terrain="10" name="Chir River"/>
+  <hex row="32" col="17" terrain="1" name="Medvezhii" flag="17" owner="0"/>
+  <hex row="32" col="26" terrain="3"/>
+  <hex row="32" col="27" terrain="10"/>
+  <hex row="32" col="28" road="9"/>
+  <hex row="32" col="29" road="136"/>
+  <hex row="32" col="30" terrain="10"/>
+  <hex row="32" col="31" terrain="10"/>
+  <hex row="33" col="4" road="17"/>
+  <hex row="33" col="5" terrain="10" name="Chir River"/>
+  <hex row="33" col="27" terrain="10"/>
+  <hex row="33" col="30" road="144"/>
+  <hex row="33" col="31" terrain="10"/>
+  <hex row="34" col="4" road="17"/>
+  <hex row="34" col="5" terrain="10" name="Chir River"/>
+  <hex row="34" col="26" terrain="10"/>
+  <hex row="34" col="27" terrain="10"/>
+  <hex row="34" col="29" terrain="16"/>
+  <hex row="34" col="30" road="9"/>
+  <hex row="34" col="31" road="144"/>
+  <hex row="34" col="32" terrain="10"/>
+  <hex row="34" col="33" terrain="10"/>
+  <hex row="35" col="4" road="9"/>
+  <hex row="35" col="5" road="144"/>
+  <hex row="35" col="6" terrain="10" name="Chir River"/>
+  <hex row="35" col="26" terrain="10"/>
+  <hex row="35" col="27" terrain="16"/>
+  <hex row="35" col="28" terrain="16"/>
+  <hex row="35" col="29" terrain="16"/>
+  <hex row="35" col="30" terrain="16"/>
+  <hex row="35" col="31" road="17"/>
+  <hex row="35" col="34" terrain="10"/>
+  <hex row="36" col="3">
+    <unit id="1592" owner="0" flag="18" face="4" exp="200"/>
+  </hex>
+  <hex row="36" col="4" terrain="2" flag="17" owner="0">
+    <unit id="1271" owner="0" flag="8" face="4" exp="150"/>
+  </hex>
+  <hex row="36" col="5" road="9"/>
+  <hex row="36" col="6" terrain="10" name="Chir River"/>
+  <hex row="36" col="7" terrain="10" name="Chir River"/>
+  <hex row="36" col="25" terrain="10" name="RIVER"/>
+  <hex row="36" col="26" terrain="10" name="RIVER"/>
+  <hex row="36" col="27" terrain="16" name="CLEAR"/>
+  <hex row="36" col="28" terrain="16"/>
+  <hex row="36" col="29" terrain="16"/>
+  <hex row="36" col="30" terrain="16"/>
+  <hex row="36" col="31" road="9"/>
+  <hex row="36" col="34" terrain="10"/>
+  <hex row="36" col="35" terrain="10"/>
+  <hex row="37" col="1" terrain="3"/>
+  <hex row="37" col="4">
+    <unit id="318" owner="0" flag="18" face="4" exp="200"/>
+  </hex>
+  <hex row="37" col="6" road="136"/>
+  <hex row="37" col="7" terrain="1" road="136" name="Sovetskaya" flag="17" owner="0"/>
+  <hex row="37" col="8" terrain="10" name="Chir River"/>
+  <hex row="37" col="9" terrain="10" name="Chir River"/>
+  <hex row="37" col="10" terrain="10" name="Chir River"/>
+  <hex row="37" col="11" terrain="10" name="Chir River"/>
+  <hex row="37" col="17" terrain="10"/>
+  <hex row="37" col="19" terrain="10"/>
+  <hex row="37" col="20" terrain="10"/>
+  <hex row="37" col="21" terrain="10"/>
+  <hex row="37" col="23" terrain="10"/>
+  <hex row="37" col="25" terrain="10" name="RIVER"/>
+  <hex row="37" col="26" name="CLEAR" owner="1" victory="1"/>
+  <hex row="37" col="28" terrain="16" name="CLEAR"/>
+  <hex row="37" col="30" terrain="16"/>
+  <hex row="37" col="32" road="136"/>
+  <hex row="37" col="33" road="144"/>
+  <hex row="37" col="35" terrain="1" name="Kalmykov" flag="17" owner="0" victory="1"/>
+  <hex row="37" col="36" terrain="10"/>
+  <hex row="37" col="37" terrain="10"/>
+  <hex row="38" col="8" road="136"/>
+  <hex row="38" col="9" road="130"/>
+  <hex row="38" col="10" road="40"/>
+  <hex row="38" col="11" road="128"/>
+  <hex row="38" col="12" terrain="10" name="Chir River"/>
+  <hex row="38" col="13" terrain="10"/>
+  <hex row="38" col="14" terrain="10"/>
+  <hex row="38" col="15" terrain="10"/>
+  <hex row="38" col="16" terrain="10"/>
+  <hex row="38" col="18" terrain="10"/>
+  <hex row="38" col="22" terrain="10"/>
+  <hex row="38" col="24" terrain="10"/>
+  <hex row="38" col="33" road="1"/>
+  <hex row="38" col="38" terrain="10"/>
+</map>

@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="bc_it_ker.scn" name="Keren" turns="18, 23, 26" date="March 15, 1941" dayturns="3" ground="0" atmosferic="0" latitude="0" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_363.png">
+  <player id="0" country="22" side="1" airtrans="1" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="12" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="3">
+    <at row="9" col="2">
+      <unit id="343" owner="0" flag="23" face="7" exp="304"/>
+    </at>
+    <at row="5" col="11">
+      <unit id="2654" owner="1" flag="13" face="15" exp="326" str="6"/>
+    </at>
+    <at row="6" col="12">
+      <unit id="2654" owner="1" flag="13" face="15" exp="385" str="8"/>
+    </at>
+    <at row="10" col="2">
+      <unit id="343" owner="0" flag="23" face="7" exp="203"/>
+    </at>
+    <at row="9" col="3">
+      <unit id="343" owner="0" flag="23" face="7" exp="250"/>
+    </at>
+    <at row="9" col="1">
+      <unit id="341" owner="0" flag="23" face="7" exp="309"/>
+    </at>
+    <at row="10" col="1">
+      <unit id="1689" owner="0" flag="23" face="6" exp="177" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="7" col="18">
+      <unit id="2654" owner="1" flag="13" face="1" exp="365" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="4" col="12">
+      <unit id="2654" owner="1" flag="13" face="14" exp="361" str="7"/>
+    </at>
+    <at row="4" col="10">
+      <unit id="732" owner="1" flag="13" face="14" exp="462" str="6"/>
+    </at>
+    <at row="4" col="9">
+      <unit id="732" owner="1" flag="13" face="14" exp="467" str="8"/>
+    </at>
+    <at row="3" col="11">
+      <unit id="2654" owner="1" flag="13" face="14" exp="358" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="11">
+    <at row="7" col="28">
+      <unit id="211" owner="1" flag="13" face="15" exp="373"/>
+    </at>
+  </reinforce>
+  <reinforce turn="12">
+    <at row="4" col="17">
+      <unit id="2654" owner="1" flag="13" face="14" exp="425" str="8"/>
+    </at>
+  </reinforce>
+  <reinforce turn="16">
+    <at row="5" col="26">
+      <unit id="732" owner="1" flag="13" face="14" exp="457" str="7" ldr="1"/>
+    </at>
+    <at row="5" col="27">
+      <unit id="732" owner="1" flag="13" face="14" exp="491" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="17">
+    <at row="2" col="16">
+      <unit id="2655" owner="1" flag="13" face="1" exp="228" str="5"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="14"/>
+  <hex row="0" col="1" terrain="5"/>
+  <hex row="0" col="2" terrain="6"/>
+  <hex row="0" col="3" terrain="6"/>
+  <hex row="0" col="4" terrain="6"/>
+  <hex row="0" col="5" terrain="6"/>
+  <hex row="0" col="6" terrain="6"/>
+  <hex row="0" col="7" terrain="6"/>
+  <hex row="0" col="8" terrain="6"/>
+  <hex row="0" col="9" terrain="6"/>
+  <hex row="0" col="10" terrain="6"/>
+  <hex row="0" col="11" terrain="5"/>
+  <hex row="0" col="12" terrain="5"/>
+  <hex row="0" col="13" terrain="7"/>
+  <hex row="0" col="14" terrain="7"/>
+  <hex row="0" col="17" terrain="5" road="168"/>
+  <hex row="0" col="18" terrain="5"/>
+  <hex row="0" col="19" terrain="5"/>
+  <hex row="0" col="20" terrain="5"/>
+  <hex row="0" col="21" terrain="5"/>
+  <hex row="0" col="22" terrain="5"/>
+  <hex row="0" col="24" terrain="5"/>
+  <hex row="0" col="26" terrain="5"/>
+  <hex row="0" col="27" terrain="5"/>
+  <hex row="0" col="28" terrain="5"/>
+  <hex row="0" col="29" terrain="16"/>
+  <hex row="0" col="30" terrain="16"/>
+  <hex row="0" col="31" terrain="16"/>
+  <hex row="1" col="0" terrain="6"/>
+  <hex row="1" col="1" terrain="6"/>
+  <hex row="1" col="2" terrain="6"/>
+  <hex row="1" col="3" terrain="6">
+    <unit id="3317" owner="1" flag="13" face="1" transport="209" exp="249" str="6"/>
+  </hex>
+  <hex row="1" col="4" terrain="6"/>
+  <hex row="1" col="5" terrain="6"/>
+  <hex row="1" col="6" terrain="6"/>
+  <hex row="1" col="7" terrain="6"/>
+  <hex row="1" col="8" terrain="6"/>
+  <hex row="1" col="9" terrain="6"/>
+  <hex row="1" col="10" terrain="6"/>
+  <hex row="1" col="11" terrain="5"/>
+  <hex row="1" col="12" terrain="5"/>
+  <hex row="1" col="13" terrain="7"/>
+  <hex row="1" col="14" terrain="7"/>
+  <hex row="1" col="16" terrain="16" road="18"/>
+  <hex row="1" col="17" terrain="16"/>
+  <hex row="1" col="18" road="136"/>
+  <hex row="1" col="19" road="136"/>
+  <hex row="1" col="20" terrain="5"/>
+  <hex row="1" col="21" road="40"/>
+  <hex row="1" col="23" terrain="16"/>
+  <hex row="1" col="24" terrain="16"/>
+  <hex row="1" col="25" terrain="16"/>
+  <hex row="1" col="29" terrain="16"/>
+  <hex row="1" col="30" terrain="16">
+    <unit id="1385" owner="1" flag="13" face="14" exp="393" str="4"/>
+  </hex>
+  <hex row="1" col="31" terrain="16"/>
+  <hex row="2" col="0" terrain="6"/>
+  <hex row="2" col="1" terrain="6"/>
+  <hex row="2" col="2" terrain="6">
+    <unit id="1357" owner="1" flag="13" face="2" transport="209" exp="236" str="6"/>
+  </hex>
+  <hex row="2" col="3" terrain="11" name="Mt Samanna : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="3" exp="219" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="2" exp="245" ent="15" str="8"/>
+  </hex>
+  <hex row="2" col="4" terrain="6">
+    <unit id="2654" owner="1" flag="13" face="2" exp="252" ent="10" str="8"/>
+  </hex>
+  <hex row="2" col="5" terrain="6"/>
+  <hex row="2" col="6" terrain="6"/>
+  <hex row="2" col="7" terrain="6"/>
+  <hex row="2" col="8" terrain="11" name="Mt Amba : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="1" exp="236" ent="12" str="8"/>
+  </hex>
+  <hex row="2" col="9" terrain="6"/>
+  <hex row="2" col="10" terrain="6"/>
+  <hex row="2" col="11" terrain="5"/>
+  <hex row="2" col="12" terrain="5"/>
+  <hex row="2" col="13" terrain="5"/>
+  <hex row="2" col="14" terrain="7"/>
+  <hex row="2" col="15" terrain="8"/>
+  <hex row="2" col="16" terrain="16" road="17"/>
+  <hex row="2" col="17" terrain="16"/>
+  <hex row="2" col="19" terrain="16"/>
+  <hex row="2" col="20" road="130"/>
+  <hex row="2" col="22" road="136"/>
+  <hex row="2" col="23" road="136"/>
+  <hex row="2" col="25" road="40"/>
+  <hex row="2" col="26" terrain="1" road="24" name="Keren"/>
+  <hex row="2" col="27" terrain="1" road="176" name="Keren"/>
+  <hex row="2" col="30" terrain="16"/>
+  <hex row="3" col="0" terrain="6"/>
+  <hex row="3" col="1" terrain="6"/>
+  <hex row="3" col="2" terrain="6">
+    <unit id="2654" owner="1" flag="13" face="2" exp="286" ent="10" str="8"/>
+  </hex>
+  <hex row="3" col="3" terrain="6"/>
+  <hex row="3" col="4" terrain="6"/>
+  <hex row="3" col="5" terrain="6"/>
+  <hex row="3" col="6" terrain="6">
+    <unit id="2654" owner="1" flag="13" face="0" exp="247" ent="8" str="8"/>
+  </hex>
+  <hex row="3" col="7" terrain="6"/>
+  <hex row="3" col="8" terrain="6"/>
+  <hex row="3" col="9" terrain="6"/>
+  <hex row="3" col="10" terrain="6"/>
+  <hex row="3" col="11" terrain="5"/>
+  <hex row="3" col="12" terrain="5"/>
+  <hex row="3" col="13" terrain="5"/>
+  <hex row="3" col="14" terrain="5"/>
+  <hex row="3" col="15" terrain="1" road="2" name="Mogareh"/>
+  <hex row="3" col="16" road="33"/>
+  <hex row="3" col="17" terrain="16"/>
+  <hex row="3" col="18" terrain="16"/>
+  <hex row="3" col="19" terrain="16"/>
+  <hex row="3" col="20" terrain="16"/>
+  <hex row="3" col="21" road="40"/>
+  <hex row="3" col="23" road="40"/>
+  <hex row="3" col="24" road="130"/>
+  <hex row="3" col="25" terrain="2" road="34"/>
+  <hex row="3" col="26" terrain="1" road="163" name="Keren" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="13" exp="228" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="14" exp="210" str="7"/>
+  </hex>
+  <hex row="3" col="27" road="9"/>
+  <hex row="3" col="29" terrain="5"/>
+  <hex row="3" col="30" terrain="5"/>
+  <hex row="3" col="31" terrain="5"/>
+  <hex row="4" col="0" terrain="6"/>
+  <hex row="4" col="1" terrain="6">
+    <unit id="2388" owner="1" flag="13" face="4" ent="5"/>
+  </hex>
+  <hex row="4" col="2" terrain="6"/>
+  <hex row="4" col="3" terrain="6"/>
+  <hex row="4" col="4" terrain="6">
+    <unit id="2654" owner="1" flag="13" face="1" exp="222" ent="8" str="8"/>
+  </hex>
+  <hex row="4" col="5" terrain="6"/>
+  <hex row="4" col="6" terrain="6"/>
+  <hex row="4" col="7" terrain="6"/>
+  <hex row="4" col="8" terrain="6"/>
+  <hex row="4" col="9" terrain="6"/>
+  <hex row="4" col="10" terrain="6"/>
+  <hex row="4" col="11" terrain="5"/>
+  <hex row="4" col="12" terrain="5"/>
+  <hex row="4" col="13" terrain="6"/>
+  <hex row="4" col="14" terrain="5"/>
+  <hex row="4" col="15" terrain="5"/>
+  <hex row="4" col="16" terrain="5"/>
+  <hex row="4" col="17" terrain="5"/>
+  <hex row="4" col="18" terrain="16" road="24"/>
+  <hex row="4" col="19" road="130"/>
+  <hex row="4" col="20" road="34"/>
+  <hex row="4" col="21" terrain="5"/>
+  <hex row="4" col="22" road="130"/>
+  <hex row="4" col="23" terrain="5"/>
+  <hex row="4" col="24" terrain="2" road="130" flag="12" owner="1"/>
+  <hex row="4" col="25" terrain="5"/>
+  <hex row="4" col="26" terrain="5"/>
+  <hex row="4" col="27" terrain="5"/>
+  <hex row="4" col="28" road="136"/>
+  <hex row="4" col="29" road="136"/>
+  <hex row="4" col="30" terrain="5"/>
+  <hex row="5" col="0" terrain="6"/>
+  <hex row="5" col="1" terrain="6"/>
+  <hex row="5" col="2" terrain="6"/>
+  <hex row="5" col="3" terrain="6"/>
+  <hex row="5" col="4" terrain="6"/>
+  <hex row="5" col="5" terrain="6"/>
+  <hex row="5" col="6" terrain="6"/>
+  <hex row="5" col="7" terrain="6"/>
+  <hex row="5" col="8" terrain="6"/>
+  <hex row="5" col="9" terrain="6"/>
+  <hex row="5" col="10" terrain="6"/>
+  <hex row="5" col="11" terrain="5"/>
+  <hex row="5" col="12" terrain="5"/>
+  <hex row="5" col="13" terrain="5"/>
+  <hex row="5" col="14" terrain="5"/>
+  <hex row="5" col="15" terrain="6"/>
+  <hex row="5" col="16" terrain="5"/>
+  <hex row="5" col="17" road="18"/>
+  <hex row="5" col="18" road="33"/>
+  <hex row="5" col="19" terrain="5"/>
+  <hex row="5" col="20" terrain="5"/>
+  <hex row="5" col="21" terrain="5"/>
+  <hex row="5" col="22" terrain="5"/>
+  <hex row="5" col="23" terrain="5"/>
+  <hex row="5" col="24" terrain="5"/>
+  <hex row="5" col="25" terrain="5"/>
+  <hex row="5" col="26" terrain="5"/>
+  <hex row="5" col="27" terrain="5"/>
+  <hex row="5" col="28" terrain="5"/>
+  <hex row="5" col="29" terrain="5"/>
+  <hex row="5" col="30" road="144"/>
+  <hex row="5" col="31" terrain="6" road="40"/>
+  <hex row="6" col="0" terrain="6"/>
+  <hex row="6" col="1" terrain="6"/>
+  <hex row="6" col="2" terrain="6"/>
+  <hex row="6" col="3" terrain="6"/>
+  <hex row="6" col="4" terrain="6"/>
+  <hex row="6" col="5" terrain="6"/>
+  <hex row="6" col="6" terrain="6"/>
+  <hex row="6" col="7" terrain="6"/>
+  <hex row="6" col="8" terrain="6">
+    <unit id="1356" owner="1" flag="13" face="15" exp="205" str="6"/>
+  </hex>
+  <hex row="6" col="9" terrain="5"/>
+  <hex row="6" col="10" terrain="5"/>
+  <hex row="6" col="11" terrain="5">
+    <unit id="1340" owner="1" flag="13" face="4" exp="238" str="8"/>
+  </hex>
+  <hex row="6" col="12" terrain="5"/>
+  <hex row="6" col="13" terrain="5"/>
+  <hex row="6" col="14" terrain="5">
+    <unit id="2388" owner="1" flag="13" face="4"/>
+  </hex>
+  <hex row="6" col="15" terrain="6"/>
+  <hex row="6" col="16" terrain="6"/>
+  <hex row="6" col="17" road="33"/>
+  <hex row="6" col="18" terrain="6"/>
+  <hex row="6" col="19" terrain="6"/>
+  <hex row="6" col="20" terrain="6"/>
+  <hex row="6" col="21" terrain="6"/>
+  <hex row="6" col="22" terrain="6"/>
+  <hex row="6" col="23" terrain="6">
+    <unit id="2388" owner="1" flag="13" face="4" ent="5"/>
+  </hex>
+  <hex row="6" col="24" terrain="11" name="Mt Zeban : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="0" exp="220" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="13" exp="468" ent="8" str="8"/>
+  </hex>
+  <hex row="6" col="25" terrain="6"/>
+  <hex row="6" col="26" terrain="6"/>
+  <hex row="6" col="27" terrain="6"/>
+  <hex row="6" col="28" terrain="5"/>
+  <hex row="6" col="29" terrain="6"/>
+  <hex row="6" col="30" terrain="6" road="3"/>
+  <hex row="6" col="31" terrain="6"/>
+  <hex row="7" col="0" terrain="14"/>
+  <hex row="7" col="1" terrain="14"/>
+  <hex row="7" col="2" terrain="6"/>
+  <hex row="7" col="3" terrain="6"/>
+  <hex row="7" col="4" terrain="6"/>
+  <hex row="7" col="5" terrain="6"/>
+  <hex row="7" col="6" terrain="6"/>
+  <hex row="7" col="7" terrain="6"/>
+  <hex row="7" col="8" terrain="11" name="Cameron Ridge : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="14" exp="330" ent="9" str="8"/>
+  </hex>
+  <hex row="7" col="9" terrain="5"/>
+  <hex row="7" col="10" terrain="5">
+    <unit id="1356" owner="1" flag="13" face="15" exp="207" str="6"/>
+  </hex>
+  <hex row="7" col="11" terrain="11" name="Mt Sanchil : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2659" owner="1" flag="13" face="15" exp="340" ent="15" str="9" ldr="1"/>
+  </hex>
+  <hex row="7" col="12" terrain="5"/>
+  <hex row="7" col="13" terrain="5">
+    <unit id="893" owner="1" flag="13" face="15" exp="267" str="5" ldr="1"/>
+  </hex>
+  <hex row="7" col="14" terrain="14"/>
+  <hex row="7" col="15" terrain="13" name="Ascidera River"/>
+  <hex row="7" col="16" terrain="13" road="2" name="Ascidera River"/>
+  <hex row="7" col="17" terrain="14"/>
+  <hex row="7" col="18" terrain="6"/>
+  <hex row="7" col="19" terrain="6"/>
+  <hex row="7" col="20" terrain="6"/>
+  <hex row="7" col="21" terrain="6"/>
+  <hex row="7" col="22" terrain="6"/>
+  <hex row="7" col="23" terrain="6">
+    <unit id="1356" owner="1" flag="13" face="15" transport="209" exp="257" str="6"/>
+  </hex>
+  <hex row="7" col="24" terrain="6"/>
+  <hex row="7" col="25" terrain="6"/>
+  <hex row="7" col="26" terrain="6"/>
+  <hex row="7" col="27" terrain="6"/>
+  <hex row="7" col="28" terrain="6"/>
+  <hex row="7" col="29" terrain="6"/>
+  <hex row="7" col="30" terrain="6"/>
+  <hex row="7" col="31" terrain="6"/>
+  <hex row="8" col="2" terrain="14"/>
+  <hex row="8" col="3" terrain="14"/>
+  <hex row="8" col="4" terrain="6"/>
+  <hex row="8" col="5" terrain="6"/>
+  <hex row="8" col="6" terrain="6"/>
+  <hex row="8" col="7" terrain="6"/>
+  <hex row="8" col="8" terrain="6"/>
+  <hex row="8" col="9" terrain="5" name="Cameron Ridge" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="15" exp="317" ent="9" str="8"/>
+  </hex>
+  <hex row="8" col="10" terrain="5"/>
+  <hex row="8" col="11" terrain="5">
+    <unit id="2388" owner="1" flag="13" face="4" ent="5"/>
+  </hex>
+  <hex row="8" col="12" terrain="5"/>
+  <hex row="8" col="13" terrain="14"/>
+  <hex row="8" col="14" terrain="14"/>
+  <hex row="8" col="15" terrain="13" name="Ascidera River"/>
+  <hex row="8" col="16" terrain="5"/>
+  <hex row="8" col="17" terrain="14">
+    <unit id="893" owner="1" flag="13" face="14" transport="209" exp="210" str="5"/>
+  </hex>
+  <hex row="8" col="18" terrain="6"/>
+  <hex row="8" col="19" terrain="6"/>
+  <hex row="8" col="20" terrain="6"/>
+  <hex row="8" col="21" terrain="6"/>
+  <hex row="8" col="22" terrain="6"/>
+  <hex row="8" col="23" terrain="6">
+    <unit id="1437" owner="1" flag="13" face="13" transport="209" ent="5" str="6"/>
+  </hex>
+  <hex row="8" col="24" terrain="6"/>
+  <hex row="8" col="25" terrain="6"/>
+  <hex row="8" col="26" terrain="6"/>
+  <hex row="8" col="27" terrain="6"/>
+  <hex row="8" col="28" terrain="6"/>
+  <hex row="8" col="29" terrain="6"/>
+  <hex row="8" col="30" terrain="6"/>
+  <hex row="8" col="31" terrain="6"/>
+  <hex row="9" col="4" terrain="14"/>
+  <hex row="9" col="5" terrain="16">
+    <unit id="343" owner="0" flag="23" face="6" exp="296"/>
+  </hex>
+  <hex row="9" col="6" terrain="16"/>
+  <hex row="9" col="7" terrain="16"/>
+  <hex row="9" col="8" terrain="6"/>
+  <hex row="9" col="10" terrain="5"/>
+  <hex row="9" col="11" terrain="14"/>
+  <hex row="9" col="12" terrain="14"/>
+  <hex row="9" col="13" terrain="5"/>
+  <hex row="9" col="14" terrain="15" name="Ascidera River"/>
+  <hex row="9" col="15" terrain="13" name="Ascidera River"/>
+  <hex row="9" col="16" terrain="6" flag="12" owner="1" victory="1">
+    <unit id="2659" owner="1" flag="13" face="14" exp="582" ent="10" str="9"/>
+    <unit id="1912" owner="1" flag="13" face="4" ent="4" str="5"/>
+    <unit id="212" owner="1" flag="13" face="13" exp="360"/>
+  </hex>
+  <hex row="9" col="17" terrain="14">
+    <unit id="2388" owner="1" flag="13" face="4" ent="5"/>
+  </hex>
+  <hex row="9" col="18" terrain="6">
+    <unit id="1356" owner="1" flag="13" face="0" transport="209" exp="293" str="6"/>
+  </hex>
+  <hex row="9" col="19" terrain="6"/>
+  <hex row="9" col="20" terrain="6"/>
+  <hex row="9" col="21" terrain="6">
+    <unit id="1356" owner="1" flag="13" face="15" transport="209" exp="251" str="6"/>
+  </hex>
+  <hex row="9" col="22" terrain="11" name="Fort Dologorodoc : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="15" exp="234" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="14" exp="227" ent="12" str="8"/>
+  </hex>
+  <hex row="9" col="23" terrain="6"/>
+  <hex row="9" col="24" terrain="6"/>
+  <hex row="9" col="25" terrain="6"/>
+  <hex row="9" col="26" terrain="6"/>
+  <hex row="9" col="27" terrain="6"/>
+  <hex row="9" col="28" terrain="6">
+    <unit id="1357" owner="1" flag="13" face="15" transport="209" exp="359" str="6"/>
+  </hex>
+  <hex row="9" col="29" terrain="14"/>
+  <hex row="9" col="30" terrain="14"/>
+  <hex row="9" col="31" terrain="6"/>
+  <hex row="10" col="3" terrain="5"/>
+  <hex row="10" col="5">
+    <unit id="328" owner="0" flag="23" face="6" transport="2614" exp="296"/>
+  </hex>
+  <hex row="10" col="6">
+    <unit id="343" owner="0" flag="23" face="6" exp="354" ldr="1"/>
+  </hex>
+  <hex row="10" col="7" terrain="16">
+    <unit id="343" owner="0" flag="23" face="7" exp="384"/>
+  </hex>
+  <hex row="10" col="8" terrain="16"/>
+  <hex row="10" col="9" terrain="14"/>
+  <hex row="10" col="10" terrain="14"/>
+  <hex row="10" col="11" terrain="5"/>
+  <hex row="10" col="12" terrain="5"/>
+  <hex row="10" col="13" terrain="16"/>
+  <hex row="10" col="14" terrain="16" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="15" exp="245" ent="10" str="8"/>
+  </hex>
+  <hex row="10" col="15" terrain="13" name="Ascidera River"/>
+  <hex row="10" col="16" terrain="14"/>
+  <hex row="10" col="17" terrain="6" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="15" exp="268" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="15" exp="258" ent="10" str="8"/>
+  </hex>
+  <hex row="10" col="18" terrain="14"/>
+  <hex row="10" col="19" terrain="6"/>
+  <hex row="10" col="20" terrain="6"/>
+  <hex row="10" col="21" terrain="6"/>
+  <hex row="10" col="22" terrain="6"/>
+  <hex row="10" col="23" terrain="14"/>
+  <hex row="10" col="24" terrain="6"/>
+  <hex row="10" col="25" terrain="6"/>
+  <hex row="10" col="26" terrain="6"/>
+  <hex row="10" col="27" terrain="14"/>
+  <hex row="10" col="28" terrain="14"/>
+  <hex row="10" col="29" terrain="6"/>
+  <hex row="10" col="30" terrain="6"/>
+  <hex row="10" col="31" terrain="6"/>
+  <hex row="11" col="2" terrain="5"/>
+  <hex row="11" col="3" terrain="5"/>
+  <hex row="11" col="4" terrain="5"/>
+  <hex row="11" col="5" terrain="5"/>
+  <hex row="11" col="6" terrain="1" name="Ascidera">
+    <unit id="328" owner="0" flag="23" face="6" transport="2614" exp="282"/>
+  </hex>
+  <hex row="11" col="7" terrain="16">
+    <unit id="343" owner="0" flag="23" face="6" exp="280"/>
+  </hex>
+  <hex row="11" col="8" terrain="16">
+    <unit id="343" owner="0" flag="23" face="7" exp="224"/>
+  </hex>
+  <hex row="11" col="9" terrain="16"/>
+  <hex row="11" col="10" terrain="5"/>
+  <hex row="11" col="11" terrain="16"/>
+  <hex row="11" col="12" terrain="16"/>
+  <hex row="11" col="13" terrain="10" name="Ascidera River"/>
+  <hex row="11" col="14" terrain="10" name="Ascidera River"/>
+  <hex row="11" col="15" road="33"/>
+  <hex row="11" col="16" terrain="14"/>
+  <hex row="11" col="17" terrain="5"/>
+  <hex row="11" col="18" terrain="6"/>
+  <hex row="11" col="19" terrain="6">
+    <unit id="2654" owner="1" flag="13" face="13" exp="282" ent="6" str="8"/>
+  </hex>
+  <hex row="11" col="20" terrain="6"/>
+  <hex row="11" col="21" terrain="14"/>
+  <hex row="11" col="22" terrain="14"/>
+  <hex row="11" col="23" terrain="6"/>
+  <hex row="11" col="24" terrain="6"/>
+  <hex row="11" col="25" terrain="6"/>
+  <hex row="11" col="26" terrain="14"/>
+  <hex row="11" col="27" terrain="6"/>
+  <hex row="11" col="28" terrain="11" name="Mt Falestoh : FORTIFICATION" flag="12" owner="1" victory="1">
+    <unit id="2654" owner="1" flag="13" face="14" exp="263" str="8"/>
+    <unit id="2654" owner="1" flag="13" face="15" exp="232" ent="9" str="8"/>
+  </hex>
+  <hex row="11" col="29" terrain="6"/>
+  <hex row="11" col="30" terrain="6"/>
+  <hex row="11" col="31" terrain="6"/>
+  <hex row="12" col="2" terrain="5"/>
+  <hex row="12" col="3" terrain="5"/>
+  <hex row="12" col="4" terrain="5"/>
+  <hex row="12" col="5" terrain="5"/>
+  <hex row="12" col="6" terrain="16"/>
+  <hex row="12" col="10" terrain="16"/>
+  <hex row="12" col="11" terrain="10" name="Ascidera River"/>
+  <hex row="12" col="12" terrain="10" name="Ascidera River"/>
+  <hex row="12" col="14" road="18"/>
+  <hex row="12" col="17" terrain="16"/>
+  <hex row="12" col="18" terrain="5"/>
+  <hex row="12" col="19" terrain="5"/>
+  <hex row="12" col="20" terrain="6"/>
+  <hex row="12" col="21" terrain="6"/>
+  <hex row="12" col="22" terrain="6"/>
+  <hex row="12" col="23" terrain="6"/>
+  <hex row="12" col="24" terrain="6"/>
+  <hex row="12" col="25" terrain="6"/>
+  <hex row="12" col="26" terrain="6"/>
+  <hex row="12" col="27" terrain="6"/>
+  <hex row="12" col="28" terrain="6"/>
+  <hex row="12" col="29" terrain="6"/>
+  <hex row="12" col="30" terrain="6"/>
+  <hex row="12" col="31" terrain="6"/>
+  <hex row="13" col="0" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="1" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="2" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="3" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="4" terrain="5"/>
+  <hex row="13" col="5" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="11" terrain="10" name="Ascidera River"/>
+  <hex row="13" col="13" road="18"/>
+  <hex row="13" col="14" road="33"/>
+  <hex row="13" col="15" terrain="16" deploy="0"/>
+  <hex row="13" col="16" deploy="0"/>
+  <hex row="13" col="17" deploy="0"/>
+  <hex row="13" col="18" terrain="16"/>
+  <hex row="13" col="20" terrain="5"/>
+  <hex row="13" col="21" terrain="5"/>
+  <hex row="13" col="22" terrain="5"/>
+  <hex row="13" col="23" terrain="5"/>
+  <hex row="13" col="24" terrain="6"/>
+  <hex row="13" col="25" terrain="6"/>
+  <hex row="13" col="26" terrain="6"/>
+  <hex row="13" col="27" terrain="14"/>
+  <hex row="13" col="28" terrain="14"/>
+  <hex row="13" col="29" terrain="14"/>
+  <hex row="13" col="30" terrain="6"/>
+  <hex row="13" col="31" terrain="6"/>
+  <hex row="14" col="1" terrain="16"/>
+  <hex row="14" col="3" terrain="16"/>
+  <hex row="14" col="4" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="5" terrain="16"/>
+  <hex row="14" col="6" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="7" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="8" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="9" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="10" terrain="10" name="Ascidera River"/>
+  <hex row="14" col="13" road="33"/>
+  <hex row="14" col="14" terrain="16"/>
+  <hex row="14" col="15" terrain="16"/>
+  <hex row="14" col="16" terrain="16" deploy="0"/>
+  <hex row="14" col="17" terrain="16" deploy="0"/>
+  <hex row="14" col="18" deploy="0"/>
+  <hex row="14" col="19" deploy="0"/>
+  <hex row="14" col="23" terrain="7">
+    <unit id="346" owner="0" flag="23" face="6" exp="248"/>
+  </hex>
+  <hex row="14" col="24" terrain="5"/>
+  <hex row="14" col="25" terrain="5"/>
+  <hex row="14" col="26" terrain="6"/>
+  <hex row="14" col="27" terrain="6"/>
+  <hex row="14" col="28" terrain="6"/>
+  <hex row="14" col="29" terrain="6"/>
+  <hex row="14" col="30" terrain="6"/>
+  <hex row="14" col="31" terrain="6"/>
+  <hex row="15" col="1" terrain="16" road="40"/>
+  <hex row="15" col="2" terrain="16"/>
+  <hex row="15" col="3" terrain="16"/>
+  <hex row="15" col="4" terrain="16"/>
+  <hex row="15" col="5" terrain="16"/>
+  <hex row="15" col="6" terrain="16"/>
+  <hex row="15" col="9" road="40"/>
+  <hex row="15" col="11" road="34"/>
+  <hex row="15" col="12" road="34"/>
+  <hex row="15" col="13" terrain="16"/>
+  <hex row="15" col="14" terrain="16"/>
+  <hex row="15" col="15" terrain="16"/>
+  <hex row="15" col="16" terrain="16"/>
+  <hex row="15" col="17" terrain="16"/>
+  <hex row="15" col="18" terrain="16" deploy="0"/>
+  <hex row="15" col="19" terrain="16"/>
+  <hex row="15" col="21" terrain="16"/>
+  <hex row="15" col="22" terrain="7"/>
+  <hex row="15" col="23" terrain="7"/>
+  <hex row="15" col="24" terrain="7">
+    <unit id="346" owner="0" flag="23" face="6" exp="213"/>
+  </hex>
+  <hex row="15" col="28" terrain="5"/>
+  <hex row="15" col="29" terrain="6"/>
+  <hex row="15" col="30" terrain="6"/>
+  <hex row="16" col="0" road="34"/>
+  <hex row="16" col="1" terrain="16"/>
+  <hex row="16" col="2" road="136"/>
+  <hex row="16" col="3" road="130"/>
+  <hex row="16" col="4" terrain="16" road="40"/>
+  <hex row="16" col="5" road="136">
+    <unit id="387" owner="0" flag="23" face="4" exp="182" str="5"/>
+  </hex>
+  <hex row="16" col="6" terrain="16"/>
+  <hex row="16" col="7" road="42"/>
+  <hex row="16" col="8" road="34"/>
+  <hex row="16" col="10" road="130"/>
+  <hex row="16" col="11" terrain="16"/>
+  <hex row="16" col="12" terrain="16"/>
+  <hex row="16" col="13" terrain="16"/>
+  <hex row="16" col="14" terrain="16"/>
+  <hex row="16" col="15" terrain="16"/>
+  <hex row="16" col="16" terrain="16"/>
+  <hex row="16" col="17" terrain="16"/>
+  <hex row="16" col="18" terrain="16"/>
+  <hex row="16" col="19" terrain="16"/>
+  <hex row="16" col="21" terrain="16"/>
+  <hex row="16" col="22" terrain="16"/>
+  <hex row="16" col="23" terrain="16"/>
+  <hex row="16" col="24" terrain="7"/>
+  <hex row="16" col="28" terrain="5"/>
+  <hex row="16" col="29" terrain="6"/>
+  <hex row="16" col="30" terrain="6"/>
+  <hex row="16" col="31" terrain="6"/>
+  <hex row="17" col="1" terrain="16"/>
+  <hex row="17" col="2" terrain="16"/>
+  <hex row="17" col="3" terrain="16"/>
+  <hex row="17" col="4" terrain="16">
+    <unit id="392" owner="0" flag="23" face="4" exp="117" str="6"/>
+  </hex>
+  <hex row="17" col="5" terrain="2" flag="22" owner="0" victory="0" supply="0">
+    <unit id="392" owner="0" flag="23" face="4" exp="110" str="6"/>
+  </hex>
+  <hex row="17" col="6" road="130"/>
+  <hex row="17" col="8" road="136"/>
+  <hex row="17" col="9" road="136"/>
+  <hex row="17" col="11" terrain="16" road="40"/>
+  <hex row="17" col="12" terrain="16"/>
+  <hex row="17" col="15" terrain="5"/>
+  <hex row="17" col="18" terrain="16"/>
+  <hex row="17" col="20" terrain="16"/>
+  <hex row="17" col="21" terrain="16"/>
+  <hex row="17" col="22" terrain="16"/>
+  <hex row="17" col="23" terrain="16"/>
+  <hex row="17" col="24" terrain="16"/>
+  <hex row="17" col="28" terrain="5"/>
+  <hex row="17" col="30" terrain="6"/>
+  <hex row="17" col="31" terrain="6"/>
+  <hex row="18" col="1" terrain="16"/>
+  <hex row="18" col="2" terrain="16"/>
+  <hex row="18" col="3" terrain="16"/>
+  <hex row="18" col="5" terrain="16"/>
+  <hex row="18" col="6" terrain="2"/>
+  <hex row="18" col="7" terrain="5"/>
+  <hex row="18" col="8" terrain="16"/>
+  <hex row="18" col="10" road="130"/>
+  <hex row="18" col="11" terrain="5"/>
+  <hex row="18" col="12" road="144"/>
+  <hex row="18" col="13" terrain="5"/>
+  <hex row="18" col="14" terrain="5"/>
+  <hex row="18" col="15" terrain="5"/>
+  <hex row="18" col="16" terrain="5"/>
+  <hex row="18" col="17" terrain="5"/>
+  <hex row="18" col="18" terrain="5"/>
+  <hex row="18" col="19" terrain="5"/>
+  <hex row="18" col="20" terrain="16"/>
+  <hex row="18" col="21" terrain="16"/>
+  <hex row="18" col="23" terrain="4"/>
+  <hex row="18" col="24" terrain="4"/>
+  <hex row="18" col="25" terrain="4"/>
+  <hex row="18" col="26" terrain="5"/>
+  <hex row="18" col="27" terrain="5"/>
+  <hex row="18" col="28" terrain="5"/>
+  <hex row="18" col="29" terrain="6"/>
+  <hex row="18" col="30" terrain="6"/>
+  <hex row="18" col="31" terrain="6"/>
+  <hex row="19" col="2" terrain="16"/>
+  <hex row="19" col="4" terrain="16"/>
+  <hex row="19" col="8" terrain="5"/>
+  <hex row="19" col="10" terrain="5"/>
+  <hex row="19" col="12" terrain="5" road="17"/>
+  <hex row="19" col="14" terrain="5"/>
+  <hex row="19" col="16" terrain="5"/>
+  <hex row="19" col="18" terrain="5"/>
+  <hex row="19" col="22" terrain="4"/>
+  <hex row="19" col="24" terrain="4"/>
+  <hex row="19" col="26" terrain="5"/>
+  <hex row="19" col="28" terrain="5"/>
+</map>

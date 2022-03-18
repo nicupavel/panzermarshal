@@ -1,0 +1,35 @@
+{
+"indexes":{
+"unitclass":{
+"1":[591,593,825,852,3178,3748],
+"3":[3246],
+"4":[3619],
+"6":[3342],
+"7":[718,3368,3727,3740],
+"8":[723,3419],
+"9":[870,1260],
+"13":[3621],
+"18":[585]}
+}
+,"parsehints":["gunrange","icon","yearexpired","cost","initiative","spotrange","hardatk","softatk","uclass","airdef","fuel","airseaweight","rangedefmod","airatk","groundweight","movmethod","navalatk","embark","movpoints","grounddef","target","yearavailable","name","country","closedef","ammo","attr"],
+"units":{
+"585":[1,"resources/units/images/stran.png",1946,26,5,2,0,0,18,10,0,1,2,5,0,6,1,0,5,4,3,1927,"Sea Transport",22,0,4,241],
+"591":[1,"resources/units/images/jk136.png",1946,12,1,2,2,5,1,7,0,129,8,0,2,3,1,2,4,5,0,1927,"Regular [A]",22,1,9,4161],
+"593":[1,"resources/units/images/jk167.png",1946,12,1,3,1,2,1,5,0,0,6,0,0,8,1,0,3,4,0,1936,"Guerrilla [m]",22,0,9,4673],
+"718":[1,"resources/units/images/td65.png",1946,2,0,1,0,0,7,0,0,0,1,0,4,8,0,0,4,1,0,1927,"Wagon",22,0,0,113],
+"723":[3,"resources/units/images/pt373.png",1946,15,2,2,3,6,8,6,0,129,2,0,17,3,1,2,2,2,0,1938,"Type 94 75mm [A]",22,0,9,65],
+"825":[1,"resources/units/images/jk135.png",1946,14,2,2,2,5,1,8,0,129,8,1,2,3,1,2,3,8,0,1936,"Shock Troops [A]",22,1,10,4161],
+"852":[1,"resources/units/images/jk176.png",1946,16,1,3,1,6,1,7,0,0,6,1,0,8,1,0,5,6,0,1936,"Cavalry",22,0,9,4161],
+"870":[1,"resources/units/images/pt217.png",1946,6,7,2,1,2,9,6,0,129,9,8,1,3,1,2,2,2,0,1938,"20mm AA [AS]",22,4,12,6145],
+"1260":[1,"resources/units/images/pa708.png",1946,4,6,2,1,2,9,6,0,129,9,5,17,3,1,2,3,2,0,1927,"AA-MG [AS]",22,4,12,6145],
+"3178":[1,"resources/units/images/jk138.png",1946,11,1,3,1,3,1,3,0,129,6,0,32,3,1,2,2,3,0,1927,"HQ Detail [AC]",22,0,5,200769],
+"3246":[1,"resources/units/images/tdf18.png",1946,8,3,3,1,3,3,6,0,0,6,0,0,8,0,0,6,4,0,1927,"Light Cavalry",22,0,6,65],
+"3342":[2,"resources/units/images/kkb42.png",1946,3,0,3,1,2,6,2,0,0,8,1,0,8,0,0,0,3,0,1927,"Guard Tower",22,0,7,193],
+"3368":[1,"resources/units/images/h27.png",1946,1,0,1,0,0,7,0,0,0,1,0,16,3,0,0,3,1,0,1927,"Mules [m]",22,0,0,625],
+"3419":[2,"resources/units/images/jk170.png",1946,12,5,2,2,10,8,6,0,129,6,0,17,3,1,2,3,6,0,1938,"Type 97 81mm [A]",22,0,12,2113],
+"3619":[2,"resources/units/images/jk140.png",1946,12,5,2,1,6,4,6,0,129,9,3,17,3,1,2,2,6,0,1927,"Maxim MG [AS]",22,5,6,6209],
+"3621":[1,"resources/units/images/pa678.png",1946,41,1,2,0,0,13,6,0,128,1,0,0,5,0,0,16,8,2,1945,"Li-2",22,0,0,241],
+"3727":[1,"resources/units/images/jku14.png",1946,2,0,1,0,0,7,0,0,0,1,0,32,8,0,0,4,1,0,1927,"Staff Carriage",22,0,0,113],
+"3740":[1,"resources/units/images/tdz98.png",1946,2,0,1,0,0,7,0,0,0,1,0,1,8,0,0,5,1,0,1927,"Light Horse",22,0,0,113],
+"3748":[1,"resources/units/images/jk145.png",1946,4,0,2,1,2,1,4,0,1,4,0,0,8,1,1,2,3,0,1927,"Militia",22,0,8,135233]}
+}

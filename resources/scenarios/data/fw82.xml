@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="fw82.scn" name="Bzura Counterattack" turns="20, 23, 28" date="September 09, 1939" dayturns="10" ground="0" atmosferic="1" latitude="3" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_509.png">
+  <player id="0" country="7" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="15" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20"/>
+  <reinforce turn="9">
+    <at row="16" col="2">
+      <unit id="92" owner="0" flag="8" face="6" transport="158"/>
+    </at>
+    <at row="31" col="17">
+      <unit id="693" owner="0" flag="8" face="8" transport="157" exp="100" str="8"/>
+    </at>
+    <at row="31" col="19">
+      <unit id="115" owner="0" flag="8" face="8" transport="158" exp="159"/>
+    </at>
+    <at row="32" col="15">
+      <unit id="115" owner="0" flag="8" face="8" transport="158" exp="100"/>
+    </at>
+    <at row="16" col="1">
+      <unit id="1225" owner="0" flag="8" face="6" transport="157" exp="100" str="8"/>
+    </at>
+    <at row="14" col="1">
+      <unit id="115" owner="0" flag="8" face="6" exp="100"/>
+    </at>
+    <at row="15" col="1">
+      <unit id="111" owner="0" flag="8" face="6" transport="158" exp="159" str="6"/>
+    </at>
+    <at row="32" col="19">
+      <unit id="93" owner="0" flag="8" face="8" transport="157"/>
+    </at>
+    <at row="18" col="35">
+      <unit id="115" owner="0" flag="8" face="1" exp="34"/>
+    </at>
+    <at row="33" col="18">
+      <unit id="115" owner="0" flag="8" face="8" transport="158" exp="120"/>
+    </at>
+    <at row="15" col="2">
+      <unit id="115" owner="0" flag="8" face="6" exp="100"/>
+    </at>
+    <at row="32" col="20">
+      <unit id="136" owner="0" flag="8" face="8" exp="120" ldr="1"/>
+    </at>
+    <at row="32" col="17">
+      <unit id="111" owner="0" flag="8" face="8" transport="158" exp="100" str="8"/>
+    </at>
+    <at row="14" col="3">
+      <unit id="115" owner="0" flag="8" face="6" exp="100"/>
+    </at>
+  </reinforce>
+  <reinforce turn="11">
+    <at row="33" col="32">
+      <unit id="111" owner="0" flag="8" face="6" transport="158" exp="99" str="8"/>
+    </at>
+    <at row="32" col="32">
+      <unit id="115" owner="0" flag="8" face="8" transport="158" exp="99"/>
+    </at>
+    <at row="31" col="34">
+      <unit id="1253" owner="0" flag="8" face="5" exp="100" str="8"/>
+    </at>
+    <at row="32" col="34">
+      <unit id="1225" owner="0" flag="8" face="5" transport="158" exp="100" str="8"/>
+    </at>
+    <at row="32" col="33">
+      <unit id="92" owner="0" flag="8" face="5" transport="158" exp="90"/>
+    </at>
+    <at row="32" col="31">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="90"/>
+    </at>
+    <at row="31" col="33">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="90"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="3"/>
+  <hex row="0" col="2" terrain="3"/>
+  <hex row="0" col="6" road="17"/>
+  <hex row="0" col="10" terrain="3"/>
+  <hex row="0" col="11" terrain="3"/>
+  <hex row="0" col="12" terrain="3"/>
+  <hex row="0" col="13" terrain="3"/>
+  <hex row="0" col="14" terrain="3"/>
+  <hex row="0" col="15" terrain="3"/>
+  <hex row="0" col="16" terrain="3"/>
+  <hex row="0" col="17" terrain="3"/>
+  <hex row="0" col="18" terrain="3"/>
+  <hex row="0" col="19" terrain="3"/>
+  <hex row="0" col="20" terrain="3"/>
+  <hex row="0" col="21" terrain="3"/>
+  <hex row="0" col="22" terrain="3"/>
+  <hex row="0" col="23" terrain="3"/>
+  <hex row="0" col="24" terrain="3"/>
+  <hex row="0" col="25" terrain="3"/>
+  <hex row="0" col="26" terrain="3"/>
+  <hex row="0" col="27" terrain="3"/>
+  <hex row="0" col="35" road="34"/>
+  <hex row="1" col="1" terrain="3"/>
+  <hex row="1" col="2" terrain="3"/>
+  <hex row="1" col="6" road="17" name="Polish Supply Point" flag="15" owner="1" supply="1"/>
+  <hex row="1" col="10" terrain="3"/>
+  <hex row="1" col="12" terrain="3"/>
+  <hex row="1" col="14" terrain="3"/>
+  <hex row="1" col="15" terrain="3"/>
+  <hex row="1" col="16" terrain="3"/>
+  <hex row="1" col="17" terrain="3"/>
+  <hex row="1" col="18" terrain="3"/>
+  <hex row="1" col="20" terrain="3"/>
+  <hex row="1" col="21" terrain="3"/>
+  <hex row="1" col="22" terrain="3"/>
+  <hex row="1" col="24" terrain="3"/>
+  <hex row="1" col="26" terrain="3"/>
+  <hex row="1" col="33" road="50"/>
+  <hex row="1" col="34" road="34" flag="15" owner="1" supply="1"/>
+  <hex row="2" col="2" terrain="3"/>
+  <hex row="2" col="5" road="34"/>
+  <hex row="2" col="6" road="33"/>
+  <hex row="2" col="31" road="34"/>
+  <hex row="2" col="32" road="34"/>
+  <hex row="2" col="33" road="17"/>
+  <hex row="2" col="35" terrain="2" flag="15" owner="1">
+    <unit id="281" owner="1" flag="16" face="0"/>
+  </hex>
+  <hex row="3" col="1" terrain="3"/>
+  <hex row="3" col="2" terrain="3"/>
+  <hex row="3" col="4" road="18"/>
+  <hex row="3" col="13" terrain="4"/>
+  <hex row="3" col="19" terrain="4"/>
+  <hex row="3" col="20" terrain="4"/>
+  <hex row="3" col="21" terrain="4"/>
+  <hex row="3" col="27" road="24"/>
+  <hex row="3" col="29" road="34"/>
+  <hex row="3" col="30" road="34"/>
+  <hex row="3" col="33" road="33"/>
+  <hex row="3" col="34" terrain="2" deploy="1">
+    <unit id="280" owner="1" flag="16" face="0"/>
+  </hex>
+  <hex row="3" col="35" road="33"/>
+  <hex row="4" col="2" terrain="3"/>
+  <hex row="4" col="3" terrain="3"/>
+  <hex row="4" col="4" road="17"/>
+  <hex row="4" col="11" terrain="4"/>
+  <hex row="4" col="12" terrain="4"/>
+  <hex row="4" col="13" terrain="4"/>
+  <hex row="4" col="14" terrain="4"/>
+  <hex row="4" col="15" terrain="4"/>
+  <hex row="4" col="19" terrain="4"/>
+  <hex row="4" col="20" terrain="4"/>
+  <hex row="4" col="21" terrain="4"/>
+  <hex row="4" col="22" terrain="4"/>
+  <hex row="4" col="23" terrain="4"/>
+  <hex row="4" col="27" road="33"/>
+  <hex row="4" col="28" road="130"/>
+  <hex row="4" col="32" road="26"/>
+  <hex row="4" col="33" road="130"/>
+  <hex row="4" col="34" road="34"/>
+  <hex row="5" col="3" terrain="3"/>
+  <hex row="5" col="4" terrain="3" road="17"/>
+  <hex row="5" col="5" terrain="3"/>
+  <hex row="5" col="9" terrain="4"/>
+  <hex row="5" col="10" terrain="4"/>
+  <hex row="5" col="11" terrain="3"/>
+  <hex row="5" col="12" terrain="4"/>
+  <hex row="5" col="13" terrain="4"/>
+  <hex row="5" col="14" terrain="4"/>
+  <hex row="5" col="15" terrain="4"/>
+  <hex row="5" col="20" terrain="4"/>
+  <hex row="5" col="22" terrain="4"/>
+  <hex row="5" col="23" terrain="4"/>
+  <hex row="5" col="25" road="34"/>
+  <hex row="5" col="26" road="34"/>
+  <hex row="5" col="32" road="17"/>
+  <hex row="5" col="34" terrain="3"/>
+  <hex row="6" col="4" terrain="3" road="17"/>
+  <hex row="6" col="6" terrain="3"/>
+  <hex row="6" col="11" terrain="3"/>
+  <hex row="6" col="12" terrain="3"/>
+  <hex row="6" col="13" terrain="3"/>
+  <hex row="6" col="14" terrain="4"/>
+  <hex row="6" col="24" road="18"/>
+  <hex row="6" col="32" terrain="1" road="17" name="Piatek" flag="15" owner="1" victory="0"/>
+  <hex row="6" col="33" terrain="1" name="Piatek"/>
+  <hex row="7" col="3" road="18"/>
+  <hex row="7" col="4" road="33"/>
+  <hex row="7" col="12" terrain="3"/>
+  <hex row="7" col="17" terrain="10" name="Bzura River"/>
+  <hex row="7" col="19" terrain="10" name="Bzura River"/>
+  <hex row="7" col="22" terrain="1" name="Shigi" flag="15" owner="1"/>
+  <hex row="7" col="24" road="17"/>
+  <hex row="7" col="32" terrain="1" road="17" name="Piatek"/>
+  <hex row="7" col="37" terrain="3"/>
+  <hex row="7" col="38" terrain="3"/>
+  <hex row="7" col="39" terrain="3"/>
+  <hex row="8" col="3" road="33"/>
+  <hex row="8" col="15" terrain="10" name="Bzura River"/>
+  <hex row="8" col="16" terrain="10" name="Bzura River"/>
+  <hex row="8" col="17" terrain="16"/>
+  <hex row="8" col="18" terrain="10" name="Bzura River"/>
+  <hex row="8" col="20" terrain="10" name="Bzura River"/>
+  <hex row="8" col="21" terrain="10" name="Bzura River"/>
+  <hex row="8" col="23" terrain="10" name="Bzura River"/>
+  <hex row="8" col="24" road="17"/>
+  <hex row="8" col="25" terrain="10" name="Bzura River"/>
+  <hex row="8" col="26" terrain="10" name="Bzura River"/>
+  <hex row="8" col="27" terrain="15" name="Bzura River"/>
+  <hex row="8" col="29" terrain="15" name="Bzura River"/>
+  <hex row="8" col="32" road="9"/>
+  <hex row="8" col="33" road="144"/>
+  <hex row="8" col="36" terrain="3"/>
+  <hex row="8" col="37" terrain="3"/>
+  <hex row="9" col="2" road="18"/>
+  <hex row="9" col="6">
+    <unit id="268" owner="1" flag="16" face="14" transport="278" str="8"/>
+  </hex>
+  <hex row="9" col="7">
+    <unit id="1475" owner="1" flag="16" face="14" transport="278"/>
+  </hex>
+  <hex row="9" col="9" road="40"/>
+  <hex row="9" col="11" terrain="1" name="Marynki" flag="15" owner="1"/>
+  <hex row="9" col="15" terrain="10" name="Bzura River"/>
+  <hex row="9" col="17" terrain="16"/>
+  <hex row="9" col="18" terrain="3" name="Polish Bridgehead" flag="15" owner="1" victory="0" supply="1"/>
+  <hex row="9" col="19" terrain="3"/>
+  <hex row="9" col="20" terrain="3"/>
+  <hex row="9" col="22" terrain="10" name="Bzura River"/>
+  <hex row="9" col="24" road="17" name="Bzura River"/>
+  <hex row="9" col="25">
+    <unit id="1475" owner="1" flag="16" face="0" transport="278" str="8"/>
+  </hex>
+  <hex row="9" col="26">
+    <unit id="268" owner="1" flag="16" face="0" transport="278" str="8"/>
+  </hex>
+  <hex row="9" col="27" terrain="10" name="Bzura River"/>
+  <hex row="9" col="28" terrain="15" name="Bzura River"/>
+  <hex row="9" col="30" terrain="10" name="Bzura River"/>
+  <hex row="9" col="31" terrain="10" name="Bzura River"/>
+  <hex row="9" col="32" terrain="10" name="Bzura River"/>
+  <hex row="9" col="33" road="17" name="Bzura River"/>
+  <hex row="9" col="37" terrain="3"/>
+  <hex row="9" col="39" terrain="3"/>
+  <hex row="10" col="1" road="18"/>
+  <hex row="10" col="2" road="33"/>
+  <hex row="10" col="3">
+    <unit id="1473" owner="1" flag="16" face="1" transport="278"/>
+  </hex>
+  <hex row="10" col="8" road="18"/>
+  <hex row="10" col="10" road="130"/>
+  <hex row="10" col="13" terrain="10" name="Bzura River"/>
+  <hex row="10" col="14" terrain="10" name="Bzura River"/>
+  <hex row="10" col="15" terrain="10" name="Bzura River"/>
+  <hex row="10" col="16" terrain="16"/>
+  <hex row="10" col="17" terrain="16"/>
+  <hex row="10" col="18" terrain="3"/>
+  <hex row="10" col="19" terrain="3"/>
+  <hex row="10" col="22" terrain="3"/>
+  <hex row="10" col="23" terrain="3" deploy="1">
+    <unit id="268" owner="1" flag="16" face="0" transport="279" str="8"/>
+  </hex>
+  <hex row="10" col="24" road="17">
+    <unit id="706" owner="1" flag="16" face="0" str="5"/>
+  </hex>
+  <hex row="10" col="25" deploy="1">
+    <unit id="270" owner="1" flag="16" face="0" transport="278"/>
+  </hex>
+  <hex row="10" col="26" deploy="1">
+    <unit id="1479" owner="1" flag="16" face="0" exp="56" str="8"/>
+  </hex>
+  <hex row="10" col="27" deploy="1"/>
+  <hex row="10" col="28" terrain="10" name="Bzura River"/>
+  <hex row="10" col="33" road="17"/>
+  <hex row="10" col="34" terrain="10" name="Bzura River"/>
+  <hex row="10" col="35" terrain="10" name="Bzura River"/>
+  <hex row="10" col="36" terrain="3"/>
+  <hex row="10" col="37" terrain="3"/>
+  <hex row="10" col="40" terrain="3"/>
+  <hex row="11" col="1" road="17"/>
+  <hex row="11" col="2" deploy="1"/>
+  <hex row="11" col="3" deploy="1"/>
+  <hex row="11" col="4" deploy="1"/>
+  <hex row="11" col="5" deploy="1"/>
+  <hex row="11" col="6" deploy="1"/>
+  <hex row="11" col="7" road="34"/>
+  <hex row="11" col="8" road="33"/>
+  <hex row="11" col="9" terrain="10" name="Bzura River"/>
+  <hex row="11" col="11" terrain="10" name="Bzura River"/>
+  <hex row="11" col="13" terrain="10" name="Bzura River"/>
+  <hex row="11" col="15" terrain="16"/>
+  <hex row="11" col="16" terrain="3"/>
+  <hex row="11" col="17" terrain="3"/>
+  <hex row="11" col="18" terrain="3"/>
+  <hex row="11" col="19" terrain="3"/>
+  <hex row="11" col="20" terrain="3"/>
+  <hex row="11" col="21" terrain="3"/>
+  <hex row="11" col="22" terrain="3"/>
+  <hex row="11" col="23" terrain="3" deploy="1"/>
+  <hex row="11" col="24" terrain="3" road="9" deploy="1">
+    <unit id="270" owner="1" flag="16" face="0" transport="279"/>
+  </hex>
+  <hex row="11" col="25" terrain="1" road="144" name="Bryski" flag="7" owner="0" victory="1">
+    <unit id="115" owner="0" flag="8" face="8" exp="34"/>
+  </hex>
+  <hex row="11" col="26" deploy="1"/>
+  <hex row="11" col="28" terrain="10" name="Bzura River"/>
+  <hex row="11" col="29" terrain="10" name="Bzura River"/>
+  <hex row="11" col="33" road="9"/>
+  <hex row="11" col="36" terrain="10" name="Bzura River"/>
+  <hex row="11" col="37" terrain="10" name="Bzura River"/>
+  <hex row="11" col="39" terrain="10" name="Bzura River"/>
+  <hex row="12" col="1" terrain="1" road="25" name="Leczyca" deploy="0"/>
+  <hex row="12" col="2">
+    <unit id="1479" owner="1" flag="16" face="0" exp="78" str="8"/>
+  </hex>
+  <hex row="12" col="3" terrain="1" road="40" name="Leczyca"/>
+  <hex row="12" col="4">
+    <unit id="270" owner="1" flag="16" face="0" transport="279"/>
+  </hex>
+  <hex row="12" col="5" road="34"/>
+  <hex row="12" col="6" road="34">
+    <unit id="1253" owner="0" flag="8" face="13" str="6"/>
+  </hex>
+  <hex row="12" col="7" terrain="10" name="Bzura River"/>
+  <hex row="12" col="8" terrain="10" name="Bzura River"/>
+  <hex row="12" col="9" terrain="3"/>
+  <hex row="12" col="10" terrain="10" name="Bzura River"/>
+  <hex row="12" col="12" terrain="10" name="Bzura River"/>
+  <hex row="12" col="13" terrain="16"/>
+  <hex row="12" col="14" terrain="16"/>
+  <hex row="12" col="15" terrain="16"/>
+  <hex row="12" col="16" terrain="3"/>
+  <hex row="12" col="17" terrain="3"/>
+  <hex row="12" col="18" terrain="3"/>
+  <hex row="12" col="20" terrain="3"/>
+  <hex row="12" col="21" terrain="3"/>
+  <hex row="12" col="22" terrain="3"/>
+  <hex row="12" col="23" terrain="3"/>
+  <hex row="12" col="24" terrain="1" name="Bryski"/>
+  <hex row="12" col="25" road="9"/>
+  <hex row="12" col="30" terrain="10" name="Bzura River"/>
+  <hex row="12" col="34" road="144"/>
+  <hex row="12" col="38" terrain="10" name="Bzura River"/>
+  <hex row="12" col="40" terrain="10" name="Bzura River"/>
+  <hex row="13" col="1" terrain="1" road="17" name="Leczyca" deploy="0"/>
+  <hex row="13" col="2" terrain="1" road="130" name="Leczyca" flag="7" owner="0" victory="1" deploy="0"/>
+  <hex row="13" col="3" terrain="1" name="Leczyca" deploy="0"/>
+  <hex row="13" col="4" road="138" deploy="0"/>
+  <hex row="13" col="5" road="136">
+    <unit id="115" owner="0" flag="8" face="2" exp="34"/>
+  </hex>
+  <hex row="13" col="8" terrain="10" name="Bzura River"/>
+  <hex row="13" col="9" terrain="10" name="Bzura River"/>
+  <hex row="13" col="10" terrain="3"/>
+  <hex row="13" col="12" terrain="16"/>
+  <hex row="13" col="13" terrain="16"/>
+  <hex row="13" col="14" terrain="5"/>
+  <hex row="13" col="15" terrain="16"/>
+  <hex row="13" col="19" terrain="16"/>
+  <hex row="13" col="20" terrain="3"/>
+  <hex row="13" col="21" terrain="3"/>
+  <hex row="13" col="26" road="136"/>
+  <hex row="13" col="27" road="144"/>
+  <hex row="13" col="30" terrain="10" name="Bzura River"/>
+  <hex row="13" col="34" road="17"/>
+  <hex row="13" col="39" terrain="3"/>
+  <hex row="13" col="40" terrain="3"/>
+  <hex row="14" col="1" road="17"/>
+  <hex row="14" col="2" deploy="0"/>
+  <hex row="14" col="4">
+    <unit id="111" owner="0" flag="8" face="3" transport="158" exp="50" str="8" ldr="1"/>
+  </hex>
+  <hex row="14" col="5" terrain="10" name="Bzura River"/>
+  <hex row="14" col="7" terrain="10" name="Bzura River"/>
+  <hex row="14" col="8" terrain="10" name="Bzura River"/>
+  <hex row="14" col="9" terrain="10" name="Bzura River">
+    <unit id="270" owner="1" flag="16" face="14" transport="279"/>
+  </hex>
+  <hex row="14" col="13" terrain="1" name="Tum" flag="15" owner="1" victory="1" deploy="1">
+    <unit id="270" owner="1" flag="16" face="15" transport="279"/>
+  </hex>
+  <hex row="14" col="14" terrain="5" deploy="1">
+    <unit id="1473" owner="1" flag="16" face="15" transport="279"/>
+  </hex>
+  <hex row="14" col="15" terrain="16" deploy="1"/>
+  <hex row="14" col="17" terrain="3"/>
+  <hex row="14" col="19" terrain="3"/>
+  <hex row="14" col="20" terrain="3"/>
+  <hex row="14" col="21" terrain="3"/>
+  <hex row="14" col="23" terrain="16"/>
+  <hex row="14" col="24" terrain="14"/>
+  <hex row="14" col="25" terrain="3"/>
+  <hex row="14" col="26">
+    <unit id="92" owner="0" flag="8" face="9" transport="158" str="6"/>
+  </hex>
+  <hex row="14" col="27" terrain="3" road="9"/>
+  <hex row="14" col="30" terrain="10" name="Bzura River"/>
+  <hex row="14" col="34" road="9"/>
+  <hex row="14" col="35" road="144"/>
+  <hex row="14" col="37" terrain="3"/>
+  <hex row="14" col="38" terrain="3"/>
+  <hex row="14" col="39" terrain="3"/>
+  <hex row="14" col="40" terrain="3"/>
+  <hex row="15" col="1" road="17"/>
+  <hex row="15" col="4" terrain="10" name="Bzura River"/>
+  <hex row="15" col="6" terrain="10" name="Bzura River"/>
+  <hex row="15" col="7" road="8"/>
+  <hex row="15" col="9" terrain="4"/>
+  <hex row="15" col="12" deploy="1">
+    <unit id="270" owner="1" flag="16" face="14" transport="279"/>
+  </hex>
+  <hex row="15" col="13" deploy="1">
+    <unit id="270" owner="1" flag="16" face="15" transport="279"/>
+  </hex>
+  <hex row="15" col="14" deploy="1"/>
+  <hex row="15" col="15" deploy="1"/>
+  <hex row="15" col="18" terrain="5"/>
+  <hex row="15" col="19" terrain="5"/>
+  <hex row="15" col="20" terrain="3"/>
+  <hex row="15" col="21" terrain="3"/>
+  <hex row="15" col="22" terrain="3"/>
+  <hex row="15" col="25" terrain="3"/>
+  <hex row="15" col="26" terrain="3"/>
+  <hex row="15" col="27" terrain="3"/>
+  <hex row="15" col="28" road="144"/>
+  <hex row="15" col="29" terrain="1" name="Striga" flag="7" owner="0" victory="1"/>
+  <hex row="15" col="30" terrain="10" name="Bzura River"/>
+  <hex row="15" col="31" terrain="10" name="Bzura River"/>
+  <hex row="15" col="33">
+    <unit id="267" owner="1" flag="16" face="0" str="6"/>
+  </hex>
+  <hex row="15" col="35" road="17"/>
+  <hex row="15" col="37" terrain="3"/>
+  <hex row="15" col="38" terrain="3"/>
+  <hex row="15" col="39" terrain="3"/>
+  <hex row="15" col="40" terrain="3"/>
+  <hex row="16" col="1" road="17"/>
+  <hex row="16" col="3" terrain="10" name="Bzura River"/>
+  <hex row="16" col="4" terrain="10" name="Bzura River"/>
+  <hex row="16" col="7" terrain="4"/>
+  <hex row="16" col="8" road="136"/>
+  <hex row="16" col="9" road="136"/>
+  <hex row="16" col="11" terrain="4"/>
+  <hex row="16" col="14" deploy="1">
+    <unit id="277" owner="1" flag="16" face="0" str="5"/>
+  </hex>
+  <hex row="16" col="15" deploy="1"/>
+  <hex row="16" col="16" deploy="1"/>
+  <hex row="16" col="18" terrain="5"/>
+  <hex row="16" col="21" terrain="16"/>
+  <hex row="16" col="22" terrain="3"/>
+  <hex row="16" col="23" terrain="3"/>
+  <hex row="16" col="24" terrain="3"/>
+  <hex row="16" col="26" terrain="3"/>
+  <hex row="16" col="28" road="9"/>
+  <hex row="16" col="29" road="144"/>
+  <hex row="16" col="30" terrain="3"/>
+  <hex row="16" col="31" terrain="10" name="Bzura River"/>
+  <hex row="16" col="32" terrain="8"/>
+  <hex row="16" col="33" terrain="8"/>
+  <hex row="16" col="35" road="17" deploy="1">
+    <unit id="706" owner="1" flag="16" face="0" str="5" ldr="1"/>
+  </hex>
+  <hex row="16" col="38" terrain="3"/>
+  <hex row="16" col="39" terrain="3"/>
+  <hex row="16" col="40" terrain="3"/>
+  <hex row="17" col="1" terrain="10" name="Bzura River"/>
+  <hex row="17" col="2" terrain="10" name="Bzura River"/>
+  <hex row="17" col="8" terrain="4"/>
+  <hex row="17" col="9" terrain="4"/>
+  <hex row="17" col="10" road="144"/>
+  <hex row="17" col="11" terrain="4"/>
+  <hex row="17" col="16" terrain="3" deploy="1"/>
+  <hex row="17" col="17" terrain="3"/>
+  <hex row="17" col="20" terrain="16"/>
+  <hex row="17" col="21" terrain="16"/>
+  <hex row="17" col="22" terrain="16"/>
+  <hex row="17" col="29" road="17"/>
+  <hex row="17" col="30" terrain="3"/>
+  <hex row="17" col="32" terrain="10" name="Bzura River"/>
+  <hex row="17" col="33" terrain="10" name="Bzura River"/>
+  <hex row="17" col="34">
+    <unit id="267" owner="1" flag="16" face="0" str="6"/>
+  </hex>
+  <hex row="17" col="35" road="17" deploy="1">
+    <unit id="267" owner="1" flag="16" face="0" str="6"/>
+  </hex>
+  <hex row="17" col="36" deploy="1"/>
+  <hex row="17" col="37" terrain="3"/>
+  <hex row="17" col="38" terrain="3"/>
+  <hex row="17" col="39" terrain="3"/>
+  <hex row="17" col="40" terrain="3"/>
+  <hex row="18" col="1" terrain="10" name="Bzura River"/>
+  <hex row="18" col="4" terrain="4"/>
+  <hex row="18" col="5" terrain="4"/>
+  <hex row="18" col="10" terrain="4" road="9"/>
+  <hex row="18" col="11" road="136"/>
+  <hex row="18" col="12" terrain="4"/>
+  <hex row="18" col="13" terrain="4"/>
+  <hex row="18" col="16" terrain="3"/>
+  <hex row="18" col="17" terrain="3"/>
+  <hex row="18" col="18" terrain="3"/>
+  <hex row="18" col="19" terrain="3"/>
+  <hex row="18" col="20" terrain="16"/>
+  <hex row="18" col="22" terrain="16"/>
+  <hex row="18" col="29" road="17"/>
+  <hex row="18" col="33" terrain="10" name="Bzura River"/>
+  <hex row="18" col="34" terrain="3"/>
+  <hex row="18" col="35" road="17"/>
+  <hex row="18" col="37" terrain="3"/>
+  <hex row="18" col="38" terrain="3"/>
+  <hex row="18" col="39" terrain="3"/>
+  <hex row="18" col="40" terrain="3"/>
+  <hex row="19" col="0" road="9"/>
+  <hex row="19" col="1" terrain="10" road="136" name="Bzura River"/>
+  <hex row="19" col="5" terrain="4"/>
+  <hex row="19" col="6" terrain="4"/>
+  <hex row="19" col="7" terrain="4"/>
+  <hex row="19" col="8" terrain="4"/>
+  <hex row="19" col="9" terrain="4"/>
+  <hex row="19" col="10" terrain="4"/>
+  <hex row="19" col="12" road="144"/>
+  <hex row="19" col="13" terrain="4"/>
+  <hex row="19" col="17" terrain="3"/>
+  <hex row="19" col="18" terrain="3"/>
+  <hex row="19" col="19" terrain="3"/>
+  <hex row="19" col="20" terrain="3"/>
+  <hex row="19" col="21" terrain="3"/>
+  <hex row="19" col="22" terrain="3"/>
+  <hex row="19" col="23" terrain="3"/>
+  <hex row="19" col="24" terrain="3"/>
+  <hex row="19" col="25" terrain="3"/>
+  <hex row="19" col="29" road="17"/>
+  <hex row="19" col="33" terrain="1" name="Biala"/>
+  <hex row="19" col="35" road="33"/>
+  <hex row="19" col="38" terrain="3"/>
+  <hex row="19" col="39" terrain="3"/>
+  <hex row="19" col="40" terrain="3"/>
+  <hex row="20" col="1" terrain="10" name="Bzura River"/>
+  <hex row="20" col="2" road="136"/>
+  <hex row="20" col="3" road="136"/>
+  <hex row="20" col="6" terrain="4"/>
+  <hex row="20" col="8" terrain="4"/>
+  <hex row="20" col="11" terrain="4"/>
+  <hex row="20" col="12" road="9"/>
+  <hex row="20" col="13" road="136"/>
+  <hex row="20" col="17" terrain="3"/>
+  <hex row="20" col="18" terrain="3"/>
+  <hex row="20" col="19" terrain="3"/>
+  <hex row="20" col="20" terrain="3"/>
+  <hex row="20" col="21" terrain="3"/>
+  <hex row="20" col="22" terrain="3"/>
+  <hex row="20" col="23" terrain="3"/>
+  <hex row="20" col="24" terrain="3"/>
+  <hex row="20" col="25" terrain="3"/>
+  <hex row="20" col="29" road="9"/>
+  <hex row="20" col="33" terrain="10" road="34" name="Bzura River"/>
+  <hex row="20" col="34" terrain="1" road="34" name="Biala" flag="7" owner="0" victory="1"/>
+  <hex row="20" col="38" terrain="3"/>
+  <hex row="20" col="39" terrain="3"/>
+  <hex row="20" col="40" terrain="3"/>
+  <hex row="21" col="1" terrain="10" name="Bzura River"/>
+  <hex row="21" col="4" road="136"/>
+  <hex row="21" col="5" road="130"/>
+  <hex row="21" col="6" road="40"/>
+  <hex row="21" col="7" road="136"/>
+  <hex row="21" col="9" terrain="4"/>
+  <hex row="21" col="14" terrain="1" road="136" name="Lesmierz"/>
+  <hex row="21" col="15" terrain="1" road="136" name="Lesmierz" flag="7" owner="0" victory="1"/>
+  <hex row="21" col="20" terrain="3"/>
+  <hex row="21" col="22" terrain="3"/>
+  <hex row="21" col="23" terrain="3"/>
+  <hex row="21" col="24" terrain="3"/>
+  <hex row="21" col="25" terrain="3"/>
+  <hex row="21" col="26" terrain="3"/>
+  <hex row="21" col="30" road="136"/>
+  <hex row="21" col="31" road="34"/>
+  <hex row="21" col="32" road="34"/>
+  <hex row="21" col="34" terrain="10" name="Bzura River"/>
+  <hex row="22" col="1" terrain="10" name="Bzura River"/>
+  <hex row="22" col="8" road="136"/>
+  <hex row="22" col="9" road="136"/>
+  <hex row="22" col="14" terrain="1" name="Lesmierz"/>
+  <hex row="22" col="16" road="136"/>
+  <hex row="22" col="17" road="144"/>
+  <hex row="22" col="22" terrain="3"/>
+  <hex row="22" col="23" terrain="3"/>
+  <hex row="22" col="24" terrain="3"/>
+  <hex row="22" col="26" terrain="3"/>
+  <hex row="22" col="29" road="34"/>
+  <hex row="22" col="30" road="34"/>
+  <hex row="22" col="34" terrain="10" name="Bzura River"/>
+  <hex row="23" col="1" terrain="10" name="Bzura River"/>
+  <hex row="23" col="10" road="136"/>
+  <hex row="23" col="11" road="136"/>
+  <hex row="23" col="17" road="9"/>
+  <hex row="23" col="21" terrain="3"/>
+  <hex row="23" col="22" terrain="3"/>
+  <hex row="23" col="23" terrain="3"/>
+  <hex row="23" col="24" terrain="3"/>
+  <hex row="23" col="25" terrain="3"/>
+  <hex row="23" col="26" terrain="3"/>
+  <hex row="23" col="27" road="34"/>
+  <hex row="23" col="28" road="34"/>
+  <hex row="23" col="34" terrain="10" name="Bzura River"/>
+  <hex row="23" col="35" terrain="10" name="Bzura River"/>
+  <hex row="23" col="39" terrain="3"/>
+  <hex row="23" col="40" terrain="3"/>
+  <hex row="24" col="1" terrain="14"/>
+  <hex row="24" col="2" terrain="10" name="Bzura River"/>
+  <hex row="24" col="10" terrain="4" name="Farm"/>
+  <hex row="24" col="12" road="144"/>
+  <hex row="24" col="18" road="136"/>
+  <hex row="24" col="19" road="136"/>
+  <hex row="24" col="22" terrain="3"/>
+  <hex row="24" col="23" terrain="3"/>
+  <hex row="24" col="24" terrain="3"/>
+  <hex row="24" col="25" terrain="3" road="18"/>
+  <hex row="24" col="26" terrain="3" road="34"/>
+  <hex row="24" col="34" terrain="10" name="Bzura River"/>
+  <hex row="24" col="35" terrain="10" name="Bzura River"/>
+  <hex row="24" col="40" terrain="3"/>
+  <hex row="25" col="1" terrain="14"/>
+  <hex row="25" col="2" terrain="10" name="Bzura River"/>
+  <hex row="25" col="12" road="9"/>
+  <hex row="25" col="13" terrain="4" road="144"/>
+  <hex row="25" col="14" terrain="4"/>
+  <hex row="25" col="15" terrain="4"/>
+  <hex row="25" col="16" terrain="4"/>
+  <hex row="25" col="17" terrain="4"/>
+  <hex row="25" col="20" road="144"/>
+  <hex row="25" col="22" terrain="3"/>
+  <hex row="25" col="23" terrain="3"/>
+  <hex row="25" col="24" terrain="3"/>
+  <hex row="25" col="25" road="33"/>
+  <hex row="25" col="27" terrain="3"/>
+  <hex row="25" col="28" terrain="3"/>
+  <hex row="25" col="29" terrain="3"/>
+  <hex row="25" col="30" terrain="3"/>
+  <hex row="25" col="31" terrain="3"/>
+  <hex row="25" col="35" terrain="10" name="Bzura River"/>
+  <hex row="25" col="39" road="34"/>
+  <hex row="25" col="40" road="34"/>
+  <hex row="26" col="1" terrain="14"/>
+  <hex row="26" col="2" terrain="10" name="Bzura River"/>
+  <hex row="26" col="3" terrain="10" name="Bzura River"/>
+  <hex row="26" col="13" road="17"/>
+  <hex row="26" col="15" terrain="4"/>
+  <hex row="26" col="19" road="34"/>
+  <hex row="26" col="20" road="41"/>
+  <hex row="26" col="21" road="136"/>
+  <hex row="26" col="23" road="34"/>
+  <hex row="26" col="24" road="34"/>
+  <hex row="26" col="27" terrain="3"/>
+  <hex row="26" col="28" terrain="3"/>
+  <hex row="26" col="29" terrain="3"/>
+  <hex row="26" col="30" terrain="3"/>
+  <hex row="26" col="31" terrain="3"/>
+  <hex row="26" col="35" terrain="10" name="Bzura River"/>
+  <hex row="26" col="36" terrain="10" name="Bzura River"/>
+  <hex row="26" col="37" road="34"/>
+  <hex row="26" col="38" road="34"/>
+  <hex row="27" col="1" terrain="3"/>
+  <hex row="27" col="2" terrain="10" name="Bzura River"/>
+  <hex row="27" col="9" terrain="4"/>
+  <hex row="27" col="13" road="11"/>
+  <hex row="27" col="14" road="40"/>
+  <hex row="27" col="15" terrain="1" road="136" name="Zgierz" flag="7" owner="0"/>
+  <hex row="27" col="17" terrain="4"/>
+  <hex row="27" col="18" road="18"/>
+  <hex row="27" col="19" terrain="4"/>
+  <hex row="27" col="20" terrain="4"/>
+  <hex row="27" col="21" terrain="4"/>
+  <hex row="27" col="22" road="130"/>
+  <hex row="27" col="27" road="40"/>
+  <hex row="27" col="28" terrain="3"/>
+  <hex row="27" col="29" road="34"/>
+  <hex row="27" col="30" road="40"/>
+  <hex row="27" col="31" road="130"/>
+  <hex row="27" col="32" road="40"/>
+  <hex row="27" col="33" road="136"/>
+  <hex row="27" col="35" road="34"/>
+  <hex row="27" col="36" terrain="10" road="34" name="Bzura River"/>
+  <hex row="27" col="37" terrain="10" name="Bzura River"/>
+  <hex row="28" col="1" terrain="10" name="Bzura River"/>
+  <hex row="28" col="2" terrain="10" name="Bzura River"/>
+  <hex row="28" col="4" terrain="3"/>
+  <hex row="28" col="5" terrain="3"/>
+  <hex row="28" col="6" terrain="4"/>
+  <hex row="28" col="7" terrain="4"/>
+  <hex row="28" col="8" terrain="4"/>
+  <hex row="28" col="10" terrain="4"/>
+  <hex row="28" col="11" terrain="4"/>
+  <hex row="28" col="12" terrain="4"/>
+  <hex row="28" col="14" terrain="1" road="136" name="Zgierz"/>
+  <hex row="28" col="15" road="144"/>
+  <hex row="28" col="16" road="144"/>
+  <hex row="28" col="17" terrain="4"/>
+  <hex row="28" col="18" road="17"/>
+  <hex row="28" col="19" road="34"/>
+  <hex row="28" col="20" road="40"/>
+  <hex row="28" col="21" road="130"/>
+  <hex row="28" col="22" road="40"/>
+  <hex row="28" col="23" road="130"/>
+  <hex row="28" col="24" road="40"/>
+  <hex row="28" col="25" road="130"/>
+  <hex row="28" col="26" road="34"/>
+  <hex row="28" col="27" terrain="16"/>
+  <hex row="28" col="28" road="130"/>
+  <hex row="28" col="29" terrain="16"/>
+  <hex row="28" col="34" road="130"/>
+  <hex row="28" col="37" terrain="10" name="Bzura River"/>
+  <hex row="29" col="4" terrain="3"/>
+  <hex row="29" col="11" terrain="4"/>
+  <hex row="29" col="15" road="17"/>
+  <hex row="29" col="16" road="9"/>
+  <hex row="29" col="17" road="162"/>
+  <hex row="29" col="18" road="43"/>
+  <hex row="29" col="19" terrain="4" road="144"/>
+  <hex row="29" col="20" terrain="4"/>
+  <hex row="29" col="21" terrain="4"/>
+  <hex row="29" col="22" terrain="4"/>
+  <hex row="29" col="23" terrain="16"/>
+  <hex row="29" col="25" terrain="3"/>
+  <hex row="29" col="26" terrain="16"/>
+  <hex row="29" col="27" terrain="16"/>
+  <hex row="29" col="28" terrain="16"/>
+  <hex row="29" col="29" terrain="16"/>
+  <hex row="29" col="38" terrain="10" name="Bzura River"/>
+  <hex row="29" col="39" road="34"/>
+  <hex row="29" col="40" road="34"/>
+  <hex row="30" col="5" terrain="3"/>
+  <hex row="30" col="7" terrain="4"/>
+  <hex row="30" col="8" terrain="4"/>
+  <hex row="30" col="9" terrain="4"/>
+  <hex row="30" col="10" terrain="4"/>
+  <hex row="30" col="13" terrain="3"/>
+  <hex row="30" col="14" terrain="3"/>
+  <hex row="30" col="15" road="11"/>
+  <hex row="30" col="16" road="34"/>
+  <hex row="30" col="17" terrain="4" deploy="0"/>
+  <hex row="30" col="18" deploy="0"/>
+  <hex row="30" col="19" road="17" deploy="0"/>
+  <hex row="30" col="20" deploy="0"/>
+  <hex row="30" col="21" deploy="0"/>
+  <hex row="30" col="23" terrain="16" deploy="0"/>
+  <hex row="30" col="24" terrain="3"/>
+  <hex row="30" col="25" terrain="3" deploy="0"/>
+  <hex row="30" col="26" terrain="3"/>
+  <hex row="30" col="28" terrain="16"/>
+  <hex row="30" col="30" terrain="3"/>
+  <hex row="30" col="31" terrain="3"/>
+  <hex row="30" col="35" road="40"/>
+  <hex row="30" col="37" road="34"/>
+  <hex row="30" col="38" terrain="10" road="34" name="Bzura River"/>
+  <hex row="31" col="3" terrain="4"/>
+  <hex row="31" col="4" terrain="3"/>
+  <hex row="31" col="5" terrain="3"/>
+  <hex row="31" col="6" terrain="3"/>
+  <hex row="31" col="7" terrain="3"/>
+  <hex row="31" col="11" terrain="3"/>
+  <hex row="31" col="12" terrain="3"/>
+  <hex row="31" col="13" terrain="3"/>
+  <hex row="31" col="14" terrain="3"/>
+  <hex row="31" col="16" road="136" deploy="0"/>
+  <hex row="31" col="17" road="136"/>
+  <hex row="31" col="18" deploy="0"/>
+  <hex row="31" col="19" terrain="1" road="17" name="Lodz"/>
+  <hex row="31" col="20" terrain="1" name="Lodz">
+    <unit id="1523" owner="0" flag="8" face="0" ent="2"/>
+  </hex>
+  <hex row="31" col="21" terrain="1" name="Lodz" deploy="0"/>
+  <hex row="31" col="22" deploy="0"/>
+  <hex row="31" col="23" terrain="16" deploy="0"/>
+  <hex row="31" col="24" terrain="16" deploy="0"/>
+  <hex row="31" col="25" terrain="3" deploy="0"/>
+  <hex row="31" col="26" terrain="3"/>
+  <hex row="31" col="27" terrain="3"/>
+  <hex row="31" col="30" terrain="3"/>
+  <hex row="31" col="31" terrain="3"/>
+  <hex row="31" col="33" road="34"/>
+  <hex row="31" col="34" road="34"/>
+  <hex row="31" col="36" road="130"/>
+  <hex row="31" col="38" terrain="10" name="Bzura River"/>
+  <hex row="32" col="4" terrain="3"/>
+  <hex row="32" col="5" terrain="3"/>
+  <hex row="32" col="6" terrain="3"/>
+  <hex row="32" col="7" terrain="3"/>
+  <hex row="32" col="10" terrain="3"/>
+  <hex row="32" col="11" terrain="3"/>
+  <hex row="32" col="12" terrain="3"/>
+  <hex row="32" col="15" terrain="2" flag="7" owner="0"/>
+  <hex row="32" col="18" terrain="1" road="136" name="Lodz">
+    <unit id="1523" owner="0" flag="8" face="0" ent="2"/>
+  </hex>
+  <hex row="32" col="19" terrain="1" road="153" name="Lodz"/>
+  <hex row="32" col="20" terrain="1" name="Lodz" deploy="0">
+    <unit id="693" owner="0" flag="8" face="9" transport="157" exp="100" str="8" ldr="1"/>
+  </hex>
+  <hex row="32" col="21" terrain="1" name="Lodz" deploy="0"/>
+  <hex row="32" col="22" deploy="0"/>
+  <hex row="32" col="23" terrain="16" deploy="0"/>
+  <hex row="32" col="24" terrain="16" deploy="0"/>
+  <hex row="32" col="25" deploy="0"/>
+  <hex row="32" col="26" terrain="3"/>
+  <hex row="32" col="27" road="40"/>
+  <hex row="32" col="28" terrain="3"/>
+  <hex row="32" col="29" road="34"/>
+  <hex row="32" col="30" road="40"/>
+  <hex row="32" col="31" road="130"/>
+  <hex row="32" col="32" road="34"/>
+  <hex row="32" col="38" terrain="10" name="Bzura River"/>
+  <hex row="33" col="4" terrain="3"/>
+  <hex row="33" col="5" terrain="3"/>
+  <hex row="33" col="6" terrain="3"/>
+  <hex row="33" col="14" terrain="2"/>
+  <hex row="33" col="15" terrain="2"/>
+  <hex row="33" col="17" terrain="1" name="Lodz"/>
+  <hex row="33" col="18" terrain="1" name="Lodz"/>
+  <hex row="33" col="19" terrain="1" name="Lodz" deploy="0"/>
+  <hex row="33" col="20" terrain="1" road="136" name="Lodz" flag="7" owner="0" victory="1" supply="0">
+    <unit id="112" owner="0" flag="8" face="0" ent="6"/>
+  </hex>
+  <hex row="33" col="21" terrain="1" road="136" name="Lodz" deploy="0"/>
+  <hex row="33" col="22" terrain="1" name="Lodz">
+    <unit id="1523" owner="0" flag="8" face="0"/>
+  </hex>
+  <hex row="33" col="23" road="34" deploy="0"/>
+  <hex row="33" col="24" terrain="16" road="40" deploy="0"/>
+  <hex row="33" col="25" road="130"/>
+  <hex row="33" col="26" road="34"/>
+  <hex row="33" col="28" road="130"/>
+  <hex row="33" col="37" terrain="10" name="Bzura River"/>
+  <hex row="33" col="38" terrain="10" name="Bzura River"/>
+  <hex row="34" col="18" terrain="1" name="Lodz"/>
+  <hex row="34" col="20" terrain="1" name="Lodz"/>
+  <hex row="34" col="22" road="130"/>
+</map>

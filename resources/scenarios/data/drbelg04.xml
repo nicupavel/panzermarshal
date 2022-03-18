@@ -1,0 +1,794 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="drbelg04.scn" name="Crossing the Schelde" turns="12, 17, 15" date="May 18, 1940" dayturns="3" ground="0" atmosferic="0" latitude="2" rows="29" cols="39" eqp="eqp-adlerkorps" image="resources/maps/images/map_52.png">
+  <player id="0" country="7" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 100"/>
+  <player id="1" country="1" side="1" airtrans="0" navaltrans="0" support="7, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="1" col="37">
+      <unit id="162" owner="0" flag="8" face="14" exp="256" str="4"/>
+    </at>
+    <at row="1" col="36">
+      <unit id="989" owner="0" flag="8" face="14" exp="250" str="6"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="6" terrain="10" name="Schelde"/>
+  <hex row="0" col="7" terrain="10" name="Schelde"/>
+  <hex row="0" col="8" terrain="10" name="Schelde"/>
+  <hex row="0" col="9" terrain="10" name="Schelde"/>
+  <hex row="0" col="10" road="8"/>
+  <hex row="0" col="11" terrain="1" road="136"/>
+  <hex row="0" col="13" terrain="1"/>
+  <hex row="0" col="14" road="16"/>
+  <hex row="0" col="17" road="40"/>
+  <hex row="0" col="19" road="40"/>
+  <hex row="0" col="21" road="40"/>
+  <hex row="0" col="23" road="40"/>
+  <hex row="0" col="29" road="40"/>
+  <hex row="0" col="33" road="40"/>
+  <hex row="0" col="35" terrain="3"/>
+  <hex row="0" col="36" terrain="3"/>
+  <hex row="0" col="37" terrain="3"/>
+  <hex row="1" col="3">
+    <unit id="875" owner="1" flag="2" face="4" exp="7" str="4"/>
+  </hex>
+  <hex row="1" col="4" terrain="2" flag="6" owner="1" victory="1">
+    <unit id="581" owner="1" flag="7" face="4" transport="56" exp="106" ent="1" str="5"/>
+  </hex>
+  <hex row="1" col="7" terrain="1" road="32" name="Doel" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="4" transport="56" exp="171" ent="1"/>
+  </hex>
+  <hex row="1" col="8" terrain="10" name="Schelde"/>
+  <hex row="1" col="9" terrain="10" name="Schelde"/>
+  <hex row="1" col="10" terrain="10" name="Schelde"/>
+  <hex row="1" col="11" terrain="10" name="Schelde"/>
+  <hex row="1" col="12" road="136"/>
+  <hex row="1" col="13" terrain="1" road="130"/>
+  <hex row="1" col="14" terrain="1" road="57"/>
+  <hex row="1" col="15" terrain="1" road="138"/>
+  <hex row="1" col="16" road="34" deploy="0"/>
+  <hex row="1" col="17" road="40" deploy="0">
+    <unit id="93" owner="0" flag="8" face="15" transport="157" exp="196"/>
+  </hex>
+  <hex row="1" col="18" road="130" deploy="0"/>
+  <hex row="1" col="19" road="40" deploy="0">
+    <unit id="93" owner="0" flag="8" face="15" transport="157" exp="124"/>
+  </hex>
+  <hex row="1" col="20" road="130" deploy="0"/>
+  <hex row="1" col="21" deploy="0">
+    <unit id="92" owner="0" flag="8" face="15" transport="157" exp="130"/>
+  </hex>
+  <hex row="1" col="22" road="130" deploy="0">
+    <unit id="159" owner="0" flag="8" face="14" exp="208" str="7"/>
+  </hex>
+  <hex row="1" col="23">
+    <unit id="749" owner="0" flag="8" face="14" exp="226" str="5"/>
+  </hex>
+  <hex row="1" col="24" road="136"/>
+  <hex row="1" col="25" road="184"/>
+  <hex row="1" col="26">
+    <unit id="115" owner="0" flag="8" face="14" transport="2406" exp="236"/>
+  </hex>
+  <hex row="1" col="27" terrain="1" road="58" name="Antwerpen" flag="7" owner="0" victory="1">
+    <unit id="115" owner="0" flag="8" face="14" transport="2406" exp="261" str="9"/>
+  </hex>
+  <hex row="1" col="28" road="50">
+    <unit id="92" owner="0" flag="8" face="14" transport="157" exp="235" str="7"/>
+  </hex>
+  <hex row="1" col="29" terrain="8"/>
+  <hex row="1" col="30" road="136"/>
+  <hex row="1" col="31" road="130"/>
+  <hex row="1" col="32" road="34">
+    <unit id="159" owner="0" flag="8" face="14" exp="227" str="7"/>
+  </hex>
+  <hex row="1" col="33">
+    <unit id="749" owner="0" flag="8" face="14" exp="215" str="5"/>
+  </hex>
+  <hex row="1" col="34" road="136"/>
+  <hex row="1" col="35" road="136"/>
+  <hex row="1" col="38" terrain="3"/>
+  <hex row="2" col="0" road="8"/>
+  <hex row="2" col="1" road="136"/>
+  <hex row="2" col="2" terrain="1" name="Prosper dorp" flag="6" owner="1"/>
+  <hex row="2" col="3">
+    <unit id="1034" owner="1" flag="2" face="4" exp="29" str="3"/>
+  </hex>
+  <hex row="2" col="4">
+    <unit id="32" owner="1" flag="7" face="2" transport="56" exp="160" ent="1"/>
+  </hex>
+  <hex row="2" col="5">
+    <unit id="39" owner="1" flag="7" face="4" transport="56" exp="190" ent="1"/>
+  </hex>
+  <hex row="2" col="6" road="18"/>
+  <hex row="2" col="7" terrain="13"/>
+  <hex row="2" col="8" terrain="13"/>
+  <hex row="2" col="10" terrain="10" name="Schelde"/>
+  <hex row="2" col="12" terrain="10" name="Schelde"/>
+  <hex row="2" col="13" terrain="10" name="Destroyed bridge"/>
+  <hex row="2" col="14" road="1"/>
+  <hex row="2" col="15" terrain="10" name="Schelde"/>
+  <hex row="2" col="16" road="130" deploy="0">
+    <unit id="108" owner="0" flag="8" face="15" transport="157" exp="171"/>
+  </hex>
+  <hex row="2" col="17" terrain="10" name="Schelde"/>
+  <hex row="2" col="18" road="130"/>
+  <hex row="2" col="19" deploy="0">
+    <unit id="108" owner="0" flag="8" face="15" transport="157" exp="125"/>
+  </hex>
+  <hex row="2" col="20" road="136" deploy="0">
+    <unit id="74" owner="0" flag="8" face="15" exp="194"/>
+  </hex>
+  <hex row="2" col="21" terrain="1" road="136"/>
+  <hex row="2" col="23" road="34" deploy="0">
+    <unit id="118" owner="0" flag="8" face="2" exp="197"/>
+  </hex>
+  <hex row="2" col="24" road="34"/>
+  <hex row="2" col="25" terrain="1" road="9" name="Antwerpen">
+    <unit id="1029" owner="1" flag="2" face="7" exp="149" ent="2"/>
+  </hex>
+  <hex row="2" col="26" terrain="1" road="154" name="Antwerpen"/>
+  <hex row="2" col="27" terrain="1" road="187" name="Antwerpen" flag="1" owner="1">
+    <unit id="1029" owner="1" flag="2" face="7" exp="171" ent="2"/>
+  </hex>
+  <hex row="2" col="28" terrain="1" road="177" name="Antwerpen"/>
+  <hex row="2" col="29">
+    <unit id="115" owner="0" flag="8" face="14" transport="2406" exp="275" str="8"/>
+  </hex>
+  <hex row="2" col="30">
+    <unit id="92" owner="0" flag="8" face="14" transport="157" exp="237" str="7"/>
+  </hex>
+  <hex row="2" col="33" deploy="0"/>
+  <hex row="2" col="35" terrain="3">
+    <unit id="115" owner="0" flag="8" face="15" transport="2406" exp="234"/>
+  </hex>
+  <hex row="2" col="36" road="136"/>
+  <hex row="2" col="37" road="136"/>
+  <hex row="3" col="0" terrain="13"/>
+  <hex row="3" col="1" terrain="13"/>
+  <hex row="3" col="2" terrain="13" road="144"/>
+  <hex row="3" col="3" terrain="13"/>
+  <hex row="3" col="4" terrain="13"/>
+  <hex row="3" col="5" terrain="13"/>
+  <hex row="3" col="6" terrain="13" road="17"/>
+  <hex row="3" col="7">
+    <unit id="335" owner="1" flag="2" face="0" exp="19" str="3"/>
+  </hex>
+  <hex row="3" col="9" terrain="1" name="Prosper dorp" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="5" transport="56" exp="153" ent="1"/>
+  </hex>
+  <hex row="3" col="13" terrain="1" road="16" name="Kalo" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="5" transport="56" exp="181" ent="1"/>
+  </hex>
+  <hex row="3" col="14" terrain="10" name="Schelde"/>
+  <hex row="3" col="15" terrain="10" name="Schelde"/>
+  <hex row="3" col="16" terrain="10" name="Schelde"/>
+  <hex row="3" col="17" terrain="10" name="Schelde"/>
+  <hex row="3" col="18" terrain="10" name="Schelde"/>
+  <hex row="3" col="19" terrain="10" name="Schelde"/>
+  <hex row="3" col="21" terrain="10" name="Schelde"/>
+  <hex row="3" col="22" terrain="1" road="130" deploy="0">
+    <unit id="108" owner="0" flag="8" face="15" transport="157" exp="166"/>
+  </hex>
+  <hex row="3" col="23" terrain="10" name="Schelde"/>
+  <hex row="3" col="25" road="2"/>
+  <hex row="3" col="26" terrain="1" road="171" name="Antwerpen"/>
+  <hex row="3" col="27" terrain="1" road="155" name="Antwerpen"/>
+  <hex row="3" col="28" terrain="1" road="169" name="Antwerpen"/>
+  <hex row="3" col="29" road="130">
+    <unit id="110" owner="0" flag="8" face="15" transport="157" exp="249" str="9"/>
+  </hex>
+  <hex row="3" col="30" road="40"/>
+  <hex row="3" col="31" road="130">
+    <unit id="583" owner="0" flag="8" face="14" exp="276" str="5"/>
+  </hex>
+  <hex row="3" col="32" road="40">
+    <unit id="92" owner="0" flag="8" face="14" transport="157" exp="241" str="6"/>
+  </hex>
+  <hex row="3" col="33" road="130" deploy="0"/>
+  <hex row="3" col="34" road="40" deploy="0"/>
+  <hex row="3" col="35" road="130" deploy="0"/>
+  <hex row="3" col="36" road="40"/>
+  <hex row="3" col="37" road="136"/>
+  <hex row="3" col="38" road="128"/>
+  <hex row="4" col="0" terrain="5"/>
+  <hex row="4" col="1" terrain="5"/>
+  <hex row="4" col="2" terrain="5" road="9"/>
+  <hex row="4" col="3" terrain="1" road="144"/>
+  <hex row="4" col="4" terrain="5"/>
+  <hex row="4" col="5" terrain="5"/>
+  <hex row="4" col="6" road="17"/>
+  <hex row="4" col="9" deploy="1"/>
+  <hex row="4" col="13" road="17"/>
+  <hex row="4" col="14">
+    <unit id="335" owner="1" flag="2" face="0" exp="2" str="3"/>
+  </hex>
+  <hex row="4" col="17" terrain="1" road="48" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="5" transport="56" exp="151" ent="1"/>
+  </hex>
+  <hex row="4" col="19" terrain="5"/>
+  <hex row="4" col="20" terrain="10" name="Schelde"/>
+  <hex row="4" col="22" terrain="10" name="Schelde"/>
+  <hex row="4" col="23" terrain="1" road="16" name="Antwerpen" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="6" exp="1" ent="1"/>
+  </hex>
+  <hex row="4" col="24" terrain="10" name="Destroyed bridge"/>
+  <hex row="4" col="25" terrain="10" name="Schelde"/>
+  <hex row="4" col="26">
+    <unit id="825" owner="1" flag="2" face="7" transport="834" exp="157" ent="2"/>
+  </hex>
+  <hex row="4" col="27" road="17"/>
+  <hex row="4" col="28" road="144"/>
+  <hex row="4" col="29" terrain="2" flag="1" owner="1">
+    <unit id="1029" owner="1" flag="2" face="7" exp="194" ent="2"/>
+  </hex>
+  <hex row="4" col="32" deploy="0"/>
+  <hex row="4" col="33" deploy="0"/>
+  <hex row="4" col="34">
+    <unit id="115" owner="0" flag="8" face="15" transport="2406" exp="293" str="9"/>
+  </hex>
+  <hex row="4" col="35" deploy="0"/>
+  <hex row="4" col="36">
+    <unit id="115" owner="0" flag="8" face="15" transport="2406" exp="266" str="9"/>
+  </hex>
+  <hex row="4" col="37" terrain="3"/>
+  <hex row="4" col="38" road="128"/>
+  <hex row="5" col="0" terrain="5"/>
+  <hex row="5" col="2" terrain="5"/>
+  <hex row="5" col="3" terrain="5" road="17"/>
+  <hex row="5" col="4" terrain="5"/>
+  <hex row="5" col="6" road="17"/>
+  <hex row="5" col="10" deploy="1"/>
+  <hex row="5" col="11" deploy="1"/>
+  <hex row="5" col="12">
+    <unit id="39" owner="1" flag="7" face="5" transport="1942" exp="141" ent="1"/>
+  </hex>
+  <hex row="5" col="13" road="33"/>
+  <hex row="5" col="14">
+    <unit id="32" owner="1" flag="7" face="8" transport="56" exp="135" ent="1"/>
+  </hex>
+  <hex row="5" col="15" road="34"/>
+  <hex row="5" col="16" road="34"/>
+  <hex row="5" col="17" terrain="5" road="17"/>
+  <hex row="5" col="18" terrain="5"/>
+  <hex row="5" col="19" terrain="5"/>
+  <hex row="5" col="20">
+    <unit id="826" owner="1" flag="2" face="8" transport="1942" exp="95" ent="1"/>
+  </hex>
+  <hex row="5" col="21">
+    <unit id="335" owner="1" flag="2" face="0" exp="73" str="4"/>
+  </hex>
+  <hex row="5" col="23" road="33"/>
+  <hex row="5" col="25" terrain="10" name="Schelde"/>
+  <hex row="5" col="26" terrain="10" name="Schelde"/>
+  <hex row="5" col="27" road="17"/>
+  <hex row="5" col="28" road="17"/>
+  <hex row="5" col="32">
+    <unit id="66" owner="0" flag="8" face="14" transport="2407" exp="222" str="8"/>
+  </hex>
+  <hex row="5" col="34">
+    <unit id="101" owner="0" flag="8" face="15" exp="226" str="4"/>
+  </hex>
+  <hex row="5" col="36">
+    <unit id="118" owner="0" flag="8" face="15" exp="204" str="6"/>
+  </hex>
+  <hex row="6" col="3" road="17"/>
+  <hex row="6" col="6" road="17"/>
+  <hex row="6" col="10">
+    <unit id="587" owner="1" flag="7" face="6" transport="56" exp="104" ent="1" str="5"/>
+  </hex>
+  <hex row="6" col="11" road="34"/>
+  <hex row="6" col="12" road="34" deploy="1"/>
+  <hex row="6" col="13" road="34" deploy="1"/>
+  <hex row="6" col="14" road="34" deploy="1"/>
+  <hex row="6" col="15" terrain="5" deploy="1"/>
+  <hex row="6" col="17" terrain="5" road="17"/>
+  <hex row="6" col="18" terrain="5"/>
+  <hex row="6" col="21" road="40"/>
+  <hex row="6" col="22" road="18">
+    <unit id="824" owner="1" flag="2" face="6" transport="1942" exp="61" ent="1"/>
+  </hex>
+  <hex row="6" col="23" road="40"/>
+  <hex row="6" col="25" terrain="10" name="Schelde"/>
+  <hex row="6" col="27" road="33"/>
+  <hex row="6" col="28" road="9"/>
+  <hex row="6" col="29" road="144"/>
+  <hex row="6" col="33">
+    <unit id="1260" owner="0" flag="8" face="15" exp="258" str="9"/>
+  </hex>
+  <hex row="6" col="35">
+    <unit id="139" owner="0" flag="8" face="15" exp="211"/>
+  </hex>
+  <hex row="7" col="3" road="17"/>
+  <hex row="7" col="6" road="9"/>
+  <hex row="7" col="7" road="144"/>
+  <hex row="7" col="9" road="34"/>
+  <hex row="7" col="10" road="34"/>
+  <hex row="7" col="11">
+    <unit id="42" owner="1" flag="7" face="7" exp="164" ent="1" str="5"/>
+  </hex>
+  <hex row="7" col="12" road="18"/>
+  <hex row="7" col="14" terrain="5"/>
+  <hex row="7" col="15" terrain="5"/>
+  <hex row="7" col="16" terrain="5" deploy="1"/>
+  <hex row="7" col="17" terrain="5" road="9"/>
+  <hex row="7" col="18" terrain="5"/>
+  <hex row="7" col="19" road="34"/>
+  <hex row="7" col="20" road="34"/>
+  <hex row="7" col="22" road="147"/>
+  <hex row="7" col="24" terrain="1" road="128" name="Burcht" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="6" transport="1942" exp="52" ent="1"/>
+  </hex>
+  <hex row="7" col="25" terrain="10" name="Schelde"/>
+  <hex row="7" col="26" road="18"/>
+  <hex row="7" col="29" road="25"/>
+  <hex row="8" col="3" road="33"/>
+  <hex row="8" col="7" road="17"/>
+  <hex row="8" col="8" road="18"/>
+  <hex row="8" col="11" road="34"/>
+  <hex row="8" col="12" road="33"/>
+  <hex row="8" col="13" terrain="5"/>
+  <hex row="8" col="14" terrain="5"/>
+  <hex row="8" col="15" terrain="5"/>
+  <hex row="8" col="16" terrain="5"/>
+  <hex row="8" col="17" terrain="5"/>
+  <hex row="8" col="18" terrain="1" road="146" name="Zwijndrecht" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="8" exp="82" ent="1"/>
+  </hex>
+  <hex row="8" col="22" road="17">
+    <unit id="335" owner="1" flag="2" face="0" exp="35" str="4"/>
+  </hex>
+  <hex row="8" col="24" terrain="10" name="Schelde"/>
+  <hex row="8" col="26" road="17">
+    <unit id="335" owner="1" flag="2" face="0" exp="87" str="3"/>
+  </hex>
+  <hex row="8" col="29" road="17"/>
+  <hex row="8" col="30" road="136"/>
+  <hex row="8" col="31" road="136"/>
+  <hex row="8" col="37" terrain="1" road="34" name="Edegem" flag="1" owner="1">
+    <unit id="1029" owner="1" flag="2" face="7" exp="124" ent="1"/>
+  </hex>
+  <hex row="8" col="38" road="32"/>
+  <hex row="9" col="2" road="18"/>
+  <hex row="9" col="7" terrain="1" road="35" name="Beveren" flag="6" owner="1">
+    <unit id="38" owner="1" flag="7" face="6" transport="1942" exp="101" ent="1" str="5"/>
+  </hex>
+  <hex row="9" col="8" road="57"/>
+  <hex row="9" col="9" terrain="1" road="138" name="Melsele" flag="6" owner="1"/>
+  <hex row="9" col="10" road="34"/>
+  <hex row="9" col="12" terrain="5"/>
+  <hex row="9" col="13" terrain="5"/>
+  <hex row="9" col="14" terrain="5"/>
+  <hex row="9" col="16" terrain="5"/>
+  <hex row="9" col="17" terrain="5" road="18"/>
+  <hex row="9" col="18" road="33"/>
+  <hex row="9" col="22" road="9"/>
+  <hex row="9" col="23" terrain="1" road="144" name="Kruibeke" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="8" transport="1942" exp="31" ent="1"/>
+  </hex>
+  <hex row="9" col="24" terrain="10" name="Schelde"/>
+  <hex row="9" col="26" road="17"/>
+  <hex row="9" col="29" road="17">
+    <unit id="1029" owner="1" flag="2" face="6" exp="155" ent="1"/>
+  </hex>
+  <hex row="9" col="32" terrain="1" road="136" name="Wilrijk" flag="1" owner="1">
+    <unit id="1029" owner="1" flag="2" face="7" exp="121" ent="1"/>
+  </hex>
+  <hex row="9" col="33" terrain="1" road="136" name="Wilrijk" flag="1" owner="1">
+    <unit id="1029" owner="1" flag="2" face="7" exp="118" ent="1"/>
+  </hex>
+  <hex row="9" col="35" road="34"/>
+  <hex row="9" col="36" road="34"/>
+  <hex row="9" col="37" terrain="3"/>
+  <hex row="10" col="2" road="17"/>
+  <hex row="10" col="5" road="18"/>
+  <hex row="10" col="6" road="34"/>
+  <hex row="10" col="8" road="17"/>
+  <hex row="10" col="10" road="144"/>
+  <hex row="10" col="11" terrain="3"/>
+  <hex row="10" col="12" terrain="5"/>
+  <hex row="10" col="13" terrain="5"/>
+  <hex row="10" col="14" terrain="5"/>
+  <hex row="10" col="17" road="17"/>
+  <hex row="10" col="18" terrain="5"/>
+  <hex row="10" col="19" terrain="5">
+    <unit id="824" owner="1" flag="2" face="7" transport="834" exp="41" ent="1"/>
+  </hex>
+  <hex row="10" col="23" road="17"/>
+  <hex row="10" col="24" terrain="10" name="Schelde"/>
+  <hex row="10" col="26" road="17">
+    <unit id="1029" owner="1" flag="2" face="6" exp="156" ent="1"/>
+  </hex>
+  <hex row="10" col="27" deploy="1"/>
+  <hex row="10" col="29" road="9" deploy="1"/>
+  <hex row="10" col="30" deploy="1"/>
+  <hex row="10" col="31" deploy="1"/>
+  <hex row="10" col="33">
+    <unit id="824" owner="1" flag="2" face="8" transport="834" exp="191" ent="1"/>
+  </hex>
+  <hex row="10" col="34" road="138"/>
+  <hex row="10" col="35" road="136"/>
+  <hex row="10" col="36" terrain="3"/>
+  <hex row="10" col="37" terrain="3"/>
+  <hex row="10" col="38" terrain="3"/>
+  <hex row="11" col="0" road="8"/>
+  <hex row="11" col="1" road="138"/>
+  <hex row="11" col="2" road="33"/>
+  <hex row="11" col="5" road="33"/>
+  <hex row="11" col="7">
+    <unit id="32" owner="1" flag="7" face="7" transport="1942" exp="103" ent="1"/>
+  </hex>
+  <hex row="11" col="8" road="17"/>
+  <hex row="11" col="10" road="9"/>
+  <hex row="11" col="11" road="144"/>
+  <hex row="11" col="17" road="33"/>
+  <hex row="11" col="19" terrain="5"/>
+  <hex row="11" col="23" road="17"/>
+  <hex row="11" col="24" terrain="10" name="Schelde"/>
+  <hex row="11" col="25" terrain="10" name="Schelde"/>
+  <hex row="11" col="26" road="17"/>
+  <hex row="11" col="27">
+    <unit id="1019" owner="1" flag="2" face="8" exp="199" ent="4" str="4"/>
+  </hex>
+  <hex row="11" col="28" deploy="1"/>
+  <hex row="11" col="29">
+    <unit id="824" owner="1" flag="2" face="8" transport="834" exp="112" ent="1"/>
+  </hex>
+  <hex row="11" col="30" road="144">
+    <unit id="823" owner="1" flag="2" face="9" transport="834" exp="105" ent="1" str="5"/>
+  </hex>
+  <hex row="11" col="32" deploy="1"/>
+  <hex row="11" col="33" deploy="1"/>
+  <hex row="11" col="36" road="144"/>
+  <hex row="11" col="38" terrain="3"/>
+  <hex row="12" col="2" road="136"/>
+  <hex row="12" col="3" terrain="1" road="138" name="Hulst" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="5" transport="1942" exp="107" ent="1"/>
+  </hex>
+  <hex row="12" col="4" road="34"/>
+  <hex row="12" col="8" road="9"/>
+  <hex row="12" col="9" road="144"/>
+  <hex row="12" col="11" road="17"/>
+  <hex row="12" col="16" road="18"/>
+  <hex row="12" col="19" terrain="5"/>
+  <hex row="12" col="20" terrain="5"/>
+  <hex row="12" col="23" road="17"/>
+  <hex row="12" col="24" terrain="3"/>
+  <hex row="12" col="25" terrain="10" name="Schelde"/>
+  <hex row="12" col="26" road="17">
+    <unit id="824" owner="1" flag="2" face="8" transport="834" exp="166" ent="1"/>
+  </hex>
+  <hex row="12" col="30" road="17">
+    <unit id="1016" owner="1" flag="2" face="9" exp="198" ent="1" str="5"/>
+  </hex>
+  <hex row="12" col="31">
+    <unit id="1029" owner="1" flag="2" face="6" exp="156" ent="1"/>
+  </hex>
+  <hex row="12" col="36" road="17"/>
+  <hex row="13" col="4" road="144"/>
+  <hex row="13" col="9" road="9"/>
+  <hex row="13" col="11" terrain="1" road="41" flag="6" owner="1">
+    <unit id="39" owner="1" flag="7" face="5" transport="1942" exp="101" ent="1"/>
+  </hex>
+  <hex row="13" col="15" road="40"/>
+  <hex row="13" col="16" road="17"/>
+  <hex row="13" col="17" road="40"/>
+  <hex row="13" col="18" terrain="5"/>
+  <hex row="13" col="19" road="40"/>
+  <hex row="13" col="23" road="17"/>
+  <hex row="13" col="25" terrain="10" name="Schelde"/>
+  <hex row="13" col="26" road="9"/>
+  <hex row="13" col="27" road="144"/>
+  <hex row="13" col="30" road="17"/>
+  <hex row="13" col="33" terrain="3"/>
+  <hex row="13" col="36" terrain="1" road="9"/>
+  <hex row="13" col="37" road="144"/>
+  <hex row="14" col="4" road="17"/>
+  <hex row="14" col="6">
+    <unit id="937" owner="1" flag="2" face="7" exp="21" str="4"/>
+  </hex>
+  <hex row="14" col="7">
+    <unit id="937" owner="1" flag="2" face="7" exp="49" str="3"/>
+  </hex>
+  <hex row="14" col="9" road="34"/>
+  <hex row="14" col="10" road="178"/>
+  <hex row="14" col="12" road="136"/>
+  <hex row="14" col="13" road="130"/>
+  <hex row="14" col="14" road="34"/>
+  <hex row="14" col="16" terrain="1" road="147" name="Haasdonk" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="6" transport="1942" exp="21" ent="1"/>
+  </hex>
+  <hex row="14" col="18" road="130"/>
+  <hex row="14" col="20" road="136"/>
+  <hex row="14" col="21" road="176"/>
+  <hex row="14" col="23" road="17"/>
+  <hex row="14" col="25" terrain="10" name="Schelde"/>
+  <hex row="14" col="26" terrain="10" name="Schelde"/>
+  <hex row="14" col="27" road="9"/>
+  <hex row="14" col="30" road="9"/>
+  <hex row="14" col="31" road="144"/>
+  <hex row="14" col="32" terrain="13"/>
+  <hex row="14" col="37" road="17"/>
+  <hex row="15" col="4" road="17"/>
+  <hex row="15" col="5" terrain="13" road="18" name="Moervaart"/>
+  <hex row="15" col="6" road="40"/>
+  <hex row="15" col="7" road="130"/>
+  <hex row="15" col="8" road="34"/>
+  <hex row="15" col="9" terrain="13" name="Moervaart"/>
+  <hex row="15" col="10" road="17"/>
+  <hex row="15" col="11">
+    <unit id="1173" owner="1" flag="7" face="7" transport="1942" exp="173" ent="1"/>
+  </hex>
+  <hex row="15" col="16" road="9"/>
+  <hex row="15" col="17" road="144"/>
+  <hex row="15" col="19" terrain="1" road="2" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="6" transport="1942" exp="19" ent="1"/>
+  </hex>
+  <hex row="15" col="20" road="34"/>
+  <hex row="15" col="21" road="9"/>
+  <hex row="15" col="23" road="17"/>
+  <hex row="15" col="25" terrain="10" name="Schelde"/>
+  <hex row="15" col="26" terrain="10" name="Schelde"/>
+  <hex row="15" col="27" terrain="10" name="Schelde"/>
+  <hex row="15" col="28" road="144"/>
+  <hex row="15" col="31" road="17"/>
+  <hex row="15" col="32" terrain="13"/>
+  <hex row="15" col="33" terrain="13"/>
+  <hex row="15" col="35" terrain="3"/>
+  <hex row="15" col="37" road="17"/>
+  <hex row="16" col="3" terrain="13" name="Moervaart"/>
+  <hex row="16" col="4" terrain="13" road="17" name="Moervaart"/>
+  <hex row="16" col="5" terrain="5" road="33">
+    <unit id="587" owner="1" flag="7" face="7" transport="1942" exp="176" ent="1" str="5"/>
+  </hex>
+  <hex row="16" col="6" terrain="13" name="Moervaart"/>
+  <hex row="16" col="7" terrain="13" name="Moervaart"/>
+  <hex row="16" col="8" terrain="13" name="Moervaart"/>
+  <hex row="16" col="10" road="9"/>
+  <hex row="16" col="11" road="136"/>
+  <hex row="16" col="16">
+    <unit id="824" owner="1" flag="2" face="6" transport="1942" exp="50" ent="1"/>
+  </hex>
+  <hex row="16" col="17" road="17"/>
+  <hex row="16" col="22" road="136"/>
+  <hex row="16" col="23" terrain="1" road="153" name="Bazel" flag="1" owner="1">
+    <unit id="826" owner="1" flag="2" face="6" transport="1942" exp="74" ent="1"/>
+  </hex>
+  <hex row="16" col="25" terrain="10" name="Schelde"/>
+  <hex row="16" col="26" terrain="10" name="Schelde"/>
+  <hex row="16" col="27" terrain="10" name="Schelde"/>
+  <hex row="16" col="28" road="17"/>
+  <hex row="16" col="31" road="17"/>
+  <hex row="16" col="33" terrain="13"/>
+  <hex row="16" col="34" terrain="3"/>
+  <hex row="16" col="35" road="40"/>
+  <hex row="16" col="37" road="17"/>
+  <hex row="17" col="0" terrain="13" name="Moervaart"/>
+  <hex row="17" col="1" terrain="13" name="Moervaart"/>
+  <hex row="17" col="2" terrain="13" name="Moervaart"/>
+  <hex row="17" col="3" terrain="5"/>
+  <hex row="17" col="4" terrain="1" road="19" name="Stekene" flag="6" owner="1">
+    <unit id="38" owner="1" flag="7" face="7" transport="1942" exp="138" ent="1" str="8"/>
+  </hex>
+  <hex row="17" col="5" terrain="5"/>
+  <hex row="17" col="6" terrain="5"/>
+  <hex row="17" col="12" road="144"/>
+  <hex row="17" col="17" terrain="1" road="33" name="Nieuwkerken"/>
+  <hex row="17" col="23" road="33"/>
+  <hex row="17" col="24" road="144"/>
+  <hex row="17" col="26" terrain="10" name="Schelde"/>
+  <hex row="17" col="27" terrain="10" name="Schelde"/>
+  <hex row="17" col="28" road="17"/>
+  <hex row="17" col="31" road="57"/>
+  <hex row="17" col="33" terrain="1" road="34" name="Aartselaar"/>
+  <hex row="17" col="34" terrain="13" road="34"/>
+  <hex row="17" col="36" road="144"/>
+  <hex row="17" col="37" road="17"/>
+  <hex row="18" col="0" terrain="5"/>
+  <hex row="18" col="1" terrain="5"/>
+  <hex row="18" col="2" terrain="5"/>
+  <hex row="18" col="3" terrain="5"/>
+  <hex row="18" col="4" terrain="5" road="9">
+    <unit id="590" owner="1" flag="7" face="7" transport="1942" exp="141" ent="1"/>
+  </hex>
+  <hex row="18" col="5" terrain="1" road="136" name="Stekene"/>
+  <hex row="18" col="9" terrain="5"/>
+  <hex row="18" col="12" road="17"/>
+  <hex row="18" col="16" road="18"/>
+  <hex row="18" col="22" road="18"/>
+  <hex row="18" col="23">
+    <unit id="824" owner="1" flag="2" face="8" transport="1942" exp="99" ent="1"/>
+  </hex>
+  <hex row="18" col="24" road="17"/>
+  <hex row="18" col="26" terrain="10" name="Schelde"/>
+  <hex row="18" col="27" terrain="10" name="Schelde"/>
+  <hex row="18" col="28" terrain="1" road="9" name="Schelle"/>
+  <hex row="18" col="29" road="130"/>
+  <hex row="18" col="30" road="34"/>
+  <hex row="18" col="31" road="17"/>
+  <hex row="18" col="32" terrain="3" road="130"/>
+  <hex row="18" col="33" terrain="13"/>
+  <hex row="18" col="34" terrain="13"/>
+  <hex row="18" col="36" road="9"/>
+  <hex row="18" col="37" terrain="1" road="129" name="Kontich"/>
+  <hex row="19" col="0" terrain="5"/>
+  <hex row="19" col="1" terrain="5"/>
+  <hex row="19" col="2" terrain="5"/>
+  <hex row="19" col="3" terrain="5"/>
+  <hex row="19" col="4" terrain="5"/>
+  <hex row="19" col="5" terrain="3"/>
+  <hex row="19" col="6" road="144"/>
+  <hex row="19" col="7" terrain="5"/>
+  <hex row="19" col="8" terrain="5"/>
+  <hex row="19" col="9" terrain="5"/>
+  <hex row="19" col="10" terrain="5"/>
+  <hex row="19" col="11" terrain="5"/>
+  <hex row="19" col="12" road="17"/>
+  <hex row="19" col="15" road="18"/>
+  <hex row="19" col="16" road="33"/>
+  <hex row="19" col="21" road="34"/>
+  <hex row="19" col="22" road="33"/>
+  <hex row="19" col="24" road="9"/>
+  <hex row="19" col="25" road="136"/>
+  <hex row="19" col="27" terrain="10" name="Schelde"/>
+  <hex row="19" col="31" terrain="1" road="41" name="Hemiksem">
+    <unit id="1035" owner="1" flag="2" face="8" exp="19" str="3"/>
+  </hex>
+  <hex row="19" col="33" terrain="13"/>
+  <hex row="20" col="0" terrain="5"/>
+  <hex row="20" col="2" terrain="5"/>
+  <hex row="20" col="4" terrain="5"/>
+  <hex row="20" col="6" road="17"/>
+  <hex row="20" col="7" terrain="5"/>
+  <hex row="20" col="8" terrain="5"/>
+  <hex row="20" col="9" terrain="5"/>
+  <hex row="20" col="10" terrain="5"/>
+  <hex row="20" col="11" terrain="5"/>
+  <hex row="20" col="12" road="17"/>
+  <hex row="20" col="15" road="33"/>
+  <hex row="20" col="20" road="18"/>
+  <hex row="20" col="26" road="136"/>
+  <hex row="20" col="27" road="144"/>
+  <hex row="20" col="28" terrain="10" name="Schelde"/>
+  <hex row="20" col="30" road="18"/>
+  <hex row="20" col="31" terrain="2" flag="1" owner="1"/>
+  <hex row="20" col="32" road="136">
+    <unit id="943" owner="1" flag="2" face="8" exp="45" str="3"/>
+  </hex>
+  <hex row="20" col="33" terrain="1" road="144" flag="1" owner="1"/>
+  <hex row="20" col="34" terrain="13"/>
+  <hex row="20" col="35" terrain="13"/>
+  <hex row="20" col="36" terrain="13"/>
+  <hex row="20" col="37" terrain="3"/>
+  <hex row="21" col="6" road="9"/>
+  <hex row="21" col="7" road="136"/>
+  <hex row="21" col="8" terrain="5"/>
+  <hex row="21" col="9" terrain="5"/>
+  <hex row="21" col="10" terrain="5"/>
+  <hex row="21" col="11" terrain="5"/>
+  <hex row="21" col="12" road="17"/>
+  <hex row="21" col="13" road="18"/>
+  <hex row="21" col="14" terrain="1" road="58" name="St-Niklaas" flag="1" owner="1" victory="1"/>
+  <hex row="21" col="15" road="136"/>
+  <hex row="21" col="19" road="34"/>
+  <hex row="21" col="20" road="33"/>
+  <hex row="21" col="27" road="9"/>
+  <hex row="21" col="28" terrain="10" name="Schelde"/>
+  <hex row="21" col="29" terrain="10" road="34" flag="1" owner="1" victory="1"/>
+  <hex row="21" col="30" road="33">
+    <unit id="823" owner="1" flag="2" face="8" transport="1942" exp="185" str="8"/>
+  </hex>
+  <hex row="21" col="33" road="17"/>
+  <hex row="21" col="34" terrain="13"/>
+  <hex row="21" col="35" terrain="13"/>
+  <hex row="21" col="36" terrain="13"/>
+  <hex row="21" col="37" terrain="13"/>
+  <hex row="22" col="8" road="136"/>
+  <hex row="22" col="9" road="136"/>
+  <hex row="22" col="10" terrain="5"/>
+  <hex row="22" col="11" road="34"/>
+  <hex row="22" col="12" road="33"/>
+  <hex row="22" col="13" road="33"/>
+  <hex row="22" col="14" road="17"/>
+  <hex row="22" col="16" road="136"/>
+  <hex row="22" col="17" road="136"/>
+  <hex row="22" col="18" road="18"/>
+  <hex row="22" col="21" road="40"/>
+  <hex row="22" col="23" road="40"/>
+  <hex row="22" col="25" road="34"/>
+  <hex row="22" col="26" road="40"/>
+  <hex row="22" col="27" road="130"/>
+  <hex row="22" col="28" road="178"/>
+  <hex row="22" col="29" terrain="10" name="Schelde"/>
+  <hex row="22" col="33" terrain="1" road="1"/>
+  <hex row="22" col="36" terrain="13"/>
+  <hex row="22" col="37" terrain="13"/>
+  <hex row="23" col="9" road="34"/>
+  <hex row="23" col="10" road="170"/>
+  <hex row="23" col="11" road="138"/>
+  <hex row="23" col="12" road="34"/>
+  <hex row="23" col="14" road="9"/>
+  <hex row="23" col="15" road="144"/>
+  <hex row="23" col="17" road="34"/>
+  <hex row="23" col="18" road="169">
+    <unit id="1031" owner="1" flag="2" face="8" exp="166" str="4"/>
+  </hex>
+  <hex row="23" col="19" road="130"/>
+  <hex row="23" col="20" road="34"/>
+  <hex row="23" col="22" road="130"/>
+  <hex row="23" col="24" road="130">
+    <unit id="1032" owner="1" flag="2" face="8" exp="142" str="13"/>
+  </hex>
+  <hex row="23" col="26" terrain="8"/>
+  <hex row="23" col="27">
+    <unit id="824" owner="1" flag="2" face="8" transport="1942" exp="141" str="5"/>
+  </hex>
+  <hex row="23" col="28" road="17"/>
+  <hex row="23" col="29" terrain="10" name="Schelde"/>
+  <hex row="23" col="33" terrain="10" name="Rupel"/>
+  <hex row="23" col="35" terrain="3"/>
+  <hex row="23" col="37" terrain="10"/>
+  <hex row="24" col="7" road="34"/>
+  <hex row="24" col="8" road="34"/>
+  <hex row="24" col="9" terrain="3"/>
+  <hex row="24" col="10" terrain="3"/>
+  <hex row="24" col="12" road="144"/>
+  <hex row="24" col="15" road="9"/>
+  <hex row="24" col="16" road="18"/>
+  <hex row="24" col="26" terrain="13"/>
+  <hex row="24" col="28" road="9"/>
+  <hex row="24" col="29" road="136"/>
+  <hex row="24" col="30" terrain="10" name="Schelde"/>
+  <hex row="24" col="31" terrain="10" name="Schelde"/>
+  <hex row="24" col="32" terrain="10" name="Schelde"/>
+  <hex row="24" col="34" terrain="10" name="Rupel"/>
+  <hex row="24" col="35" terrain="10" name="Rupel"/>
+  <hex row="24" col="36" terrain="3"/>
+  <hex row="24" col="37" terrain="10"/>
+  <hex row="25" col="6" road="18"/>
+  <hex row="25" col="9">
+    <unit id="1036" owner="1" flag="2" face="7" exp="67" str="4"/>
+  </hex>
+  <hex row="25" col="12" road="9"/>
+  <hex row="25" col="13" road="136"/>
+  <hex row="25" col="15" road="34"/>
+  <hex row="25" col="16" road="161"/>
+  <hex row="25" col="26" terrain="13"/>
+  <hex row="25" col="27" terrain="13"/>
+  <hex row="25" col="29" road="34"/>
+  <hex row="25" col="30" terrain="1" road="160" name="Rupelmonde" flag="1" owner="1"/>
+  <hex row="25" col="31" terrain="10" name="Schelde"/>
+  <hex row="25" col="32" terrain="10" name="Schelde"/>
+  <hex row="25" col="36" terrain="10" name="Rupel"/>
+  <hex row="26" col="6" road="17"/>
+  <hex row="26" col="9" terrain="2" name="Belsele" flag="1" owner="1" victory="1">
+    <unit id="1027" owner="1" flag="2" face="4" exp="25" str="4"/>
+  </hex>
+  <hex row="26" col="10">
+    <unit id="943" owner="1" flag="2" face="7" exp="83" str="3"/>
+  </hex>
+  <hex row="26" col="13" terrain="5" road="34"/>
+  <hex row="26" col="14" road="170"/>
+  <hex row="26" col="15" road="144"/>
+  <hex row="26" col="27" terrain="13" road="34"/>
+  <hex row="26" col="28" road="34"/>
+  <hex row="26" col="29" terrain="5"/>
+  <hex row="26" col="30" terrain="5"/>
+  <hex row="26" col="32" terrain="10" name="Schelde"/>
+  <hex row="26" col="37" terrain="3"/>
+  <hex row="27" col="6" road="17"/>
+  <hex row="27" col="11" road="34"/>
+  <hex row="27" col="12" road="34"/>
+  <hex row="27" col="14" terrain="5"/>
+  <hex row="27" col="15" road="9"/>
+  <hex row="27" col="26" road="18"/>
+  <hex row="27" col="28" terrain="13"/>
+  <hex row="27" col="29" terrain="5"/>
+  <hex row="27" col="30" terrain="5"/>
+  <hex row="27" col="31" terrain="5"/>
+  <hex row="27" col="32" terrain="10" name="Schelde"/>
+  <hex row="28" col="6" road="1"/>
+  <hex row="28" col="10" road="2"/>
+  <hex row="28" col="16" road="128"/>
+  <hex row="28" col="26" road="1"/>
+  <hex row="28" col="28" terrain="13"/>
+  <hex row="28" col="30" terrain="5"/>
+  <hex row="28" col="32" terrain="10" name="Schelde"/>
+</map>

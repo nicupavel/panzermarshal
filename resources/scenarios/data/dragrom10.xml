@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom10.scn" name="Romanian Campaign Choice Scen" turns="1, 2, 2" date="August 01, 1944" dayturns="3" ground="0" atmosferic="0" latitude="3" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_459.png">
+  <player id="0" country="17" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300"/>
+  <hex row="4" col="10">
+    <unit id="2556" owner="1" flag="20" face="5"/>
+  </hex>
+  <hex row="5" col="6" name="Defence of Yassy" flag="19" owner="1" victory="1"/>
+  <hex row="6" col="11" name="Defence on Dniester" flag="19" owner="1" victory="1"/>
+  <hex row="7" col="6" flag="17" owner="0" victory="1">
+    <unit id="2422" owner="0" flag="18" face="8"/>
+  </hex>
+  <hex row="8" col="9" terrain="10"/>
+  <hex row="8" col="10" terrain="9" flag="17" owner="0" victory="1">
+    <unit id="1571" owner="0" flag="18" face="7"/>
+  </hex>
+  <hex row="9" col="9" terrain="9"/>
+  <hex row="9" col="10" terrain="9"/>
+  <hex row="10" col="9" terrain="9"/>
+  <hex row="10" col="10" terrain="9"/>
+  <hex row="11" col="3" flag="17" owner="0">
+    <unit id="3358" owner="0" flag="18" face="8"/>
+  </hex>
+  <hex row="11" col="9" terrain="9"/>
+  <hex row="11" col="10" terrain="9"/>
+  <hex row="12" col="7" terrain="9"/>
+  <hex row="12" col="8" terrain="9"/>
+  <hex row="12" col="9" terrain="9"/>
+  <hex row="12" col="10" terrain="9"/>
+</map>

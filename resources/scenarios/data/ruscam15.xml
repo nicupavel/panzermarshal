@@ -1,0 +1,1117 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="ruscam15.scn" name="Budapest Offensive" turns="19, 22, 25" date="November 07, 1944" dayturns="3" ground="0" atmosferic="1" latitude="1" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_498.png">
+  <player id="0" country="19" side="1" airtrans="0" navaltrans="0" support="18, 0, 0, 0" turnprestige="250, 50, 50, 150, 50, 50, 50, 150, 50, 50, 50, 150, 50, 50, 50, 150, 50, 50, 50, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 290"/>
+  <player id="1" country="10" side="0" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 325"/>
+  <reinforce turn="5">
+    <at row="29" col="4">
+      <unit id="608" owner="1" flag="8" face="5" transport="156" exp="325"/>
+    </at>
+    <at row="1" col="37">
+      <unit id="1248" owner="1" flag="8" face="1" exp="325"/>
+    </at>
+    <at row="2" col="35">
+      <unit id="608" owner="1" flag="8" face="2" transport="157" exp="525"/>
+    </at>
+    <at row="28" col="4">
+      <unit id="133" owner="1" flag="8" face="6" exp="425"/>
+    </at>
+    <at row="1" col="35">
+      <unit id="68" owner="1" flag="8" face="0" exp="525"/>
+    </at>
+    <at row="1" col="34">
+      <unit id="605" owner="1" flag="8" face="0" exp="425"/>
+    </at>
+    <at row="1" col="33">
+      <unit id="85" owner="1" flag="8" face="15" exp="325"/>
+    </at>
+    <at row="8" col="8">
+      <unit id="83" owner="1" flag="8" face="5" exp="325"/>
+    </at>
+    <at row="2" col="34">
+      <unit id="1248" owner="1" flag="8" face="15" exp="425"/>
+    </at>
+    <at row="2" col="36">
+      <unit id="151" owner="1" flag="8" face="2" exp="425"/>
+    </at>
+    <at row="1" col="36">
+      <unit id="105" owner="1" flag="8" face="0" exp="425"/>
+    </at>
+    <at row="2" col="32">
+      <unit id="608" owner="1" flag="8" face="1" transport="2406" exp="325"/>
+    </at>
+    <at row="1" col="31">
+      <unit id="1248" owner="1" flag="8" face="0" exp="325"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="2" col="12">
+      <unit id="608" owner="1" flag="8" face="3" transport="156" exp="425"/>
+    </at>
+    <at row="1" col="13">
+      <unit id="72" owner="1" flag="8" face="3" exp="425"/>
+    </at>
+    <at row="1" col="12">
+      <unit id="105" owner="1" flag="8" face="2" exp="525" ldr="1"/>
+    </at>
+    <at row="2" col="8">
+      <unit id="76" owner="1" flag="8" face="2" exp="425"/>
+    </at>
+    <at row="1" col="7">
+      <unit id="96" owner="1" flag="8" face="3" exp="425"/>
+    </at>
+    <at row="2" col="9">
+      <unit id="104" owner="1" flag="8" face="2" exp="425"/>
+    </at>
+    <at row="1" col="15">
+      <unit id="1248" owner="1" flag="8" face="2" exp="325"/>
+    </at>
+    <at row="1" col="14">
+      <unit id="97" owner="1" flag="8" face="2" exp="325"/>
+    </at>
+    <at row="1" col="11">
+      <unit id="704" owner="1" flag="8" face="2" exp="325"/>
+    </at>
+    <at row="2" col="13">
+      <unit id="991" owner="1" flag="8" face="3" exp="525"/>
+    </at>
+    <at row="1" col="5">
+      <unit id="99" owner="1" flag="8" face="2" exp="425" ldr="1"/>
+    </at>
+    <at row="2" col="14">
+      <unit id="152" owner="1" flag="8" face="2" exp="525" ldr="1"/>
+    </at>
+    <at row="3" col="10">
+      <unit id="154" owner="1" flag="8" face="1" exp="325"/>
+    </at>
+    <at row="2" col="10">
+      <unit id="133" owner="1" flag="8" face="2" exp="325"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="16"/>
+  <hex row="0" col="1" terrain="5" road="40" name="Katalin-hegy (344 m)"/>
+  <hex row="0" col="2" terrain="5" road="17"/>
+  <hex row="0" col="3" terrain="5" name="Odvas-hegy (314 m)"/>
+  <hex row="0" col="4" terrain="5" name="Szabadsag-hegy (HILL)"/>
+  <hex row="0" col="5" terrain="1" name="Lagymanyos (Buda)"/>
+  <hex row="0" col="6" terrain="10" name="Duna"/>
+  <hex row="0" col="7" terrain="1" road="32" name="Pest"/>
+  <hex row="0" col="8" terrain="1" name="Pest"/>
+  <hex row="0" col="9" terrain="1" name="Pest"/>
+  <hex row="0" col="10" terrain="1" name="Pest (Kobanya)"/>
+  <hex row="0" col="11" road="40"/>
+  <hex row="0" col="13" road="40"/>
+  <hex row="0" col="14" terrain="1" name="Rakosliget"/>
+  <hex row="0" col="15" terrain="16"/>
+  <hex row="0" col="16" terrain="1" road="16" name="Pecel"/>
+  <hex row="0" col="17" terrain="3"/>
+  <hex row="0" col="18" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="0" col="19" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="0" col="20" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="0" col="22" terrain="16"/>
+  <hex row="0" col="23" terrain="16"/>
+  <hex row="0" col="25" terrain="1" road="34" name="Koka"/>
+  <hex row="0" col="31" terrain="8"/>
+  <hex row="0" col="32" terrain="8"/>
+  <hex row="0" col="34" road="18"/>
+  <hex row="0" col="36" terrain="1" road="8" name="Jaszbereny"/>
+  <hex row="0" col="37" road="136"/>
+  <hex row="0" col="39" terrain="1" road="48" name="Jasztelek"/>
+  <hex row="1" col="0" terrain="1" road="42"/>
+  <hex row="1" col="1" terrain="5" name="Iharos (334 m)"/>
+  <hex row="1" col="2" terrain="3" road="137"/>
+  <hex row="1" col="3" terrain="2" road="130" name="Budaors Airfield" flag="10" owner="1"/>
+  <hex row="1" col="4" terrain="1" road="40" name="Buda (Sasad)"/>
+  <hex row="1" col="5" terrain="1" road="154" name="Kelenfold (Buda)"/>
+  <hex row="1" col="6" terrain="10" road="34" name="Duna"/>
+  <hex row="1" col="7" terrain="1" road="48" name="Pest"/>
+  <hex row="1" col="8" terrain="1" name="Pest"/>
+  <hex row="1" col="9" terrain="1" name="Pest (Ferencvaros)" flag="10" owner="1">
+    <unit id="3336" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="1" col="10" terrain="1" name="Pest (Kobanya)"/>
+  <hex row="1" col="12" road="130"/>
+  <hex row="1" col="13" terrain="1" name="Rakoskersztur"/>
+  <hex row="1" col="14" terrain="1" road="136" name="Rakoscsaba"/>
+  <hex row="1" col="15" terrain="1" road="130" name="Rakoskert"/>
+  <hex row="1" col="16" terrain="5" road="41" name="Erdo-hegy (242 m)"/>
+  <hex row="1" col="17" terrain="16" road="136"/>
+  <hex row="1" col="18" terrain="5" name="Bajtemetes (299 m)"/>
+  <hex row="1" col="19" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="1" col="20" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="1" col="21" terrain="16"/>
+  <hex row="1" col="23" road="18"/>
+  <hex row="1" col="24" road="34"/>
+  <hex row="1" col="25" terrain="3" road="34"/>
+  <hex row="1" col="26" terrain="3" road="40"/>
+  <hex row="1" col="27" terrain="3" road="136"/>
+  <hex row="1" col="29" terrain="1" road="40" name="Szentmartonkata"/>
+  <hex row="1" col="32" terrain="8"/>
+  <hex row="1" col="33" road="34"/>
+  <hex row="1" col="34" road="33"/>
+  <hex row="1" col="38" road="130"/>
+  <hex row="1" col="39" road="9"/>
+  <hex row="2" col="0" terrain="16"/>
+  <hex row="2" col="1" terrain="3" name="Nagy-hegy (286 m)"/>
+  <hex row="2" col="2" terrain="3"/>
+  <hex row="2" col="3" terrain="16" name="Tetenyi-fennsik (ROUGH)"/>
+  <hex row="2" col="4" terrain="16"/>
+  <hex row="2" col="5" road="17"/>
+  <hex row="2" col="6" terrain="10" road="130" name="Duna"/>
+  <hex row="2" col="7" terrain="2" road="17" name="Csepel Airfield" flag="10" owner="1"/>
+  <hex row="2" col="8" terrain="1" name="Pest (Ferencvaros)"/>
+  <hex row="2" col="9" terrain="1" road="176" name="Pestszentrerzsebet"/>
+  <hex row="2" col="10" terrain="1" name="Pest (Kispest)"/>
+  <hex row="2" col="11" terrain="1" name="Pestszentlorinc">
+    <unit id="1589" owner="1" flag="11" face="2" exp="425"/>
+  </hex>
+  <hex row="2" col="12" terrain="2" name="Ferihegy Airfield" flag="10" owner="1">
+    <unit id="1336" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="2" col="13" terrain="2" name="Ferihegy Airfield">
+    <unit id="1334" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="2" col="17" terrain="1" road="2" name="Maglod"/>
+  <hex row="2" col="18" terrain="16" road="168" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="2" col="19" terrain="16" road="136" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="2" col="20" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="2" col="21" road="40"/>
+  <hex row="2" col="22" terrain="1" name="Tapiosap"/>
+  <hex row="2" col="23" terrain="1" road="35" name="Sulysap" flag="10" owner="1"/>
+  <hex row="2" col="24" terrain="1" road="34" name="Sulysap"/>
+  <hex row="2" col="25" terrain="8"/>
+  <hex row="2" col="26" terrain="1" name="Tapioszecso"/>
+  <hex row="2" col="27" terrain="3"/>
+  <hex row="2" col="28" road="130"/>
+  <hex row="2" col="30" road="144"/>
+  <hex row="2" col="31" road="34"/>
+  <hex row="2" col="32" road="34"/>
+  <hex row="2" col="33" terrain="8" name="Farmosi-nadasto (SWAMP)"/>
+  <hex row="2" col="34" terrain="3"/>
+  <hex row="2" col="35" terrain="3"/>
+  <hex row="2" col="40" road="144"/>
+  <hex row="3" col="1" terrain="16"/>
+  <hex row="3" col="2" terrain="3"/>
+  <hex row="3" col="5" terrain="1" road="17" name="Budafok"/>
+  <hex row="3" col="6" terrain="15" name="Duna"/>
+  <hex row="3" col="7" terrain="1" road="19" name="Csepel"/>
+  <hex row="3" col="8" terrain="10" road="34" name="Rackevei-Duna"/>
+  <hex row="3" col="9" terrain="1" road="17" name="Pestszentrerzsebet">
+    <unit id="620" owner="1" flag="11" face="1" exp="525" ldr="1"/>
+  </hex>
+  <hex row="3" col="10" terrain="1" name="Pestszentrerzsebet"/>
+  <hex row="3" col="11">
+    <unit id="1337" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="3" col="12" terrain="1" road="136" name="Pestszentlorinc">
+    <unit id="2716" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="3" col="13" road="136">
+    <unit id="1335" owner="1" flag="11" face="2" exp="525" ldr="1"/>
+  </hex>
+  <hex row="3" col="17">
+    <unit id="1316" owner="1" flag="11" face="5" exp="425" ent="8"/>
+  </hex>
+  <hex row="3" col="18" terrain="1" road="16" name="Gyomro" flag="10" owner="1" victory="1">
+    <unit id="1153" owner="1" flag="11" face="3" exp="425" ent="8"/>
+  </hex>
+  <hex row="3" col="19" terrain="3"/>
+  <hex row="3" col="20" terrain="1" road="130" name="Mende"/>
+  <hex row="3" col="21" terrain="5" name="Zseller-hegy (238 m)"/>
+  <hex row="3" col="22" road="130"/>
+  <hex row="3" col="26" terrain="8"/>
+  <hex row="3" col="27" terrain="1" name="Tapiosag"/>
+  <hex row="3" col="29" terrain="3"/>
+  <hex row="3" col="30" terrain="1" road="19" name="Nagykata" flag="10" owner="1"/>
+  <hex row="3" col="31" terrain="1" name="Nagykata"/>
+  <hex row="3" col="32" terrain="8" name="Farmosi-nadasto (SWAMP)"/>
+  <hex row="3" col="33" terrain="8" name="Farmosi-nadasto (SWAMP)"/>
+  <hex row="3" col="36" terrain="3"/>
+  <hex row="3" col="40" terrain="1" road="9" name="Alattyan"/>
+  <hex row="3" col="41" road="144"/>
+  <hex row="4" col="5" terrain="1" road="33" name="Budateteny"/>
+  <hex row="4" col="6" terrain="10" name="Duna"/>
+  <hex row="4" col="7" terrain="1" road="17" name="Csepel"/>
+  <hex row="4" col="8" terrain="10" name="Rackevei-Duna"/>
+  <hex row="4" col="9" terrain="1" road="17" name="Soroksar"/>
+  <hex row="4" col="11" terrain="1" name="Pestszentimre"/>
+  <hex row="4" col="12">
+    <unit id="1339" owner="1" flag="11" face="2" exp="425"/>
+  </hex>
+  <hex row="4" col="14" terrain="1" road="136" name="Vecses" flag="10" owner="1"/>
+  <hex row="4" col="15" road="136"/>
+  <hex row="4" col="17" road="18">
+    <unit id="2706" owner="1" flag="11" face="3" exp="425" ent="8"/>
+  </hex>
+  <hex row="4" col="18" road="33">
+    <unit id="189" owner="1" flag="11" face="1" exp="425"/>
+  </hex>
+  <hex row="4" col="20" terrain="3">
+    <unit id="737" owner="1" flag="11" face="3" transport="2721" exp="525"/>
+  </hex>
+  <hex row="4" col="21" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="4" col="28" terrain="3"/>
+  <hex row="4" col="30" road="9"/>
+  <hex row="4" col="31" road="136"/>
+  <hex row="4" col="32" terrain="8" name="Farmosi-nadasto (SWAMP)"/>
+  <hex row="4" col="33" terrain="8" name="Farmosi-nadasto (SWAMP)"/>
+  <hex row="4" col="36" terrain="3"/>
+  <hex row="4" col="37" terrain="3"/>
+  <hex row="4" col="39" road="24"/>
+  <hex row="4" col="41" terrain="1" road="41" name="Janoshida" flag="19" owner="0"/>
+  <hex row="5" col="3" road="34"/>
+  <hex row="5" col="4" road="34"/>
+  <hex row="5" col="5" terrain="15" name="Duna"/>
+  <hex row="5" col="6" terrain="15" name="Duna"/>
+  <hex row="5" col="7" road="17"/>
+  <hex row="5" col="8" terrain="10" name="Rackevei-Duna"/>
+  <hex row="5" col="9" road="25"/>
+  <hex row="5" col="12" terrain="1" name="Gyal" flag="10" owner="1"/>
+  <hex row="5" col="16" road="136">
+    <unit id="1321" owner="1" flag="11" face="2" exp="425" ent="8"/>
+  </hex>
+  <hex row="5" col="17" terrain="1" road="169" name="Ullo" flag="10" owner="1" victory="1">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="5" col="21" terrain="16" road="34" name="Godolloi-dombsag (ROUGH)">
+    <unit id="180" owner="1" flag="11" face="3" exp="525" ent="8"/>
+  </hex>
+  <hex row="5" col="22" terrain="16" road="40" name="Godolloi-dombsag (ROUGH)">
+    <unit id="3335" owner="1" flag="11" face="3" exp="525" ent="8"/>
+  </hex>
+  <hex row="5" col="23" terrain="1" road="136" name="Gomba">
+    <unit id="3335" owner="1" flag="11" face="2" exp="525" ent="8"/>
+  </hex>
+  <hex row="5" col="25" road="40"/>
+  <hex row="5" col="27" terrain="1" road="34" name="Pand"/>
+  <hex row="5" col="28" road="40"/>
+  <hex row="5" col="29" terrain="1" name="Tapiobicske"/>
+  <hex row="5" col="31" terrain="3" road="18"/>
+  <hex row="5" col="32" road="168"/>
+  <hex row="5" col="33" road="138"/>
+  <hex row="5" col="34" terrain="1" name="Farmos"/>
+  <hex row="5" col="38" terrain="8"/>
+  <hex row="5" col="39" road="33"/>
+  <hex row="5" col="40" road="130"/>
+  <hex row="5" col="42" terrain="1" road="152" name="Jaszalsoszentgyorgy"/>
+  <hex row="5" col="43" road="128"/>
+  <hex row="6" col="1" road="50"/>
+  <hex row="6" col="2" terrain="1" road="34" name="Erd"/>
+  <hex row="6" col="3" terrain="10" name="Duna"/>
+  <hex row="6" col="4" terrain="15" name="Duna"/>
+  <hex row="6" col="7" road="33"/>
+  <hex row="6" col="8" terrain="10" name="Rackevei-Duna"/>
+  <hex row="6" col="9" terrain="1" road="33" name="Dunaharszti" flag="10" owner="1" victory="1">
+    <unit id="2708" owner="1" flag="11" face="4" exp="425" ent="8"/>
+  </hex>
+  <hex row="6" col="10" road="144"/>
+  <hex row="6" col="13" terrain="3"/>
+  <hex row="6" col="15" road="10"/>
+  <hex row="6" col="16" road="34">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="6" col="17" terrain="3"/>
+  <hex row="6" col="18" road="136"/>
+  <hex row="6" col="19" road="138"/>
+  <hex row="6" col="20" terrain="1" road="34" name="Monor" flag="10" owner="1"/>
+  <hex row="6" col="22" terrain="16" name="Godolloi-dombsag (ROUGH)">
+    <unit id="3335" owner="1" flag="11" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="6" col="23" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="6" col="24" terrain="1" road="130" name="Benye"/>
+  <hex row="6" col="25" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="6" col="26" terrain="16" road="130"/>
+  <hex row="6" col="29" road="9"/>
+  <hex row="6" col="30" terrain="2" name="Tapioszentmarton Airfield" flag="10" owner="1"/>
+  <hex row="6" col="31" road="33"/>
+  <hex row="6" col="32" terrain="3"/>
+  <hex row="6" col="34" road="144"/>
+  <hex row="6" col="35" road="34"/>
+  <hex row="6" col="36" road="40"/>
+  <hex row="6" col="37" terrain="1" road="130" name="Tapiogyorgye"/>
+  <hex row="6" col="38" road="34"/>
+  <hex row="6" col="42" road="17"/>
+  <hex row="7" col="0" road="34"/>
+  <hex row="7" col="1" road="17"/>
+  <hex row="7" col="3" terrain="15" name="Duna"/>
+  <hex row="7" col="5" terrain="1" road="34" name="Szigethalom"/>
+  <hex row="7" col="6" terrain="1" road="34" name="Szigetszentmiklos"/>
+  <hex row="7" col="7" terrain="10" name="Rackevei-Duna"/>
+  <hex row="7" col="8" terrain="10" road="18" name="Rackevei-Duna"/>
+  <hex row="7" col="9" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="7" col="10" road="9"/>
+  <hex row="7" col="11" terrain="1" road="144" name="Alsonemedi"/>
+  <hex row="7" col="12" terrain="3"/>
+  <hex row="7" col="14" terrain="3"/>
+  <hex row="7" col="15" terrain="3"/>
+  <hex row="7" col="16" road="144"/>
+  <hex row="7" col="17" terrain="3" name="Gombosi-erdo (FOREST)">
+    <unit id="2708" owner="1" flag="11" face="3" exp="425" ent="10"/>
+  </hex>
+  <hex row="7" col="20" road="136">
+    <unit id="1262" owner="1" flag="8" face="2" exp="525"/>
+  </hex>
+  <hex row="7" col="21" road="136">
+    <unit id="1328" owner="1" flag="11" face="1" exp="525"/>
+  </hex>
+  <hex row="7" col="22" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="7" col="23" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="7" col="24" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="7" col="25" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="7" col="26" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="7" col="30" terrain="1" road="130" name="Tapioszentmarton"/>
+  <hex row="7" col="31" terrain="3"/>
+  <hex row="7" col="34" terrain="1" road="19" name="Tapioszele"/>
+  <hex row="7" col="35" terrain="8"/>
+  <hex row="7" col="36" terrain="8"/>
+  <hex row="7" col="37" terrain="8"/>
+  <hex row="7" col="42" road="17"/>
+  <hex row="8" col="1" road="17"/>
+  <hex row="8" col="2" terrain="10" name="Duna"/>
+  <hex row="8" col="4" terrain="1" road="2" name="Tokol"/>
+  <hex row="8" col="5" terrain="10" name="Rackevei-Duna"/>
+  <hex row="8" col="6" terrain="10" name="Rackevei-Duna"/>
+  <hex row="8" col="7" road="34"/>
+  <hex row="8" col="8" terrain="1" road="33"/>
+  <hex row="8" col="9" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="8" col="11" road="9">
+    <unit id="1315" owner="1" flag="11" face="1" exp="525"/>
+  </hex>
+  <hex row="8" col="13" terrain="1" road="10" name="Ocsa"/>
+  <hex row="8" col="14" terrain="3" road="40"/>
+  <hex row="8" col="15" road="130"/>
+  <hex row="8" col="16" terrain="3" road="33" name="Gombosi-erdo (FOREST)">
+    <unit id="1322" owner="1" flag="11" face="1" exp="525" ent="8"/>
+  </hex>
+  <hex row="8" col="17" terrain="3" name="Gombosi-erdo (FOREST)"/>
+  <hex row="8" col="19" terrain="3" name="Kelemen-erdo (FOREST)"/>
+  <hex row="8" col="20">
+    <unit id="954" owner="1" flag="11" face="2" exp="525" ent="9"/>
+  </hex>
+  <hex row="8" col="21">
+    <unit id="2713" owner="1" flag="11" face="1" exp="525"/>
+  </hex>
+  <hex row="8" col="22" road="136">
+    <unit id="2816" owner="1" flag="11" face="1" exp="425" ent="8" ldr="1"/>
+  </hex>
+  <hex row="8" col="23" road="136"/>
+  <hex row="8" col="24" terrain="16" name="Godolloi-dombsag (ROUGH)">
+    <unit id="1243" owner="1" flag="8" face="4" exp="525" ent="8"/>
+  </hex>
+  <hex row="8" col="25" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="8" col="26" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="8" col="27" terrain="16" name="Godolloi-dombsag (ROUGH)"/>
+  <hex row="8" col="33" terrain="1" road="8" name="Tapioszolos"/>
+  <hex row="8" col="34" road="17"/>
+  <hex row="8" col="41" terrain="1" name="Ujszasz"/>
+  <hex row="8" col="42" road="9"/>
+  <hex row="8" col="43" road="128"/>
+  <hex row="9" col="1" road="17"/>
+  <hex row="9" col="2" terrain="15" name="Duna"/>
+  <hex row="9" col="5" terrain="10" name="Rackevei-Duna"/>
+  <hex row="9" col="6" road="18"/>
+  <hex row="9" col="7" terrain="1" name="Dunavarsany"/>
+  <hex row="9" col="10" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="9" col="11" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="9" col="12" road="136"/>
+  <hex row="9" col="13" road="144"/>
+  <hex row="9" col="14" road="144"/>
+  <hex row="9" col="16" terrain="3" name="Gombosi-erdo (FOREST)">
+    <unit id="2701" owner="1" flag="11" face="2" exp="325" ent="6"/>
+  </hex>
+  <hex row="9" col="17" terrain="3" name="Gombosi-erdo (FOREST)">
+    <unit id="1323" owner="1" flag="11" face="1" exp="325"/>
+  </hex>
+  <hex row="9" col="18" terrain="3" name="Gombosi-erdo (FOREST)"/>
+  <hex row="9" col="19" terrain="3" name="Kelemen-erdo (FOREST)"/>
+  <hex row="9" col="20" terrain="3" name="Kelemen-erdo (FOREST)">
+    <unit id="2704" owner="1" flag="11" face="3" exp="525" ent="8"/>
+  </hex>
+  <hex row="9" col="21" terrain="3" name="Kelemen-erdo (FOREST)"/>
+  <hex row="9" col="23" road="34">
+    <unit id="1974" owner="1" flag="11" face="3" exp="525" ent="10"/>
+  </hex>
+  <hex row="9" col="24" terrain="1" road="168" name="Pilis" flag="10" owner="1" victory="1">
+    <unit id="108" owner="1" flag="8" face="3" exp="525" ent="7"/>
+  </hex>
+  <hex row="9" col="25" road="136"/>
+  <hex row="9" col="34" road="137"/>
+  <hex row="9" col="35" terrain="1" road="128" name="Ujszilvas"/>
+  <hex row="9" col="43" road="10"/>
+  <hex row="10" col="1" terrain="1" road="17" name="Ercsi"/>
+  <hex row="10" col="2" terrain="10" name="Duna"/>
+  <hex row="10" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="10" col="6" road="17"/>
+  <hex row="10" col="12" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="10" col="13" terrain="10" road="43" name="Duna-Tisza-csatorna"/>
+  <hex row="10" col="14" terrain="3" road="33"/>
+  <hex row="10" col="16" terrain="1" name="Inarcs">
+    <unit id="1320" owner="1" flag="11" face="1" exp="325" ent="8"/>
+  </hex>
+  <hex row="10" col="17" terrain="1" name="Kakucs">
+    <unit id="2706" owner="1" flag="11" face="3" exp="425" ent="4"/>
+  </hex>
+  <hex row="10" col="21" road="34"/>
+  <hex row="10" col="22" terrain="1" road="34" name="Nyaregyhaza">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="10" col="25" road="34"/>
+  <hex row="10" col="26" terrain="1" road="168" name="Albertirsa">
+    <unit id="178" owner="1" flag="11" face="3" exp="425" ent="6"/>
+  </hex>
+  <hex row="10" col="27" road="136"/>
+  <hex row="10" col="36" terrain="3"/>
+  <hex row="10" col="37" terrain="3"/>
+  <hex row="11" col="1" road="33"/>
+  <hex row="11" col="2" terrain="15" name="Duna"/>
+  <hex row="11" col="3" terrain="1" name="Szigetujfalu"/>
+  <hex row="11" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="11" col="5">
+    <unit id="1313" owner="1" flag="11" face="6" exp="425" ent="8"/>
+  </hex>
+  <hex row="11" col="6" road="17"/>
+  <hex row="11" col="11" terrain="1" road="34" name="Bugyi" flag="10" owner="1"/>
+  <hex row="11" col="12" road="34"/>
+  <hex row="11" col="13" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="11" col="14" road="136"/>
+  <hex row="11" col="15" road="144">
+    <unit id="186" owner="1" flag="11" face="1" exp="425"/>
+  </hex>
+  <hex row="11" col="16">
+    <unit id="1245" owner="1" flag="8" face="3" exp="425" ent="6"/>
+  </hex>
+  <hex row="11" col="17" road="34"/>
+  <hex row="11" col="18" terrain="1" road="40" name="Ujhartyan" flag="10" owner="1">
+    <unit id="1965" owner="1" flag="11" face="1" exp="425" ent="4"/>
+  </hex>
+  <hex row="11" col="19" road="130"/>
+  <hex row="11" col="20" road="34">
+    <unit id="181" owner="1" flag="11" face="14" exp="525"/>
+  </hex>
+  <hex row="11" col="23" road="34"/>
+  <hex row="11" col="24" road="34"/>
+  <hex row="11" col="28" road="136"/>
+  <hex row="11" col="29" terrain="1" road="136" name="Cegledbercel"/>
+  <hex row="11" col="35" terrain="8"/>
+  <hex row="12" col="0" road="34"/>
+  <hex row="12" col="1" terrain="15" name="Duna"/>
+  <hex row="12" col="2" terrain="10" name="Duna"/>
+  <hex row="12" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="12" col="5">
+    <unit id="1319" owner="1" flag="11" face="2" exp="525" ent="8"/>
+  </hex>
+  <hex row="12" col="6" road="17">
+    <unit id="2708" owner="1" flag="11" face="3" exp="425" ent="8"/>
+  </hex>
+  <hex row="12" col="9" terrain="8" road="34"/>
+  <hex row="12" col="10" road="34"/>
+  <hex row="12" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="12" col="14" terrain="10" name="Duna-Tisza-csatorna"/>
+  <hex row="12" col="15" terrain="1" road="9" name="Dabas">
+    <unit id="798" owner="1" flag="8" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="12" col="16" road="18">
+    <unit id="722" owner="1" flag="8" face="3" exp="525" ent="6"/>
+  </hex>
+  <hex row="12" col="21" terrain="1" name="Pusztavacs"/>
+  <hex row="12" col="22" road="18"/>
+  <hex row="12" col="23" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="12" col="27" terrain="3" name="Bereckpusztai-erdo (FOREST)"/>
+  <hex row="12" col="30" road="136"/>
+  <hex row="12" col="31" road="152"/>
+  <hex row="12" col="33">
+    <unit id="2425" owner="0" flag="18" face="12" exp="490"/>
+  </hex>
+  <hex row="12" col="36" terrain="8"/>
+  <hex row="12" col="37" road="34"/>
+  <hex row="12" col="38" road="40"/>
+  <hex row="12" col="39" terrain="1" road="130" name="Abony" flag="19" owner="0"/>
+  <hex row="12" col="40" road="40"/>
+  <hex row="12" col="41" road="130"/>
+  <hex row="12" col="42" road="40"/>
+  <hex row="12" col="43" road="128"/>
+  <hex row="13" col="0" terrain="15"/>
+  <hex row="13" col="3" terrain="10" name="Rackevei-Duna"/>
+  <hex row="13" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="13" col="5" road="34">
+    <unit id="954" owner="1" flag="11" face="2" exp="425" ent="8"/>
+  </hex>
+  <hex row="13" col="6" terrain="1" road="57" name="Kiskunlachaza" flag="10" owner="1" victory="1">
+    <unit id="2708" owner="1" flag="11" face="3" exp="425" ent="8"/>
+  </hex>
+  <hex row="13" col="7" road="130"/>
+  <hex row="13" col="8" road="34"/>
+  <hex row="13" col="9" terrain="8"/>
+  <hex row="13" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="13" col="15">
+    <unit id="607" owner="1" flag="8" face="1" exp="525" ent="6"/>
+  </hex>
+  <hex row="13" col="16" terrain="1" road="137" name="Dabas" flag="10" owner="1" victory="1">
+    <unit id="1245" owner="1" flag="8" face="1" exp="425" ent="6"/>
+  </hex>
+  <hex row="13" col="17" road="136"/>
+  <hex row="13" col="18" terrain="1" name="Hernad">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="6"/>
+  </hex>
+  <hex row="13" col="19" terrain="3" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="935" owner="1" flag="11" face="2" exp="425" ent="8"/>
+  </hex>
+  <hex row="13" col="20" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="13" col="21" terrain="3" road="34" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="179" owner="1" flag="11" face="2" exp="425" ent="8"/>
+  </hex>
+  <hex row="13" col="22" terrain="3" road="33" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="2706" owner="1" flag="11" face="4" exp="425" ent="6"/>
+  </hex>
+  <hex row="13" col="23" terrain="3" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="2709" owner="1" flag="11" face="2" exp="425"/>
+  </hex>
+  <hex row="13" col="24" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="13" col="25" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="13" col="28" terrain="3" name="Bereckpusztai-erdo (FOREST)"/>
+  <hex row="13" col="31" terrain="1" road="9" name="Cegled">
+    <unit id="1570" owner="0" flag="18" face="11" transport="314" exp="490"/>
+  </hex>
+  <hex row="13" col="32" terrain="1" road="152" name="Cegled" flag="19" owner="0" victory="0">
+    <unit id="1580" owner="0" flag="18" face="12" transport="2570" exp="490"/>
+  </hex>
+  <hex row="13" col="33" road="138">
+    <unit id="1577" owner="0" flag="18" face="11" transport="2571" exp="490"/>
+  </hex>
+  <hex row="13" col="34" road="40">
+    <unit id="2425" owner="0" flag="18" face="12" exp="490"/>
+  </hex>
+  <hex row="13" col="35" road="130"/>
+  <hex row="13" col="36" road="34"/>
+  <hex row="14" col="0" terrain="15"/>
+  <hex row="14" col="1" terrain="15" name="Duna"/>
+  <hex row="14" col="2" terrain="1" name="Rackeve"/>
+  <hex row="14" col="3" terrain="1" road="130" name="Rackeve">
+    <unit id="191" owner="1" flag="11" face="5" exp="525"/>
+  </hex>
+  <hex row="14" col="4" road="34">
+    <unit id="3322" owner="1" flag="11" face="5" exp="525" ldr="1"/>
+  </hex>
+  <hex row="14" col="6" terrain="1" road="17" name="Kiskunlachaza">
+    <unit id="2708" owner="1" flag="11" face="3" exp="425" ent="8"/>
+  </hex>
+  <hex row="14" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="14" col="15" terrain="3" name="Rakoczi-erdeje (FOREST)"/>
+  <hex row="14" col="17" terrain="3"/>
+  <hex row="14" col="18" road="144"/>
+  <hex row="14" col="19" road="18"/>
+  <hex row="14" col="20" terrain="3" road="34" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="14" col="21" terrain="3" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="6"/>
+  </hex>
+  <hex row="14" col="22" terrain="3" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="6"/>
+  </hex>
+  <hex row="14" col="23" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="14" col="24" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="14" col="25" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="14" col="26" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="14" col="27" terrain="3"/>
+  <hex row="14" col="29" terrain="3"/>
+  <hex row="14" col="32" road="145">
+    <unit id="2425" owner="0" flag="18" face="12" exp="390"/>
+  </hex>
+  <hex row="14" col="34" road="136"/>
+  <hex row="14" col="35" road="136"/>
+  <hex row="15" col="1" terrain="15" name="Duna"/>
+  <hex row="15" col="2">
+    <unit id="977" owner="1" flag="11" face="6" exp="525"/>
+  </hex>
+  <hex row="15" col="3" terrain="10" name="Rackevei-Duna"/>
+  <hex row="15" col="6" road="17">
+    <unit id="2713" owner="1" flag="11" face="3" exp="525"/>
+  </hex>
+  <hex row="15" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="15" col="14" terrain="3" name="Rakoczi-erdeje (FOREST)"/>
+  <hex row="15" col="15" terrain="3" name="Rakoczi-erdeje (FOREST)"/>
+  <hex row="15" col="18" terrain="1" road="9" name="Orkeny">
+    <unit id="2709" owner="1" flag="11" face="2" exp="525"/>
+  </hex>
+  <hex row="15" col="19" road="137"/>
+  <hex row="15" col="20" terrain="3" name="Pusztavacsi-erdo (FOREST)">
+    <unit id="1314" owner="1" flag="11" face="2" exp="425" ent="6"/>
+  </hex>
+  <hex row="15" col="22" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="15" col="24" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="15" col="26" terrain="3" name="Pusztavacsi-erdo (FOREST)"/>
+  <hex row="15" col="27" terrain="3"/>
+  <hex row="15" col="29" terrain="1" name="Csemo">
+    <unit id="2425" owner="0" flag="18" face="12" exp="590"/>
+  </hex>
+  <hex row="15" col="32" road="17"/>
+  <hex row="15" col="36" terrain="1" road="128" name="Tortel" flag="19" owner="0"/>
+  <hex row="16" col="1" terrain="15" name="Duna"/>
+  <hex row="16" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="16" col="6" road="17"/>
+  <hex row="16" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="16" col="15" terrain="3"/>
+  <hex row="16" col="16" terrain="3"/>
+  <hex row="16" col="18">
+    <unit id="1948" owner="1" flag="11" face="2" exp="525" ldr="1"/>
+  </hex>
+  <hex row="16" col="20" terrain="1" road="136" name="Taborfalva">
+    <unit id="2706" owner="1" flag="11" face="1" exp="425" ent="8"/>
+  </hex>
+  <hex row="16" col="21" road="136"/>
+  <hex row="16" col="30" terrain="3"/>
+  <hex row="16" col="31" terrain="3"/>
+  <hex row="16" col="32" road="17"/>
+  <hex row="17" col="1" terrain="15" name="Duna"/>
+  <hex row="17" col="2" terrain="1" name="Makad"/>
+  <hex row="17" col="3" terrain="10" name="Rackevei-Duna"/>
+  <hex row="17" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="17" col="5" terrain="1" road="18" name="Domsod"/>
+  <hex row="17" col="6" road="33"/>
+  <hex row="17" col="9" terrain="8"/>
+  <hex row="17" col="10" terrain="8"/>
+  <hex row="17" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="17" col="16" terrain="3"/>
+  <hex row="17" col="18" terrain="1" name="Tatarszentgyorgy"/>
+  <hex row="17" col="19" terrain="3"/>
+  <hex row="17" col="22" road="144"/>
+  <hex row="17" col="27" terrain="3"/>
+  <hex row="17" col="28" terrain="3"/>
+  <hex row="17" col="29" terrain="3"/>
+  <hex row="17" col="32" road="17"/>
+  <hex row="17" col="34" terrain="3"/>
+  <hex row="17" col="35" terrain="3"/>
+  <hex row="18" col="1" terrain="15" name="Duna"/>
+  <hex row="18" col="3" terrain="10" name="Rackevei-Duna"/>
+  <hex row="18" col="5" road="9"/>
+  <hex row="18" col="10" terrain="8"/>
+  <hex row="18" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="18" col="19" terrain="3"/>
+  <hex row="18" col="20" terrain="3"/>
+  <hex row="18" col="22" road="9"/>
+  <hex row="18" col="23" road="136"/>
+  <hex row="18" col="28" terrain="3"/>
+  <hex row="18" col="29" terrain="3"/>
+  <hex row="18" col="30" terrain="3"/>
+  <hex row="18" col="31" road="18" deploy="0"/>
+  <hex row="18" col="32" road="33"/>
+  <hex row="18" col="36" terrain="3"/>
+  <hex row="18" col="41" terrain="1" name="Jaszkarajeno"/>
+  <hex row="19" col="0" road="8"/>
+  <hex row="19" col="1" road="136"/>
+  <hex row="19" col="2" terrain="15" name="Duna"/>
+  <hex row="19" col="3" terrain="15" name="Duna"/>
+  <hex row="19" col="4" terrain="10" name="Rackevei-Duna"/>
+  <hex row="19" col="6" terrain="1" road="152" name="Tass"/>
+  <hex row="19" col="7" road="130"/>
+  <hex row="19" col="8" road="40"/>
+  <hex row="19" col="9" terrain="1" road="152" name="Kunszentmiklos" flag="10" owner="1"/>
+  <hex row="19" col="10" terrain="1" name="Kunszentmiklos"/>
+  <hex row="19" col="14" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="19" col="19" terrain="3"/>
+  <hex row="19" col="23" road="34"/>
+  <hex row="19" col="24" terrain="1" road="136" name="Lajosmizse" flag="10" owner="1">
+    <unit id="177" owner="1" flag="11" face="2" exp="425" ent="8"/>
+  </hex>
+  <hex row="19" col="25" road="144"/>
+  <hex row="19" col="28" terrain="3"/>
+  <hex row="19" col="29" terrain="3"/>
+  <hex row="19" col="31" terrain="1" road="25" name="Nagykorors" flag="19" owner="0" deploy="0"/>
+  <hex row="19" col="32" deploy="0"/>
+  <hex row="19" col="33" road="40" deploy="0"/>
+  <hex row="19" col="36" terrain="3"/>
+  <hex row="20" col="0" road="8"/>
+  <hex row="20" col="1" road="136"/>
+  <hex row="20" col="2" road="144"/>
+  <hex row="20" col="3" terrain="15" name="Duna"/>
+  <hex row="20" col="4" terrain="15" name="Duna"/>
+  <hex row="20" col="6" road="17"/>
+  <hex row="20" col="9" road="17"/>
+  <hex row="20" col="10" road="136"/>
+  <hex row="20" col="11" road="130"/>
+  <hex row="20" col="12" road="40"/>
+  <hex row="20" col="13" terrain="10" road="136" name="Duna-volgyi-focsatorna"/>
+  <hex row="20" col="14" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="20" col="17" terrain="3"/>
+  <hex row="20" col="19" terrain="3">
+    <unit id="2709" owner="1" flag="11" face="3" exp="425"/>
+  </hex>
+  <hex row="20" col="20" terrain="3"/>
+  <hex row="20" col="22" road="18"/>
+  <hex row="20" col="25" road="9"/>
+  <hex row="20" col="28" terrain="3"/>
+  <hex row="20" col="29" terrain="3"/>
+  <hex row="20" col="31" road="17" deploy="0"/>
+  <hex row="20" col="32" road="130" deploy="0"/>
+  <hex row="20" col="34" road="136" deploy="0"/>
+  <hex row="20" col="35" road="136" deploy="0"/>
+  <hex row="21" col="2" terrain="1" road="145" name="Dunapentele"/>
+  <hex row="21" col="3" terrain="15" name="Duna"/>
+  <hex row="21" col="6" terrain="1" road="17" name="Szalkszentmarton"/>
+  <hex row="21" col="9" road="9"/>
+  <hex row="21" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="21" col="14" road="136"/>
+  <hex row="21" col="15" road="136"/>
+  <hex row="21" col="19" terrain="3"/>
+  <hex row="21" col="20" terrain="1" name="Kunbaracs"/>
+  <hex row="21" col="21" road="18"/>
+  <hex row="21" col="22" road="33"/>
+  <hex row="21" col="26" road="144"/>
+  <hex row="21" col="31" road="33"/>
+  <hex row="21" col="36" terrain="1" road="136" name="Kocser" deploy="0"/>
+  <hex row="21" col="37" road="136" deploy="0"/>
+  <hex row="21" col="43" road="18"/>
+  <hex row="22" col="2" road="17"/>
+  <hex row="22" col="3" terrain="15" name="Duna"/>
+  <hex row="22" col="4" terrain="15" name="Duna"/>
+  <hex row="22" col="5" road="34"/>
+  <hex row="22" col="6" road="33"/>
+  <hex row="22" col="8" terrain="3"/>
+  <hex row="22" col="10" road="144"/>
+  <hex row="22" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="22" col="16" terrain="1" road="144" name="Kunadacs"/>
+  <hex row="22" col="18" terrain="3"/>
+  <hex row="22" col="19" terrain="3" road="40">
+    <unit id="2709" owner="1" flag="11" face="5" exp="425"/>
+  </hex>
+  <hex row="22" col="20" terrain="3">
+    <unit id="2709" owner="1" flag="11" face="3" exp="525" ldr="1"/>
+  </hex>
+  <hex row="22" col="21" terrain="3" road="49"/>
+  <hex row="22" col="25" terrain="3"/>
+  <hex row="22" col="26" road="9"/>
+  <hex row="22" col="27" road="144"/>
+  <hex row="22" col="30" road="18" deploy="0"/>
+  <hex row="22" col="34" terrain="3"/>
+  <hex row="22" col="38" road="136"/>
+  <hex row="22" col="39" road="136"/>
+  <hex row="22" col="43" road="33"/>
+  <hex row="23" col="1" road="18"/>
+  <hex row="23" col="2" road="33"/>
+  <hex row="23" col="3" terrain="15" name="Duna"/>
+  <hex row="23" col="4" road="18"/>
+  <hex row="23" col="10" road="17"/>
+  <hex row="23" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="23" col="16" road="9"/>
+  <hex row="23" col="17" road="130"/>
+  <hex row="23" col="18" terrain="3" road="34"/>
+  <hex row="23" col="19" terrain="3"/>
+  <hex row="23" col="20" terrain="8" road="130"/>
+  <hex row="23" col="21" road="9"/>
+  <hex row="23" col="24" terrain="3"/>
+  <hex row="23" col="25" terrain="3"/>
+  <hex row="23" col="27" road="9"/>
+  <hex row="23" col="29" road="50" deploy="0"/>
+  <hex row="23" col="30" road="33" deploy="0"/>
+  <hex row="23" col="31" deploy="0"/>
+  <hex row="23" col="40" road="136"/>
+  <hex row="23" col="41" road="138"/>
+  <hex row="23" col="42" road="34"/>
+  <hex row="23" col="43" terrain="10" name="Tisza"/>
+  <hex row="24" col="1" road="17"/>
+  <hex row="24" col="2" terrain="10" name="Duna"/>
+  <hex row="24" col="3" terrain="1" road="18" name="Dunavecse"/>
+  <hex row="24" col="4" road="33"/>
+  <hex row="24" col="10" road="9"/>
+  <hex row="24" col="11" road="144"/>
+  <hex row="24" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="24" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="24" col="15" terrain="3"/>
+  <hex row="24" col="17" terrain="8" name="Kondor-to (SWAMP)"/>
+  <hex row="24" col="22" terrain="1" road="136" name="Kerekegyhaza"/>
+  <hex row="24" col="23" road="144"/>
+  <hex row="24" col="27" deploy="0"/>
+  <hex row="24" col="28" terrain="2" road="144" name="Kecskemet Airfield" flag="19" owner="0" deploy="0"/>
+  <hex row="24" col="29" terrain="1" road="1" name="Kecskemet" deploy="0"/>
+  <hex row="24" col="30" deploy="0"/>
+  <hex row="24" col="31" deploy="0"/>
+  <hex row="24" col="41" road="18"/>
+  <hex row="24" col="42" terrain="1" road="160" name="Tiszakecske"/>
+  <hex row="25" col="1" terrain="1" road="17" name="Kisapostag"/>
+  <hex row="25" col="2" terrain="15" name="Duna"/>
+  <hex row="25" col="3" terrain="1" road="9" name="Apostag"/>
+  <hex row="25" col="11" road="9"/>
+  <hex row="25" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="25" col="15" terrain="3"/>
+  <hex row="25" col="17" terrain="8" name="Kurjanto-to (SWAMP)"/>
+  <hex row="25" col="18" terrain="8" name="Kurjanto-to (SWAMP)"/>
+  <hex row="25" col="19" terrain="3"/>
+  <hex row="25" col="20" terrain="8" name="Kondor-to (SWAMP)"/>
+  <hex row="25" col="21" terrain="1" name="Fulopegyhaza"/>
+  <hex row="25" col="23" road="9"/>
+  <hex row="25" col="27" road="42" deploy="0"/>
+  <hex row="25" col="28" terrain="1" road="33" name="Kecskemet" deploy="0"/>
+  <hex row="25" col="29" terrain="1" name="Kecskemet" flag="19" owner="0" victory="0" deploy="0"/>
+  <hex row="25" col="30" terrain="1" name="Kecskemet" deploy="0"/>
+  <hex row="25" col="31" road="34" deploy="0"/>
+  <hex row="25" col="32" road="40" deploy="0"/>
+  <hex row="25" col="33" road="144" deploy="0"/>
+  <hex row="25" col="37" terrain="3"/>
+  <hex row="25" col="41" road="33"/>
+  <hex row="25" col="43" terrain="10" name="Tisza"/>
+  <hex row="26" col="1" road="17"/>
+  <hex row="26" col="2" terrain="15" name="Duna"/>
+  <hex row="26" col="4" road="144"/>
+  <hex row="26" col="12" road="144"/>
+  <hex row="26" col="13" terrain="10" road="40" name="Duna-volgyi-focsatorna"/>
+  <hex row="26" col="15" terrain="3"/>
+  <hex row="26" col="16" terrain="3"/>
+  <hex row="26" col="23" road="34"/>
+  <hex row="26" col="24" road="168"/>
+  <hex row="26" col="25" road="130"/>
+  <hex row="26" col="26" road="34" deploy="0"/>
+  <hex row="26" col="28" terrain="1" road="128" name="Kecskemet" deploy="0"/>
+  <hex row="26" col="29" terrain="1" road="40" name="Kecskemet" deploy="0"/>
+  <hex row="26" col="30" terrain="1" road="2" name="Kecskemet" deploy="0"/>
+  <hex row="26" col="32" deploy="0"/>
+  <hex row="26" col="33" terrain="3" road="9" deploy="0"/>
+  <hex row="26" col="35" terrain="3"/>
+  <hex row="26" col="36" terrain="3"/>
+  <hex row="26" col="38" terrain="3"/>
+  <hex row="26" col="39" road="40"/>
+  <hex row="26" col="40" road="18"/>
+  <hex row="26" col="41" terrain="10" name="Tisza"/>
+  <hex row="26" col="43" terrain="10" name="Tisza"/>
+  <hex row="27" col="0" road="8"/>
+  <hex row="27" col="1" road="145"/>
+  <hex row="27" col="2" terrain="15" name="Duna"/>
+  <hex row="27" col="4" road="17"/>
+  <hex row="27" col="10" terrain="8" name="Kis-ret (SWAMP)"/>
+  <hex row="27" col="12" terrain="1" road="3" name="Szabadszallas" flag="10" owner="1"/>
+  <hex row="27" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="27" col="14" road="136"/>
+  <hex row="27" col="15" road="144"/>
+  <hex row="27" col="19" terrain="3"/>
+  <hex row="27" col="21" road="34"/>
+  <hex row="27" col="22" road="34"/>
+  <hex row="27" col="27" terrain="1" name="Helvecia"/>
+  <hex row="27" col="28" road="18" deploy="0"/>
+  <hex row="27" col="30" road="137" deploy="0"/>
+  <hex row="27" col="31" road="144"/>
+  <hex row="27" col="34" terrain="3" road="136" deploy="0"/>
+  <hex row="27" col="35" terrain="1" road="130" name="Nyarlorinc" deploy="0"/>
+  <hex row="27" col="36" terrain="3" road="40" deploy="0"/>
+  <hex row="27" col="37" road="130" deploy="0"/>
+  <hex row="27" col="38" road="34"/>
+  <hex row="27" col="39" terrain="1" road="18" name="Lakitelek" flag="19" owner="0" supply="0"/>
+  <hex row="27" col="40" road="169"/>
+  <hex row="27" col="41" terrain="10" road="136" name="Tisza"/>
+  <hex row="27" col="42" terrain="10" name="Tisza"/>
+  <hex row="27" col="43" road="34"/>
+  <hex row="28" col="1" terrain="1" road="145" name="Dunafoldvar"/>
+  <hex row="28" col="2" terrain="15" name="Duna"/>
+  <hex row="28" col="3" terrain="10" road="40" name="Solti-Duna"/>
+  <hex row="28" col="4" terrain="16" road="17" name="Solti-halom (124 m)"/>
+  <hex row="28" col="6" deploy="1"/>
+  <hex row="28" col="7" deploy="1"/>
+  <hex row="28" col="8" deploy="1"/>
+  <hex row="28" col="9" deploy="1"/>
+  <hex row="28" col="10" terrain="8" name="Zab-szek (SWAMP)"/>
+  <hex row="28" col="12" road="8"/>
+  <hex row="28" col="13" terrain="10" road="170" name="Duna-volgyi-focsatorna"/>
+  <hex row="28" col="15" terrain="3" road="9"/>
+  <hex row="28" col="19" road="34"/>
+  <hex row="28" col="20" terrain="1" road="34" name="Agasegyhaza"/>
+  <hex row="28" col="22" terrain="8" name="Agasegyhazai-ret (SWAMP)"/>
+  <hex row="28" col="23" terrain="8" name="Agasegyhazai-ret (SWAMP)"/>
+  <hex row="28" col="27" road="18"/>
+  <hex row="28" col="28" road="33"/>
+  <hex row="28" col="31" road="9"/>
+  <hex row="28" col="36" terrain="3"/>
+  <hex row="28" col="39" terrain="13" road="33" name="Holt-Tisza"/>
+  <hex row="28" col="40" terrain="13" name="Holt-Tisza"/>
+  <hex row="28" col="41" terrain="10" name="Tisza"/>
+  <hex row="28" col="42" road="130"/>
+  <hex row="29" col="1" terrain="1" road="11" name="Dunafoldvar"/>
+  <hex row="29" col="2" terrain="10" road="34" name="Duna"/>
+  <hex row="29" col="3" terrain="15" name="Duna"/>
+  <hex row="29" col="4" terrain="1" road="137" name="Solt"/>
+  <hex row="29" col="5" terrain="1" road="136" name="Solt" flag="10" owner="1"/>
+  <hex row="29" col="6" deploy="1"/>
+  <hex row="29" col="7" terrain="16" name="Tetel-halom (113 m)" deploy="1"/>
+  <hex row="29" col="8" deploy="1"/>
+  <hex row="29" col="9" deploy="1"/>
+  <hex row="29" col="10" terrain="8" name="Kelemen-szek (SWAMP)" deploy="1"/>
+  <hex row="29" col="11" terrain="8" name="Kelemen-szek (SWAMP)"/>
+  <hex row="29" col="12" terrain="1" road="2" name="Fulopszallas"/>
+  <hex row="29" col="13" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="29" col="14" road="128"/>
+  <hex row="29" col="15" terrain="3"/>
+  <hex row="29" col="16" terrain="1" road="136" name="Izsak"/>
+  <hex row="29" col="17" terrain="1" road="138" name="Izsak" flag="10" owner="1"/>
+  <hex row="29" col="18" road="34"/>
+  <hex row="29" col="20" terrain="3"/>
+  <hex row="29" col="23" terrain="8" name="Agasegyhazai-ret (SWAMP)"/>
+  <hex row="29" col="24" terrain="3"/>
+  <hex row="29" col="26" terrain="3"/>
+  <hex row="29" col="27" road="33"/>
+  <hex row="29" col="28" terrain="3" name="Matkoi-erdo (FOREST)"/>
+  <hex row="29" col="29" terrain="3" name="Matkoi-erdo (FOREST)"/>
+  <hex row="29" col="32" road="144"/>
+  <hex row="29" col="38" road="10"/>
+  <hex row="29" col="39" terrain="1" road="144" name="Tiszaalpar"/>
+  <hex row="29" col="41" terrain="10" name="Tisza"/>
+  <hex row="29" col="42" terrain="1" name="Tiszasas"/>
+  <hex row="30" col="2" road="144"/>
+  <hex row="30" col="3" terrain="15" name="Duna"/>
+  <hex row="30" col="6" road="152" deploy="1"/>
+  <hex row="30" col="7" road="136" deploy="1"/>
+  <hex row="30" col="8" deploy="1"/>
+  <hex row="30" col="9" deploy="1"/>
+  <hex row="30" col="10" terrain="8" name="Kelemen-szek (SWAMP)" deploy="1"/>
+  <hex row="30" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="30" col="16" terrain="8" name="Kolon-to (SWAMP)"/>
+  <hex row="30" col="18" road="144"/>
+  <hex row="30" col="23" terrain="8"/>
+  <hex row="30" col="26" road="18"/>
+  <hex row="30" col="28" terrain="3" name="Matkoi-erdo (FOREST)"/>
+  <hex row="30" col="31" terrain="1" name="Kunszallas"/>
+  <hex row="30" col="32" road="9"/>
+  <hex row="30" col="33" road="144"/>
+  <hex row="30" col="39" road="33"/>
+  <hex row="30" col="40" terrain="13" name="Alpari-Holt-Tisza"/>
+  <hex row="30" col="41" terrain="10" name="Tisza"/>
+  <hex row="31" col="2" road="9"/>
+  <hex row="31" col="3" road="144"/>
+  <hex row="31" col="4" terrain="10" name="Duna"/>
+  <hex row="31" col="5" terrain="15" name="Duna"/>
+  <hex row="31" col="6" road="17"/>
+  <hex row="31" col="7" deploy="1"/>
+  <hex row="31" col="8" road="136" deploy="1"/>
+  <hex row="31" col="9" road="136" deploy="1"/>
+  <hex row="31" col="10" deploy="1"/>
+  <hex row="31" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="31" col="16" terrain="8" name="Kolon-to (SWAMP)"/>
+  <hex row="31" col="18" road="17"/>
+  <hex row="31" col="22" terrain="8"/>
+  <hex row="31" col="25" road="18"/>
+  <hex row="31" col="26" terrain="1" road="33" name="Jakabszallas"/>
+  <hex row="31" col="33" road="9"/>
+  <hex row="31" col="37" road="34"/>
+  <hex row="31" col="38" road="34"/>
+  <hex row="31" col="40" terrain="13" name="Alpari-Holt-Tisza"/>
+  <hex row="31" col="42" terrain="10" name="Tisza"/>
+  <hex row="32" col="3" terrain="1" road="17" name="Bolcske"/>
+  <hex row="32" col="5" terrain="15" name="Duna"/>
+  <hex row="32" col="6" road="17"/>
+  <hex row="32" col="8" deploy="1"/>
+  <hex row="32" col="9" deploy="1"/>
+  <hex row="32" col="10" road="144" deploy="1"/>
+  <hex row="32" col="11" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="32" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="32" col="16" terrain="8" name="Kolon-to (SWAMP)"/>
+  <hex row="32" col="18" road="17"/>
+  <hex row="32" col="22" terrain="1" name="Orgovany"/>
+  <hex row="32" col="25" road="17"/>
+  <hex row="32" col="28" terrain="3"/>
+  <hex row="32" col="29" terrain="3"/>
+  <hex row="32" col="34" road="144"/>
+  <hex row="32" col="36" road="18"/>
+  <hex row="32" col="42" terrain="10" name="Tisza"/>
+  <hex row="32" col="43" terrain="10" name="Tisza"/>
+  <hex row="33" col="3" road="17"/>
+  <hex row="33" col="4" terrain="13" name="Holt-Duna"/>
+  <hex row="33" col="5" terrain="15" name="Duna"/>
+  <hex row="33" col="6" road="17"/>
+  <hex row="33" col="7" terrain="1" name="Harta"/>
+  <hex row="33" col="10" terrain="8" road="9" name="Szekes (SWAMP)"/>
+  <hex row="33" col="11" terrain="10" road="136" name="Duna-volgyi-focsatorna"/>
+  <hex row="33" col="14" terrain="1" name="Csengod"/>
+  <hex row="33" col="17" road="18"/>
+  <hex row="33" col="18" road="33"/>
+  <hex row="33" col="21" terrain="3"/>
+  <hex row="33" col="25" terrain="3" road="17"/>
+  <hex row="33" col="27" terrain="3"/>
+  <hex row="33" col="29" terrain="3"/>
+  <hex row="33" col="30" terrain="3"/>
+  <hex row="33" col="34" road="17"/>
+  <hex row="33" col="35" terrain="1" road="2" name="Kiskunfelegyhaza"/>
+  <hex row="33" col="36" road="33"/>
+  <hex row="33" col="41" road="40"/>
+  <hex row="33" col="43" road="40"/>
+  <hex row="34" col="1" road="40"/>
+  <hex row="34" col="3" terrain="1" road="33" name="Madocsa"/>
+  <hex row="34" col="4" terrain="13" name="Holt-Duna"/>
+  <hex row="34" col="5" terrain="15" name="Duna"/>
+  <hex row="34" col="6" road="17"/>
+  <hex row="34" col="10" terrain="8" name="Szekes (SWAMP)"/>
+  <hex row="34" col="11" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="34" col="12" terrain="1" road="136" name="Akaszto" flag="10" owner="1"/>
+  <hex row="34" col="13" road="144"/>
+  <hex row="34" col="17" road="17"/>
+  <hex row="34" col="20" terrain="3"/>
+  <hex row="34" col="21" terrain="3"/>
+  <hex row="34" col="22" terrain="3"/>
+  <hex row="34" col="24" terrain="3"/>
+  <hex row="34" col="25" road="33"/>
+  <hex row="34" col="26" terrain="3"/>
+  <hex row="34" col="29" terrain="2" name="Bugacpuszta Airfield" flag="19" owner="0"/>
+  <hex row="34" col="34" terrain="1" road="25" name="Kiskunfelegyhaza" flag="19" owner="0"/>
+  <hex row="34" col="35" road="136"/>
+  <hex row="34" col="37" road="40"/>
+  <hex row="34" col="39" road="34"/>
+  <hex row="34" col="40" road="34"/>
+  <hex row="34" col="42" road="130"/>
+  <hex row="35" col="0" road="2"/>
+  <hex row="35" col="1" terrain="3"/>
+  <hex row="35" col="2" road="130"/>
+  <hex row="35" col="5" terrain="15" name="Duna"/>
+  <hex row="35" col="6" road="17"/>
+  <hex row="35" col="10" terrain="8" name="Szekes (SWAMP)"/>
+  <hex row="35" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="35" col="13" road="9"/>
+  <hex row="35" col="17" road="33"/>
+  <hex row="35" col="20" terrain="3"/>
+  <hex row="35" col="21" terrain="3"/>
+  <hex row="35" col="22" terrain="3"/>
+  <hex row="35" col="24" road="18"/>
+  <hex row="35" col="25" terrain="3"/>
+  <hex row="35" col="27" terrain="3" name="Nagybugaci-erdo (FOREST)"/>
+  <hex row="35" col="28" terrain="1" name="Bugac"/>
+  <hex row="35" col="34" road="17"/>
+  <hex row="35" col="36" road="130"/>
+  <hex row="35" col="38" terrain="1" road="130" name="Gater"/>
+  <hex row="36" col="1" terrain="10" name="Duna"/>
+  <hex row="36" col="3" terrain="15" name="Duna"/>
+  <hex row="36" col="4" terrain="15" name="Duna"/>
+  <hex row="36" col="5" terrain="1" road="18" name="Dunapataj"/>
+  <hex row="36" col="6" road="33"/>
+  <hex row="36" col="11" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="36" col="12" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="36" col="14" road="144"/>
+  <hex row="36" col="16" road="18"/>
+  <hex row="36" col="20" terrain="3"/>
+  <hex row="36" col="21" terrain="3"/>
+  <hex row="36" col="22" terrain="3"/>
+  <hex row="36" col="24" road="17"/>
+  <hex row="36" col="26" terrain="3" name="Nagybugaci-erdo (FOREST)"/>
+  <hex row="36" col="27" terrain="3" name="Nagybugaci-erdo (FOREST)"/>
+  <hex row="36" col="29" terrain="3"/>
+  <hex row="36" col="30" terrain="3"/>
+  <hex row="36" col="31" terrain="3"/>
+  <hex row="36" col="34" road="9"/>
+  <hex row="36" col="35" road="144"/>
+  <hex row="37" col="0" terrain="15"/>
+  <hex row="37" col="1" terrain="3"/>
+  <hex row="37" col="2" terrain="15" name="Duna"/>
+  <hex row="37" col="5" road="17"/>
+  <hex row="37" col="11" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="37" col="14" road="17"/>
+  <hex row="37" col="15" terrain="1" road="18" name="Kiskoros"/>
+  <hex row="37" col="16" road="33"/>
+  <hex row="37" col="21" terrain="3"/>
+  <hex row="37" col="23" road="34"/>
+  <hex row="37" col="24" road="33"/>
+  <hex row="37" col="30" terrain="3"/>
+  <hex row="37" col="31" terrain="3"/>
+  <hex row="37" col="35" road="9"/>
+  <hex row="37" col="39" terrain="10" name="Feher-to"/>
+  <hex row="38" col="1" terrain="3"/>
+  <hex row="38" col="5" road="1"/>
+  <hex row="38" col="11" terrain="10" name="Duna-volgyi-focsatorna"/>
+  <hex row="38" col="12" terrain="3"/>
+  <hex row="38" col="14" terrain="1" road="9" name="Kiskoros"/>
+  <hex row="38" col="15" road="145"/>
+  <hex row="38" col="22" terrain="1" road="34" name="Ocsa"/>
+  <hex row="38" col="31" terrain="3"/>
+  <hex row="38" col="36" road="144"/>
+  <hex row="38" col="38" terrain="1" name="Palmonostora"/>
+</map>

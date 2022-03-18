@@ -1,0 +1,236 @@
+.textBounceRed
+{	
+	position: absolute;
+	z-index: 200;
+	border: 1px #DC143C solid;
+    border-radius: 4px;
+	margin-left: 10px;
+	min-width: 12px;
+	min-height: 10px;
+    padding: 2px;
+    font-family: Arial;
+	font-size: 13px;
+	color: white;
+    background-color: rgba(140, 0, 0, 0.9); /* lighter red */
+	-webkit-animation:jump 2s linear 1 normal;
+	-moz-animation:jump 2s linear 1 normal;
+	white-space: nowrap;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+
+.textBounceGreen
+{
+    position: absolute;
+    z-index: 200;
+    border: 1px #00FF7F solid;
+    border-radius: 4px;
+    margin-left: 10px;
+    min-width: 12px;
+    min-height: 10px;
+    padding: 2px;
+    font-family: Arial;
+    font-size: 13px;
+    color: white;
+    background-color: rgba(0, 102, 0, 0.9); /* darker green */
+    -webkit-animation:jump 2s linear 1 normal;
+    -moz-animation:jump 2s linear 1 normal;
+    white-space: nowrap;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+
+.combatInfoStatusBar
+{
+    white-space: nowrap;
+    float: left;
+    max-height: 16px;
+    max-width: 40%; /* or 168px @ for 840px width status bar */
+    overflow: hidden;
+    text-overflow: clip;
+}
+#combatLogButton
+{
+    position:fixed;
+    width: 40px;
+    height: 13px;
+    top: 25px; /* Below statusbar */
+    left: 50%;
+    margin-left: -20px;
+
+    font-family: openpanzer-menu;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    color: #f8e064;
+    line-height: 7px;
+
+    background: rgba(0, 0, 0, 0.7);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    z-index:201; /* above statusbar */
+
+    cursor: pointer;
+
+    /*display: none;*/
+}
+
+.combatLogInfoButton
+{
+    font-size: 30px;
+    min-width: 30px;
+    min-height: 30px;
+    position: absolute;
+    top: 25px;
+}
+
+#combatLog
+{
+    position:fixed;
+    /*float:left;*/
+    width: 800px;
+    height: 400px;
+    overflow-y: auto;
+    margin-left: -400px;
+    left: 50%;
+    top: 25px; /* Below statusbar */
+    color: #f8e064;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    /*border:0px solid #000;*/
+    background: rgba(0,0,0,0.8);
+    z-index:202; /* Under statusbar */
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: none;
+}
+
+.combatLogLine
+{
+    position: relative;
+    width: 100%;
+    border: none;
+    display: table-row;
+}
+
+.combatLogUnitBox
+{
+    width: 94px;
+    height: 55px;
+    overflow: hidden;
+    position: relative;
+    background-image: url('../resources/ui/dialogs/equipment/images/unit-box-pressed.png');
+    background-repeat: no-repeat;
+    display: table-cell;
+}
+.combatLogUnitBox > img:first-child /*for the unit image*/
+{
+    /*select the 4th image each ~80px wide */
+    position: absolute;
+    left: -240px;
+    clip:rect(0px, 320px, 50px, 240px);
+}
+
+.combatLogInfoBox
+{
+    display: table-cell;
+    text-align: justify;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+.combatLogInfoBoxRed
+{
+    display: table-cell;
+    text-align: justify;
+    vertical-align: middle;
+    padding-right: 10px;
+    color: #ff4411;
+}
+
+.combatLogHeader
+{
+    text-align: center;
+    padding-top: 10px;
+    vertical-align: text-bottom;
+    font-size: 16px;
+    color:#33ccff;
+    font-weight: bold;
+}
+
+.combatLogNum
+{
+    color: #33ccff;
+    font-weight: bold;
+}
+
+#dossier
+{
+    position:fixed;
+    width: 800px;
+    height: 400px;
+    overflow-y: auto;
+    margin-left: -400px;
+    left: 50%;
+    top: 25px; /* Below statusbar */
+    color: #f8e064;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    background: rgba(0,0,0,0.8);
+    z-index:200; /* Under statusbar */
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: none;
+}
+
+.counterBox
+{
+    position: relative;
+    left: 50%;
+    bottom: 30px;
+    margin-left: 5px;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #8c8c7c;
+    border-radius: 2px;
+    color: #f9f5e1;
+    font-size: 11px;
+    line-height: 17px;
+    background-color: #212121;
+    white-space: nowrap;
+    padding: 0 5px;
+}
+
+
+@-webkit-keyframes jump
+{
+    from, to  
+	{
+		bottom:0;
+		-webkit-animation-timing-function: ease-out;
+    }
+    50% 
+	{
+		bottom: 40px;
+		-webkit-animation-timing-function: ease-in;
+    }
+}
+
+@-moz-keyframes jump
+{
+    from, to  
+	{
+		bottom:0;
+		-moz-animation-timing-function: ease-out;
+    }
+    50% 
+	{
+		bottom: 40px;
+		-moz-animation-timing-function: ease-in;
+    }
+}

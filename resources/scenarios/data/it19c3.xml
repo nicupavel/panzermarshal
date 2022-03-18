@@ -1,0 +1,1141 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="it19c3.scn" name="C3 - Operation Theseus" turns="6, 12, 30" date="August 15, 1942" dayturns="3" ground="0" atmosferic="0" latitude="1" rows="26" cols="31" eqp="eqp-adlerkorps" image="resources/maps/images/map_2.png">
+  <player id="0" country="12" side="0" airtrans="10" navaltrans="3" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="22" side="1" airtrans="0" navaltrans="0" support="27, 28, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="11" col="5">
+      <unit id="385" owner="1" flag="23" face="2" exp="200" str="3"/>
+      <unit id="360" owner="1" flag="23" face="2" exp="300" str="4"/>
+    </at>
+    <at row="15" col="4">
+      <unit id="385" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+    <at row="16" col="4">
+      <unit id="1743" owner="1" flag="23" face="2" exp="400" str="4" ldr="1"/>
+    </at>
+    <at row="13" col="4">
+      <unit id="360" owner="1" flag="23" face="2" exp="300" str="4"/>
+    </at>
+    <at row="12" col="29">
+      <unit id="1738" owner="1" flag="23" face="14" exp="350" ldr="1"/>
+    </at>
+    <at row="16" col="7">
+      <unit id="1738" owner="1" flag="23" face="2" exp="300" str="8"/>
+    </at>
+    <at row="13" col="29">
+      <unit id="361" owner="1" flag="23" face="14" exp="400"/>
+    </at>
+    <at row="13" col="6">
+      <unit id="1717" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+    <at row="13" col="28">
+      <unit id="361" owner="1" flag="23" face="14" exp="400"/>
+    </at>
+    <at row="14" col="2">
+      <unit id="1743" owner="1" flag="23" face="2" exp="300" str="4"/>
+    </at>
+    <at row="12" col="5">
+      <unit id="385" owner="1" flag="23" face="2" exp="300" str="5"/>
+    </at>
+    <at row="14" col="6">
+      <unit id="1742" owner="1" flag="23" face="2" exp="300" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="8" col="2">
+      <unit id="1735" owner="1" flag="23" face="2" exp="250"/>
+    </at>
+    <at row="7" col="4">
+      <unit id="1736" owner="1" flag="23" face="2" exp="300"/>
+    </at>
+    <at row="9" col="4">
+      <unit id="1735" owner="1" flag="23" face="2" exp="200"/>
+    </at>
+    <at row="14" col="4">
+      <unit id="385" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+    <at row="8" col="6">
+      <unit id="361" owner="1" flag="23" face="2" exp="300"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="8" col="3">
+      <unit id="2323" owner="1" flag="27" face="2" exp="200" str="6"/>
+    </at>
+    <at row="7" col="3">
+      <unit id="1726" owner="1" flag="23" face="3" exp="200" str="6"/>
+    </at>
+    <at row="15" col="5">
+      <unit id="385" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+    <at row="8" col="4">
+      <unit id="2327" owner="1" flag="27" face="2" exp="200" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="13" col="5">
+      <unit id="1718" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="12" col="6">
+      <unit id="1717" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="14" col="3">
+      <unit id="1717" owner="1" flag="23" face="2" exp="200" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="9">
+    <at row="1" col="26">
+      <unit id="110" owner="0" flag="8" face="15" carrier="176" exp="200"/>
+    </at>
+  </reinforce>
+  <reinforce turn="10">
+    <at row="0" col="25">
+      <unit id="1266" owner="0" flag="8" face="15" carrier="2822" exp="100" str="4"/>
+    </at>
+    <at row="1" col="25">
+      <unit id="141" owner="0" flag="8" face="15" carrier="2822" exp="100" str="4"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="9"/>
+  <hex row="0" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="4" terrain="9"/>
+  <hex row="0" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="6" terrain="9"/>
+  <hex row="0" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="8" terrain="9"/>
+  <hex row="0" col="9" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="10" terrain="9"/>
+  <hex row="0" col="11" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="12" terrain="9"/>
+  <hex row="0" col="13" terrain="9" name="South Comino Channel"/>
+  <hex row="0" col="14" terrain="9"/>
+  <hex row="0" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="16" terrain="9"/>
+  <hex row="0" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="18" terrain="9"/>
+  <hex row="0" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="20" terrain="9"/>
+  <hex row="0" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="22" terrain="9"/>
+  <hex row="0" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="24" terrain="9"/>
+  <hex row="0" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="26" terrain="9"/>
+  <hex row="0" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="28" terrain="9"/>
+  <hex row="0" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="30" terrain="9"/>
+  <hex row="1" col="0" terrain="9"/>
+  <hex row="1" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="8" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="9" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="10" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="11" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="12" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="13" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="14" terrain="9" name="South Comino Channel"/>
+  <hex row="1" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="0" terrain="9"/>
+  <hex row="2" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="8" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="9" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="10" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="11" terrain="9" name="South Comino Channel"/>
+  <hex row="2" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="13" terrain="9" name="Mare Nostrum">
+    <unit id="228" owner="0" flag="13" face="0" exp="150" str="8"/>
+  </hex>
+  <hex row="2" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="17" terrain="9" name="Mare Nostrum">
+    <unit id="3350" owner="0" flag="13" face="0" carrier="234" exp="100" str="7"/>
+  </hex>
+  <hex row="2" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="3349" owner="0" flag="13" face="0" carrier="234" exp="100" str="5"/>
+  </hex>
+  <hex row="2" col="19" terrain="9" name="Mare Nostrum">
+    <unit id="3350" owner="0" flag="13" face="0" carrier="234" exp="100" str="7"/>
+  </hex>
+  <hex row="2" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="1394" owner="0" flag="13" face="15" exp="200" str="8"/>
+  </hex>
+  <hex row="2" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="0" terrain="9"/>
+  <hex row="3" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="8" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="9" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="10" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="11" terrain="9" name="South Comino Channel"/>
+  <hex row="3" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="14" terrain="9" name="Mare Nostrum">
+    <unit id="1383" owner="0" flag="13" face="0" exp="150" str="5"/>
+  </hex>
+  <hex row="3" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="3350" owner="0" flag="13" face="0" carrier="234" exp="100" str="7"/>
+  </hex>
+  <hex row="3" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="21" terrain="9" name="Mare Nostrum">
+    <unit id="3348" owner="0" flag="13" face="0" carrier="234" exp="100"/>
+  </hex>
+  <hex row="3" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="0" terrain="9"/>
+  <hex row="4" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="8" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="9" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="10" terrain="9" name="South Comino Channel"/>
+  <hex row="4" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="15" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="200"/>
+  </hex>
+  <hex row="4" col="16" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="200"/>
+  </hex>
+  <hex row="4" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="20" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="150"/>
+  </hex>
+  <hex row="4" col="21" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="150"/>
+  </hex>
+  <hex row="4" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="23" terrain="9"/>
+  <hex row="4" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="989" owner="0" flag="8" face="14" exp="200" str="7"/>
+  </hex>
+  <hex row="4" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="989" owner="0" flag="8" face="14" exp="200" str="4"/>
+  </hex>
+  <hex row="4" col="26" terrain="9" name="Mare Nostrum">
+    <unit id="618" owner="0" flag="8" face="14" exp="400" str="5"/>
+  </hex>
+  <hex row="4" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="989" owner="0" flag="8" face="14" exp="200" str="4"/>
+  </hex>
+  <hex row="4" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="989" owner="0" flag="8" face="14" exp="200" str="4"/>
+  </hex>
+  <hex row="4" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="0" terrain="9"/>
+  <hex row="5" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="5" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="7" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="8" terrain="9" name="South Comino Channel"/>
+  <hex row="5" col="9" terrain="2" road="2"/>
+  <hex row="5" col="10" terrain="2" road="32"/>
+  <hex row="5" col="11" terrain="9" name="Mellieha Bay"/>
+  <hex row="5" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="16" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="100"/>
+  </hex>
+  <hex row="5" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="100"/>
+  </hex>
+  <hex row="5" col="19" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="150"/>
+  </hex>
+  <hex row="5" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="618" owner="0" flag="8" face="14" exp="400" str="5" ldr="1"/>
+  </hex>
+  <hex row="5" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="200"/>
+  </hex>
+  <hex row="5" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="1556" owner="0" flag="8" face="15" carrier="176" exp="200"/>
+  </hex>
+  <hex row="5" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="1242" owner="0" flag="8" face="15" carrier="176" exp="250"/>
+  </hex>
+  <hex row="5" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="0" terrain="9"/>
+  <hex row="6" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="6" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="6" col="3" terrain="9" name="South Comino Channel"/>
+  <hex row="6" col="4" terrain="9" name="South Comino Channel"/>
+  <hex row="6" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="6" terrain="9" name="South Comino Channel"/>
+  <hex row="6" col="7" terrain="16"/>
+  <hex row="6" col="8" terrain="1" name="Marfa" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="9" exp="100" ent="5"/>
+  </hex>
+  <hex row="6" col="9" terrain="9" name="Mellieha Bay"/>
+  <hex row="6" col="10" terrain="9" name="Mellieha Bay"/>
+  <hex row="6" col="11" terrain="16"/>
+  <hex row="6" col="12" terrain="9" name="St Paul's Bay"/>
+  <hex row="6" col="13" terrain="9" name="St Paul's Bay"/>
+  <hex row="6" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="625" owner="0" flag="13" face="0" carrier="234" exp="100"/>
+  </hex>
+  <hex row="6" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="100"/>
+  </hex>
+  <hex row="6" col="26" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="300" str="7"/>
+  </hex>
+  <hex row="6" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="300"/>
+  </hex>
+  <hex row="6" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="300"/>
+  </hex>
+  <hex row="6" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="0" terrain="9"/>
+  <hex row="7" col="1" terrain="9" name="South Comino Channel"/>
+  <hex row="7" col="2" terrain="9" name="South Comino Channel"/>
+  <hex row="7" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="9" terrain="16"/>
+  <hex row="7" col="10" terrain="16"/>
+  <hex row="7" col="11" terrain="13">
+    <unit id="1010" owner="1" flag="23" face="8" ent="5" str="7"/>
+  </hex>
+  <hex row="7" col="12" terrain="9" name="St Paul's Bay"/>
+  <hex row="7" col="13" terrain="1" road="56" name="St Paul's Bay" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="8" exp="100" ent="5"/>
+  </hex>
+  <hex row="7" col="15" road="40"/>
+  <hex row="7" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="26" terrain="9" name="Mare Nostrum">
+    <unit id="618" owner="0" flag="8" face="14" exp="400" str="4"/>
+  </hex>
+  <hex row="7" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="1398" owner="0" flag="13" face="14" exp="200"/>
+  </hex>
+  <hex row="7" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="162" owner="0" flag="8" face="14" exp="225" str="4"/>
+  </hex>
+  <hex row="7" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="0" terrain="9"/>
+  <hex row="8" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="9">
+    <unit id="321" owner="1" flag="23" face="8" exp="200" str="6"/>
+  </hex>
+  <hex row="8" col="10" terrain="1" name="Mellieha" flag="22" owner="1" victory="1">
+    <unit id="346" owner="1" flag="23" face="8" exp="100" ent="5"/>
+  </hex>
+  <hex row="8" col="11" road="34">
+    <unit id="100" owner="1" flag="23" face="8" exp="200" str="4"/>
+  </hex>
+  <hex row="8" col="12" road="42"/>
+  <hex row="8" col="13" terrain="13" road="145"/>
+  <hex row="8" col="14" terrain="13" road="138"/>
+  <hex row="8" col="15" terrain="16" road="128">
+    <unit id="2387" owner="1" flag="23" face="8" ent="5" str="7"/>
+  </hex>
+  <hex row="8" col="16" road="136"/>
+  <hex row="8" col="17" road="136">
+    <unit id="1700" owner="1" flag="23" face="8" exp="100" ent="5"/>
+  </hex>
+  <hex row="8" col="19" terrain="1" road="40" name="Sliema" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="6" exp="100" ent="5"/>
+  </hex>
+  <hex row="8" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="22" terrain="9" name="Mare Nostrum">
+    <unit id="3135" owner="1" flag="23" face="5" exp="200" str="4"/>
+  </hex>
+  <hex row="8" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="400" str="7"/>
+  </hex>
+  <hex row="8" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="0" terrain="9"/>
+  <hex row="9" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="8" terrain="16"/>
+  <hex row="9" col="9" road="10"/>
+  <hex row="9" col="10" road="34">
+    <unit id="627" owner="1" flag="23" face="8" exp="100" ent="5" str="6"/>
+  </hex>
+  <hex row="9" col="11" terrain="13">
+    <unit id="2387" owner="1" flag="23" face="10" ent="5" str="4"/>
+  </hex>
+  <hex row="9" col="12" terrain="13"/>
+  <hex row="9" col="13" road="9"/>
+  <hex row="9" col="14" terrain="13"/>
+  <hex row="9" col="15" terrain="13"/>
+  <hex row="9" col="16" terrain="16">
+    <unit id="100" owner="1" flag="23" face="8" exp="200" str="7"/>
+  </hex>
+  <hex row="9" col="17">
+    <unit id="627" owner="1" flag="23" face="8" exp="100" ent="5" str="6"/>
+  </hex>
+  <hex row="9" col="18" road="130">
+    <unit id="100" owner="1" flag="23" face="8" exp="200" str="7"/>
+  </hex>
+  <hex row="9" col="19" name="Marsamxett Harbor">
+    <unit id="321" owner="1" flag="23" face="8" exp="200"/>
+  </hex>
+  <hex row="9" col="20" terrain="1" road="128" name="Sliema">
+    <unit id="1010" owner="1" flag="23" face="6" ent="5"/>
+  </hex>
+  <hex row="9" col="21" terrain="9" name="Grand Harbor"/>
+  <hex row="9" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="26" terrain="9" name="Mare Nostrum">
+    <unit id="618" owner="0" flag="8" face="14" exp="400" str="9"/>
+  </hex>
+  <hex row="9" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="400" str="7"/>
+  </hex>
+  <hex row="9" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="114" owner="0" flag="8" face="15" carrier="176" exp="400" str="7"/>
+  </hex>
+  <hex row="9" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="0" terrain="9"/>
+  <hex row="10" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="9" terrain="16"/>
+  <hex row="10" col="10" road="136">
+    <unit id="346" owner="1" flag="23" face="14" exp="100" ent="5"/>
+  </hex>
+  <hex row="10" col="11" road="136"/>
+  <hex row="10" col="12">
+    <unit id="100" owner="1" flag="23" face="8" exp="200" str="4"/>
+  </hex>
+  <hex row="10" col="13" road="40"/>
+  <hex row="10" col="14" terrain="1" road="136" name="Musta" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="8" exp="100" ent="5" str="4"/>
+  </hex>
+  <hex row="10" col="15" terrain="13" road="146"/>
+  <hex row="10" col="16" road="40"/>
+  <hex row="10" col="17" terrain="1" road="168" name="Birkirkara" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="8" exp="100" ent="5" str="7"/>
+  </hex>
+  <hex row="10" col="18">
+    <unit id="1958" owner="1" flag="23" face="8" exp="200" str="4"/>
+  </hex>
+  <hex row="10" col="19" road="50">
+    <unit id="100" owner="1" flag="23" face="8" exp="200"/>
+  </hex>
+  <hex row="10" col="20" terrain="12" road="32" name="Vallena" flag="22" owner="1" victory="1">
+    <unit id="951" owner="1" flag="23" face="6" ent="5"/>
+  </hex>
+  <hex row="10" col="21" terrain="9" name="Grand Harbor">
+    <unit id="3133" owner="1" flag="23" face="7" exp="300"/>
+  </hex>
+  <hex row="10" col="22">
+    <unit id="951" owner="1" flag="23" face="7" ent="5" str="6"/>
+  </hex>
+  <hex row="10" col="23">
+    <unit id="1010" owner="1" flag="23" face="7" ent="5"/>
+  </hex>
+  <hex row="10" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="174" owner="0" flag="8" face="14" exp="300" str="7"/>
+  </hex>
+  <hex row="10" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="0" terrain="9"/>
+  <hex row="11" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="9" terrain="16"/>
+  <hex row="11" col="10" terrain="16"/>
+  <hex row="11" col="11" terrain="16"/>
+  <hex row="11" col="12" road="130"/>
+  <hex row="11" col="13" terrain="13"/>
+  <hex row="11" col="14" terrain="13" road="152"/>
+  <hex row="11" col="15" road="171">
+    <unit id="551" owner="1" flag="23" face="2" exp="200" str="2"/>
+  </hex>
+  <hex row="11" col="16" road="34">
+    <unit id="377" owner="1" flag="23" face="2" exp="200" str="3"/>
+  </hex>
+  <hex row="11" col="17" road="8"/>
+  <hex row="11" col="18" terrain="1" road="154" name="Hamrun" flag="22" owner="1">
+    <unit id="342" owner="1" flag="23" face="2" exp="50" ent="5" str="4"/>
+  </hex>
+  <hex row="11" col="19" terrain="13" road="185"/>
+  <hex row="11" col="20" terrain="9" name="Grand Harbor"/>
+  <hex row="11" col="21" road="34"/>
+  <hex row="11" col="22" road="40">
+    <unit id="321" owner="1" flag="23" face="8" exp="200" str="6"/>
+  </hex>
+  <hex row="11" col="23" terrain="1" road="136" name="Zabbar" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="4" exp="100" ent="5"/>
+  </hex>
+  <hex row="11" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="174" owner="0" flag="8" face="14" exp="300" str="7"/>
+  </hex>
+  <hex row="11" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="174" owner="0" flag="8" face="14" exp="300"/>
+  </hex>
+  <hex row="11" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="0" terrain="9"/>
+  <hex row="12" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="9" terrain="16" name="Cliffs"/>
+  <hex row="12" col="10" terrain="16"/>
+  <hex row="12" col="11" terrain="16"/>
+  <hex row="12" col="12" terrain="13"/>
+  <hex row="12" col="13" terrain="1" road="2" name="Citta Vecchia Rabat" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="13" exp="100" ent="5"/>
+  </hex>
+  <hex row="12" col="14" road="35" name="Ta Kali airfield" flag="22" owner="1" victory="1">
+    <unit id="389" owner="1" flag="23" face="2" exp="300" str="4"/>
+    <unit id="321" owner="1" flag="23" face="0" exp="200"/>
+  </hex>
+  <hex row="12" col="16" terrain="1" road="152" name="Zebbuj" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="0" exp="100" ent="5"/>
+  </hex>
+  <hex row="12" col="17" road="130"/>
+  <hex row="12" col="18" terrain="13" road="171"/>
+  <hex row="12" col="19" terrain="1" road="145" name="Luga"/>
+  <hex row="12" col="20" terrain="1" road="138" name="Paula Tarshim" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="2" exp="100" ent="5"/>
+  </hex>
+  <hex row="12" col="21" road="136"/>
+  <hex row="12" col="23">
+    <unit id="100" owner="1" flag="23" face="8" exp="200"/>
+  </hex>
+  <hex row="12" col="24" road="128">
+    <unit id="2387" owner="1" flag="23" face="4" ent="5" str="7"/>
+  </hex>
+  <hex row="12" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="618" owner="0" flag="8" face="14" exp="400" str="7"/>
+  </hex>
+  <hex row="12" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="0" terrain="9"/>
+  <hex row="13" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="3" terrain="9" name="Mare Nostrum">
+    <unit id="388" owner="1" flag="23" face="2" exp="100" str="13"/>
+  </hex>
+  <hex row="13" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="10" terrain="16" name="Cliffs"/>
+  <hex row="13" col="11" terrain="16" name="Cliffs"/>
+  <hex row="13" col="12" terrain="13"/>
+  <hex row="13" col="13" terrain="16"/>
+  <hex row="13" col="14" terrain="16"/>
+  <hex row="13" col="16" road="17"/>
+  <hex row="13" col="17" terrain="13"/>
+  <hex row="13" col="18" terrain="13"/>
+  <hex row="13" col="19" road="17" name="Luqa airfield" flag="22" owner="1" victory="1">
+    <unit id="389" owner="1" flag="23" face="2" exp="400" str="4"/>
+    <unit id="2245" owner="1" flag="28" face="2" exp="200" str="4"/>
+    <unit id="346" owner="1" flag="23" face="2" exp="100" ent="5"/>
+  </hex>
+  <hex row="13" col="21">
+    <unit id="627" owner="1" flag="23" face="3" exp="100" ent="5" str="6"/>
+  </hex>
+  <hex row="13" col="22" terrain="1" road="144" name="Zeitjun" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="4" exp="100" ent="5"/>
+  </hex>
+  <hex row="13" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="0" terrain="9"/>
+  <hex row="14" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="12" terrain="16" name="Cliffs"/>
+  <hex row="14" col="13" terrain="16" name="Cliffs"/>
+  <hex row="14" col="14" terrain="16"/>
+  <hex row="14" col="15" terrain="16"/>
+  <hex row="14" col="16" terrain="1" road="1" name="Sijuwi" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="2" exp="100" ent="5"/>
+  </hex>
+  <hex row="14" col="18" terrain="1" name="Im Kabba"/>
+  <hex row="14" col="19" terrain="1" road="41" name="Safi"/>
+  <hex row="14" col="21" name="Safi airstrip" flag="22" owner="1" victory="1">
+    <unit id="389" owner="1" flag="23" face="2" exp="200" str="4"/>
+    <unit id="321" owner="1" flag="23" face="0" exp="200" str="6"/>
+  </hex>
+  <hex row="14" col="22" road="17"/>
+  <hex row="14" col="23" terrain="9" name="Marsaxlokk Harbor">
+    <unit id="1365" owner="0" flag="13" face="10" carrier="547" exp="200"/>
+  </hex>
+  <hex row="14" col="24">
+    <unit id="1010" owner="1" flag="23" face="3" ent="5" str="7"/>
+  </hex>
+  <hex row="14" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="14" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="0" terrain="9"/>
+  <hex row="15" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="14" terrain="16" name="Cliffs"/>
+  <hex row="15" col="15" terrain="16" name="Cliffs"/>
+  <hex row="15" col="18" terrain="1" road="2" name="Zurrieq" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="4" exp="100" ent="5"/>
+  </hex>
+  <hex row="15" col="20" road="136"/>
+  <hex row="15" col="21" road="130">
+    <unit id="3348" owner="0" flag="13" face="10" carrier="234" exp="200" str="8"/>
+  </hex>
+  <hex row="15" col="22" road="41"/>
+  <hex row="15" col="23" terrain="2" road="160">
+    <unit id="2387" owner="1" flag="23" face="2" ent="5" str="7"/>
+  </hex>
+  <hex row="15" col="24" terrain="9" name="Marsaxlokk Harbor"/>
+  <hex row="15" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="3135" owner="1" flag="23" face="14" exp="200" str="4"/>
+  </hex>
+  <hex row="15" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="15" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="0" terrain="9"/>
+  <hex row="16" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="2" terrain="9" name="Mare Nostrum">
+    <unit id="1735" owner="1" flag="23" face="2" exp="200"/>
+  </hex>
+  <hex row="16" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="11" terrain="9" name="Mare Nostrum">
+    <unit id="361" owner="1" flag="23" face="2" exp="300"/>
+  </hex>
+  <hex row="16" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="19" terrain="9" name="Mare Nostrum">
+    <unit id="1365" owner="0" flag="13" face="8" carrier="547" exp="200"/>
+  </hex>
+  <hex row="16" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="22" terrain="2" road="2" name="Hall Far airfield" flag="22" owner="1" victory="1">
+    <unit id="389" owner="1" flag="23" face="2" exp="300" str="4"/>
+    <unit id="321" owner="1" flag="23" face="2" exp="200"/>
+  </hex>
+  <hex row="16" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="16" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="0" terrain="9"/>
+  <hex row="17" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="9" carrier="547" exp="100"/>
+  </hex>
+  <hex row="17" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="17" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="0" terrain="9"/>
+  <hex row="18" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="7" terrain="9" name="Mare Nostrum">
+    <unit id="392" owner="1" flag="23" face="2" exp="200" str="5"/>
+    <unit id="993" owner="1" flag="23" face="2" exp="300" str="5"/>
+    <unit id="2902" owner="1" flag="23" face="2" exp="300" str="5"/>
+  </hex>
+  <hex row="18" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="10" terrain="9" name="Mare Nostrum">
+    <unit id="361" owner="1" flag="23" face="2" exp="200"/>
+  </hex>
+  <hex row="18" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="23" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="9" carrier="547" exp="100"/>
+  </hex>
+  <hex row="18" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="9" carrier="547" exp="100"/>
+  </hex>
+  <hex row="18" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="9" carrier="547" exp="100"/>
+  </hex>
+  <hex row="18" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="18" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="0" terrain="9"/>
+  <hex row="19" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="9" terrain="9" name="Mare Nostrum">
+    <unit id="2612" owner="1" flag="23" face="2" exp="300"/>
+  </hex>
+  <hex row="19" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="15" terrain="9" name="Mare Nostrum">
+    <unit id="3157" owner="0" flag="13" face="8" exp="300"/>
+  </hex>
+  <hex row="19" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="200" owner="0" flag="13" face="9" carrier="547" exp="100" str="8"/>
+  </hex>
+  <hex row="19" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="552" owner="0" flag="13" face="9" exp="200"/>
+  </hex>
+  <hex row="19" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="19" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="0" terrain="9"/>
+  <hex row="20" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="10" terrain="9" name="Mare Nostrum">
+    <unit id="3135" owner="1" flag="23" face="2" exp="200" str="4"/>
+  </hex>
+  <hex row="20" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="20" terrain="9" name="Mare Nostrum">
+    <unit id="2973" owner="0" flag="8" face="8" exp="300"/>
+  </hex>
+  <hex row="20" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="20" col="27" terrain="9" name="Mare Nostrum">
+    <unit id="213" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="20" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="20" col="29" terrain="9" name="Mare Nostrum">
+    <unit id="214" owner="0" flag="13" face="8" carrier="547" exp="100" str="15"/>
+  </hex>
+  <hex row="20" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="0" terrain="9"/>
+  <hex row="21" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="992" owner="0" flag="13" face="8" exp="150" str="8"/>
+  </hex>
+  <hex row="21" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="1358" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="21" col="26" terrain="9" name="Mare Nostrum">
+    <unit id="214" owner="0" flag="13" face="8" carrier="547" exp="100" str="15"/>
+  </hex>
+  <hex row="21" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="21" col="28" terrain="9" name="Mare Nostrum">
+    <unit id="732" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="21" col="29" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="21" col="30" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="22" col="0" terrain="9"/>
+  <hex row="22" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="9" terrain="9" name="Mare Nostrum">
+    <unit id="1735" owner="1" flag="23" face="2" exp="300"/>
+  </hex>
+  <hex row="22" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="15" terrain="9" name="Mare Nostrum">
+    <unit id="1393" owner="0" flag="13" face="8" exp="200"/>
+  </hex>
+  <hex row="22" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="21" terrain="9" name="Mare Nostrum">
+    <unit id="214" owner="0" flag="13" face="8" carrier="547" exp="100" str="15"/>
+  </hex>
+  <hex row="22" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="23" terrain="9" name="Mare Nostrum">
+    <unit id="208" owner="0" flag="13" face="8" carrier="547" exp="100" str="7"/>
+  </hex>
+  <hex row="22" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="198" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="22" col="25" terrain="9" name="Mare Nostrum">
+    <unit id="1358" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="22" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="22" col="27" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="22" col="28" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="22" col="29" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="22" col="30" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="0" terrain="9"/>
+  <hex row="23" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="18" terrain="9" name="Mare Nostrum">
+    <unit id="213" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="23" col="19" terrain="9" name="Mare Nostrum">
+    <unit id="201" owner="0" flag="13" face="8" carrier="547" exp="100" str="7"/>
+  </hex>
+  <hex row="23" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="23" col="22" terrain="9" name="Mare Nostrum">
+    <unit id="746" owner="0" flag="13" face="8" carrier="547" exp="100"/>
+  </hex>
+  <hex row="23" col="23" terrain="9" name="Mare Nostrum">
+    <unit id="221" owner="0" flag="13" face="8" carrier="547" exp="100" str="8"/>
+  </hex>
+  <hex row="23" col="24" terrain="9" name="Mare Nostrum">
+    <unit id="221" owner="0" flag="13" face="8" carrier="547" exp="100" str="8"/>
+  </hex>
+  <hex row="23" col="25" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="26" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="27" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="28" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="29" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="23" col="30" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="0" terrain="9"/>
+  <hex row="24" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="24" col="19" terrain="9" name="Mare Nostrum">
+    <unit id="214" owner="0" flag="13" face="8" carrier="547" exp="100" str="15"/>
+  </hex>
+  <hex row="24" col="20" terrain="9" name="Mare Nostrum">
+    <unit id="1358" owner="0" flag="13" face="8" carrier="547" exp="100" str="7"/>
+  </hex>
+  <hex row="24" col="21" terrain="9" name="Mare Nostrum">
+    <unit id="198" owner="0" flag="13" face="8" carrier="547" exp="100" str="7"/>
+  </hex>
+  <hex row="24" col="22" terrain="9" name="Mare Nostrum">
+    <unit id="201" owner="0" flag="13" face="8" carrier="547" exp="100" str="7"/>
+  </hex>
+  <hex row="24" col="23" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="24" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="25" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="26" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="27" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="28" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="29" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="24" col="30" terrain="9" name="La Spezia AirTransportToMalta" owner="0" deploy="0"/>
+  <hex row="25" col="0" terrain="9"/>
+  <hex row="25" col="2" terrain="9"/>
+  <hex row="25" col="4" terrain="9"/>
+  <hex row="25" col="6" terrain="9"/>
+  <hex row="25" col="8" terrain="9"/>
+  <hex row="25" col="10" terrain="9"/>
+  <hex row="25" col="12" terrain="9"/>
+  <hex row="25" col="14" terrain="9"/>
+  <hex row="25" col="16" terrain="9"/>
+  <hex row="25" col="18" terrain="9"/>
+  <hex row="25" col="20" terrain="9"/>
+  <hex row="25" col="22" terrain="9"/>
+  <hex row="25" col="24" terrain="9"/>
+  <hex row="25" col="26" terrain="9"/>
+  <hex row="25" col="28" terrain="9"/>
+  <hex row="25" col="30" terrain="9"/>
+</map>

@@ -1,0 +1,1248 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="drboro14.scn" name="Operation Typhoon - Borodino" turns="14, 17, 20" date="October 12, 1941" dayturns="1" ground="0" atmosferic="2" latitude="3" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_137.png">
+  <player id="0" country="7" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 200"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="16" col="1">
+      <unit id="93" owner="0" flag="8" face="4" transport="2403" exp="200" ent="1" str="5"/>
+    </at>
+    <at row="14" col="1">
+      <unit id="602" owner="0" flag="8" face="4" transport="2404" exp="200" ent="1" str="5"/>
+    </at>
+    <at row="14" col="20">
+      <unit id="486" owner="1" flag="20" face="13" transport="2579" exp="299" ent="5" str="5" ldr="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="18" col="2">
+      <unit id="79" owner="0" flag="8" face="4" transport="2403" exp="200" ent="1" str="5"/>
+      <unit id="618" owner="0" flag="8" face="4" exp="275"/>
+    </at>
+    <at row="15" col="18">
+      <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="9" ldr="1"/>
+    </at>
+    <at row="15" col="1">
+      <unit id="111" owner="0" flag="8" face="4" transport="156" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="16" col="21">
+      <unit id="504" owner="1" flag="20" face="14" exp="299" ent="5" str="8"/>
+    </at>
+    <at row="17" col="20">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="299" ent="5" str="9" ldr="1"/>
+    </at>
+    <at row="16" col="1">
+      <unit id="93" owner="0" flag="8" face="4" transport="2403" exp="300" ent="1" str="5"/>
+    </at>
+    <at row="16" col="22">
+      <unit id="905" owner="1" flag="20" face="12" transport="529" exp="200" ent="5" str="7"/>
+    </at>
+    <at row="14" col="22">
+      <unit id="680" owner="1" flag="20" face="13" exp="200" ent="5" str="5"/>
+    </at>
+    <at row="15" col="23">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="200" ent="5" str="5"/>
+    </at>
+    <at row="16" col="3">
+      <unit id="92" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="5"/>
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="16" col="2">
+      <unit id="77" owner="0" flag="8" face="4" transport="2407" exp="300" ent="1" str="5"/>
+    </at>
+    <at row="16" col="23">
+      <unit id="678" owner="1" flag="20" face="12" transport="2585" exp="200" ent="5" str="7"/>
+    </at>
+    <at row="16" col="4">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="7"/>
+      <unit id="101" owner="0" flag="8" face="4" exp="200" ent="1" str="3"/>
+    </at>
+    <at row="10" col="20">
+      <unit id="484" owner="1" flag="20" face="13" transport="528" exp="299" ent="5" str="5"/>
+    </at>
+    <at row="14" col="23">
+      <unit id="680" owner="1" flag="20" face="13" exp="200" ent="5" str="5"/>
+    </at>
+    <at row="17" col="2">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="9" col="19">
+      <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="8"/>
+    </at>
+    <at row="16" col="5">
+      <unit id="117" owner="0" flag="8" face="4" exp="300" ent="1" str="7"/>
+      <unit id="115" owner="0" flag="8" face="4" transport="156" exp="300" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="18" col="1">
+      <unit id="173" owner="0" flag="8" face="4" exp="250"/>
+      <unit id="65" owner="0" flag="8" face="4" transport="2407" exp="200" ent="1" str="5"/>
+    </at>
+    <at row="12" col="19">
+      <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5" str="7"/>
+    </at>
+    <at row="17" col="21">
+      <unit id="512" owner="1" flag="20" face="12" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="15" col="20">
+      <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="8"/>
+    </at>
+    <at row="11" col="18">
+      <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="9" ldr="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="13" col="21">
+      <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="8"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="3" col="8">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="14" col="26">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="200" ent="5" str="5"/>
+    </at>
+    <at row="3" col="18">
+      <unit id="496" owner="1" flag="20" face="13" exp="200" ent="3" str="7"/>
+    </at>
+    <at row="2" col="8">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="1" col="7">
+      <unit id="92" owner="0" flag="8" face="4" transport="156" exp="300" ent="1" str="5"/>
+    </at>
+    <at row="2" col="9">
+      <unit id="146" owner="0" flag="8" face="2" exp="300" ent="1" str="7"/>
+    </at>
+    <at row="16" col="25">
+      <unit id="520" owner="1" flag="20" face="13" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="1" col="16">
+      <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5" str="7"/>
+    </at>
+    <at row="6" col="18">
+      <unit id="516" owner="1" flag="20" face="13" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="4" col="17">
+      <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5" str="7"/>
+    </at>
+    <at row="17" col="26">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="250" ent="3" str="7"/>
+    </at>
+    <at row="6" col="17">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="250" ent="3" str="7"/>
+    </at>
+    <at row="17" col="25">
+      <unit id="521" owner="1" flag="20" face="13" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="2" col="7">
+      <unit id="73" owner="0" flag="8" face="4" exp="200" ent="1" str="5"/>
+    </at>
+    <at row="1" col="9">
+      <unit id="583" owner="0" flag="8" face="4" exp="300" ent="1" str="7"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="28" col="29">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="26" col="30">
+      <unit id="526" owner="1" flag="20" face="14" exp="200" ent="1" str="7"/>
+    </at>
+    <at row="29" col="28">
+      <unit id="92" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="28" col="26">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="23" col="29">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="29" col="27">
+      <unit id="66" owner="0" flag="8" face="7" transport="2407" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="27" col="30">
+      <unit id="504" owner="1" flag="20" face="14" transport="528" exp="200" ent="1" str="7"/>
+    </at>
+    <at row="21" col="39">
+      <unit id="486" owner="1" flag="20" face="14" transport="2579" exp="250" ent="3" str="5"/>
+    </at>
+    <at row="26" col="33">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="29" col="26">
+      <unit id="93" owner="0" flag="8" face="7" transport="2403" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="22" col="36">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="6"/>
+    </at>
+    <at row="27" col="28">
+      <unit id="117" owner="0" flag="8" face="7" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="28" col="27">
+      <unit id="92" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="29" col="25">
+      <unit id="111" owner="0" flag="8" face="7" transport="157" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="25" col="33">
+      <unit id="486" owner="1" flag="20" face="14" transport="2579" exp="250" ent="3" str="5"/>
+    </at>
+    <at row="28" col="24">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="23" col="34">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="250" ent="3" str="5"/>
+    </at>
+    <at row="25" col="29">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="200" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="23" col="39">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="28" col="25">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="29" col="29">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="27" col="26">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="27" col="27">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="290" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="28" col="28">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="290" ent="1" str="7"/>
+    </at>
+    <at row="27" col="25">
+      <unit id="115" owner="0" flag="8" face="7" transport="158" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="28" col="37">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="15" col="42">
+      <unit id="979" owner="1" flag="20" face="12" exp="200"/>
+    </at>
+    <at row="15" col="41">
+      <unit id="538" owner="1" flag="20" face="12" exp="200"/>
+    </at>
+  </reinforce>
+  <reinforce turn="8">
+    <at row="13" col="9">
+      <unit id="115" owner="0" flag="8" face="4" transport="156" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="14" col="7">
+      <unit id="101" owner="0" flag="8" face="4" exp="250" ent="1" str="3"/>
+    </at>
+    <at row="14" col="9">
+      <unit id="111" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="15" col="7">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="14" col="8">
+      <unit id="92" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="13" col="7">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="18" col="5">
+      <unit id="92" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="19" col="5">
+      <unit id="93" owner="0" flag="8" face="4" transport="2403" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="15" col="10">
+      <unit id="583" owner="0" flag="8" face="4" exp="250" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="14" col="10">
+      <unit id="142" owner="0" flag="8" face="4" exp="250" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="13" col="6">
+      <unit id="75" owner="0" flag="8" face="4" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="13" col="31">
+      <unit id="905" owner="1" flag="20" face="14" transport="529" exp="200" ent="1" str="5"/>
+    </at>
+    <at row="15" col="6">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="250" ent="1" str="7"/>
+      <unit id="66" owner="0" flag="8" face="4" transport="2407" exp="250" ent="1" str="5"/>
+    </at>
+    <at row="15" col="8">
+      <unit id="148" owner="0" flag="8" face="4" exp="200" ent="1" str="7" ldr="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="9">
+    <at row="9" col="38">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="10" col="37">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="11" col="35">
+      <unit id="504" owner="1" flag="20" face="14" transport="528" exp="200" ent="1" str="7"/>
+    </at>
+    <at row="15" col="32">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="14" col="30">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="11" col="38">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="299" ent="1" str="5"/>
+    </at>
+    <at row="14" col="32">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="13" col="32">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="14" col="36">
+      <unit id="504" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="12" col="32">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="299" ent="1" str="5"/>
+    </at>
+    <at row="13" col="34">
+      <unit id="522" owner="1" flag="20" face="14" exp="250" ent="1" str="7" ldr="1"/>
+    </at>
+    <at row="12" col="36">
+      <unit id="485" owner="1" flag="20" face="14" transport="2584" exp="299" ent="1" str="5"/>
+    </at>
+    <at row="13" col="33">
+      <unit id="484" owner="1" flag="20" face="14" transport="529" exp="200" ent="1" str="7"/>
+    </at>
+    <at row="12" col="35">
+      <unit id="512" owner="1" flag="20" face="14" exp="250" ent="1" str="7"/>
+    </at>
+  </reinforce>
+  <reinforce turn="13">
+    <at row="2" col="33">
+      <unit id="504" owner="1" flag="20" face="15" exp="200" ent="3" str="7"/>
+    </at>
+    <at row="11" col="42">
+      <unit id="526" owner="1" flag="20" face="13" exp="200" ent="1" str="7"/>
+    </at>
+    <at row="10" col="42">
+      <unit id="484" owner="1" flag="20" face="13" transport="528" exp="299" ent="1" str="5"/>
+    </at>
+    <at row="11" col="40">
+      <unit id="521" owner="1" flag="20" face="13" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="9" col="41">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="299" ent="1" str="7"/>
+    </at>
+    <at row="12" col="42">
+      <unit id="486" owner="1" flag="20" face="13" transport="2579" exp="299" ent="1" str="5"/>
+    </at>
+    <at row="10" col="41">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="299" ent="1" str="7"/>
+    </at>
+    <at row="11" col="41">
+      <unit id="520" owner="1" flag="20" face="13" exp="250" ent="1" str="7"/>
+    </at>
+    <at row="1" col="33">
+      <unit id="489" owner="1" flag="20" face="14" exp="200" ent="3" str="5"/>
+    </at>
+    <at row="12" col="41">
+      <unit id="504" owner="1" flag="20" face="13" transport="528" exp="299" ent="1" str="7"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="6" terrain="10" name="Inotsch' River"/>
+  <hex row="0" col="8" road="17"/>
+  <hex row="0" col="10" terrain="3"/>
+  <hex row="0" col="11" terrain="3"/>
+  <hex row="0" col="12" terrain="3"/>
+  <hex row="0" col="15" terrain="10" name="Iskona River"/>
+  <hex row="0" col="21" road="17"/>
+  <hex row="0" col="23" terrain="3"/>
+  <hex row="0" col="26" terrain="3"/>
+  <hex row="0" col="27" terrain="10" name="Pal'ka River"/>
+  <hex row="0" col="30" terrain="10" name="Ruza River"/>
+  <hex row="0" col="31" road="17"/>
+  <hex row="0" col="40" terrain="3"/>
+  <hex row="0" col="41" terrain="3"/>
+  <hex row="0" col="42" terrain="3"/>
+  <hex row="0" col="43" terrain="3"/>
+  <hex row="1" col="6" terrain="10" name="Inotsch' River"/>
+  <hex row="1" col="7" terrain="10" name="Inotsch' River"/>
+  <hex row="1" col="8" road="17"/>
+  <hex row="1" col="11" terrain="1" name="Staraja Tjaga" flag="19" owner="1"/>
+  <hex row="1" col="16" terrain="10" name="Iskona River"/>
+  <hex row="1" col="21" road="9"/>
+  <hex row="1" col="23" terrain="3"/>
+  <hex row="1" col="24" terrain="3"/>
+  <hex row="1" col="27" terrain="10" name="Pal'ka River"/>
+  <hex row="1" col="30" terrain="10" name="Ruza River"/>
+  <hex row="1" col="31" road="9"/>
+  <hex row="1" col="34" terrain="3"/>
+  <hex row="1" col="35" terrain="3"/>
+  <hex row="1" col="37" terrain="1" name="Oreshki" flag="19" owner="1"/>
+  <hex row="1" col="41" terrain="5"/>
+  <hex row="2" col="0" terrain="3"/>
+  <hex row="2" col="1" terrain="3"/>
+  <hex row="2" col="4" terrain="3"/>
+  <hex row="2" col="5" terrain="3"/>
+  <hex row="2" col="7" terrain="10" name="Inotsch' River"/>
+  <hex row="2" col="8" terrain="1" road="25" name="Poretschje" flag="19" owner="1"/>
+  <hex row="2" col="9" road="136"/>
+  <hex row="2" col="15" terrain="3"/>
+  <hex row="2" col="16" terrain="10" name="Iskona River"/>
+  <hex row="2" col="17" terrain="10" name="Iskona River"/>
+  <hex row="2" col="21" terrain="3"/>
+  <hex row="2" col="22" road="136"/>
+  <hex row="2" col="23" road="144"/>
+  <hex row="2" col="24" terrain="3"/>
+  <hex row="2" col="26" terrain="1" name="Voskresensk" flag="19" owner="1"/>
+  <hex row="2" col="27" terrain="10" name="Pal'ka River"/>
+  <hex row="2" col="28" terrain="3"/>
+  <hex row="2" col="29" terrain="3"/>
+  <hex row="2" col="30" terrain="10" name="Ruza River"/>
+  <hex row="2" col="31" terrain="10" name="Ruza River"/>
+  <hex row="2" col="32" terrain="1" road="136" name="Ruza" flag="19" owner="1" victory="0">
+    <unit id="498" owner="1" flag="20" face="13" exp="100" ent="1"/>
+  </hex>
+  <hex row="2" col="33" road="136"/>
+  <hex row="2" col="35" road="40"/>
+  <hex row="2" col="37" road="40"/>
+  <hex row="2" col="39" road="40"/>
+  <hex row="2" col="41" terrain="1" road="40" name="Moskva River" flag="19" owner="1"/>
+  <hex row="2" col="42" terrain="5"/>
+  <hex row="3" col="0" terrain="3"/>
+  <hex row="3" col="1" terrain="3"/>
+  <hex row="3" col="4" terrain="3"/>
+  <hex row="3" col="5" terrain="3"/>
+  <hex row="3" col="7" road="18"/>
+  <hex row="3" col="8" terrain="10" road="33" name="Inotsch' River"/>
+  <hex row="3" col="9" terrain="10" name="Moskva River"/>
+  <hex row="3" col="10" road="136"/>
+  <hex row="3" col="11" road="136"/>
+  <hex row="3" col="14" terrain="3"/>
+  <hex row="3" col="15" terrain="3"/>
+  <hex row="3" col="17" terrain="10" name="Iskona River"/>
+  <hex row="3" col="18" terrain="1" name="Miljatino" flag="19" owner="1"/>
+  <hex row="3" col="20" terrain="3"/>
+  <hex row="3" col="21" terrain="3"/>
+  <hex row="3" col="23" road="9"/>
+  <hex row="3" col="27" terrain="10" name="Pal'ka River"/>
+  <hex row="3" col="28" terrain="3"/>
+  <hex row="3" col="29" terrain="3"/>
+  <hex row="3" col="31" road="16"/>
+  <hex row="3" col="32" terrain="10" name="Ruza River"/>
+  <hex row="3" col="33" terrain="10" name="Ruza River"/>
+  <hex row="3" col="34" road="146"/>
+  <hex row="3" col="35" terrain="3"/>
+  <hex row="3" col="36" road="130"/>
+  <hex row="3" col="38" road="130"/>
+  <hex row="3" col="39" terrain="3"/>
+  <hex row="3" col="40" road="130"/>
+  <hex row="3" col="42" road="136"/>
+  <hex row="4" col="0" terrain="3"/>
+  <hex row="4" col="1" terrain="3"/>
+  <hex row="4" col="3" terrain="1" name="Ostritsy" flag="19" owner="1"/>
+  <hex row="4" col="5" terrain="10" name="Moskva River"/>
+  <hex row="4" col="7" terrain="10" road="17" name="Moskva River"/>
+  <hex row="4" col="8" terrain="10" name="Moskva River"/>
+  <hex row="4" col="10" terrain="10" name="Moskva River"/>
+  <hex row="4" col="11" terrain="10" name="Moskva River"/>
+  <hex row="4" col="12" road="136"/>
+  <hex row="4" col="13" terrain="1" road="136" name="Myshkino" flag="19" owner="1"/>
+  <hex row="4" col="14" terrain="3"/>
+  <hex row="4" col="16" terrain="3"/>
+  <hex row="4" col="17" terrain="10" name="Iskona River"/>
+  <hex row="4" col="20" terrain="3"/>
+  <hex row="4" col="21" terrain="3"/>
+  <hex row="4" col="24" road="136"/>
+  <hex row="4" col="25" road="144"/>
+  <hex row="4" col="27" terrain="10" name="Pal'ka River"/>
+  <hex row="4" col="31" road="33"/>
+  <hex row="4" col="33" terrain="10" name="Ruza River"/>
+  <hex row="4" col="34" road="9" deploy="1"/>
+  <hex row="4" col="35" road="136" deploy="1"/>
+  <hex row="4" col="36" terrain="3"/>
+  <hex row="4" col="38" terrain="3"/>
+  <hex row="4" col="39" terrain="3"/>
+  <hex row="4" col="40" terrain="3"/>
+  <hex row="4" col="41" terrain="3"/>
+  <hex row="4" col="42" terrain="3"/>
+  <hex row="5" col="0" terrain="3"/>
+  <hex row="5" col="3" terrain="10" name="Moskva River"/>
+  <hex row="5" col="4" terrain="10" name="Moskva River"/>
+  <hex row="5" col="5" terrain="3"/>
+  <hex row="5" col="6" terrain="10" name="Moskva River"/>
+  <hex row="5" col="7" terrain="3" road="17"/>
+  <hex row="5" col="10" terrain="3"/>
+  <hex row="5" col="11" terrain="3"/>
+  <hex row="5" col="12" terrain="10" name="Moskva River"/>
+  <hex row="5" col="13" terrain="10" name="Moskva River"/>
+  <hex row="5" col="14" road="136"/>
+  <hex row="5" col="15" road="136"/>
+  <hex row="5" col="17">
+    <unit id="494" owner="1" flag="20" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="5" col="18" terrain="10" name="Iskona River"/>
+  <hex row="5" col="19" terrain="10" name="Iskona River"/>
+  <hex row="5" col="20" terrain="3"/>
+  <hex row="5" col="21" terrain="1" name="Holm" flag="19" owner="1"/>
+  <hex row="5" col="23" terrain="10" name="Iskona River"/>
+  <hex row="5" col="24" terrain="10" name="Iskona River"/>
+  <hex row="5" col="25" terrain="10" road="17" name="Iskona River"/>
+  <hex row="5" col="26" terrain="10" name="Pal'ka River"/>
+  <hex row="5" col="30" terrain="1" road="18" name="Vatulino" flag="19" owner="1"/>
+  <hex row="5" col="31" terrain="3"/>
+  <hex row="5" col="34" terrain="10" name="Ruza River"/>
+  <hex row="5" col="35" terrain="10" name="Ruza River"/>
+  <hex row="5" col="36" road="144" deploy="1"/>
+  <hex row="5" col="38" terrain="3"/>
+  <hex row="5" col="39" terrain="3"/>
+  <hex row="5" col="40" terrain="3"/>
+  <hex row="5" col="41" terrain="3"/>
+  <hex row="5" col="42" terrain="3"/>
+  <hex row="6" col="1" terrain="10" name="Moskva River"/>
+  <hex row="6" col="2" terrain="10" name="Moskva River"/>
+  <hex row="6" col="5" terrain="3"/>
+  <hex row="6" col="6" terrain="3"/>
+  <hex row="6" col="7" terrain="3" road="17"/>
+  <hex row="6" col="8" terrain="1" name="Golyshkino" flag="19" owner="1"/>
+  <hex row="6" col="12" terrain="10" name="Lusjanka River"/>
+  <hex row="6" col="14" terrain="10" name="Moskva River"/>
+  <hex row="6" col="15" terrain="10" name="Moskva River"/>
+  <hex row="6" col="16" road="136"/>
+  <hex row="6" col="17" road="144"/>
+  <hex row="6" col="18" terrain="3"/>
+  <hex row="6" col="19" terrain="3"/>
+  <hex row="6" col="20" terrain="10" name="Iskona River"/>
+  <hex row="6" col="21" terrain="10" name="Iskona River"/>
+  <hex row="6" col="22" terrain="10" name="Iskona River"/>
+  <hex row="6" col="25" terrain="1" road="17" name="Klementjevo" flag="19" owner="1" victory="0">
+    <unit id="498" owner="1" flag="20" face="13" exp="100" ent="1"/>
+  </hex>
+  <hex row="6" col="26" terrain="10" name="Iskona River"/>
+  <hex row="6" col="27" terrain="3"/>
+  <hex row="6" col="28" terrain="3"/>
+  <hex row="6" col="29" road="18"/>
+  <hex row="6" col="30" road="33"/>
+  <hex row="6" col="31" terrain="3"/>
+  <hex row="6" col="32" terrain="3"/>
+  <hex row="6" col="33" terrain="3"/>
+  <hex row="6" col="35" terrain="10" name="Moskva River"/>
+  <hex row="6" col="36" terrain="1" road="1" name="Staraja Ruza" flag="19" owner="1" deploy="1"/>
+  <hex row="6" col="37" terrain="10" name="Moskva River" deploy="1"/>
+  <hex row="6" col="39" terrain="3"/>
+  <hex row="6" col="40" terrain="3"/>
+  <hex row="7" col="0" terrain="10" name="Moskva River"/>
+  <hex row="7" col="5" terrain="3"/>
+  <hex row="7" col="6" terrain="3"/>
+  <hex row="7" col="7" road="9"/>
+  <hex row="7" col="9" terrain="10" name="Zhezljanka River"/>
+  <hex row="7" col="11" terrain="10" name="Lusjanka River"/>
+  <hex row="7" col="12" terrain="10" name="Lusjanka River"/>
+  <hex row="7" col="16" terrain="10" name="Moskva River"/>
+  <hex row="7" col="17" road="9"/>
+  <hex row="7" col="18" terrain="3"/>
+  <hex row="7" col="19" terrain="3"/>
+  <hex row="7" col="21" terrain="3"/>
+  <hex row="7" col="23" terrain="3"/>
+  <hex row="7" col="25" road="17"/>
+  <hex row="7" col="26" terrain="10" name="Iskona River"/>
+  <hex row="7" col="27" terrain="3"/>
+  <hex row="7" col="28" terrain="3"/>
+  <hex row="7" col="29" road="33"/>
+  <hex row="7" col="32" terrain="3"/>
+  <hex row="7" col="33" terrain="10" name="Moskva River"/>
+  <hex row="7" col="34" terrain="10" name="Moskva River"/>
+  <hex row="7" col="36" terrain="10" name="Moskva River"/>
+  <hex row="7" col="37" road="16" deploy="1"/>
+  <hex row="7" col="38" terrain="10" name="Moskva River"/>
+  <hex row="7" col="39" terrain="10" name="Moskva River"/>
+  <hex row="7" col="40" terrain="10" name="Lusjanka River"/>
+  <hex row="7" col="41" terrain="10" name="Moskva River"/>
+  <hex row="7" col="42" terrain="10" name="Ratschino"/>
+  <hex row="7" col="43" terrain="10" name="Iskona River"/>
+  <hex row="8" col="5" terrain="10" name="Zhezljanka River"/>
+  <hex row="8" col="7" terrain="10" name="Zhezljanka River"/>
+  <hex row="8" col="8" terrain="10" road="136" name="Zhezljanka River"/>
+  <hex row="8" col="9" road="144"/>
+  <hex row="8" col="10" terrain="10" name="Lusjanka River"/>
+  <hex row="8" col="11" terrain="3"/>
+  <hex row="8" col="12" terrain="1" name="Vel'jashevo" flag="19" owner="1"/>
+  <hex row="8" col="13" terrain="3"/>
+  <hex row="8" col="16" terrain="10" name="Moskva River"/>
+  <hex row="8" col="17" terrain="10" name="Moskva River"/>
+  <hex row="8" col="18" terrain="1" road="136" name="Garetovo" flag="19" owner="1"/>
+  <hex row="8" col="19" road="144"/>
+  <hex row="8" col="21" terrain="3"/>
+  <hex row="8" col="22" terrain="3"/>
+  <hex row="8" col="23" terrain="3"/>
+  <hex row="8" col="25" road="17"/>
+  <hex row="8" col="26" terrain="10" name="Iskona River"/>
+  <hex row="8" col="28" terrain="1" road="18" name="Vorontsovo" flag="19" owner="1"/>
+  <hex row="8" col="29" terrain="10" name="Moskva River"/>
+  <hex row="8" col="30" terrain="10" name="Moskva River"/>
+  <hex row="8" col="31" terrain="10" name="Moskva River"/>
+  <hex row="8" col="32" terrain="10" name="Moskva River"/>
+  <hex row="8" col="33" terrain="5"/>
+  <hex row="8" col="34" terrain="1" name="Kozhino" flag="19" owner="1"/>
+  <hex row="8" col="37" road="9" deploy="1"/>
+  <hex row="8" col="41" road="34"/>
+  <hex row="8" col="42" terrain="1" road="40" name="Moskva River" flag="19" owner="1"/>
+  <hex row="9" col="1" terrain="3"/>
+  <hex row="9" col="2" terrain="3"/>
+  <hex row="9" col="3" terrain="10" name="Zhezljanka River"/>
+  <hex row="9" col="4" terrain="10" name="Zhezljanka River"/>
+  <hex row="9" col="6" terrain="10" name="Zhezljanka River"/>
+  <hex row="9" col="9" road="17"/>
+  <hex row="9" col="10" terrain="10" name="Lusjanka River"/>
+  <hex row="9" col="11" terrain="3"/>
+  <hex row="9" col="12" terrain="3"/>
+  <hex row="9" col="13" terrain="3"/>
+  <hex row="9" col="14" terrain="3"/>
+  <hex row="9" col="18" terrain="10" name="Moskva River"/>
+  <hex row="9" col="19" road="9"/>
+  <hex row="9" col="21" terrain="3"/>
+  <hex row="9" col="22" terrain="3"/>
+  <hex row="9" col="25" terrain="1" road="17" name="Ratschino" flag="19" owner="1"/>
+  <hex row="9" col="26" terrain="10" name="Iskona River"/>
+  <hex row="9" col="27" terrain="10" name="Iskona River"/>
+  <hex row="9" col="28" road="1"/>
+  <hex row="9" col="29" terrain="10" name="Moskva River"/>
+  <hex row="9" col="31" terrain="5"/>
+  <hex row="9" col="32" terrain="5"/>
+  <hex row="9" col="33" terrain="5"/>
+  <hex row="9" col="34" terrain="3"/>
+  <hex row="9" col="35" terrain="3"/>
+  <hex row="9" col="37" deploy="1"/>
+  <hex row="9" col="38" terrain="1" road="144" name="Makeiha" flag="19" owner="1"/>
+  <hex row="9" col="40" road="18"/>
+  <hex row="9" col="41" terrain="3"/>
+  <hex row="10" col="1" terrain="3"/>
+  <hex row="10" col="2" terrain="3"/>
+  <hex row="10" col="7" terrain="10" name="Lusjanka River"/>
+  <hex row="10" col="8" terrain="10" name="Lusjanka River"/>
+  <hex row="10" col="9" terrain="10" road="17" name="Lusjanka River"/>
+  <hex row="10" col="10" terrain="10" name="Lusjanka River"/>
+  <hex row="10" col="12" terrain="3"/>
+  <hex row="10" col="13" terrain="3"/>
+  <hex row="10" col="14" terrain="3"/>
+  <hex row="10" col="16" terrain="3"/>
+  <hex row="10" col="18" terrain="10" name="Moskva River"/>
+  <hex row="10" col="19" terrain="10" name="Moskva River"/>
+  <hex row="10" col="20" road="136"/>
+  <hex row="10" col="21" road="136"/>
+  <hex row="10" col="23" terrain="3"/>
+  <hex row="10" col="24" terrain="3"/>
+  <hex row="10" col="25" road="19"/>
+  <hex row="10" col="26" road="32"/>
+  <hex row="10" col="27" terrain="10" name="Iskona River"/>
+  <hex row="10" col="28" terrain="10" name="Moskva River"/>
+  <hex row="10" col="30" terrain="3"/>
+  <hex row="10" col="31" terrain="5"/>
+  <hex row="10" col="32" terrain="5"/>
+  <hex row="10" col="34" terrain="3"/>
+  <hex row="10" col="35" terrain="3"/>
+  <hex row="10" col="38" road="17" deploy="1"/>
+  <hex row="10" col="40" road="17"/>
+  <hex row="10" col="41" terrain="3"/>
+  <hex row="10" col="42" terrain="3"/>
+  <hex row="11" col="1" terrain="3"/>
+  <hex row="11" col="2" terrain="3"/>
+  <hex row="11" col="5" terrain="1" name="Lusos'" flag="19" owner="1"/>
+  <hex row="11" col="6" terrain="10" name="Lusjanka River"/>
+  <hex row="11" col="7" terrain="3"/>
+  <hex row="11" col="8" terrain="3"/>
+  <hex row="11" col="9" road="17"/>
+  <hex row="11" col="12" terrain="3"/>
+  <hex row="11" col="14" terrain="1" name="Gorjatschkino" flag="19" owner="1"/>
+  <hex row="11" col="16" terrain="3"/>
+  <hex row="11" col="18" terrain="1" name="Loginovo" flag="19" owner="1"/>
+  <hex row="11" col="19" terrain="3"/>
+  <hex row="11" col="20" terrain="10" name="Moskva River"/>
+  <hex row="11" col="21" terrain="10" name="Moskva River"/>
+  <hex row="11" col="22" terrain="1" road="136" name="Blaznovo" flag="19" owner="1"/>
+  <hex row="11" col="23" road="136"/>
+  <hex row="11" col="24" terrain="3"/>
+  <hex row="11" col="25" road="17"/>
+  <hex row="11" col="27" terrain="10" name="Moskva River"/>
+  <hex row="11" col="28" terrain="10" name="Moskva River"/>
+  <hex row="11" col="30" terrain="3"/>
+  <hex row="11" col="31" terrain="1" name="Obljanishtschevo" flag="19" owner="1"/>
+  <hex row="11" col="35" terrain="1" name="Aleksino" flag="19" owner="1"/>
+  <hex row="11" col="38" road="17"/>
+  <hex row="11" col="39" road="34"/>
+  <hex row="11" col="40" road="33"/>
+  <hex row="11" col="42" terrain="3"/>
+  <hex row="12" col="0" terrain="10" name="Moskva River"/>
+  <hex row="12" col="1" terrain="10" name="Moskva River"/>
+  <hex row="12" col="3" terrain="3"/>
+  <hex row="12" col="5" terrain="10" name="Lusjanka River"/>
+  <hex row="12" col="6" terrain="10" name="Lusjanka River"/>
+  <hex row="12" col="7" terrain="5"/>
+  <hex row="12" col="8" terrain="3"/>
+  <hex row="12" col="9" terrain="12" road="41"/>
+  <hex row="12" col="13" terrain="3"/>
+  <hex row="12" col="14" terrain="3"/>
+  <hex row="12" col="18">
+    <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="12" col="19" terrain="10" name="Kolotsch' River"/>
+  <hex row="12" col="20" terrain="10" name="Kolotsch' River"/>
+  <hex row="12" col="22" terrain="10" name="Moskva River"/>
+  <hex row="12" col="24" road="136"/>
+  <hex row="12" col="25" terrain="1" road="129" name="Teterino" flag="19" owner="1"/>
+  <hex row="12" col="26" terrain="10" name="Moskva River"/>
+  <hex row="12" col="27" terrain="3"/>
+  <hex row="12" col="28" terrain="3"/>
+  <hex row="12" col="35" terrain="12" road="40"/>
+  <hex row="12" col="37" terrain="12" road="50" name="Shelkovka" flag="19" owner="1"/>
+  <hex row="12" col="38" terrain="1" road="43" name="Dorohovo" flag="19" owner="1" victory="0" supply="1">
+    <unit id="498" owner="1" flag="20" face="14" exp="100" ent="1"/>
+  </hex>
+  <hex row="12" col="39" road="162"/>
+  <hex row="12" col="40" road="40"/>
+  <hex row="12" col="41" road="130"/>
+  <hex row="12" col="42" terrain="1" road="40" name="Jamskaja" flag="19" owner="1"/>
+  <hex row="13" col="0" road="40"/>
+  <hex row="13" col="1" road="136">
+    <unit id="92" owner="0" flag="8" face="4" transport="157" exp="200" ent="1" str="8"/>
+  </hex>
+  <hex row="13" col="2" terrain="10" name="Moskva River"/>
+  <hex row="13" col="3" terrain="10" name="Moskva River"/>
+  <hex row="13" col="4" terrain="3"/>
+  <hex row="13" col="5" deploy="0"/>
+  <hex row="13" col="6" terrain="5"/>
+  <hex row="13" col="7" terrain="12" road="34"/>
+  <hex row="13" col="8" terrain="12" road="34"/>
+  <hex row="13" col="9">
+    <unit id="512" owner="1" flag="20" face="13" exp="250" ent="1"/>
+  </hex>
+  <hex row="13" col="10" terrain="12" road="136" name="Uvarovka" flag="19" owner="1"/>
+  <hex row="13" col="11" terrain="12" road="136"/>
+  <hex row="13" col="15" road="34"/>
+  <hex row="13" col="16" road="40"/>
+  <hex row="13" col="17" road="130">
+    <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="13" col="18" terrain="1" road="40" name="Borodino" flag="19" owner="1">
+    <unit id="905" owner="1" flag="20" face="12" transport="529" exp="200" ent="5"/>
+  </hex>
+  <hex row="13" col="19" terrain="10" road="130" name="Kolotsch' River"/>
+  <hex row="13" col="20" road="40">
+    <unit id="495" owner="1" flag="20" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="13" col="21" terrain="1" road="136" name="Tatarinovo" flag="19" owner="1"/>
+  <hex row="13" col="22" terrain="10" name="Moskva River"/>
+  <hex row="13" col="23" terrain="10" name="Moskva River"/>
+  <hex row="13" col="24" terrain="10" name="Moskva River"/>
+  <hex row="13" col="25" terrain="10" name="Moskva River"/>
+  <hex row="13" col="26" terrain="10" name="Moskva River"/>
+  <hex row="13" col="27" terrain="3"/>
+  <hex row="13" col="28" terrain="3"/>
+  <hex row="13" col="29" terrain="3"/>
+  <hex row="13" col="31" terrain="12" road="34"/>
+  <hex row="13" col="32" terrain="12" road="40"/>
+  <hex row="13" col="33" terrain="12" road="162"/>
+  <hex row="13" col="34" terrain="12" road="34"/>
+  <hex row="13" col="36" terrain="12" road="130"/>
+  <hex row="13" col="37" road="51"/>
+  <hex row="13" col="38" road="34"/>
+  <hex row="13" col="39" terrain="2" flag="19" owner="1">
+    <unit id="530" owner="1" flag="20" face="13" exp="200" ldr="1"/>
+  </hex>
+  <hex row="13" col="40" terrain="2" flag="19" owner="1">
+    <unit id="542" owner="1" flag="20" face="13" exp="200"/>
+  </hex>
+  <hex row="13" col="41" terrain="3"/>
+  <hex row="13" col="42" terrain="3"/>
+  <hex row="14" col="1" road="40">
+    <unit id="98" owner="0" flag="8" face="4" transport="2400" exp="200" ent="1" str="8"/>
+  </hex>
+  <hex row="14" col="2" terrain="1" road="136" name="Drovnino" flag="7" owner="0" deploy="0"/>
+  <hex row="14" col="3" terrain="12" road="170" name="Moskva River"/>
+  <hex row="14" col="4" road="40" deploy="0"/>
+  <hex row="14" col="5" terrain="12" road="170" deploy="0"/>
+  <hex row="14" col="6" terrain="12" road="34" deploy="0"/>
+  <hex row="14" col="7" road="40"/>
+  <hex row="14" col="9" road="40"/>
+  <hex row="14" col="10" terrain="3"/>
+  <hex row="14" col="11" terrain="3"/>
+  <hex row="14" col="12" terrain="12" road="136"/>
+  <hex row="14" col="13" terrain="12" road="186"/>
+  <hex row="14" col="14" road="34"/>
+  <hex row="14" col="15" terrain="3"/>
+  <hex row="14" col="16" terrain="3">
+    <unit id="504" owner="1" flag="20" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="14" col="17" terrain="10" name="Kolotsch' River"/>
+  <hex row="14" col="18" terrain="10" name="Kolotsch' River">
+    <unit id="494" owner="1" flag="20" face="0" exp="200" ent="5"/>
+  </hex>
+  <hex row="14" col="19" terrain="5" flag="19" owner="1" victory="0">
+    <unit id="905" owner="1" flag="20" face="12" exp="200" ent="5" ldr="1"/>
+  </hex>
+  <hex row="14" col="22" road="136"/>
+  <hex row="14" col="23" terrain="1" road="136" name="Kukarino" flag="19" owner="1"/>
+  <hex row="14" col="25" terrain="1" road="16" name="Mozhaisk" flag="19" owner="1" victory="0">
+    <unit id="499" owner="1" flag="20" face="14" exp="299" ent="3"/>
+  </hex>
+  <hex row="14" col="27" terrain="2"/>
+  <hex row="14" col="28" terrain="2" owner="1"/>
+  <hex row="14" col="29" terrain="12" road="34"/>
+  <hex row="14" col="30" terrain="12" road="42"/>
+  <hex row="14" col="31" road="130"/>
+  <hex row="14" col="32" terrain="1" road="34" name="Shalikovo" flag="19" owner="1"/>
+  <hex row="14" col="33" road="34"/>
+  <hex row="14" col="34" road="40"/>
+  <hex row="14" col="35" road="130"/>
+  <hex row="14" col="36" road="34"/>
+  <hex row="14" col="37" road="17" deploy="1"/>
+  <hex row="14" col="40" terrain="3"/>
+  <hex row="14" col="41" terrain="3"/>
+  <hex row="14" col="42" terrain="3"/>
+  <hex row="15" col="0" road="130"/>
+  <hex row="15" col="1" road="40" flag="7" owner="0" victory="1" supply="0">
+    <unit id="98" owner="0" flag="8" face="4" transport="2400" exp="200" ent="1" str="8"/>
+  </hex>
+  <hex row="15" col="2" terrain="12" road="130" deploy="0"/>
+  <hex row="15" col="3" terrain="10" name="Moskva River"/>
+  <hex row="15" col="4" terrain="12" road="130" deploy="0"/>
+  <hex row="15" col="5" deploy="0"/>
+  <hex row="15" col="6" road="130">
+    <unit id="143" owner="0" flag="8" face="4" exp="300" ent="1"/>
+  </hex>
+  <hex row="15" col="7" terrain="3"/>
+  <hex row="15" col="8" road="130"/>
+  <hex row="15" col="9" terrain="10" name="Kolotsch' River"/>
+  <hex row="15" col="10" road="136"/>
+  <hex row="15" col="11" road="130"/>
+  <hex row="15" col="12" road="34"/>
+  <hex row="15" col="13" road="17"/>
+  <hex row="15" col="14" terrain="12" road="136"/>
+  <hex row="15" col="15" terrain="12" road="130" name="Kolotsch' River"/>
+  <hex row="15" col="16" terrain="12" road="40" name="Fomkino" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="11"/>
+  </hex>
+  <hex row="15" col="17" terrain="12" road="130"/>
+  <hex row="15" col="18" terrain="12" road="40"/>
+  <hex row="15" col="19" terrain="12" road="130"/>
+  <hex row="15" col="20" terrain="12" road="40" name="Borodino Station" flag="19" owner="1">
+    <unit id="1390" owner="1" flag="20" face="12" exp="200" ent="5" ldr="1"/>
+  </hex>
+  <hex row="15" col="21" terrain="12" road="130"/>
+  <hex row="15" col="22" terrain="12" road="40"/>
+  <hex row="15" col="23" terrain="12" road="130"/>
+  <hex row="15" col="24" terrain="12" road="168">
+    <unit id="847" owner="1" flag="20" face="12" exp="300" ent="3" ldr="1"/>
+  </hex>
+  <hex row="15" col="25" terrain="12" road="147" name="Jamskaja" flag="19" owner="1"/>
+  <hex row="15" col="26" terrain="12" road="40"/>
+  <hex row="15" col="27" terrain="12" road="130"/>
+  <hex row="15" col="28" terrain="12" road="34"/>
+  <hex row="15" col="29" terrain="1" road="34" name="Pushkino" flag="19" owner="1"/>
+  <hex row="15" col="30" road="40"/>
+  <hex row="15" col="31" road="130"/>
+  <hex row="15" col="32" road="34"/>
+  <hex row="15" col="33" terrain="3"/>
+  <hex row="15" col="34" terrain="3"/>
+  <hex row="15" col="35" terrain="3"/>
+  <hex row="15" col="37" terrain="1" road="17" name="Usadkovo" flag="19" owner="1" deploy="1"/>
+  <hex row="15" col="40" terrain="3"/>
+  <hex row="15" col="41" terrain="1" name="Protva River" flag="19" owner="1"/>
+  <hex row="16" col="0" road="130"/>
+  <hex row="16" col="1">
+    <unit id="92" owner="0" flag="8" face="4" transport="156" exp="300" ent="1" str="8"/>
+  </hex>
+  <hex row="16" col="2" road="136">
+    <unit id="92" owner="0" flag="8" face="4" transport="157" exp="200" ent="1" str="8"/>
+  </hex>
+  <hex row="16" col="3" road="136"/>
+  <hex row="16" col="4" terrain="10" name="Moskva River"/>
+  <hex row="16" col="6" deploy="0"/>
+  <hex row="16" col="7" terrain="3"/>
+  <hex row="16" col="9">
+    <unit id="521" owner="1" flag="20" face="13" exp="250" ent="1" ldr="1"/>
+  </hex>
+  <hex row="16" col="10" terrain="10" name="Kolotsch' River"/>
+  <hex row="16" col="11" terrain="10" name="Kolotsch' River"/>
+  <hex row="16" col="12" terrain="10" name="Kolotsch' River"/>
+  <hex row="16" col="13" terrain="10" road="17" name="Kolotsch' River"/>
+  <hex row="16" col="14" terrain="10" name="Kolotsch' River"/>
+  <hex row="16" col="17" terrain="3"/>
+  <hex row="16" col="18" terrain="3"/>
+  <hex row="16" col="19" terrain="10" name="Mzhut River"/>
+  <hex row="16" col="22" terrain="3"/>
+  <hex row="16" col="23" terrain="3"/>
+  <hex row="16" col="25" road="9"/>
+  <hex row="16" col="27" road="34"/>
+  <hex row="16" col="28" road="34"/>
+  <hex row="16" col="29" terrain="3"/>
+  <hex row="16" col="30" terrain="3"/>
+  <hex row="16" col="31" terrain="3"/>
+  <hex row="16" col="33" terrain="10" name="Is'ma River"/>
+  <hex row="16" col="34" terrain="3"/>
+  <hex row="16" col="36" terrain="10" name="Tarussa River"/>
+  <hex row="16" col="37" terrain="10" road="17" name="Tarussa River" deploy="1"/>
+  <hex row="16" col="38" terrain="10" name="Tarussa River"/>
+  <hex row="16" col="39" terrain="10" name="Tarussa River"/>
+  <hex row="16" col="40" terrain="10" name="Is'ma River"/>
+  <hex row="16" col="41" terrain="10" name="Kolodkino"/>
+  <hex row="16" col="42" terrain="10" name="Kiselevo"/>
+  <hex row="16" col="43" terrain="10" name="Protva River"/>
+  <hex row="17" col="1" deploy="0"/>
+  <hex row="17" col="2">
+    <unit id="583" owner="0" flag="8" face="4" exp="300" ent="1"/>
+  </hex>
+  <hex row="17" col="3" deploy="0"/>
+  <hex row="17" col="4" terrain="1" road="136" name="Kundasovo" flag="7" owner="0" deploy="0"/>
+  <hex row="17" col="5" road="130" deploy="0"/>
+  <hex row="17" col="6" road="40">
+    <unit id="146" owner="0" flag="8" face="4" exp="300" ent="1" ldr="1"/>
+  </hex>
+  <hex row="17" col="7" road="130"/>
+  <hex row="17" col="8" road="40"/>
+  <hex row="17" col="9" road="130"/>
+  <hex row="17" col="10" terrain="1" road="40" name="Tsukanovo" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="13" transport="528" exp="250" ent="3"/>
+  </hex>
+  <hex row="17" col="11" road="130"/>
+  <hex row="17" col="12" road="40"/>
+  <hex row="17" col="13" road="147"/>
+  <hex row="17" col="14" road="40"/>
+  <hex row="17" col="15" road="130"/>
+  <hex row="17" col="16" terrain="1" road="40" name="Jel'nja" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="12" ldr="1"/>
+  </hex>
+  <hex row="17" col="17" road="130">
+    <unit id="905" owner="1" flag="20" face="12" transport="529" exp="200" ent="5"/>
+  </hex>
+  <hex row="17" col="18" road="40"/>
+  <hex row="17" col="19" terrain="10" road="130" name="Mzhut River"/>
+  <hex row="17" col="20" terrain="1" road="40" name="Artemki" flag="19" owner="1"/>
+  <hex row="17" col="21" road="130"/>
+  <hex row="17" col="22" road="40"/>
+  <hex row="17" col="23" terrain="10" road="130" name="Mzhut River"/>
+  <hex row="17" col="24" terrain="10" road="40" name="Mzhut River"/>
+  <hex row="17" col="25" terrain="10" road="130" name="Mzhut River"/>
+  <hex row="17" col="26" road="178"/>
+  <hex row="17" col="28" terrain="3"/>
+  <hex row="17" col="29" terrain="3"/>
+  <hex row="17" col="30" terrain="3"/>
+  <hex row="17" col="31" terrain="3"/>
+  <hex row="17" col="32" terrain="3"/>
+  <hex row="17" col="33" terrain="10" name="Is'ma River"/>
+  <hex row="17" col="37" road="17" deploy="1"/>
+  <hex row="17" col="40" terrain="3"/>
+  <hex row="17" col="41" terrain="3"/>
+  <hex row="18" col="1" terrain="2" flag="7">
+    <unit id="174" owner="0" flag="8" face="4" exp="250"/>
+  </hex>
+  <hex row="18" col="2" terrain="2" flag="7" owner="0">
+    <unit id="618" owner="0" flag="8" face="4" exp="299" ldr="1"/>
+  </hex>
+  <hex row="18" col="3" deploy="0"/>
+  <hex row="18" col="4" deploy="0"/>
+  <hex row="18" col="5" terrain="3"/>
+  <hex row="18" col="6" terrain="10" name="Protva River"/>
+  <hex row="18" col="7" terrain="10" name="Protva River"/>
+  <hex row="18" col="8" terrain="10" name="Protva River"/>
+  <hex row="18" col="9" terrain="10" name="Protva River"/>
+  <hex row="18" col="11" terrain="3"/>
+  <hex row="18" col="12" terrain="3"/>
+  <hex row="18" col="13" road="17"/>
+  <hex row="18" col="17" terrain="1" name="Judinki" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="13" exp="299" ent="5" str="11" ldr="1"/>
+  </hex>
+  <hex row="18" col="18">
+    <unit id="494" owner="1" flag="20" face="4" exp="200" ent="5"/>
+  </hex>
+  <hex row="18" col="19" terrain="3"/>
+  <hex row="18" col="20" terrain="10" name="Mzhut River"/>
+  <hex row="18" col="21" terrain="10" name="Mzhut River"/>
+  <hex row="18" col="22" terrain="10" name="Mzhut River"/>
+  <hex row="18" col="23" terrain="5"/>
+  <hex row="18" col="25" terrain="10" name="Mzhut River"/>
+  <hex row="18" col="26" road="17"/>
+  <hex row="18" col="34" terrain="10" name="Is'ma River"/>
+  <hex row="18" col="35" terrain="5"/>
+  <hex row="18" col="36" terrain="5"/>
+  <hex row="18" col="37" road="17" deploy="1"/>
+  <hex row="18" col="40" terrain="3"/>
+  <hex row="18" col="41" terrain="3"/>
+  <hex row="19" col="1" terrain="3" deploy="0"/>
+  <hex row="19" col="2" deploy="0"/>
+  <hex row="19" col="3" terrain="3" deploy="0"/>
+  <hex row="19" col="6" terrain="3"/>
+  <hex row="19" col="10" terrain="10" name="Protva River"/>
+  <hex row="19" col="11" terrain="10" name="Protva River"/>
+  <hex row="19" col="12" terrain="3"/>
+  <hex row="19" col="13" road="17"/>
+  <hex row="19" col="14" terrain="3"/>
+  <hex row="19" col="15" terrain="3"/>
+  <hex row="19" col="19" terrain="3"/>
+  <hex row="19" col="20" terrain="3"/>
+  <hex row="19" col="22" terrain="3"/>
+  <hex row="19" col="23" terrain="3"/>
+  <hex row="19" col="24" terrain="5"/>
+  <hex row="19" col="26" terrain="10" road="17" name="Mzhut River"/>
+  <hex row="19" col="27" terrain="10" name="Mzhut River"/>
+  <hex row="19" col="28" terrain="1" name="Korovino" flag="19" owner="1"/>
+  <hex row="19" col="33" terrain="1" name="Bogorodskoje" flag="19" owner="1"/>
+  <hex row="19" col="34" terrain="10" name="Is'ma River"/>
+  <hex row="19" col="35" terrain="5"/>
+  <hex row="19" col="36" terrain="5"/>
+  <hex row="19" col="37" terrain="1" road="17" name="Kolodkino" flag="19" owner="1" deploy="1"/>
+  <hex row="19" col="39" terrain="3"/>
+  <hex row="19" col="42" terrain="1" name="Pesotschnaja River" flag="19" owner="1"/>
+  <hex row="20" col="1" terrain="3"/>
+  <hex row="20" col="2" terrain="3" deploy="0"/>
+  <hex row="20" col="3" terrain="3"/>
+  <hex row="20" col="5" terrain="1" name="Kiselevo" flag="19" owner="1"/>
+  <hex row="20" col="8" terrain="3"/>
+  <hex row="20" col="9" terrain="3"/>
+  <hex row="20" col="11" terrain="10" name="Protva River"/>
+  <hex row="20" col="13" road="33"/>
+  <hex row="20" col="17" terrain="1" name="Karzhen'" flag="19" owner="1">
+    <unit id="494" owner="1" flag="20" face="4" exp="200" ent="5"/>
+  </hex>
+  <hex row="20" col="22" terrain="3"/>
+  <hex row="20" col="23" terrain="3"/>
+  <hex row="20" col="25" terrain="10" name="Protva River"/>
+  <hex row="20" col="26" terrain="1" road="1" name="Borisovo" flag="19" owner="1"/>
+  <hex row="20" col="27" terrain="10" name="Protva River"/>
+  <hex row="20" col="28" terrain="10" name="Protva River"/>
+  <hex row="20" col="29" terrain="10" name="Protva River"/>
+  <hex row="20" col="31" terrain="3"/>
+  <hex row="20" col="33" terrain="3"/>
+  <hex row="20" col="34" terrain="10" name="Is'ma River"/>
+  <hex row="20" col="37" road="17" deploy="1"/>
+  <hex row="20" col="39" terrain="3"/>
+  <hex row="20" col="40" terrain="3"/>
+  <hex row="20" col="41" terrain="3"/>
+  <hex row="21" col="1" terrain="3"/>
+  <hex row="21" col="2" terrain="3"/>
+  <hex row="21" col="8" terrain="3"/>
+  <hex row="21" col="9" terrain="3"/>
+  <hex row="21" col="11" terrain="1" road="18" name="Presnetsovo" flag="19" owner="1"/>
+  <hex row="21" col="12" terrain="10" road="34" name="Protva River"/>
+  <hex row="21" col="15" terrain="3"/>
+  <hex row="21" col="16" terrain="3"/>
+  <hex row="21" col="18" terrain="3"/>
+  <hex row="21" col="19" terrain="3"/>
+  <hex row="21" col="21" terrain="1" name="Aksentjevo" flag="19" owner="1"/>
+  <hex row="21" col="25" terrain="10" name="Protva River"/>
+  <hex row="21" col="26" terrain="10" name="Protva River"/>
+  <hex row="21" col="28" road="16"/>
+  <hex row="21" col="29" terrain="10" name="Protva River"/>
+  <hex row="21" col="31" terrain="3"/>
+  <hex row="21" col="32" terrain="3"/>
+  <hex row="21" col="33" terrain="3"/>
+  <hex row="21" col="34" terrain="10" name="Is'ma River"/>
+  <hex row="21" col="35" terrain="10" name="Is'ma River"/>
+  <hex row="21" col="37" road="33" deploy="1"/>
+  <hex row="21" col="40" terrain="3"/>
+  <hex row="22" col="4" terrain="3"/>
+  <hex row="22" col="5" terrain="3"/>
+  <hex row="22" col="11" road="17"/>
+  <hex row="22" col="12" terrain="10" name="Protva River"/>
+  <hex row="22" col="13" terrain="10" name="Protva River"/>
+  <hex row="22" col="16" terrain="3"/>
+  <hex row="22" col="18" terrain="3"/>
+  <hex row="22" col="24" terrain="10" name="Protva River"/>
+  <hex row="22" col="28" road="9"/>
+  <hex row="22" col="29" road="144"/>
+  <hex row="22" col="30" terrain="10" name="Protva River"/>
+  <hex row="22" col="31" terrain="3"/>
+  <hex row="22" col="32" terrain="3"/>
+  <hex row="22" col="35" terrain="10" road="34" name="Is'ma River"/>
+  <hex row="22" col="36" terrain="1" road="42" name="Simbuhovo" flag="19" owner="1"/>
+  <hex row="22" col="37" road="136"/>
+  <hex row="23" col="4" terrain="3"/>
+  <hex row="23" col="5" terrain="3"/>
+  <hex row="23" col="6" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="7" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="8" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="9" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="10" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="11" terrain="10" road="17" name="Pesotschnaja River"/>
+  <hex row="23" col="12" terrain="10" name="Pesotschnaja River"/>
+  <hex row="23" col="14" terrain="10" name="Protva River"/>
+  <hex row="23" col="15" terrain="10" name="Protva River"/>
+  <hex row="23" col="17" terrain="10" name="Protva River"/>
+  <hex row="23" col="18" terrain="10" name="Protva River"/>
+  <hex row="23" col="19" terrain="10" name="Protva River"/>
+  <hex row="23" col="20" terrain="10" name="Protva River"/>
+  <hex row="23" col="21" terrain="10" name="Protva River"/>
+  <hex row="23" col="23" terrain="10" name="Protva River"/>
+  <hex row="23" col="24" terrain="10" name="Protva River"/>
+  <hex row="23" col="26" terrain="1" name="Kulakovo" flag="19" owner="1"/>
+  <hex row="23" col="27" terrain="3"/>
+  <hex row="23" col="29" road="9"/>
+  <hex row="23" col="30" terrain="10" name="Protva River"/>
+  <hex row="23" col="31" terrain="10" name="Protva River"/>
+  <hex row="23" col="33" road="18"/>
+  <hex row="23" col="34" road="34"/>
+  <hex row="23" col="36" terrain="10" name="Is'ma River"/>
+  <hex row="23" col="38" road="136"/>
+  <hex row="23" col="39" terrain="1" road="130" name="Nazarjevo" flag="19" owner="1"/>
+  <hex row="23" col="40" road="40"/>
+  <hex row="23" col="41" road="130"/>
+  <hex row="23" col="42" road="40"/>
+  <hex row="24" col="2" terrain="1" name="Semenovskoje" flag="19" owner="1"/>
+  <hex row="24" col="8" terrain="3"/>
+  <hex row="24" col="9" terrain="3"/>
+  <hex row="24" col="11" road="17"/>
+  <hex row="24" col="15" terrain="10" name="Protva River"/>
+  <hex row="24" col="16" terrain="10" name="Protva River"/>
+  <hex row="24" col="17" terrain="10" name="Berega River"/>
+  <hex row="24" col="21" terrain="3"/>
+  <hex row="24" col="22" terrain="10" name="Protva River"/>
+  <hex row="24" col="23" terrain="3"/>
+  <hex row="24" col="25" terrain="3"/>
+  <hex row="24" col="27" terrain="3"/>
+  <hex row="24" col="28" terrain="3"/>
+  <hex row="24" col="29" terrain="3"/>
+  <hex row="24" col="30" road="144"/>
+  <hex row="24" col="31" terrain="10" name="Protva River"/>
+  <hex row="24" col="33" road="33"/>
+  <hex row="24" col="35" terrain="3"/>
+  <hex row="24" col="36" terrain="10" name="Is'ma River"/>
+  <hex row="24" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="24" col="42" terrain="3"/>
+  <hex row="24" col="43" terrain="3"/>
+  <hex row="25" col="1" terrain="3"/>
+  <hex row="25" col="3" terrain="3"/>
+  <hex row="25" col="5" terrain="3"/>
+  <hex row="25" col="11" road="33"/>
+  <hex row="25" col="14" terrain="1" name="Galtschino" flag="19" owner="1"/>
+  <hex row="25" col="16" terrain="10" name="Protva River"/>
+  <hex row="25" col="17" terrain="10" name="Berega River"/>
+  <hex row="25" col="18" terrain="1" name="Sokol'nikovo" flag="19" owner="1"/>
+  <hex row="25" col="21" terrain="3"/>
+  <hex row="25" col="22" terrain="3"/>
+  <hex row="25" col="23" terrain="3"/>
+  <hex row="25" col="24" terrain="3"/>
+  <hex row="25" col="25" terrain="3"/>
+  <hex row="25" col="28" terrain="3"/>
+  <hex row="25" col="30" road="9"/>
+  <hex row="25" col="31" terrain="1" road="170" name="Vereja" flag="19" owner="1" victory="0">
+    <unit id="504" owner="1" flag="20" face="13" transport="528" exp="200" ent="1"/>
+  </hex>
+  <hex row="25" col="32" terrain="10" road="34" name="Protva River"/>
+  <hex row="25" col="35" terrain="3"/>
+  <hex row="25" col="36" terrain="3"/>
+  <hex row="25" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="25" col="39" terrain="3"/>
+  <hex row="25" col="42" terrain="3"/>
+  <hex row="26" col="1" terrain="3"/>
+  <hex row="26" col="2" terrain="3"/>
+  <hex row="26" col="3" terrain="3"/>
+  <hex row="26" col="4" terrain="3"/>
+  <hex row="26" col="5" terrain="3"/>
+  <hex row="26" col="9" road="34"/>
+  <hex row="26" col="10" road="34"/>
+  <hex row="26" col="12" terrain="3"/>
+  <hex row="26" col="13" terrain="3"/>
+  <hex row="26" col="17" terrain="10" name="Berega River"/>
+  <hex row="26" col="22" terrain="3"/>
+  <hex row="26" col="23" terrain="3"/>
+  <hex row="26" col="24" terrain="3"/>
+  <hex row="26" col="26" terrain="1" name="Fedjunkino" flag="19" owner="1"/>
+  <hex row="26" col="29" road="34"/>
+  <hex row="26" col="30" road="34"/>
+  <hex row="26" col="31" terrain="10" name="Protva River"/>
+  <hex row="26" col="32" terrain="10" road="136" name="Protva River"/>
+  <hex row="26" col="33" terrain="1" road="136" name="Voltschenki" flag="19" owner="1"/>
+  <hex row="26" col="36" terrain="3"/>
+  <hex row="26" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="26" col="38" terrain="3"/>
+  <hex row="26" col="39" terrain="3"/>
+  <hex row="26" col="41" terrain="1" flag="19" owner="1"/>
+  <hex row="27" col="2" terrain="3"/>
+  <hex row="27" col="3" terrain="3"/>
+  <hex row="27" col="4" terrain="3"/>
+  <hex row="27" col="5" terrain="10" name="Berega River"/>
+  <hex row="27" col="7" terrain="10" name="Berega River"/>
+  <hex row="27" col="8" terrain="1" road="18" name="Bytschkovo" flag="19" owner="1"/>
+  <hex row="27" col="12" terrain="3"/>
+  <hex row="27" col="13" terrain="3"/>
+  <hex row="27" col="14" terrain="3"/>
+  <hex row="27" col="16" terrain="10" name="Berega River"/>
+  <hex row="27" col="17" terrain="3"/>
+  <hex row="27" col="18" terrain="3"/>
+  <hex row="27" col="20" terrain="1" name="Jurlovo" flag="19" owner="1"/>
+  <hex row="27" col="22" terrain="3"/>
+  <hex row="27" col="28" road="18"/>
+  <hex row="27" col="29" terrain="3"/>
+  <hex row="27" col="31" terrain="10" name="Protva River"/>
+  <hex row="27" col="34" road="136"/>
+  <hex row="27" col="35" road="136"/>
+  <hex row="27" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="27" col="38" terrain="3"/>
+  <hex row="27" col="39" terrain="3"/>
+  <hex row="28" col="2" terrain="3"/>
+  <hex row="28" col="6" terrain="10" name="Berega River"/>
+  <hex row="28" col="8" terrain="10" road="17" name="Berega River"/>
+  <hex row="28" col="9" terrain="10" name="Berega River"/>
+  <hex row="28" col="10" terrain="10" name="Berega River"/>
+  <hex row="28" col="11" terrain="10" name="Berega River"/>
+  <hex row="28" col="12" terrain="10" name="Berega River"/>
+  <hex row="28" col="13" terrain="10" name="Berega River"/>
+  <hex row="28" col="14" terrain="10" name="Berega River"/>
+  <hex row="28" col="15" terrain="10" name="Berega River"/>
+  <hex row="28" col="16" terrain="10" name="Berega River"/>
+  <hex row="28" col="17" terrain="3"/>
+  <hex row="28" col="18" terrain="3"/>
+  <hex row="28" col="19" terrain="3"/>
+  <hex row="28" col="24" terrain="3"/>
+  <hex row="28" col="25" terrain="3"/>
+  <hex row="28" col="27" road="18"/>
+  <hex row="28" col="28" road="33"/>
+  <hex row="28" col="29" terrain="3"/>
+  <hex row="28" col="30" terrain="3"/>
+  <hex row="28" col="31" terrain="10" name="Protva River"/>
+  <hex row="28" col="33" terrain="3"/>
+  <hex row="28" col="34" terrain="3"/>
+  <hex row="28" col="35" terrain="3"/>
+  <hex row="28" col="36" road="136"/>
+  <hex row="28" col="37" terrain="10" road="136" name="Is'ma River"/>
+  <hex row="28" col="38" terrain="3"/>
+  <hex row="28" col="41" terrain="2" flag="19" owner="1"/>
+  <hex row="29" col="3" terrain="1" name="Kuskovo" flag="19" owner="1"/>
+  <hex row="29" col="5" terrain="3"/>
+  <hex row="29" col="8" road="17"/>
+  <hex row="29" col="11" terrain="3"/>
+  <hex row="29" col="17" terrain="1" name="Sosnovitsy" flag="19" owner="1"/>
+  <hex row="29" col="21" terrain="5"/>
+  <hex row="29" col="22" terrain="5"/>
+  <hex row="29" col="23" terrain="5"/>
+  <hex row="29" col="27" terrain="1" road="17" name="Nikol'skoje" flag="19" owner="1"/>
+  <hex row="29" col="30" terrain="3"/>
+  <hex row="29" col="31" terrain="10" name="Protva River"/>
+  <hex row="29" col="32" terrain="3"/>
+  <hex row="29" col="33" terrain="3"/>
+  <hex row="29" col="34" terrain="3"/>
+  <hex row="29" col="35" terrain="3"/>
+  <hex row="29" col="36" terrain="3"/>
+  <hex row="29" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="29" col="38" road="136"/>
+  <hex row="29" col="39" road="144"/>
+  <hex row="29" col="40" terrain="2" flag="19" owner="1"/>
+  <hex row="29" col="41" terrain="3"/>
+  <hex row="29" col="42" terrain="3"/>
+  <hex row="30" col="6" terrain="3"/>
+  <hex row="30" col="8" road="17"/>
+  <hex row="30" col="9" terrain="3"/>
+  <hex row="30" col="10" terrain="3"/>
+  <hex row="30" col="11" terrain="3"/>
+  <hex row="30" col="12" terrain="3"/>
+  <hex row="30" col="13" terrain="3"/>
+  <hex row="30" col="19" terrain="5"/>
+  <hex row="30" col="20" terrain="5"/>
+  <hex row="30" col="21" terrain="5"/>
+  <hex row="30" col="22" terrain="5"/>
+  <hex row="30" col="27" road="33"/>
+  <hex row="30" col="31" terrain="10" name="Protva River"/>
+  <hex row="30" col="37" terrain="10" name="Is'ma River"/>
+  <hex row="30" col="39" road="17"/>
+</map>

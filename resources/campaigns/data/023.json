@@ -1,0 +1,178 @@
+[
+ {
+  "id": 0, 
+  "intro": "Lodz - Warta River<br><br>The first important obstacles in our advance into Poland have appeared; the Warta river, the bunkers built by the Polish along the river, and the army of Lodz. The objetive is basically cross the Warta and take the city of Lodz, but take care, the losses in the crossing of the river could be heavy for us. Reinforcements will arrive from the South-East of this area, as well as some Luftwaffe units.<br><br>Good Luck.", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Kongratulieren!, you have crossed the Polish defensive line in many points in spite of the hard resistance of the enemy. The Warta river has been crossed, and the city of Lodz captured. Now, we must continue with the advance onwards to Warsaw!.<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "This is a complete dissaster!, you are a nerd!. You are dimissed."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Kongratulieren!, you have crossed the Polish defensive line in many points in spite of the hard resistance of the enemy. The Warta river has been crossed, and the city of Lodz captured. Now, we must continue with the advance onwards to Warsaw!."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Kongratulieren!, you have crossed the Polish defensive line in many points in spite of the hard resistance of the enemy. The Warta river has been crossed, and the city of Lodz captured. Now, we must continue with the advance onwards to Warsaw!."
+   }
+  }, 
+  "scenario": "fw81.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Bzura Counterattack<br><br>Urgent message from the 8 Armee HQ;<br><br>ACHTUNG!, the advance onwards to Warsaw must be stopped!, units from the 30 Infanterie Division which were patroling the area have been completely surrounded by a big number of Polish forces which crossed the Bzura from the North. Intelligence thinks that this is the army of Poznan, trying to attack our advance and stop the assault on Warsaw. Try to resist!, the Polishs must not retake Lodz!. The infanterie divisions 17, 24, 213, and the 23 Panzer regiment will arrive in the next 24 hours to stop the Polish attack, and restablish the lines.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "The Polish attack has been stopped, and the lines before the Polish offensive has been restored. The OKH believes that we can trap the remnants of the Polish Army of Poznan while they try to reach Warsaw... <br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "This is a complete dissaster!, you are a nerd!. You are dimissed."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The Polish attack has been stopped, and the lines before the Polish offensive has been restored. The OKH believes that we can trap the remnants of the Polish Army of Poznan while they try to reach Warsaw... <br>"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Polish attack has been stopped, and the lines before the Polish offensive has been restored. The OKH believes that we can trap the remnants of the Polish Army of Poznan while they try to reach Warsaw... <br>"
+   }
+  }, 
+  "scenario": "fw82.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Bzura Pocket<br><br>We have the chance to encircle and destroy the Army of Poznan. As we thought, the enemy is retreating their units to Warsaw, they need to cross the Bzura and the Vistula to get there. Our plan is to block their way to Warsaw, enclosing all the remants of the Poznan Army into a ''pocket'' whith the aid of the rivers. Then, you should destroy the enemy forces enclosed in the trap. Luftwaffe units will arrive to help you, also, units from the 3 Armee are available to help you from the North as well as another units from the 8 Armee. Good Luck.", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Now, there is not any forces between us and the Polish capital!. The Poznan Army have been completely destroyed, the advance must continue!."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "This is a complete dissaster!, you are a nerd!. You are dimissed."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Now, there is not any forces between us and the Polish capital!. The Poznan Army have been completely destroyed, the advance must continue!."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Now, there is not any forces between us and the Polish capital!. The Poznan Army have been completely destroyed, the advance must continue!."
+   }
+  }, 
+  "scenario": "fw83.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Warsaw<br><br>Finally, after your good actions, OKH has decided that you will lead the final assault on Warsaw. The Polishs have tried to remove troops from all the fronts to use them in the defence of the capital, and resist until the last men. We have offerend the surrender to the city, however they have rejected any kind of negociation. The defence of the city consist of the remnants of the Army of Modlin, and last minute recruited battalions, as well as some units of the Narew group.<br>You will receive a good number of reinforcements. Good luck.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Victory! the capital has been captured, and the Polish General Rommel have surrendered to us in order to avoid a bigger suffering to the Warsaw population. Good work, the OKH will remember your good skills, the Werhmacht needs officers like you.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "This is a dissaster!, Warsaw is now a simbol for the Polish resistance, there are Polish guerrillas in all the places of Poland threatening all of our supply lines... And the worst of all... the Soviets are offering us his help to finnish with the Poles!... You are dimissed."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Victory! the capital has been captured, and the Polish General Rommel have surrendered to us in order to avoid a bigger suffering to the Warsaw population. Good work, the OKH will remember your good skills, the Werhmacht needs officers like you.<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Victory! the capital has been captured, and the Polish General Rommel have surrendered to us in order to avoid a bigger suffering to the Warsaw population. Good work, the OKH will remember your good skills, the Werhmacht needs officers like you.<br>"
+   }
+  }, 
+  "scenario": "fw84.xml", 
+  "startprestige": 0
+ }
+]

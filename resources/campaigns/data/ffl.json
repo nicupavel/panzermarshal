@@ -1,0 +1,310 @@
+[
+ {
+  "id": 0, 
+  "intro": "Koufra<br><br>25 Feb 1941<br><br>This was the first military action of Free France: 300 men and 1 (one!) 75mm cannon against superior Italian forces managed to take the Koufra oasis overnight, after an 400Km-long epic desert journey.  In this scenario appears the bulk of the core army, which is supposedly as mobile and powerful as the British desert commandos of the Long Range Desert Group.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Bir-Hakeim<br><br>26 May 1942<br><br>When Rommel launched the Gazala offensive, the XX Italian Corps was supposed to secure the cauldron of Bir-Hakeim, south of the axis position. The Italians lost this bloody battle, forcing Rommel to intervene and thereby causing the Gazala offensive to stall.  The Free French eventually evacuated but because of their valiant stand the Allies weren't defeated at Gazala.", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Operation Vesuve<br><br>09 Sept 1943<br><br>After Algeria had finally submitted to the authority of Gen. de Gaulle, the time was rife to begin liberating metropolitan France  and besiege the French Temporary Republic Government of Vichy.  Operation Vesuve is an enterely French-led operation to liberate Corsica. The Resistance, well as Italian units which deferred to the Allies after the official surrender of Italy the day before, aided in the liberation of the island. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Operation Diadem<br><br>12 May 1944<br><br>The Monte Cassino is the key to the Gothic Line. Since January 1944 two unsucessfull assaults have been led against it. With Operation Diadem, Allied Command gathers the triple the forces involved in the first attempt, in order to obtain decisive victory. The Free French Mountain Troops of Morocco (\"Tabors\") managed to sneak behind enemy lines and cut off the supply and reinforcement passages, permitting this third attempt to succeed.          <br>                                                           ", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl4.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Operation Dragoon<br><br>16 July 1944<br><br>In coordination with Operation Overlord, French and American Forces land in Mediterranean France, considered to be more lightly defended by the Germans. Their advance is aimed at the industrial region around Lyon and far more rapid than in Normandy, threatening the lines of supply and communications for German defenders to the north. <br>                                                                                                          ", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl5.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "Strasbourg<br><br>01 Jan 1945<br><br>In winter 1944-1945, Germany lauches the Ardennes offensive, accompanied one month later by Operation Nordwind. Eisenhower wishes to withdraw all troops from Alsace in order to counter the Ardennes offensive. De Gaulle considers his troops can't leave this very symbolic (for the country and for his men) region in what would be considered a betrayal of the Alsacian people. Therefore the numerous but ill-equiped, ill-supplied and heterogenous French Army stays to protect the Allied flank.              ", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl6.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "Berchtesgaden<br>SS Leibstandarte AH<br>SS Kampfgruppe<br>NS HitlerJugend<br>NS Volksturm<br>Fascistes<br>Me 262<br>Prototyp Maus<br>Spahwagen<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Commander, you got the job done but we lost a lot of GIs in the process.  Well, you did your best, I know, son, and you'll be given another chance to prove yourself."
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "ffl7.xml", 
+  "startprestige": 0
+ }
+]

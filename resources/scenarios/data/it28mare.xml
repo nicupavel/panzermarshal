@@ -1,0 +1,1100 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="it28mare.scn" name="Defending the Mareth Line" turns="12, 18, 24" date="March 19, 1943" dayturns="3" ground="0" atmosferic="2" latitude="0" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_626.png">
+  <player id="0" country="12" side="0" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="22" side="1" airtrans="0" navaltrans="0" support="16, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="16">
+    <at row="7" col="1">
+      <unit id="3365" owner="1" flag="23" face="3" exp="300" str="2"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="15" col="32">
+      <unit id="343" owner="1" flag="23" face="11" exp="300" str="12"/>
+    </at>
+    <at row="29" col="19">
+      <unit id="2926" owner="1" flag="23" face="11" transport="383" exp="375"/>
+    </at>
+    <at row="27" col="24">
+      <unit id="2926" owner="1" flag="23" face="14" transport="382" exp="150"/>
+    </at>
+    <at row="26" col="22">
+      <unit id="2926" owner="1" flag="23" face="14" transport="382" exp="150"/>
+    </at>
+    <at row="11" col="34">
+      <unit id="1927" owner="1" flag="23" face="11" exp="390" str="6"/>
+    </at>
+    <at row="30" col="20">
+      <unit id="328" owner="1" flag="23" face="11" transport="2614" exp="400"/>
+    </at>
+    <at row="1" col="2">
+      <unit id="160" owner="0" flag="8" face="2" exp="400" str="5"/>
+    </at>
+    <at row="10" col="34">
+      <unit id="343" owner="1" flag="23" face="11" exp="350" str="12"/>
+    </at>
+    <at row="29" col="20">
+      <unit id="352" owner="1" flag="23" face="11" exp="300"/>
+    </at>
+    <at row="10" col="32">
+      <unit id="2926" owner="1" flag="23" face="11" exp="150" str="12"/>
+    </at>
+    <at row="26" col="23">
+      <unit id="325" owner="1" flag="23" face="13" transport="2615" exp="300" str="12"/>
+    </at>
+    <at row="36" col="26">
+      <unit id="321" owner="1" flag="23" face="10" transport="2616" exp="300" str="12"/>
+    </at>
+    <at row="15" col="33">
+      <unit id="2926" owner="1" flag="23" face="11" exp="300" str="12"/>
+    </at>
+    <at row="24" col="23">
+      <unit id="328" owner="1" flag="23" face="14" transport="2614" exp="150"/>
+    </at>
+    <at row="24" col="21">
+      <unit id="2926" owner="1" flag="23" face="14" transport="382" exp="150"/>
+    </at>
+    <at row="12" col="34">
+      <unit id="1927" owner="1" flag="23" face="11" exp="300" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="12">
+    <at row="3" col="1">
+      <unit id="144" owner="0" flag="8" face="2" exp="550" str="8"/>
+    </at>
+    <at row="4" col="2">
+      <unit id="2928" owner="0" flag="8" face="2" transport="157" exp="375" str="11"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="31" col="16">
+      <unit id="373" owner="1" flag="23" face="11" exp="475" str="9"/>
+    </at>
+    <at row="9" col="34">
+      <unit id="341" owner="1" flag="23" face="11" exp="200" str="12"/>
+    </at>
+    <at row="30" col="16">
+      <unit id="352" owner="1" flag="23" face="11" exp="600" str="11" ldr="1"/>
+    </at>
+    <at row="30" col="15">
+      <unit id="372" owner="1" flag="23" face="11" exp="400" str="7"/>
+    </at>
+    <at row="14" col="33">
+      <unit id="341" owner="1" flag="23" face="11" exp="250" str="12"/>
+    </at>
+    <at row="31" col="15">
+      <unit id="2926" owner="1" flag="23" face="11" transport="383" exp="400"/>
+    </at>
+    <at row="32" col="16">
+      <unit id="328" owner="1" flag="23" face="11" transport="2614" exp="200"/>
+    </at>
+    <at row="30" col="17">
+      <unit id="375" owner="1" flag="23" face="11" exp="450"/>
+    </at>
+    <at row="17" col="34">
+      <unit id="393" owner="1" flag="23" face="11" exp="200" str="5"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="18" terrain="4"/>
+  <hex row="0" col="19" terrain="4"/>
+  <hex row="0" col="20" terrain="4"/>
+  <hex row="0" col="21" terrain="16"/>
+  <hex row="0" col="23" terrain="7"/>
+  <hex row="0" col="24" terrain="9"/>
+  <hex row="0" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="26" terrain="9"/>
+  <hex row="0" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="28" terrain="9"/>
+  <hex row="0" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="30" terrain="9"/>
+  <hex row="0" col="31" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="32" terrain="9"/>
+  <hex row="0" col="33" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="34" terrain="9"/>
+  <hex row="0" col="35" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="1">
+    <unit id="1271" owner="0" flag="8" face="2" exp="350" str="4"/>
+  </hex>
+  <hex row="1" col="17" terrain="4"/>
+  <hex row="1" col="18" terrain="4"/>
+  <hex row="1" col="19" terrain="4"/>
+  <hex row="1" col="20" terrain="4"/>
+  <hex row="1" col="21" terrain="16"/>
+  <hex row="1" col="22" terrain="16"/>
+  <hex row="1" col="23" terrain="7"/>
+  <hex row="1" col="24" terrain="7"/>
+  <hex row="1" col="25" terrain="7"/>
+  <hex row="1" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="31" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="32" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="33" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="34" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="35" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="15" terrain="4"/>
+  <hex row="2" col="16" terrain="4"/>
+  <hex row="2" col="17" terrain="4"/>
+  <hex row="2" col="18" terrain="4"/>
+  <hex row="2" col="20" terrain="16"/>
+  <hex row="2" col="21" terrain="16"/>
+  <hex row="2" col="22" terrain="16"/>
+  <hex row="2" col="24" terrain="7"/>
+  <hex row="2" col="25" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="2" col="26" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="2" col="27" terrain="7"/>
+  <hex row="2" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="30" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="31" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="32" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="33" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="34" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="35" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="0" road="8"/>
+  <hex row="3" col="1" road="136"/>
+  <hex row="3" col="13" terrain="4"/>
+  <hex row="3" col="14" terrain="4"/>
+  <hex row="3" col="15" terrain="4"/>
+  <hex row="3" col="16" terrain="4"/>
+  <hex row="3" col="17" terrain="4"/>
+  <hex row="3" col="18" terrain="4"/>
+  <hex row="3" col="19" name="Ouerzi West" flag="12" owner="0"/>
+  <hex row="3" col="20" terrain="16"/>
+  <hex row="3" col="21" terrain="16"/>
+  <hex row="3" col="22" terrain="16"/>
+  <hex row="3" col="23" terrain="16" deploy="0"/>
+  <hex row="3" col="24" name="Ksiba West" owner="0" victory="1"/>
+  <hex row="3" col="25" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="3" col="27" terrain="16"/>
+  <hex row="3" col="28" terrain="7"/>
+  <hex row="3" col="29" terrain="7"/>
+  <hex row="3" col="30" terrain="7"/>
+  <hex row="3" col="31" terrain="7"/>
+  <hex row="3" col="33" terrain="16"/>
+  <hex row="3" col="34" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="2" road="136"/>
+  <hex row="4" col="3" road="136" owner="1" victory="1"/>
+  <hex row="4" col="13" terrain="4"/>
+  <hex row="4" col="14" terrain="4"/>
+  <hex row="4" col="15" terrain="4"/>
+  <hex row="4" col="16" terrain="4"/>
+  <hex row="4" col="17" terrain="16"/>
+  <hex row="4" col="18">
+    <unit id="79" owner="0" flag="8" face="2" transport="2403" exp="250" str="4"/>
+  </hex>
+  <hex row="4" col="21" terrain="16"/>
+  <hex row="4" col="22" terrain="16"/>
+  <hex row="4" col="23" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="4" col="24" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="4" col="28" deploy="0"/>
+  <hex row="4" col="30" terrain="7"/>
+  <hex row="4" col="31" terrain="16"/>
+  <hex row="4" col="33" terrain="10" name="Wadi Zeuss"/>
+  <hex row="4" col="34" terrain="16"/>
+  <hex row="4" col="35" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="1" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="3" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="4" road="136"/>
+  <hex row="5" col="5" terrain="13" road="144" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="6" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="7" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="9" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="5" col="11" terrain="4"/>
+  <hex row="5" col="12" terrain="4"/>
+  <hex row="5" col="13" terrain="4"/>
+  <hex row="5" col="14" terrain="4"/>
+  <hex row="5" col="15" terrain="4"/>
+  <hex row="5" col="17">
+    <unit id="64" owner="0" flag="8" face="1" transport="2400" exp="250" str="6"/>
+  </hex>
+  <hex row="5" col="18">
+    <unit id="114" owner="0" flag="8" face="3" exp="375" str="12"/>
+  </hex>
+  <hex row="5" col="22" name="Ksiba East" owner="0" victory="1"/>
+  <hex row="5" col="23" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="5" col="29">
+    <unit id="2926" owner="1" flag="23" face="10" exp="250" str="12"/>
+  </hex>
+  <hex row="5" col="30">
+    <unit id="2926" owner="1" flag="23" face="10" exp="250" str="12"/>
+  </hex>
+  <hex row="5" col="31" terrain="10" name="Wadi Zeuss"/>
+  <hex row="5" col="32" terrain="10" name="Wadi Zeuss"/>
+  <hex row="5" col="33" terrain="16"/>
+  <hex row="5" col="34" terrain="10" name="Wadi Zeuss"/>
+  <hex row="5" col="35" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="0" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="6" col="2" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="6" col="4" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="6" col="5" road="17"/>
+  <hex row="6" col="8" terrain="13" name="Wadi Zerkine : STREAM"/>
+  <hex row="6" col="11" terrain="4"/>
+  <hex row="6" col="12" terrain="4"/>
+  <hex row="6" col="13" terrain="4"/>
+  <hex row="6" col="14" terrain="4"/>
+  <hex row="6" col="15" terrain="4"/>
+  <hex row="6" col="16" terrain="4" name="Ouerzi East" flag="12" owner="0"/>
+  <hex row="6" col="21" deploy="0"/>
+  <hex row="6" col="22" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="6" col="24" terrain="16"/>
+  <hex row="6" col="25" terrain="16"/>
+  <hex row="6" col="26" deploy="0"/>
+  <hex row="6" col="27" terrain="16"/>
+  <hex row="6" col="28">
+    <unit id="2926" owner="1" flag="23" face="10" exp="250" str="12"/>
+  </hex>
+  <hex row="6" col="29" terrain="10" name="Wadi Zeuss"/>
+  <hex row="6" col="30" terrain="10" name="Wadi Zeuss"/>
+  <hex row="6" col="31" terrain="16"/>
+  <hex row="6" col="32" terrain="16"/>
+  <hex row="6" col="33" terrain="16"/>
+  <hex row="7" col="1" road="136"/>
+  <hex row="7" col="5" road="9"/>
+  <hex row="7" col="10" terrain="4"/>
+  <hex row="7" col="11" terrain="4"/>
+  <hex row="7" col="12" terrain="4"/>
+  <hex row="7" col="13" terrain="4"/>
+  <hex row="7" col="14" terrain="4"/>
+  <hex row="7" col="15" terrain="4"/>
+  <hex row="7" col="16" terrain="4"/>
+  <hex row="7" col="17" terrain="16"/>
+  <hex row="7" col="19" name="Ouerzi" owner="0" victory="1"/>
+  <hex row="7" col="21" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="7" col="22" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="7" col="23" terrain="16"/>
+  <hex row="7" col="24" terrain="16"/>
+  <hex row="7" col="26" terrain="16"/>
+  <hex row="7" col="27" terrain="16"/>
+  <hex row="7" col="28" terrain="16"/>
+  <hex row="7" col="29" terrain="10" name="Wadi Zeuss"/>
+  <hex row="7" col="30" terrain="4">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="7" col="32" terrain="16"/>
+  <hex row="7" col="33" terrain="16"/>
+  <hex row="7" col="34" terrain="16"/>
+  <hex row="7" col="35" terrain="16"/>
+  <hex row="8" col="2" road="136" owner="0" victory="1"/>
+  <hex row="8" col="3" road="130"/>
+  <hex row="8" col="4" road="40"/>
+  <hex row="8" col="5" road="136"/>
+  <hex row="8" col="6" terrain="1" road="152" name="Mareth"/>
+  <hex row="8" col="7" terrain="1" road="160" name="Mareth"/>
+  <hex row="8" col="9" terrain="4"/>
+  <hex row="8" col="10" terrain="4"/>
+  <hex row="8" col="11" terrain="4"/>
+  <hex row="8" col="12" terrain="4"/>
+  <hex row="8" col="13" terrain="4"/>
+  <hex row="8" col="14" terrain="4"/>
+  <hex row="8" col="15" terrain="16"/>
+  <hex row="8" col="16" terrain="16"/>
+  <hex row="8" col="17" name="Zarat" owner="0" victory="1"/>
+  <hex row="8" col="19" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="8" col="20" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="8" col="22" terrain="16"/>
+  <hex row="8" col="23" terrain="16"/>
+  <hex row="8" col="24">
+    <unit id="732" owner="0" flag="13" face="2" exp="200" str="8"/>
+  </hex>
+  <hex row="8" col="25">
+    <unit id="2926" owner="1" flag="23" face="10" exp="250" str="12"/>
+  </hex>
+  <hex row="8" col="26" terrain="16">
+    <unit id="2926" owner="1" flag="23" face="10" exp="250" str="12"/>
+  </hex>
+  <hex row="8" col="27" terrain="16"/>
+  <hex row="8" col="29" terrain="10" name="Wadi Zeuss"/>
+  <hex row="8" col="30" terrain="4">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="8" col="31" terrain="4"/>
+  <hex row="8" col="32" terrain="16"/>
+  <hex row="8" col="33" terrain="16"/>
+  <hex row="8" col="34" terrain="16"/>
+  <hex row="8" col="35" terrain="16"/>
+  <hex row="9" col="6" terrain="1" road="155" name="Mareth" flag="12" owner="0" victory="1"/>
+  <hex row="9" col="7" road="144"/>
+  <hex row="9" col="8" terrain="4"/>
+  <hex row="9" col="9" terrain="4"/>
+  <hex row="9" col="10" terrain="4"/>
+  <hex row="9" col="11" terrain="4"/>
+  <hex row="9" col="12" terrain="4"/>
+  <hex row="9" col="15" terrain="16"/>
+  <hex row="9" col="17" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="9" col="18" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="9" col="20" terrain="16"/>
+  <hex row="9" col="22" terrain="16"/>
+  <hex row="9" col="23" deploy="0"/>
+  <hex row="9" col="24">
+    <unit id="2926" owner="1" flag="23" face="11" exp="250" str="12"/>
+  </hex>
+  <hex row="9" col="25">
+    <unit id="1700" owner="1" flag="23" face="11" exp="250"/>
+  </hex>
+  <hex row="9" col="26">
+    <unit id="379" owner="1" flag="23" face="10" exp="250" str="11"/>
+  </hex>
+  <hex row="9" col="27" terrain="10" name="Wadi Zeuss"/>
+  <hex row="9" col="28" terrain="10" name="Wadi Zeuss"/>
+  <hex row="9" col="30" terrain="4">
+    <unit id="321" owner="1" flag="23" face="11" exp="250" str="12"/>
+  </hex>
+  <hex row="9" col="31" terrain="4"/>
+  <hex row="9" col="32" terrain="16"/>
+  <hex row="9" col="33" terrain="16"/>
+  <hex row="9" col="34" terrain="16"/>
+  <hex row="9" col="35" terrain="16"/>
+  <hex row="10" col="0" terrain="4"/>
+  <hex row="10" col="1" terrain="4"/>
+  <hex row="10" col="5" terrain="2" road="10" flag="12" owner="0"/>
+  <hex row="10" col="6" road="33"/>
+  <hex row="10" col="7" road="9"/>
+  <hex row="10" col="8" terrain="4"/>
+  <hex row="10" col="9" terrain="4"/>
+  <hex row="10" col="10" terrain="4"/>
+  <hex row="10" col="12" terrain="16"/>
+  <hex row="10" col="13" terrain="16"/>
+  <hex row="10" col="14" terrain="16"/>
+  <hex row="10" col="15" terrain="16" deploy="0"/>
+  <hex row="10" col="16" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="10" col="18" terrain="16"/>
+  <hex row="10" col="19" terrain="16"/>
+  <hex row="10" col="20" terrain="16"/>
+  <hex row="10" col="21" terrain="16" deploy="0"/>
+  <hex row="10" col="23" terrain="16"/>
+  <hex row="10" col="24" terrain="16"/>
+  <hex row="10" col="25" terrain="16"/>
+  <hex row="10" col="27" terrain="10" name="Wadi Zeuss"/>
+  <hex row="10" col="28">
+    <unit id="330" owner="1" flag="23" face="10" exp="100" str="6"/>
+  </hex>
+  <hex row="10" col="30" terrain="4">
+    <unit id="328" owner="1" flag="23" face="11" exp="200"/>
+  </hex>
+  <hex row="10" col="31" terrain="4"/>
+  <hex row="10" col="32" terrain="16"/>
+  <hex row="10" col="33" terrain="16"/>
+  <hex row="10" col="34" terrain="16"/>
+  <hex row="10" col="35" terrain="16"/>
+  <hex row="11" col="0" terrain="4"/>
+  <hex row="11" col="1" terrain="4"/>
+  <hex row="11" col="3" terrain="4"/>
+  <hex row="11" col="6" terrain="2" road="128">
+    <unit id="64" owner="0" flag="8" face="2" transport="2400" exp="300" str="6"/>
+  </hex>
+  <hex row="11" col="7" terrain="4"/>
+  <hex row="11" col="8" road="136">
+    <unit id="79" owner="0" flag="8" face="2" transport="2403" exp="300" str="4"/>
+  </hex>
+  <hex row="11" col="9" road="136"/>
+  <hex row="11" col="10" terrain="4"/>
+  <hex row="11" col="12" terrain="16"/>
+  <hex row="11" col="15" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="11" col="16" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="11" col="22" terrain="16"/>
+  <hex row="11" col="23" terrain="16"/>
+  <hex row="11" col="24" terrain="16"/>
+  <hex row="11" col="25" terrain="10" name="Wadi Zeuss"/>
+  <hex row="11" col="26" terrain="10" name="Wadi Zeuss"/>
+  <hex row="11" col="27" terrain="16"/>
+  <hex row="11" col="28">
+    <unit id="325" owner="1" flag="23" face="11" exp="250" str="12"/>
+  </hex>
+  <hex row="11" col="29" terrain="16"/>
+  <hex row="11" col="30" terrain="4"/>
+  <hex row="11" col="32" terrain="4"/>
+  <hex row="11" col="33" terrain="4"/>
+  <hex row="11" col="34" terrain="16"/>
+  <hex row="11" col="35" terrain="16"/>
+  <hex row="12" col="0" terrain="4"/>
+  <hex row="12" col="2" terrain="4"/>
+  <hex row="12" col="3" terrain="4"/>
+  <hex row="12" col="4" terrain="4"/>
+  <hex row="12" col="5" terrain="4"/>
+  <hex row="12" col="6" terrain="4"/>
+  <hex row="12" col="7" terrain="4"/>
+  <hex row="12" col="8" terrain="4"/>
+  <hex row="12" col="10" road="144"/>
+  <hex row="12" col="13" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="12" col="14" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="12" col="20" deploy="0"/>
+  <hex row="12" col="21">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="12" col="22">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="12" col="23" terrain="10" name="Wadi Temad : STREAM"/>
+  <hex row="12" col="24" terrain="10" name="Wadi Zeuss"/>
+  <hex row="12" col="26" terrain="16">
+    <unit id="1910" owner="1" flag="23" face="10" exp="100"/>
+  </hex>
+  <hex row="12" col="27" terrain="16">
+    <unit id="328" owner="1" flag="23" face="11" exp="150"/>
+  </hex>
+  <hex row="12" col="28" terrain="16"/>
+  <hex row="12" col="29" terrain="16"/>
+  <hex row="12" col="30" terrain="16"/>
+  <hex row="12" col="31" terrain="4"/>
+  <hex row="12" col="32" terrain="4"/>
+  <hex row="12" col="33" terrain="4"/>
+  <hex row="12" col="34" terrain="16"/>
+  <hex row="13" col="2" terrain="4"/>
+  <hex row="13" col="6" terrain="4"/>
+  <hex row="13" col="7" terrain="16"/>
+  <hex row="13" col="10" road="1" owner="0" victory="1">
+    <unit id="2928" owner="0" flag="8" face="2" transport="157" exp="375" str="12"/>
+  </hex>
+  <hex row="13" col="11" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="13" col="12" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="13" col="18" deploy="0"/>
+  <hex row="13" col="21">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="13" col="22">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="13" col="23" terrain="10" name="Wadi Zeuss"/>
+  <hex row="13" col="24">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="13" col="25" terrain="16">
+    <unit id="321" owner="1" flag="23" face="11" exp="300" str="12"/>
+  </hex>
+  <hex row="13" col="26" terrain="16"/>
+  <hex row="13" col="27" terrain="16"/>
+  <hex row="13" col="28" terrain="16"/>
+  <hex row="13" col="29" terrain="16"/>
+  <hex row="13" col="30" terrain="16"/>
+  <hex row="14" col="2" terrain="4"/>
+  <hex row="14" col="7" terrain="16"/>
+  <hex row="14" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="14" col="10" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="14" col="11" road="8"/>
+  <hex row="14" col="12" terrain="4"/>
+  <hex row="14" col="17" terrain="16">
+    <unit id="625" owner="0" flag="13" face="1" exp="300" str="8"/>
+  </hex>
+  <hex row="14" col="19">
+    <unit id="2592" owner="1" flag="23" face="11" exp="300"/>
+  </hex>
+  <hex row="14" col="20">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="14" col="21">
+    <unit id="1700" owner="1" flag="23" face="11" exp="300"/>
+  </hex>
+  <hex row="14" col="22" terrain="10" name="Wadi Zeuss"/>
+  <hex row="14" col="23" terrain="16">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="14" col="24" terrain="16"/>
+  <hex row="14" col="25" terrain="16"/>
+  <hex row="14" col="26" terrain="16"/>
+  <hex row="14" col="27" terrain="16"/>
+  <hex row="14" col="28" terrain="16"/>
+  <hex row="14" col="31" terrain="16"/>
+  <hex row="14" col="32" terrain="16">
+    <unit id="1700" owner="1" flag="23" face="11" exp="200" str="11"/>
+  </hex>
+  <hex row="14" col="34">
+    <unit id="1903" owner="1" flag="16" face="11" exp="250" str="4"/>
+  </hex>
+  <hex row="15" col="7" terrain="16"/>
+  <hex row="15" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="15" col="9" terrain="16"/>
+  <hex row="15" col="10" terrain="16"/>
+  <hex row="15" col="12" road="144"/>
+  <hex row="15" col="16" terrain="16"/>
+  <hex row="15" col="17" terrain="16"/>
+  <hex row="15" col="19">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="15" col="20">
+    <unit id="2592" owner="1" flag="23" face="11" exp="300"/>
+  </hex>
+  <hex row="15" col="21" terrain="10" name="Wadi Zeuss"/>
+  <hex row="15" col="22" terrain="10" name="Wadi Zeuss"/>
+  <hex row="15" col="23" terrain="16">
+    <unit id="325" owner="1" flag="23" face="11" exp="300" str="12"/>
+  </hex>
+  <hex row="15" col="24" terrain="16"/>
+  <hex row="15" col="25" terrain="16"/>
+  <hex row="15" col="26" terrain="16"/>
+  <hex row="15" col="29" terrain="16"/>
+  <hex row="15" col="30" terrain="16">
+    <unit id="321" owner="1" flag="23" face="11" exp="100" str="12"/>
+  </hex>
+  <hex row="15" col="34">
+    <unit id="389" owner="1" flag="23" face="11" exp="200" str="4"/>
+  </hex>
+  <hex row="15" col="35" terrain="16"/>
+  <hex row="16" col="7" terrain="16"/>
+  <hex row="16" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="16" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="16" col="10" terrain="16"/>
+  <hex row="16" col="11" terrain="16"/>
+  <hex row="16" col="12" road="17"/>
+  <hex row="16" col="13" terrain="16"/>
+  <hex row="16" col="14" terrain="16"/>
+  <hex row="16" col="16" terrain="16"/>
+  <hex row="16" col="19">
+    <unit id="2592" owner="1" flag="23" face="10" exp="300"/>
+  </hex>
+  <hex row="16" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="16" col="21" terrain="16"/>
+  <hex row="16" col="22" terrain="16">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="16" col="23" terrain="16"/>
+  <hex row="16" col="24" terrain="16"/>
+  <hex row="16" col="28" terrain="16"/>
+  <hex row="16" col="33" terrain="16"/>
+  <hex row="16" col="34" terrain="16"/>
+  <hex row="16" col="35" terrain="16"/>
+  <hex row="17" col="7" terrain="16"/>
+  <hex row="17" col="10" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="17" col="12" road="17"/>
+  <hex row="17" col="13" terrain="16"/>
+  <hex row="17" col="17" terrain="16"/>
+  <hex row="17" col="18" terrain="16"/>
+  <hex row="17" col="19" terrain="16"/>
+  <hex row="17" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="17" col="21" terrain="16"/>
+  <hex row="17" col="22" terrain="16"/>
+  <hex row="17" col="26">
+    <unit id="328" owner="1" flag="23" face="11" exp="200"/>
+  </hex>
+  <hex row="17" col="29" terrain="16"/>
+  <hex row="17" col="30" terrain="16"/>
+  <hex row="17" col="31" terrain="16"/>
+  <hex row="17" col="32" terrain="16"/>
+  <hex row="17" col="33" terrain="16"/>
+  <hex row="17" col="34" terrain="16"/>
+  <hex row="17" col="35" terrain="16"/>
+  <hex row="18" col="7" terrain="16"/>
+  <hex row="18" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="18" col="10" terrain="10" name="Wadi Zeuss"/>
+  <hex row="18" col="12" road="17"/>
+  <hex row="18" col="13" terrain="16"/>
+  <hex row="18" col="15" terrain="16"/>
+  <hex row="18" col="16" terrain="16"/>
+  <hex row="18" col="17" terrain="16"/>
+  <hex row="18" col="18" terrain="16"/>
+  <hex row="18" col="19" terrain="16"/>
+  <hex row="18" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="18" col="21" terrain="10" name="Wadi Zeuss"/>
+  <hex row="18" col="27" terrain="16"/>
+  <hex row="18" col="28" terrain="16"/>
+  <hex row="18" col="29" terrain="16"/>
+  <hex row="18" col="30" terrain="16"/>
+  <hex row="18" col="34" terrain="16"/>
+  <hex row="18" col="35" terrain="16"/>
+  <hex row="19" col="7" terrain="16"/>
+  <hex row="19" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="19" col="10" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="19" col="12" road="25"/>
+  <hex row="19" col="13" terrain="1" road="128" name="Aram" flag="7" owner="0" victory="1">
+    <unit id="2928" owner="0" flag="8" face="2" transport="157" exp="325" str="12"/>
+  </hex>
+  <hex row="19" col="14" terrain="16"/>
+  <hex row="19" col="15" terrain="16"/>
+  <hex row="19" col="16" terrain="16"/>
+  <hex row="19" col="17" terrain="16"/>
+  <hex row="19" col="18" terrain="16"/>
+  <hex row="19" col="19" terrain="16"/>
+  <hex row="19" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="19" col="21" terrain="10" name="Wadi Zeuss"/>
+  <hex row="19" col="22" terrain="16"/>
+  <hex row="19" col="23" terrain="16"/>
+  <hex row="19" col="25" terrain="16">
+    <unit id="325" owner="1" flag="23" face="11"/>
+  </hex>
+  <hex row="19" col="26" terrain="16"/>
+  <hex row="19" col="27" terrain="16"/>
+  <hex row="19" col="28" terrain="16"/>
+  <hex row="19" col="29" terrain="16"/>
+  <hex row="19" col="30" terrain="16"/>
+  <hex row="19" col="33" terrain="7"/>
+  <hex row="19" col="34" terrain="7"/>
+  <hex row="20" col="7" terrain="16"/>
+  <hex row="20" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="20" col="12" road="17"/>
+  <hex row="20" col="14" terrain="4"/>
+  <hex row="20" col="15" terrain="16"/>
+  <hex row="20" col="16" terrain="16"/>
+  <hex row="20" col="17" terrain="16"/>
+  <hex row="20" col="18" terrain="16"/>
+  <hex row="20" col="19" terrain="16"/>
+  <hex row="20" col="21" terrain="10" name="Wadi Zeuss"/>
+  <hex row="20" col="22" terrain="16"/>
+  <hex row="20" col="23" terrain="16"/>
+  <hex row="20" col="24" terrain="16"/>
+  <hex row="20" col="25" terrain="16"/>
+  <hex row="20" col="26" terrain="16"/>
+  <hex row="20" col="27" terrain="16"/>
+  <hex row="20" col="28" terrain="16"/>
+  <hex row="20" col="29" terrain="16"/>
+  <hex row="20" col="30" terrain="16"/>
+  <hex row="20" col="31" terrain="7"/>
+  <hex row="20" col="32" terrain="7"/>
+  <hex row="20" col="33" terrain="7"/>
+  <hex row="20" col="34" terrain="7"/>
+  <hex row="20" col="35" terrain="7"/>
+  <hex row="21" col="7" terrain="16"/>
+  <hex row="21" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="21" col="12" road="9"/>
+  <hex row="21" col="13" road="136"/>
+  <hex row="21" col="14" terrain="16"/>
+  <hex row="21" col="15" terrain="16"/>
+  <hex row="21" col="16" terrain="16"/>
+  <hex row="21" col="18" terrain="16"/>
+  <hex row="21" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="21" col="21" terrain="16"/>
+  <hex row="21" col="22" terrain="16"/>
+  <hex row="21" col="23" terrain="16"/>
+  <hex row="21" col="24" terrain="16"/>
+  <hex row="21" col="25" terrain="16"/>
+  <hex row="21" col="26" terrain="16"/>
+  <hex row="21" col="27" terrain="16"/>
+  <hex row="21" col="28" terrain="16"/>
+  <hex row="21" col="29" terrain="7"/>
+  <hex row="21" col="30" terrain="7"/>
+  <hex row="21" col="31" terrain="7"/>
+  <hex row="21" col="32" terrain="7"/>
+  <hex row="21" col="33" terrain="7"/>
+  <hex row="21" col="34" terrain="7"/>
+  <hex row="21" col="35" terrain="7"/>
+  <hex row="22" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="22" col="11" terrain="8"/>
+  <hex row="22" col="14" road="136"/>
+  <hex row="22" col="15" road="136"/>
+  <hex row="22" col="16" terrain="16"/>
+  <hex row="22" col="19" terrain="10" name="Wadi Zeuss"/>
+  <hex row="22" col="20" terrain="10" name="Wadi Zeuss"/>
+  <hex row="22" col="21" terrain="16"/>
+  <hex row="22" col="24" terrain="16"/>
+  <hex row="22" col="25" terrain="16"/>
+  <hex row="22" col="26" terrain="16"/>
+  <hex row="22" col="27" terrain="7"/>
+  <hex row="22" col="28" terrain="7"/>
+  <hex row="22" col="29" terrain="7"/>
+  <hex row="22" col="30" terrain="7"/>
+  <hex row="22" col="33" terrain="7"/>
+  <hex row="22" col="34" terrain="7"/>
+  <hex row="22" col="35" terrain="7"/>
+  <hex row="23" col="4" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="23" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="23" col="11" terrain="13"/>
+  <hex row="23" col="14">
+    <unit id="92" owner="0" flag="8" face="2" transport="157" exp="275"/>
+  </hex>
+  <hex row="23" col="16" road="144">
+    <unit id="77" owner="0" flag="8" face="2" transport="2407" exp="275" str="8"/>
+  </hex>
+  <hex row="23" col="17" terrain="8"/>
+  <hex row="23" col="18" terrain="8"/>
+  <hex row="23" col="19" terrain="8"/>
+  <hex row="23" col="21" terrain="16"/>
+  <hex row="23" col="22" terrain="16"/>
+  <hex row="23" col="23" terrain="16"/>
+  <hex row="23" col="26" terrain="7"/>
+  <hex row="23" col="27" terrain="7"/>
+  <hex row="23" col="28" terrain="7"/>
+  <hex row="23" col="29" terrain="7"/>
+  <hex row="23" col="30" terrain="7"/>
+  <hex row="23" col="31" terrain="16"/>
+  <hex row="23" col="34" terrain="7"/>
+  <hex row="23" col="35" terrain="7"/>
+  <hex row="24" col="3" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="24" col="4" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="24" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="24" col="9" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="24" col="10" terrain="13"/>
+  <hex row="24" col="16" road="9"/>
+  <hex row="24" col="17" road="144"/>
+  <hex row="24" col="18" terrain="8"/>
+  <hex row="24" col="19" terrain="8"/>
+  <hex row="24" col="20" terrain="8"/>
+  <hex row="24" col="21" terrain="16"/>
+  <hex row="24" col="22" terrain="16"/>
+  <hex row="24" col="23" terrain="16"/>
+  <hex row="24" col="24" terrain="16"/>
+  <hex row="24" col="25" terrain="16"/>
+  <hex row="24" col="26" terrain="7"/>
+  <hex row="24" col="27" terrain="7"/>
+  <hex row="24" col="28" terrain="7"/>
+  <hex row="24" col="29" terrain="16"/>
+  <hex row="24" col="30" terrain="16"/>
+  <hex row="24" col="31" terrain="16"/>
+  <hex row="24" col="32" terrain="16"/>
+  <hex row="24" col="33" terrain="16"/>
+  <hex row="25" col="1" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="25" col="2" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="25" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="25" col="13" terrain="5"/>
+  <hex row="25" col="15" terrain="11" name="The Horseshoe : FORTIFICATION"/>
+  <hex row="25" col="16" terrain="11" name="The Horseshoe : FORTIFICATION" flag="7" owner="0" victory="1">
+    <unit id="2928" owner="0" flag="8" face="2" transport="157" exp="375" str="12"/>
+  </hex>
+  <hex row="25" col="17" road="17"/>
+  <hex row="25" col="20" terrain="8"/>
+  <hex row="25" col="23" terrain="16"/>
+  <hex row="25" col="24" terrain="16"/>
+  <hex row="25" col="25" terrain="16"/>
+  <hex row="25" col="26" terrain="16"/>
+  <hex row="25" col="27" terrain="16"/>
+  <hex row="25" col="30" terrain="16"/>
+  <hex row="25" col="32" terrain="16"/>
+  <hex row="25" col="34" terrain="16"/>
+  <hex row="26" col="1" terrain="13" name="Wadi Temad : STREAM"/>
+  <hex row="26" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="26" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="26" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="26" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="26" col="7" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="26" col="8" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="26" col="12" terrain="5"/>
+  <hex row="26" col="13" terrain="11" name="The Horseshoe : FORTIFICATION" flag="12" owner="0" victory="1">
+    <unit id="1365" owner="0" flag="13" face="1" exp="300" str="7"/>
+  </hex>
+  <hex row="26" col="14" terrain="11" name="The Horseshoe : FORTIFICATION"/>
+  <hex row="26" col="15" terrain="11"/>
+  <hex row="26" col="16" terrain="11" name="The Horseshoe : FORTIFICATION"/>
+  <hex row="26" col="17" road="9"/>
+  <hex row="26" col="18">
+    <unit id="2926" owner="1" flag="23" face="10" exp="200" str="11"/>
+  </hex>
+  <hex row="26" col="24" terrain="16"/>
+  <hex row="26" col="26" terrain="16"/>
+  <hex row="26" col="27" terrain="16"/>
+  <hex row="26" col="28" terrain="16"/>
+  <hex row="26" col="29" terrain="16"/>
+  <hex row="27" col="0" terrain="6"/>
+  <hex row="27" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="27" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="27" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="27" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="27" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="27" col="7" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="27" col="10" deploy="0"/>
+  <hex row="27" col="11" terrain="16"/>
+  <hex row="27" col="12" terrain="16"/>
+  <hex row="27" col="14" terrain="11" name="The Horseshoe : FORTIFICATION"/>
+  <hex row="27" col="16">
+    <unit id="2926" owner="1" flag="23" face="10" exp="200" str="11"/>
+  </hex>
+  <hex row="27" col="18" road="144"/>
+  <hex row="27" col="19">
+    <unit id="328" owner="1" flag="23" face="10" exp="200"/>
+  </hex>
+  <hex row="27" col="30" terrain="16"/>
+  <hex row="27" col="31" terrain="4"/>
+  <hex row="27" col="32" terrain="4"/>
+  <hex row="28" col="0" terrain="6"/>
+  <hex row="28" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="28" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="28" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="28" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="28" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="28" col="6" terrain="10" name="Wadi Zigzaou"/>
+  <hex row="28" col="9" terrain="16"/>
+  <hex row="28" col="10" terrain="16"/>
+  <hex row="28" col="11" terrain="7"/>
+  <hex row="28" col="12" terrain="16" deploy="0"/>
+  <hex row="28" col="13" terrain="7"/>
+  <hex row="28" col="14" terrain="7">
+    <unit id="2926" owner="1" flag="23" face="10" exp="200" str="11"/>
+  </hex>
+  <hex row="28" col="18" terrain="16" road="9"/>
+  <hex row="28" col="19" terrain="16" road="136"/>
+  <hex row="28" col="22" terrain="4"/>
+  <hex row="28" col="23" terrain="4"/>
+  <hex row="28" col="25" terrain="4"/>
+  <hex row="28" col="29" terrain="4"/>
+  <hex row="28" col="30" terrain="4"/>
+  <hex row="28" col="31" terrain="4"/>
+  <hex row="28" col="32" terrain="4"/>
+  <hex row="29" col="0" terrain="6"/>
+  <hex row="29" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="29" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="29" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="29" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="29" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="29" col="6" terrain="6"/>
+  <hex row="29" col="8" terrain="16"/>
+  <hex row="29" col="9" terrain="16"/>
+  <hex row="29" col="10" deploy="0"/>
+  <hex row="29" col="11" terrain="7"/>
+  <hex row="29" col="12" terrain="7"/>
+  <hex row="29" col="13" terrain="7"/>
+  <hex row="29" col="14" terrain="7"/>
+  <hex row="29" col="17" terrain="16"/>
+  <hex row="29" col="19" terrain="16"/>
+  <hex row="29" col="20" road="136"/>
+  <hex row="29" col="21" road="144"/>
+  <hex row="29" col="22" terrain="4"/>
+  <hex row="29" col="23" terrain="4"/>
+  <hex row="29" col="24" terrain="4"/>
+  <hex row="29" col="25" terrain="4"/>
+  <hex row="29" col="26" terrain="4"/>
+  <hex row="29" col="27" terrain="4"/>
+  <hex row="29" col="28" terrain="4"/>
+  <hex row="29" col="29" terrain="4"/>
+  <hex row="29" col="30" terrain="4"/>
+  <hex row="29" col="31" terrain="7"/>
+  <hex row="29" col="32" terrain="7"/>
+  <hex row="29" col="33" terrain="7"/>
+  <hex row="29" col="34" terrain="7"/>
+  <hex row="29" col="35" terrain="7"/>
+  <hex row="30" col="0" terrain="6"/>
+  <hex row="30" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="30" col="8" terrain="16"/>
+  <hex row="30" col="9" terrain="16"/>
+  <hex row="30" col="11" terrain="7"/>
+  <hex row="30" col="12" terrain="7"/>
+  <hex row="30" col="17" terrain="16"/>
+  <hex row="30" col="18" terrain="16"/>
+  <hex row="30" col="19" terrain="16"/>
+  <hex row="30" col="21" road="17"/>
+  <hex row="30" col="22" terrain="4"/>
+  <hex row="30" col="23" terrain="4"/>
+  <hex row="30" col="24" terrain="4"/>
+  <hex row="30" col="25" terrain="4"/>
+  <hex row="30" col="31" terrain="7"/>
+  <hex row="30" col="32" terrain="7"/>
+  <hex row="30" col="33" terrain="7"/>
+  <hex row="30" col="34" terrain="7"/>
+  <hex row="30" col="35" terrain="7"/>
+  <hex row="31" col="0" terrain="6"/>
+  <hex row="31" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="31" col="4" terrain="14" name="Matmata Mountains"/>
+  <hex row="31" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="9" terrain="6" name="Matmata Mountains"/>
+  <hex row="31" col="10" terrain="16"/>
+  <hex row="31" col="11" terrain="16"/>
+  <hex row="31" col="17" terrain="16"/>
+  <hex row="31" col="18" terrain="16"/>
+  <hex row="31" col="19" terrain="16"/>
+  <hex row="31" col="21" road="9"/>
+  <hex row="31" col="23" terrain="16"/>
+  <hex row="31" col="24" terrain="4"/>
+  <hex row="31" col="31" terrain="7"/>
+  <hex row="31" col="32" terrain="7"/>
+  <hex row="31" col="33" terrain="7"/>
+  <hex row="31" col="34" terrain="7"/>
+  <hex row="31" col="35" terrain="7"/>
+  <hex row="32" col="0" terrain="6"/>
+  <hex row="32" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="32" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="32" col="9" terrain="16"/>
+  <hex row="32" col="10" terrain="16"/>
+  <hex row="32" col="12" terrain="16"/>
+  <hex row="32" col="13" terrain="16"/>
+  <hex row="32" col="17" terrain="16"/>
+  <hex row="32" col="19" terrain="16"/>
+  <hex row="32" col="22" road="144"/>
+  <hex row="32" col="23" terrain="16"/>
+  <hex row="32" col="27" terrain="16"/>
+  <hex row="32" col="31" terrain="7"/>
+  <hex row="32" col="32" terrain="7"/>
+  <hex row="32" col="33" terrain="7"/>
+  <hex row="32" col="34" terrain="7"/>
+  <hex row="32" col="35" terrain="7"/>
+  <hex row="33" col="0" terrain="6"/>
+  <hex row="33" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="33" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="33" col="9" terrain="16"/>
+  <hex row="33" col="10" terrain="16"/>
+  <hex row="33" col="13" terrain="16"/>
+  <hex row="33" col="17" terrain="16"/>
+  <hex row="33" col="19" terrain="16"/>
+  <hex row="33" col="20" terrain="16"/>
+  <hex row="33" col="21" terrain="16"/>
+  <hex row="33" col="22" road="17"/>
+  <hex row="33" col="23" terrain="16"/>
+  <hex row="33" col="25" terrain="16"/>
+  <hex row="33" col="26" terrain="16"/>
+  <hex row="33" col="27" terrain="16"/>
+  <hex row="33" col="31" terrain="7"/>
+  <hex row="33" col="32" terrain="7"/>
+  <hex row="33" col="33" terrain="7"/>
+  <hex row="33" col="34" terrain="7"/>
+  <hex row="33" col="35" terrain="7"/>
+  <hex row="34" col="0" terrain="6"/>
+  <hex row="34" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="34" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="34" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="34" col="4" terrain="6" road="24" name="Matmata Mountains"/>
+  <hex row="34" col="5" terrain="6" road="136" name="Matmata Mountains"/>
+  <hex row="34" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="34" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="34" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="34" col="9" terrain="16"/>
+  <hex row="34" col="10" terrain="16"/>
+  <hex row="34" col="12" terrain="16"/>
+  <hex row="34" col="13" terrain="16"/>
+  <hex row="34" col="14" terrain="16"/>
+  <hex row="34" col="17" terrain="16"/>
+  <hex row="34" col="20" terrain="16"/>
+  <hex row="34" col="22" road="9"/>
+  <hex row="34" col="23" road="144"/>
+  <hex row="34" col="24" terrain="16"/>
+  <hex row="34" col="27" terrain="16"/>
+  <hex row="34" col="28" terrain="16"/>
+  <hex row="34" col="29" terrain="16"/>
+  <hex row="34" col="31" terrain="7"/>
+  <hex row="34" col="32" terrain="7"/>
+  <hex row="34" col="33" terrain="7"/>
+  <hex row="34" col="34" terrain="7"/>
+  <hex row="34" col="35" terrain="7"/>
+  <hex row="35" col="0" terrain="6"/>
+  <hex row="35" col="1" terrain="6" road="136" name="Matmata Mountains"/>
+  <hex row="35" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="35" col="3" terrain="6" road="40" name="Matmata Mountains"/>
+  <hex row="35" col="4" terrain="6" road="17" name="Matmata Mountains"/>
+  <hex row="35" col="5" terrain="14" name="Matmata Mountains"/>
+  <hex row="35" col="6" terrain="6" road="136" name="Matmata Mountains"/>
+  <hex row="35" col="7" terrain="6" road="130" name="Matmata Mountains"/>
+  <hex row="35" col="8" terrain="6" road="40" name="Matmata Mountains"/>
+  <hex row="35" col="9" terrain="16" road="130"/>
+  <hex row="35" col="10" road="40"/>
+  <hex row="35" col="11" road="136"/>
+  <hex row="35" col="13" road="40"/>
+  <hex row="35" col="17" terrain="16"/>
+  <hex row="35" col="18" terrain="16"/>
+  <hex row="35" col="19" terrain="16"/>
+  <hex row="35" col="20" terrain="16"/>
+  <hex row="35" col="21" terrain="16"/>
+  <hex row="35" col="23" road="17"/>
+  <hex row="35" col="25" terrain="2" road="24" owner="1"/>
+  <hex row="35" col="27" terrain="16"/>
+  <hex row="35" col="28" terrain="16"/>
+  <hex row="35" col="29" terrain="16"/>
+  <hex row="35" col="30" terrain="16"/>
+  <hex row="35" col="31" terrain="16"/>
+  <hex row="35" col="32" terrain="7"/>
+  <hex row="35" col="33" terrain="7"/>
+  <hex row="35" col="34" terrain="7"/>
+  <hex row="35" col="35" terrain="7"/>
+  <hex row="36" col="0" terrain="6"/>
+  <hex row="36" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="36" col="2" terrain="6" road="130" name="Matmata Mountains"/>
+  <hex row="36" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="36" col="4" terrain="6" road="129" name="Matmata Mountains"/>
+  <hex row="36" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="36" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="36" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="36" col="9" terrain="6" name="Matmata Mountains"/>
+  <hex row="36" col="10" terrain="16"/>
+  <hex row="36" col="12" road="130"/>
+  <hex row="36" col="14" road="136"/>
+  <hex row="36" col="15" road="136"/>
+  <hex row="36" col="16" terrain="16"/>
+  <hex row="36" col="17" terrain="16" road="40"/>
+  <hex row="36" col="18" terrain="16"/>
+  <hex row="36" col="19" terrain="16" road="40"/>
+  <hex row="36" col="20" terrain="16"/>
+  <hex row="36" col="21" terrain="16"/>
+  <hex row="36" col="22" terrain="16"/>
+  <hex row="36" col="23" road="17"/>
+  <hex row="36" col="25" terrain="2" road="19" owner="1"/>
+  <hex row="36" col="26" terrain="2" road="160" flag="22" owner="1"/>
+  <hex row="36" col="27" terrain="16"/>
+  <hex row="36" col="28" terrain="16"/>
+  <hex row="36" col="29" terrain="4"/>
+  <hex row="36" col="30" terrain="4"/>
+  <hex row="36" col="31" terrain="4"/>
+  <hex row="36" col="32" terrain="16"/>
+  <hex row="36" col="33" terrain="16"/>
+  <hex row="36" col="34" terrain="7"/>
+  <hex row="36" col="35" terrain="7"/>
+  <hex row="37" col="0" terrain="6"/>
+  <hex row="37" col="1" terrain="6" name="Matmata Mountains">
+    <unit id="3366" owner="1" flag="23" face="4"/>
+  </hex>
+  <hex row="37" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="3" terrain="14" name="Matmata Mountains"/>
+  <hex row="37" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="37" col="9" terrain="6"/>
+  <hex row="37" col="10" terrain="16"/>
+  <hex row="37" col="11" terrain="16"/>
+  <hex row="37" col="12" terrain="16"/>
+  <hex row="37" col="13" terrain="8"/>
+  <hex row="37" col="16" road="130"/>
+  <hex row="37" col="17" terrain="16"/>
+  <hex row="37" col="18" terrain="16" road="130"/>
+  <hex row="37" col="19" terrain="16"/>
+  <hex row="37" col="20" terrain="16" road="136"/>
+  <hex row="37" col="21" road="130"/>
+  <hex row="37" col="22" terrain="16" road="40"/>
+  <hex row="37" col="23" road="155"/>
+  <hex row="37" col="24" terrain="1" road="56" name="Medenine"/>
+  <hex row="37" col="25" terrain="1" road="161" name="Medenine"/>
+  <hex row="37" col="27" terrain="16"/>
+  <hex row="37" col="28" terrain="16"/>
+  <hex row="37" col="29" terrain="16"/>
+  <hex row="37" col="30" terrain="4"/>
+  <hex row="37" col="31" terrain="4"/>
+  <hex row="37" col="32" terrain="16"/>
+  <hex row="37" col="33" terrain="16"/>
+  <hex row="37" col="34" terrain="7"/>
+  <hex row="37" col="35" terrain="7"/>
+  <hex row="38" col="0" terrain="6"/>
+  <hex row="38" col="1" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="2" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="3" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="4" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="5" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="6" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="7" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="8" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="9" terrain="6" name="Matmata Mountains"/>
+  <hex row="38" col="10" terrain="16"/>
+  <hex row="38" col="13" terrain="8"/>
+  <hex row="38" col="14" terrain="8"/>
+  <hex row="38" col="18" terrain="16"/>
+  <hex row="38" col="19" terrain="16"/>
+  <hex row="38" col="20" terrain="16"/>
+  <hex row="38" col="21" terrain="16"/>
+  <hex row="38" col="22" terrain="16"/>
+  <hex row="38" col="23" road="17"/>
+  <hex row="38" col="24" terrain="1"/>
+  <hex row="38" col="26" terrain="16"/>
+  <hex row="38" col="29" terrain="16"/>
+  <hex row="38" col="30" terrain="4"/>
+  <hex row="38" col="31" terrain="7"/>
+  <hex row="38" col="32" terrain="16"/>
+  <hex row="38" col="33" terrain="16"/>
+  <hex row="38" col="34" terrain="7"/>
+  <hex row="38" col="35" terrain="7"/>
+</map>

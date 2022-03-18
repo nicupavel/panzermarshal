@@ -1,0 +1,1014 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="wdkan.scn" name="Kanev" turns="10, 14, 18" date="September 23, 1943" dayturns="2" ground="0" atmosferic="0" latitude="3" rows="36" cols="41" eqp="eqp-adlerkorps" image="resources/maps/images/map_29.png">
+  <player id="0" country="9" side="1" airtrans="3" navaltrans="0" support="20, 0, 0, 0" turnprestige="0, 1000, 200, 200, 200, 200, 1000, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="7" side="0" airtrans="0" navaltrans="0" support="18, 0, 0, 0" turnprestige="50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="1">
+    <at row="10" col="1">
+      <unit id="115" owner="1" flag="8" face="3" transport="156" exp="333" ent="3"/>
+    </at>
+    <at row="24" col="27">
+      <unit id="92" owner="1" flag="8" face="9" transport="158" exp="307" ent="1"/>
+    </at>
+    <at row="26" col="19">
+      <unit id="115" owner="1" flag="8" face="8" exp="379" ent="1"/>
+    </at>
+    <at row="31" col="24">
+      <unit id="115" owner="1" flag="8" face="8" exp="329" ent="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="2">
+    <at row="27" col="1">
+      <unit id="115" owner="1" flag="8" face="0" exp="383"/>
+      <unit id="104" owner="1" flag="8" face="0" exp="344" str="13" ldr="1"/>
+      <unit id="115" owner="1" flag="8" face="0" transport="156" exp="383"/>
+    </at>
+    <at row="11" col="1">
+      <unit id="105" owner="1" flag="8" face="0" exp="390"/>
+    </at>
+    <at row="32" col="6">
+      <unit id="118" owner="1" flag="8" face="6" exp="357" ent="2" str="12"/>
+    </at>
+    <at row="23" col="39">
+      <unit id="91" owner="1" flag="8" face="0" exp="337"/>
+      <unit id="159" owner="1" flag="8" face="0" exp="371"/>
+      <unit id="115" owner="1" flag="8" face="0" transport="156" exp="341"/>
+      <unit id="92" owner="1" flag="8" face="0" transport="156" exp="300"/>
+      <unit id="151" owner="1" flag="8" face="0" exp="368" str="12" ldr="1"/>
+      <unit id="115" owner="1" flag="8" face="0" exp="336"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="34" col="20">
+      <unit id="115" owner="1" flag="8" face="0" transport="156" exp="375"/>
+      <unit id="92" owner="1" flag="8" face="0" transport="156" exp="330"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="11" col="1">
+      <unit id="151" owner="1" flag="8" face="0" exp="317"/>
+      <unit id="115" owner="1" flag="8" face="0" transport="156" exp="377" str="13" ldr="1"/>
+    </at>
+    <at row="33" col="33">
+      <unit id="108" owner="1" flag="8" face="11" transport="156" exp="341" str="11"/>
+    </at>
+    <at row="33" col="34">
+      <unit id="151" owner="1" flag="8" face="10" exp="398"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="34" col="20">
+      <unit id="132" owner="1" flag="8" face="0" exp="327" str="8"/>
+      <unit id="91" owner="1" flag="8" face="0" exp="314"/>
+      <unit id="153" owner="1" flag="8" face="0" exp="398" str="8" ldr="1"/>
+      <unit id="105" owner="1" flag="8" face="0" exp="339"/>
+    </at>
+    <at row="11" col="1">
+      <unit id="115" owner="1" flag="8" face="0" transport="156" exp="346"/>
+    </at>
+  </reinforce>
+  <reinforce turn="11">
+    <at row="34" col="20">
+      <unit id="108" owner="1" flag="8" face="8" transport="156" exp="368"/>
+    </at>
+    <at row="34" col="14">
+      <unit id="132" owner="1" flag="8" face="11" exp="311" str="8"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="2" terrain="3"/>
+  <hex row="0" col="3" terrain="3"/>
+  <hex row="0" col="4" terrain="3"/>
+  <hex row="0" col="5" terrain="3"/>
+  <hex row="0" col="6" terrain="3"/>
+  <hex row="0" col="7" terrain="3"/>
+  <hex row="0" col="8" terrain="3"/>
+  <hex row="0" col="9" road="24"/>
+  <hex row="0" col="11" road="40"/>
+  <hex row="0" col="16" road="8"/>
+  <hex row="0" col="17" road="144"/>
+  <hex row="0" col="25" road="8"/>
+  <hex row="1" col="0" terrain="15" name="Dnepr River"/>
+  <hex row="1" col="1" terrain="15" name="Dnepr River"/>
+  <hex row="1" col="3" terrain="3"/>
+  <hex row="1" col="4" terrain="3"/>
+  <hex row="1" col="5" terrain="3"/>
+  <hex row="1" col="6" terrain="3"/>
+  <hex row="1" col="7" terrain="3"/>
+  <hex row="1" col="8" terrain="3"/>
+  <hex row="1" col="9" road="17"/>
+  <hex row="1" col="10" road="130"/>
+  <hex row="1" col="12" road="136"/>
+  <hex row="1" col="13" road="152"/>
+  <hex row="1" col="17" road="41"/>
+  <hex row="1" col="19">
+    <unit id="499" owner="0" flag="20" face="15" transport="386" exp="153"/>
+  </hex>
+  <hex row="1" col="21" deploy="0"/>
+  <hex row="1" col="26" road="144" flag="19" owner="0" victory="0" supply="0"/>
+  <hex row="2" col="0" terrain="16"/>
+  <hex row="2" col="1" terrain="15" name="Dnepr River"/>
+  <hex row="2" col="4" terrain="3"/>
+  <hex row="2" col="5" terrain="3"/>
+  <hex row="2" col="6" terrain="3"/>
+  <hex row="2" col="7" terrain="3"/>
+  <hex row="2" col="8" terrain="3"/>
+  <hex row="2" col="9" terrain="1" road="17" name="Zoschnikov"/>
+  <hex row="2" col="11">
+    <unit id="151" owner="1" flag="8" face="4" exp="189"/>
+  </hex>
+  <hex row="2" col="12">
+    <unit id="115" owner="1" flag="8" face="4" transport="156" exp="227"/>
+  </hex>
+  <hex row="2" col="13" road="33"/>
+  <hex row="2" col="14" road="136"/>
+  <hex row="2" col="15" road="130"/>
+  <hex row="2" col="16" road="34"/>
+  <hex row="2" col="18" road="136">
+    <unit id="682" owner="0" flag="20" face="15" exp="219" ent="2"/>
+  </hex>
+  <hex row="2" col="19" road="136">
+    <unit id="682" owner="0" flag="20" face="15" exp="215" ent="1"/>
+  </hex>
+  <hex row="2" col="20" deploy="0"/>
+  <hex row="2" col="21" deploy="0"/>
+  <hex row="2" col="22">
+    <unit id="524" owner="0" flag="20" face="15" exp="26"/>
+  </hex>
+  <hex row="2" col="23" deploy="0"/>
+  <hex row="2" col="24">
+    <unit id="524" owner="0" flag="20" face="15" exp="359" ent="1"/>
+  </hex>
+  <hex row="2" col="25" deploy="0"/>
+  <hex row="2" col="26" road="17"/>
+  <hex row="3" col="0" terrain="16"/>
+  <hex row="3" col="1" terrain="16"/>
+  <hex row="3" col="2" terrain="15" name="Dnepr River"/>
+  <hex row="3" col="3" terrain="15" name="Dnepr River"/>
+  <hex row="3" col="4" terrain="3"/>
+  <hex row="3" col="5" terrain="3"/>
+  <hex row="3" col="6" terrain="3"/>
+  <hex row="3" col="7" terrain="3"/>
+  <hex row="3" col="8" terrain="3"/>
+  <hex row="3" col="9" road="25"/>
+  <hex row="3" col="12" road="18"/>
+  <hex row="3" col="20" road="136">
+    <unit id="634" owner="0" flag="20" face="15" transport="386" exp="340" ent="1"/>
+  </hex>
+  <hex row="3" col="21" road="136">
+    <unit id="634" owner="0" flag="20" face="15" transport="386" exp="386" ent="2"/>
+  </hex>
+  <hex row="3" col="22" deploy="0"/>
+  <hex row="3" col="23" terrain="2" road="42" flag="19" owner="0" deploy="0"/>
+  <hex row="3" col="24" terrain="2" road="48">
+    <unit id="532" owner="0" flag="20" face="15" exp="315"/>
+    <unit id="503" owner="0" flag="20" face="15" exp="85"/>
+  </hex>
+  <hex row="3" col="25">
+    <unit id="482" owner="0" flag="20" face="15" exp="395" ent="2"/>
+  </hex>
+  <hex row="3" col="26" road="17">
+    <unit id="499" owner="0" flag="20" face="15" transport="386" exp="261" str="12" ldr="1"/>
+  </hex>
+  <hex row="3" col="27">
+    <unit id="489" owner="0" flag="20" face="15" exp="303" ent="1"/>
+  </hex>
+  <hex row="4" col="0" terrain="16"/>
+  <hex row="4" col="1" terrain="16"/>
+  <hex row="4" col="2" terrain="15" name="Dnepr River"/>
+  <hex row="4" col="3" terrain="15" name="Dnepr River"/>
+  <hex row="4" col="6" terrain="3"/>
+  <hex row="4" col="7" terrain="3"/>
+  <hex row="4" col="8" terrain="3"/>
+  <hex row="4" col="9" road="17"/>
+  <hex row="4" col="10" road="136"/>
+  <hex row="4" col="11" road="130"/>
+  <hex row="4" col="12" road="49"/>
+  <hex row="4" col="13" terrain="3"/>
+  <hex row="4" col="14" terrain="3"/>
+  <hex row="4" col="15" terrain="3"/>
+  <hex row="4" col="22" road="138"/>
+  <hex row="4" col="23" road="136"/>
+  <hex row="4" col="24" terrain="2" road="129">
+    <unit id="543" owner="0" flag="20" face="14" exp="331"/>
+    <unit id="503" owner="0" flag="20" face="15" exp="24"/>
+  </hex>
+  <hex row="4" col="25" deploy="0"/>
+  <hex row="4" col="26" road="9" deploy="0"/>
+  <hex row="4" col="27" road="168" deploy="0"/>
+  <hex row="4" col="28">
+    <unit id="489" owner="0" flag="20" face="15" exp="391" ent="3"/>
+  </hex>
+  <hex row="4" col="29" deploy="0"/>
+  <hex row="5" col="0" terrain="16"/>
+  <hex row="5" col="1" terrain="16"/>
+  <hex row="5" col="2" terrain="3"/>
+  <hex row="5" col="3" terrain="16"/>
+  <hex row="5" col="4" terrain="15" name="Dnepr River"/>
+  <hex row="5" col="5" terrain="15" name="Dnepr River"/>
+  <hex row="5" col="6" terrain="3"/>
+  <hex row="5" col="9" road="25">
+    <unit id="92" owner="1" flag="8" face="6" transport="158" exp="162"/>
+  </hex>
+  <hex row="5" col="11" terrain="2" road="32"/>
+  <hex row="5" col="12" road="17"/>
+  <hex row="5" col="14" terrain="3"/>
+  <hex row="5" col="24" road="136"/>
+  <hex row="5" col="25" road="146"/>
+  <hex row="5" col="26" road="34" deploy="0"/>
+  <hex row="5" col="28" road="136" deploy="0"/>
+  <hex row="5" col="29" road="136" deploy="0"/>
+  <hex row="5" col="30">
+    <unit id="524" owner="0" flag="20" face="15" exp="341" ent="1" ldr="1"/>
+  </hex>
+  <hex row="5" col="31">
+    <unit id="499" owner="0" flag="20" face="15" transport="386" exp="265"/>
+  </hex>
+  <hex row="6" col="0" terrain="16"/>
+  <hex row="6" col="1" terrain="16"/>
+  <hex row="6" col="2" terrain="16"/>
+  <hex row="6" col="3" terrain="16"/>
+  <hex row="6" col="4" terrain="16"/>
+  <hex row="6" col="5" terrain="3"/>
+  <hex row="6" col="6" terrain="15" name="Dnepr River"/>
+  <hex row="6" col="9" road="9">
+    <unit id="79" owner="1" flag="8" face="6" transport="158" exp="124"/>
+  </hex>
+  <hex row="6" col="10" terrain="2" road="130" flag="7" owner="1" victory="1">
+    <unit id="115" owner="1" flag="8" face="6" transport="156" exp="126"/>
+  </hex>
+  <hex row="6" col="11" road="18"/>
+  <hex row="6" col="12" road="33"/>
+  <hex row="6" col="15" terrain="3"/>
+  <hex row="6" col="21" terrain="13"/>
+  <hex row="6" col="22">
+    <unit id="115" owner="1" flag="8" face="8" transport="156" exp="272"/>
+  </hex>
+  <hex row="6" col="23" terrain="13"/>
+  <hex row="6" col="25" road="41"/>
+  <hex row="6" col="30" road="144" deploy="0"/>
+  <hex row="6" col="31">
+    <unit id="682" owner="0" flag="20" face="15" exp="272" ent="1"/>
+  </hex>
+  <hex row="6" col="32">
+    <unit id="486" owner="0" flag="20" face="15" transport="529" exp="289" ent="1"/>
+  </hex>
+  <hex row="6" col="33">
+    <unit id="682" owner="0" flag="20" face="15" exp="209" ent="2"/>
+  </hex>
+  <hex row="7" col="0" terrain="16"/>
+  <hex row="7" col="1" terrain="16"/>
+  <hex row="7" col="2" terrain="16"/>
+  <hex row="7" col="3" terrain="16"/>
+  <hex row="7" col="4" terrain="16"/>
+  <hex row="7" col="5" terrain="3"/>
+  <hex row="7" col="6" terrain="15" name="Dnepr River"/>
+  <hex row="7" col="7" terrain="15" name="Dnepr River"/>
+  <hex row="7" col="10" road="136"/>
+  <hex row="7" col="11" road="137"/>
+  <hex row="7" col="13" road="40"/>
+  <hex row="7" col="14" terrain="3"/>
+  <hex row="7" col="15" road="40"/>
+  <hex row="7" col="17" road="40"/>
+  <hex row="7" col="19" road="34"/>
+  <hex row="7" col="20" road="40"/>
+  <hex row="7" col="21" road="136"/>
+  <hex row="7" col="22" terrain="13"/>
+  <hex row="7" col="23" road="34">
+    <unit id="92" owner="1" flag="8" face="8" transport="158" exp="108"/>
+  </hex>
+  <hex row="7" col="24" terrain="1" road="34" name="Andruschki" flag="7" owner="1">
+    <unit id="111" owner="1" flag="8" face="8" transport="156" exp="157"/>
+  </hex>
+  <hex row="7" col="26" road="136"/>
+  <hex row="7" col="27" road="152"/>
+  <hex row="7" col="29" terrain="3" road="40"/>
+  <hex row="7" col="30" road="9"/>
+  <hex row="7" col="31" road="168"/>
+  <hex row="7" col="32">
+    <unit id="682" owner="0" flag="20" face="15" exp="290" ent="3"/>
+  </hex>
+  <hex row="8" col="0" terrain="16"/>
+  <hex row="8" col="1" terrain="16" road="34"/>
+  <hex row="8" col="2" terrain="16" road="40"/>
+  <hex row="8" col="3" terrain="16" road="136"/>
+  <hex row="8" col="4" terrain="16"/>
+  <hex row="8" col="5" terrain="16"/>
+  <hex row="8" col="6" terrain="16"/>
+  <hex row="8" col="7" terrain="16"/>
+  <hex row="8" col="8" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="9" terrain="10" name="Dnepr River"/>
+  <hex row="8" col="12" terrain="1" road="130" name="Yaschniki" flag="7" owner="1"/>
+  <hex row="8" col="13" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="14" road="130"/>
+  <hex row="8" col="16" terrain="1" road="130" flag="7" owner="1"/>
+  <hex row="8" col="17" terrain="13" name="LAKE"/>
+  <hex row="8" col="18" road="130"/>
+  <hex row="8" col="19" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="21" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="22" road="130"/>
+  <hex row="8" col="23" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="25" terrain="15" name="Dnepr River"/>
+  <hex row="8" col="27" terrain="1" road="1" name="Kosinzy" flag="7" owner="1">
+    <unit id="115" owner="1" flag="8" face="8" transport="156" exp="122"/>
+  </hex>
+  <hex row="8" col="28" road="130"/>
+  <hex row="8" col="29" terrain="3"/>
+  <hex row="8" col="30" terrain="3" road="130"/>
+  <hex row="8" col="32" road="136"/>
+  <hex row="8" col="33" road="144"/>
+  <hex row="9" col="0" terrain="16" road="2"/>
+  <hex row="9" col="1" terrain="3"/>
+  <hex row="9" col="2" terrain="3"/>
+  <hex row="9" col="3" terrain="3"/>
+  <hex row="9" col="4" terrain="16" road="136"/>
+  <hex row="9" col="5" terrain="16" road="136"/>
+  <hex row="9" col="6" terrain="16"/>
+  <hex row="9" col="7" terrain="16"/>
+  <hex row="9" col="8" terrain="16"/>
+  <hex row="9" col="9" terrain="1" road="56" name="Rzhishchev" flag="7" owner="1" victory="1">
+    <unit id="79" owner="1" flag="8" face="6" transport="158" exp="227"/>
+  </hex>
+  <hex row="9" col="10" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="11" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="12" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="13" terrain="16"/>
+  <hex row="9" col="14" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="15" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="16" terrain="13"/>
+  <hex row="9" col="17" terrain="8"/>
+  <hex row="9" col="18" terrain="10" name="Dnepr River"/>
+  <hex row="9" col="20" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="21" terrain="1" name="Trakhtemirov"/>
+  <hex row="9" col="22" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="23" terrain="16">
+    <unit id="92" owner="1" flag="8" face="6" transport="158" exp="279"/>
+  </hex>
+  <hex row="9" col="24" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="25" terrain="1" name="Zarubinsty" flag="7" owner="1">
+    <unit id="111" owner="1" flag="8" face="6" transport="156" exp="151"/>
+  </hex>
+  <hex row="9" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="9" col="27">
+    <unit id="92" owner="1" flag="8" face="8" transport="158" exp="152"/>
+  </hex>
+  <hex row="9" col="33" terrain="3" road="9"/>
+  <hex row="10" col="1" terrain="3"/>
+  <hex row="10" col="2" terrain="3"/>
+  <hex row="10" col="3" terrain="3"/>
+  <hex row="10" col="4" terrain="16"/>
+  <hex row="10" col="5" terrain="16"/>
+  <hex row="10" col="6" terrain="16" road="136"/>
+  <hex row="10" col="7" terrain="1" road="130" name="Kusmintsy" flag="7" owner="1"/>
+  <hex row="10" col="8" terrain="16" road="34"/>
+  <hex row="10" col="9" terrain="16" road="17"/>
+  <hex row="10" col="10" terrain="16" road="136"/>
+  <hex row="10" col="11" terrain="16" road="136"/>
+  <hex row="10" col="12" terrain="1" name="Balyka">
+    <unit id="132" owner="1" flag="8" face="6" exp="299"/>
+  </hex>
+  <hex row="10" col="13" terrain="3"/>
+  <hex row="10" col="14" terrain="16"/>
+  <hex row="10" col="15" terrain="15" name="Dnepr River"/>
+  <hex row="10" col="16" terrain="8"/>
+  <hex row="10" col="17" terrain="8"/>
+  <hex row="10" col="18" terrain="15" name="Dnepr River"/>
+  <hex row="10" col="19" terrain="10" name="Dnepr River"/>
+  <hex row="10" col="20" terrain="3"/>
+  <hex row="10" col="21" terrain="16"/>
+  <hex row="10" col="22" terrain="16"/>
+  <hex row="10" col="23" terrain="3"/>
+  <hex row="10" col="24" terrain="3">
+    <unit id="145" owner="1" flag="8" face="6" exp="127"/>
+  </hex>
+  <hex row="10" col="25" terrain="16"/>
+  <hex row="10" col="26" terrain="10" name="Dnepr River"/>
+  <hex row="10" col="28" terrain="3">
+    <unit id="145" owner="1" flag="8" face="8" exp="264"/>
+  </hex>
+  <hex row="10" col="31" terrain="3"/>
+  <hex row="10" col="32" terrain="3"/>
+  <hex row="10" col="33" terrain="3"/>
+  <hex row="10" col="34" road="144">
+    <unit id="115" owner="1" flag="8" face="8" transport="156" exp="259"/>
+  </hex>
+  <hex row="11" col="0" road="8"/>
+  <hex row="11" col="1" road="136"/>
+  <hex row="11" col="4" terrain="16"/>
+  <hex row="11" col="5" terrain="16"/>
+  <hex row="11" col="6" terrain="16"/>
+  <hex row="11" col="7" terrain="16"/>
+  <hex row="11" col="8" terrain="16"/>
+  <hex row="11" col="9" terrain="16" road="17"/>
+  <hex row="11" col="10" terrain="16"/>
+  <hex row="11" col="11" terrain="16"/>
+  <hex row="11" col="12" terrain="16" road="136"/>
+  <hex row="11" col="13" terrain="16" road="136"/>
+  <hex row="11" col="14" terrain="10" name="Dnepr River"/>
+  <hex row="11" col="15" terrain="3"/>
+  <hex row="11" col="16" terrain="15" name="Dnepr River"/>
+  <hex row="11" col="17" terrain="15" name="Dnepr River"/>
+  <hex row="11" col="18" terrain="15" name="Dnepr River"/>
+  <hex row="11" col="20" terrain="1" name="Velikyi Bukrin" flag="7" owner="1"/>
+  <hex row="11" col="21" terrain="16"/>
+  <hex row="11" col="22" terrain="16"/>
+  <hex row="11" col="23" terrain="16"/>
+  <hex row="11" col="24" terrain="3"/>
+  <hex row="11" col="25" terrain="15" name="Dnepr River"/>
+  <hex row="11" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="11" col="27" terrain="8"/>
+  <hex row="11" col="28" terrain="8"/>
+  <hex row="11" col="30" terrain="3"/>
+  <hex row="11" col="31" terrain="3"/>
+  <hex row="11" col="32" terrain="3"/>
+  <hex row="11" col="33" terrain="3"/>
+  <hex row="11" col="34" road="9"/>
+  <hex row="11" col="35" road="144"/>
+  <hex row="12" col="2" road="136">
+    <unit id="118" owner="1" flag="8" face="6" exp="391"/>
+  </hex>
+  <hex row="12" col="3" road="136"/>
+  <hex row="12" col="6" terrain="16"/>
+  <hex row="12" col="8" terrain="3"/>
+  <hex row="12" col="9" terrain="3" road="17"/>
+  <hex row="12" col="10" terrain="16"/>
+  <hex row="12" col="11" terrain="16"/>
+  <hex row="12" col="12" terrain="16"/>
+  <hex row="12" col="13" terrain="5"/>
+  <hex row="12" col="14" terrain="16" road="136"/>
+  <hex row="12" col="15" terrain="16" road="136"/>
+  <hex row="12" col="16" terrain="13"/>
+  <hex row="12" col="17" terrain="1" road="34" name="Khodorov" flag="7" owner="1"/>
+  <hex row="12" col="18" terrain="16" road="40"/>
+  <hex row="12" col="19" terrain="16" road="136"/>
+  <hex row="12" col="20" terrain="16">
+    <unit id="112" owner="1" flag="8" face="9" exp="191" ent="5"/>
+  </hex>
+  <hex row="12" col="21" terrain="5"/>
+  <hex row="12" col="22" terrain="5"/>
+  <hex row="12" col="23" terrain="5"/>
+  <hex row="12" col="24" terrain="16"/>
+  <hex row="12" col="25" terrain="10" name="Dnepr River"/>
+  <hex row="12" col="26" terrain="8"/>
+  <hex row="12" col="27" terrain="8"/>
+  <hex row="12" col="28" terrain="8"/>
+  <hex row="12" col="30" terrain="3"/>
+  <hex row="12" col="32" terrain="3"/>
+  <hex row="12" col="33" terrain="3"/>
+  <hex row="12" col="34">
+    <unit id="145" owner="1" flag="8" face="8" exp="147"/>
+  </hex>
+  <hex row="12" col="35" road="9"/>
+  <hex row="13" col="4" road="136"/>
+  <hex row="13" col="5" road="130"/>
+  <hex row="13" col="6" road="40"/>
+  <hex row="13" col="7" road="136"/>
+  <hex row="13" col="8" terrain="3"/>
+  <hex row="13" col="9" terrain="3" road="17"/>
+  <hex row="13" col="10" terrain="3"/>
+  <hex row="13" col="11" terrain="16"/>
+  <hex row="13" col="12" terrain="16"/>
+  <hex row="13" col="13" terrain="5"/>
+  <hex row="13" col="14" terrain="16"/>
+  <hex row="13" col="15" terrain="16" road="2"/>
+  <hex row="13" col="16" terrain="13" road="170"/>
+  <hex row="13" col="17" terrain="16" road="128"/>
+  <hex row="13" col="18" terrain="16"/>
+  <hex row="13" col="19" terrain="16" road="34"/>
+  <hex row="13" col="20" terrain="1" road="160" name="Malyi Bukrin"/>
+  <hex row="13" col="21" terrain="16"/>
+  <hex row="13" col="22" terrain="16"/>
+  <hex row="13" col="23" terrain="16"/>
+  <hex row="13" col="24" terrain="1" name="Grigorovka"/>
+  <hex row="13" col="25" terrain="15" name="Dnepr River"/>
+  <hex row="13" col="26" terrain="8"/>
+  <hex row="13" col="27" terrain="8"/>
+  <hex row="13" col="28" terrain="8"/>
+  <hex row="13" col="32" terrain="3"/>
+  <hex row="13" col="33" terrain="3"/>
+  <hex row="13" col="36" road="136"/>
+  <hex row="13" col="37" road="136"/>
+  <hex row="14" col="8" road="136"/>
+  <hex row="14" col="9" road="153"/>
+  <hex row="14" col="12" terrain="1" name="Lipovvi Rog"/>
+  <hex row="14" col="13" terrain="16" road="40"/>
+  <hex row="14" col="14" terrain="16"/>
+  <hex row="14" col="15" terrain="1" road="40" name="Grushevo"/>
+  <hex row="14" col="16" terrain="13"/>
+  <hex row="14" col="17" terrain="3"/>
+  <hex row="14" col="18" terrain="16" road="18"/>
+  <hex row="14" col="19" terrain="16"/>
+  <hex row="14" col="20" terrain="5"/>
+  <hex row="14" col="21" terrain="5"/>
+  <hex row="14" col="22" terrain="16"/>
+  <hex row="14" col="23" terrain="3"/>
+  <hex row="14" col="24" terrain="3"/>
+  <hex row="14" col="25" terrain="15" name="Dnepr River"/>
+  <hex row="14" col="26" terrain="8"/>
+  <hex row="14" col="27" terrain="8"/>
+  <hex row="14" col="28" terrain="8"/>
+  <hex row="14" col="30" terrain="3"/>
+  <hex row="14" col="32" terrain="3"/>
+  <hex row="14" col="33" terrain="3"/>
+  <hex row="14" col="38" road="136"/>
+  <hex row="14" col="39" road="144"/>
+  <hex row="15" col="7" terrain="5"/>
+  <hex row="15" col="9" road="33"/>
+  <hex row="15" col="10" road="136"/>
+  <hex row="15" col="11" terrain="1" road="138" name="Pil" flag="7" owner="1" victory="1">
+    <unit id="118" owner="1" flag="8" face="8" exp="321" ent="1"/>
+  </hex>
+  <hex row="15" col="12" terrain="5" road="34"/>
+  <hex row="15" col="14" terrain="16" road="130"/>
+  <hex row="15" col="15" terrain="5"/>
+  <hex row="15" col="16" terrain="13" road="136"/>
+  <hex row="15" col="17" terrain="16" road="138"/>
+  <hex row="15" col="18" terrain="1" road="33" name="Dubari" flag="7" owner="1" victory="1"/>
+  <hex row="15" col="19" terrain="16"/>
+  <hex row="15" col="20" terrain="5"/>
+  <hex row="15" col="21" terrain="5"/>
+  <hex row="15" col="22" terrain="5"/>
+  <hex row="15" col="23" terrain="16"/>
+  <hex row="15" col="24" terrain="3"/>
+  <hex row="15" col="25" terrain="15" name="Dnepr River"/>
+  <hex row="15" col="26" terrain="8"/>
+  <hex row="15" col="27" terrain="3"/>
+  <hex row="15" col="28" terrain="3"/>
+  <hex row="15" col="30" terrain="3"/>
+  <hex row="15" col="32" terrain="3"/>
+  <hex row="15" col="33" terrain="3"/>
+  <hex row="15" col="34" terrain="3"/>
+  <hex row="15" col="35" terrain="3"/>
+  <hex row="15" col="39" road="9"/>
+  <hex row="16" col="8" road="18"/>
+  <hex row="16" col="10" terrain="13"/>
+  <hex row="16" col="12" road="144"/>
+  <hex row="16" col="15" terrain="16"/>
+  <hex row="16" col="16" terrain="16"/>
+  <hex row="16" col="17" terrain="16"/>
+  <hex row="16" col="18" terrain="16" road="136"/>
+  <hex row="16" col="19" terrain="1" road="144" name="Chernyshi" flag="7" owner="1"/>
+  <hex row="16" col="20" terrain="16"/>
+  <hex row="16" col="21" terrain="16"/>
+  <hex row="16" col="22" terrain="16"/>
+  <hex row="16" col="23" terrain="16"/>
+  <hex row="16" col="24" terrain="16"/>
+  <hex row="16" col="25" terrain="1" road="16" name="Buchak"/>
+  <hex row="16" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="16" col="27" terrain="3"/>
+  <hex row="16" col="31" terrain="3"/>
+  <hex row="16" col="32" terrain="3"/>
+  <hex row="16" col="33" terrain="3"/>
+  <hex row="16" col="34" terrain="3"/>
+  <hex row="16" col="35" terrain="3"/>
+  <hex row="16" col="36" terrain="3"/>
+  <hex row="16" col="40" road="128"/>
+  <hex row="17" col="8" road="9"/>
+  <hex row="17" col="9" road="144"/>
+  <hex row="17" col="10" terrain="13"/>
+  <hex row="17" col="11" terrain="1" name="Makedony"/>
+  <hex row="17" col="12" road="9"/>
+  <hex row="17" col="13" road="144"/>
+  <hex row="17" col="16" terrain="16"/>
+  <hex row="17" col="18" terrain="16"/>
+  <hex row="17" col="19" terrain="16" road="17"/>
+  <hex row="17" col="20" terrain="16"/>
+  <hex row="17" col="21" terrain="16"/>
+  <hex row="17" col="22" terrain="16"/>
+  <hex row="17" col="23" terrain="3"/>
+  <hex row="17" col="24" terrain="16"/>
+  <hex row="17" col="25" terrain="3" road="17"/>
+  <hex row="17" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="17" col="27" terrain="15" name="Dnepr River"/>
+  <hex row="17" col="28" terrain="8"/>
+  <hex row="17" col="31" terrain="3"/>
+  <hex row="17" col="32" terrain="3"/>
+  <hex row="17" col="33" terrain="3"/>
+  <hex row="17" col="34" terrain="3"/>
+  <hex row="17" col="35" terrain="3"/>
+  <hex row="17" col="36" terrain="3"/>
+  <hex row="18" col="4" terrain="1" name="Ochevetyano" flag="7" owner="1"/>
+  <hex row="18" col="7" terrain="13"/>
+  <hex row="18" col="8" terrain="13"/>
+  <hex row="18" col="9" terrain="1" road="1" name="Nikolayevka" flag="7" owner="1"/>
+  <hex row="18" col="10" terrain="13"/>
+  <hex row="18" col="11" terrain="13"/>
+  <hex row="18" col="13" terrain="16" road="9"/>
+  <hex row="18" col="16" terrain="1" name="Potaptsy" flag="7" owner="1"/>
+  <hex row="18" col="18" terrain="16"/>
+  <hex row="18" col="19" terrain="16" road="9"/>
+  <hex row="18" col="20" terrain="16"/>
+  <hex row="18" col="22" terrain="16"/>
+  <hex row="18" col="23" terrain="16"/>
+  <hex row="18" col="24" terrain="3"/>
+  <hex row="18" col="25" terrain="16" road="49"/>
+  <hex row="18" col="26" terrain="3"/>
+  <hex row="18" col="27" terrain="15" name="Dnepr River"/>
+  <hex row="18" col="28" terrain="8"/>
+  <hex row="18" col="30" terrain="3"/>
+  <hex row="18" col="31" terrain="3"/>
+  <hex row="18" col="32" terrain="3"/>
+  <hex row="18" col="33" terrain="3"/>
+  <hex row="18" col="34" terrain="3"/>
+  <hex row="18" col="35" terrain="3"/>
+  <hex row="18" col="36" terrain="3"/>
+  <hex row="19" col="8" terrain="13"/>
+  <hex row="19" col="11" terrain="13"/>
+  <hex row="19" col="12" terrain="16"/>
+  <hex row="19" col="13" terrain="16"/>
+  <hex row="19" col="14" terrain="1" road="136" name="Tulitsy"/>
+  <hex row="19" col="15" road="144"/>
+  <hex row="19" col="18" terrain="1" name="Lazirtsy"/>
+  <hex row="19" col="19" terrain="3" road="34"/>
+  <hex row="19" col="20" road="168"/>
+  <hex row="19" col="21" road="144"/>
+  <hex row="19" col="22" terrain="13"/>
+  <hex row="19" col="23" road="34"/>
+  <hex row="19" col="24" terrain="16" road="34"/>
+  <hex row="19" col="25" terrain="1" road="33" name="Selishche" flag="7" owner="1"/>
+  <hex row="19" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="19" col="28" terrain="15" name="Dnepr River"/>
+  <hex row="19" col="29" terrain="1" name="Reschki" flag="7" owner="1">
+    <unit id="115" owner="1" flag="8" face="9" exp="338" ent="5"/>
+  </hex>
+  <hex row="19" col="31" terrain="3">
+    <unit id="115" owner="1" flag="8" face="9" exp="381" ent="5"/>
+  </hex>
+  <hex row="19" col="32" terrain="3"/>
+  <hex row="19" col="33" terrain="3"/>
+  <hex row="19" col="34" terrain="3"/>
+  <hex row="19" col="35" terrain="3"/>
+  <hex row="19" col="36" terrain="3"/>
+  <hex row="20" col="6" terrain="13"/>
+  <hex row="20" col="7" terrain="13"/>
+  <hex row="20" col="8" terrain="13"/>
+  <hex row="20" col="9" terrain="13"/>
+  <hex row="20" col="11" terrain="16"/>
+  <hex row="20" col="12" terrain="13"/>
+  <hex row="20" col="15" terrain="1" road="9" name="Breesnyagi" flag="7" owner="1"/>
+  <hex row="20" col="18" road="18"/>
+  <hex row="20" col="19" terrain="3"/>
+  <hex row="20" col="20" terrain="3"/>
+  <hex row="20" col="21" terrain="1" road="11" name="Grishchentsy" flag="7" owner="1" victory="1"/>
+  <hex row="20" col="22" terrain="13" road="50"/>
+  <hex row="20" col="23" terrain="13"/>
+  <hex row="20" col="24" terrain="1" road="2" name="Bobritsa"/>
+  <hex row="20" col="25" terrain="16"/>
+  <hex row="20" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="20" col="28" terrain="15" name="Dnepr River"/>
+  <hex row="20" col="32" terrain="3"/>
+  <hex row="20" col="34" terrain="3"/>
+  <hex row="20" col="35" terrain="3"/>
+  <hex row="20" col="36" terrain="3"/>
+  <hex row="20" col="38">
+    <unit id="115" owner="1" flag="8" face="9" exp="374" ent="5"/>
+  </hex>
+  <hex row="21" col="5" road="34"/>
+  <hex row="21" col="6" road="40"/>
+  <hex row="21" col="7" road="136"/>
+  <hex row="21" col="8" terrain="13"/>
+  <hex row="21" col="9" terrain="13"/>
+  <hex row="21" col="11" terrain="16"/>
+  <hex row="21" col="12" terrain="13"/>
+  <hex row="21" col="13" terrain="13"/>
+  <hex row="21" col="16" road="136"/>
+  <hex row="21" col="17" road="178"/>
+  <hex row="21" col="18" road="33"/>
+  <hex row="21" col="19" terrain="5"/>
+  <hex row="21" col="22" terrain="1" road="145" name="Trostincts"/>
+  <hex row="21" col="23" terrain="13"/>
+  <hex row="21" col="24" terrain="13"/>
+  <hex row="21" col="25" terrain="13"/>
+  <hex row="21" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="21" col="28" terrain="15" name="Dnepr River"/>
+  <hex row="21" col="31" terrain="1" road="40" name="Leplyayo" flag="7" owner="1"/>
+  <hex row="22" col="4" road="18"/>
+  <hex row="22" col="8" terrain="1" road="136" name="Potok" flag="7" owner="1"/>
+  <hex row="22" col="9" terrain="13" road="154"/>
+  <hex row="22" col="10" road="32"/>
+  <hex row="22" col="12" terrain="1" name="Shandra" flag="7" owner="1"/>
+  <hex row="22" col="13" road="8"/>
+  <hex row="22" col="14" terrain="13"/>
+  <hex row="22" col="15" road="34"/>
+  <hex row="22" col="16" road="34"/>
+  <hex row="22" col="17" terrain="1" road="9" name="Kozarovka" flag="7" owner="1"/>
+  <hex row="22" col="19" terrain="1" name="Kurilovka" flag="7" owner="1"/>
+  <hex row="22" col="20" terrain="5"/>
+  <hex row="22" col="21" terrain="5"/>
+  <hex row="22" col="22" road="9"/>
+  <hex row="22" col="23" road="136"/>
+  <hex row="22" col="26" terrain="15" name="Dnepr River"/>
+  <hex row="22" col="27" terrain="15" name="Dnepr River"/>
+  <hex row="22" col="28" terrain="15" name="Dnepr River"/>
+  <hex row="22" col="29" road="34"/>
+  <hex row="22" col="30" road="34"/>
+  <hex row="22" col="32" road="136">
+    <unit id="92" owner="1" flag="8" face="9" transport="158" exp="378" ent="5"/>
+  </hex>
+  <hex row="22" col="33" road="136"/>
+  <hex row="22" col="35" road="40"/>
+  <hex row="23" col="4" road="17"/>
+  <hex row="23" col="7" terrain="13"/>
+  <hex row="23" col="8" terrain="13"/>
+  <hex row="23" col="9" road="1"/>
+  <hex row="23" col="10" road="144"/>
+  <hex row="23" col="13" road="34"/>
+  <hex row="23" col="14" terrain="13" road="178"/>
+  <hex row="23" col="15" terrain="13"/>
+  <hex row="23" col="18" road="144"/>
+  <hex row="23" col="19" terrain="16"/>
+  <hex row="23" col="20" terrain="1" name="Kovali"/>
+  <hex row="23" col="21" terrain="5"/>
+  <hex row="23" col="22" terrain="5"/>
+  <hex row="23" col="23" terrain="5"/>
+  <hex row="23" col="24" terrain="1" road="136" name="Sutniki" flag="7" owner="1"/>
+  <hex row="23" col="25" road="130"/>
+  <hex row="23" col="26" terrain="1" road="40" name="Kanev" flag="7" owner="1" victory="1"/>
+  <hex row="23" col="27" terrain="1" road="170" name="Kanev">
+    <unit id="110" owner="1" flag="8" face="8" exp="359" ent="5" ldr="1"/>
+  </hex>
+  <hex row="23" col="28" terrain="10" road="50" name="Dnepr River"/>
+  <hex row="23" col="29" terrain="15" name="Dnepr River"/>
+  <hex row="23" col="30">
+    <unit id="153" owner="1" flag="8" face="8" exp="300" ent="1" str="6"/>
+  </hex>
+  <hex row="23" col="34" road="130"/>
+  <hex row="23" col="36" road="136"/>
+  <hex row="23" col="37" road="130"/>
+  <hex row="23" col="38" road="40"/>
+  <hex row="23" col="39" road="162"/>
+  <hex row="23" col="40" road="32"/>
+  <hex row="24" col="4" road="17"/>
+  <hex row="24" col="8" terrain="13"/>
+  <hex row="24" col="9" terrain="13"/>
+  <hex row="24" col="10" road="9"/>
+  <hex row="24" col="11" road="144"/>
+  <hex row="24" col="12" road="18"/>
+  <hex row="24" col="13" terrain="13"/>
+  <hex row="24" col="14" terrain="13" road="1"/>
+  <hex row="24" col="15" terrain="13"/>
+  <hex row="24" col="16" terrain="1" name="Sinyavka"/>
+  <hex row="24" col="17" terrain="1" name="Gorkavishchina" flag="7" owner="1"/>
+  <hex row="24" col="18" road="9"/>
+  <hex row="24" col="19" road="144"/>
+  <hex row="24" col="20" terrain="16"/>
+  <hex row="24" col="21" terrain="16"/>
+  <hex row="24" col="22" terrain="5"/>
+  <hex row="24" col="23" terrain="5"/>
+  <hex row="24" col="24" terrain="5"/>
+  <hex row="24" col="25" terrain="5" road="34"/>
+  <hex row="24" col="26" road="34"/>
+  <hex row="24" col="27" terrain="5"/>
+  <hex row="24" col="28" terrain="16" road="137"/>
+  <hex row="24" col="29" terrain="16" road="136"/>
+  <hex row="24" col="30" terrain="15" name="Dnepr River"/>
+  <hex row="24" col="31" terrain="15" name="Dnepr River"/>
+  <hex row="24" col="37" road="34"/>
+  <hex row="24" col="38" road="34"/>
+  <hex row="25" col="3" road="18"/>
+  <hex row="25" col="4" road="57"/>
+  <hex row="25" col="5" road="136"/>
+  <hex row="25" col="7" road="40"/>
+  <hex row="25" col="9" road="40"/>
+  <hex row="25" col="10" terrain="13"/>
+  <hex row="25" col="11" terrain="13" road="41"/>
+  <hex row="25" col="12" road="9"/>
+  <hex row="25" col="13" terrain="13" road="168"/>
+  <hex row="25" col="14" terrain="13"/>
+  <hex row="25" col="15" terrain="3"/>
+  <hex row="25" col="16" terrain="13"/>
+  <hex row="25" col="17" terrain="13"/>
+  <hex row="25" col="19" road="9"/>
+  <hex row="25" col="20" terrain="16"/>
+  <hex row="25" col="21" terrain="16"/>
+  <hex row="25" col="22" terrain="16"/>
+  <hex row="25" col="23" terrain="16" road="34"/>
+  <hex row="25" col="24" terrain="5" road="34"/>
+  <hex row="25" col="25" terrain="5"/>
+  <hex row="25" col="27" terrain="5"/>
+  <hex row="25" col="28" terrain="3"/>
+  <hex row="25" col="29" terrain="3"/>
+  <hex row="25" col="30" road="144"/>
+  <hex row="25" col="32" terrain="15" name="Dnepr River"/>
+  <hex row="25" col="35" road="34"/>
+  <hex row="25" col="36" road="34"/>
+  <hex row="26" col="3" road="33"/>
+  <hex row="26" col="4" road="17"/>
+  <hex row="26" col="5" road="32"/>
+  <hex row="26" col="6" road="130"/>
+  <hex row="26" col="7" road="18"/>
+  <hex row="26" col="8" road="162"/>
+  <hex row="26" col="9" terrain="13"/>
+  <hex row="26" col="10" terrain="1" road="146" name="Kozin"/>
+  <hex row="26" col="11" terrain="13"/>
+  <hex row="26" col="12" terrain="1" road="130" name="Maslovka" flag="7" owner="1" victory="1"/>
+  <hex row="26" col="13" terrain="13"/>
+  <hex row="26" col="14" road="144"/>
+  <hex row="26" col="18" terrain="13"/>
+  <hex row="26" col="19" terrain="1" road="34" name="Stepantsy" flag="7" owner="1" victory="1"/>
+  <hex row="26" col="20" road="168"/>
+  <hex row="26" col="21" road="146"/>
+  <hex row="26" col="22" road="34"/>
+  <hex row="26" col="23" terrain="3"/>
+  <hex row="26" col="24" terrain="3"/>
+  <hex row="26" col="25" terrain="5"/>
+  <hex row="26" col="26" terrain="5"/>
+  <hex row="26" col="27" terrain="3"/>
+  <hex row="26" col="28" terrain="3"/>
+  <hex row="26" col="29" terrain="3"/>
+  <hex row="26" col="30" road="9"/>
+  <hex row="26" col="31" terrain="1" road="144" name="Pekari" flag="7" owner="1"/>
+  <hex row="26" col="32" terrain="10" name="Dnepr River"/>
+  <hex row="26" col="33" terrain="10" name="Dnepr River"/>
+  <hex row="26" col="34" road="2"/>
+  <hex row="27" col="1" road="34"/>
+  <hex row="27" col="2" road="34"/>
+  <hex row="27" col="3" terrain="13"/>
+  <hex row="27" col="4" terrain="13" road="19"/>
+  <hex row="27" col="5" terrain="13"/>
+  <hex row="27" col="6" terrain="13"/>
+  <hex row="27" col="7" terrain="13" road="41"/>
+  <hex row="27" col="8" terrain="13"/>
+  <hex row="27" col="9" road="34"/>
+  <hex row="27" col="10" terrain="13" road="49"/>
+  <hex row="27" col="11" terrain="3"/>
+  <hex row="27" col="12" terrain="13"/>
+  <hex row="27" col="13" terrain="3"/>
+  <hex row="27" col="14" road="17"/>
+  <hex row="27" col="17" road="2"/>
+  <hex row="27" col="18" terrain="13" road="50"/>
+  <hex row="27" col="19" terrain="13"/>
+  <hex row="27" col="21" road="25"/>
+  <hex row="27" col="23" terrain="3"/>
+  <hex row="27" col="24" terrain="3"/>
+  <hex row="27" col="25" terrain="3"/>
+  <hex row="27" col="26" terrain="3"/>
+  <hex row="27" col="27" terrain="3"/>
+  <hex row="27" col="28" terrain="3"/>
+  <hex row="27" col="29" terrain="16"/>
+  <hex row="27" col="30" terrain="16"/>
+  <hex row="27" col="31" terrain="8" road="17"/>
+  <hex row="27" col="32" terrain="15" name="Dnepr River"/>
+  <hex row="27" col="34" terrain="15" name="Dnepr River"/>
+  <hex row="27" col="35" terrain="8"/>
+  <hex row="28" col="0" road="2"/>
+  <hex row="28" col="3" terrain="13"/>
+  <hex row="28" col="4" terrain="1" road="1" name="Rossava"/>
+  <hex row="28" col="6" terrain="1" road="26" name="Khurtora"/>
+  <hex row="28" col="7" terrain="1" road="162" name="Khurtora" flag="7" owner="1" victory="1"/>
+  <hex row="28" col="8" road="162"/>
+  <hex row="28" col="10" road="17"/>
+  <hex row="28" col="12" terrain="3"/>
+  <hex row="28" col="14" road="9"/>
+  <hex row="28" col="15" road="136"/>
+  <hex row="28" col="17" terrain="2" road="10">
+    <unit id="169" owner="1" flag="8" face="6" exp="399" str="11"/>
+  </hex>
+  <hex row="28" col="18" terrain="2" road="49" flag="7" owner="1">
+    <unit id="1271" owner="1" flag="8" face="6" exp="340" str="12"/>
+  </hex>
+  <hex row="28" col="20" terrain="13"/>
+  <hex row="28" col="21" terrain="13" road="51"/>
+  <hex row="28" col="22" road="168"/>
+  <hex row="28" col="23" road="136"/>
+  <hex row="28" col="25" terrain="16"/>
+  <hex row="28" col="26" terrain="3"/>
+  <hex row="28" col="27" terrain="16"/>
+  <hex row="28" col="28" terrain="16"/>
+  <hex row="28" col="29" road="40"/>
+  <hex row="28" col="30" terrain="10" name="LAKE"/>
+  <hex row="28" col="31" terrain="8" road="33"/>
+  <hex row="28" col="32" terrain="8"/>
+  <hex row="28" col="33" terrain="8"/>
+  <hex row="28" col="34" terrain="15" name="Dnepr River"/>
+  <hex row="28" col="35" terrain="8"/>
+  <hex row="29" col="1" terrain="13"/>
+  <hex row="29" col="2" terrain="13"/>
+  <hex row="29" col="5" road="50"/>
+  <hex row="29" col="6" road="35"/>
+  <hex row="29" col="10" road="9"/>
+  <hex row="29" col="11" road="144"/>
+  <hex row="29" col="16" road="144"/>
+  <hex row="29" col="18" terrain="2" road="129"/>
+  <hex row="29" col="19" road="18"/>
+  <hex row="29" col="20" road="34"/>
+  <hex row="29" col="21" road="17"/>
+  <hex row="29" col="22" terrain="13"/>
+  <hex row="29" col="23" terrain="13"/>
+  <hex row="29" col="24" road="136"/>
+  <hex row="29" col="25" road="152"/>
+  <hex row="29" col="26" terrain="16"/>
+  <hex row="29" col="27" road="34"/>
+  <hex row="29" col="28" road="34"/>
+  <hex row="29" col="29" terrain="13"/>
+  <hex row="29" col="30" road="130"/>
+  <hex row="29" col="31" terrain="13"/>
+  <hex row="29" col="32" terrain="13"/>
+  <hex row="29" col="33" terrain="8"/>
+  <hex row="29" col="34" terrain="15" name="Dnepr River"/>
+  <hex row="29" col="35" terrain="15" name="Dnepr River"/>
+  <hex row="29" col="36" terrain="8"/>
+  <hex row="30" col="0" terrain="13"/>
+  <hex row="30" col="2" terrain="1" road="8" name="Pustovoyty" flag="7" owner="1"/>
+  <hex row="30" col="3" road="130"/>
+  <hex row="30" col="4" road="34"/>
+  <hex row="30" col="5" road="17"/>
+  <hex row="30" col="11" road="17"/>
+  <hex row="30" col="16" road="9"/>
+  <hex row="30" col="17" road="136"/>
+  <hex row="30" col="19" road="33"/>
+  <hex row="30" col="21" road="17"/>
+  <hex row="30" col="22" terrain="16"/>
+  <hex row="30" col="23" terrain="16"/>
+  <hex row="30" col="24" terrain="13"/>
+  <hex row="30" col="25" terrain="13" road="35"/>
+  <hex row="30" col="26" road="162"/>
+  <hex row="30" col="27" terrain="13"/>
+  <hex row="30" col="28" terrain="13"/>
+  <hex row="30" col="29" terrain="3"/>
+  <hex row="30" col="30" terrain="13"/>
+  <hex row="30" col="32" terrain="13"/>
+  <hex row="30" col="33" terrain="13"/>
+  <hex row="30" col="34" terrain="8"/>
+  <hex row="30" col="36" terrain="15" name="Dnepr River"/>
+  <hex row="30" col="37" terrain="15" name="Dnepr River"/>
+  <hex row="30" col="38" terrain="13"/>
+  <hex row="30" col="39" terrain="13"/>
+  <hex row="31" col="5" road="33"/>
+  <hex row="31" col="6">
+    <unit id="164" owner="1" flag="8" face="6" exp="225"/>
+  </hex>
+  <hex row="31" col="7" terrain="2" owner="1"/>
+  <hex row="31" col="11" road="9"/>
+  <hex row="31" col="18" road="130"/>
+  <hex row="31" col="21" road="33"/>
+  <hex row="31" col="22" terrain="16"/>
+  <hex row="31" col="24" terrain="1" road="18" name="Mezhrich" flag="7" owner="1" victory="1"/>
+  <hex row="31" col="25" terrain="13"/>
+  <hex row="31" col="26" terrain="13"/>
+  <hex row="31" col="28" terrain="3"/>
+  <hex row="31" col="29" terrain="3"/>
+  <hex row="31" col="30" terrain="3"/>
+  <hex row="31" col="34" terrain="13"/>
+  <hex row="31" col="35" terrain="13"/>
+  <hex row="31" col="36" terrain="8"/>
+  <hex row="31" col="37" terrain="15" name="Dnepr River"/>
+  <hex row="31" col="40" terrain="13"/>
+  <hex row="32" col="3" road="50"/>
+  <hex row="32" col="4" road="42"/>
+  <hex row="32" col="5" road="136"/>
+  <hex row="32" col="6" terrain="2" flag="7" owner="1"/>
+  <hex row="32" col="12" road="144"/>
+  <hex row="32" col="20" road="18"/>
+  <hex row="32" col="21" terrain="16"/>
+  <hex row="32" col="22" terrain="16"/>
+  <hex row="32" col="24" road="17"/>
+  <hex row="32" col="25" terrain="13"/>
+  <hex row="32" col="26" terrain="8"/>
+  <hex row="32" col="28" terrain="3"/>
+  <hex row="32" col="29" terrain="3"/>
+  <hex row="32" col="36" terrain="13"/>
+  <hex row="32" col="37" terrain="13"/>
+  <hex row="32" col="38" terrain="15" name="Dnepr River"/>
+  <hex row="32" col="39" terrain="15" name="Dnepr River"/>
+  <hex row="33" col="1" road="34"/>
+  <hex row="33" col="2" road="34"/>
+  <hex row="33" col="3" road="33"/>
+  <hex row="33" col="5" road="18"/>
+  <hex row="33" col="6" terrain="1" road="168" name="Yakhny" flag="7" owner="1" victory="1"/>
+  <hex row="33" col="7" road="136"/>
+  <hex row="33" col="12" road="17"/>
+  <hex row="33" col="20" road="17"/>
+  <hex row="33" col="21" terrain="16"/>
+  <hex row="33" col="22" terrain="16"/>
+  <hex row="33" col="24" road="17"/>
+  <hex row="33" col="25" terrain="13"/>
+  <hex row="33" col="27" terrain="3"/>
+  <hex row="33" col="28" terrain="3"/>
+  <hex row="33" col="29" terrain="3"/>
+  <hex row="33" col="38" terrain="8"/>
+  <hex row="33" col="39" terrain="8"/>
+  <hex row="33" col="40" terrain="15" name="Dnepr River"/>
+  <hex row="34" col="0" road="2"/>
+  <hex row="34" col="2" road="18"/>
+  <hex row="34" col="5" road="1"/>
+  <hex row="34" col="8" road="136"/>
+  <hex row="34" col="9" road="136"/>
+  <hex row="34" col="12" road="17"/>
+  <hex row="34" col="19" road="2"/>
+  <hex row="34" col="20" terrain="1" road="33" name="Daryevka" flag="7" owner="1" victory="1"/>
+  <hex row="34" col="21" terrain="3"/>
+  <hex row="34" col="22" terrain="3"/>
+  <hex row="34" col="23" terrain="3"/>
+  <hex row="34" col="24" road="17"/>
+  <hex row="34" col="25" terrain="13"/>
+  <hex row="34" col="27" terrain="3"/>
+  <hex row="34" col="28" terrain="3"/>
+  <hex row="34" col="38" terrain="8"/>
+  <hex row="34" col="39" terrain="8"/>
+  <hex row="34" col="40" terrain="8"/>
+  <hex row="35" col="2" road="1"/>
+  <hex row="35" col="10" road="128"/>
+  <hex row="35" col="12" road="1"/>
+  <hex row="35" col="22" terrain="3"/>
+  <hex row="35" col="24" road="1"/>
+  <hex row="35" col="26" terrain="3"/>
+</map>

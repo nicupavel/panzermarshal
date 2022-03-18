@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="it08mech.scn" name="The Benghazi Handicap" turns="4, 6, 12" date="April 06, 1941" dayturns="3" ground="0" atmosferic="0" latitude="0" rows="19" cols="30" eqp="eqp-adlerkorps" image="resources/maps/images/map_117.png">
+  <player id="0" country="12" side="0" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0"/>
+  <player id="1" country="22" side="1" airtrans="0" navaltrans="0" support="27, 30, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="16" col="2">
+      <unit id="117" owner="0" flag="8" face="4" exp="225" str="6"/>
+    </at>
+    <at row="16" col="1">
+      <unit id="583" owner="0" flag="8" face="4" exp="225" str="6"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="14" col="5">
+      <unit id="1724" owner="1" flag="23" face="12" exp="125" str="5"/>
+    </at>
+    <at row="13" col="5">
+      <unit id="1724" owner="1" flag="23" face="12" exp="125" str="4"/>
+    </at>
+    <at row="14" col="6">
+      <unit id="2316" owner="1" flag="27" face="12" exp="125" str="2"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="16" col="20">
+      <unit id="3365" owner="1" flag="30" face="10" exp="200" str="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="16" col="9">
+      <unit id="148" owner="0" flag="8" face="6" exp="125" str="4"/>
+    </at>
+    <at row="16" col="8">
+      <unit id="146" owner="0" flag="8" face="7" exp="125"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="6" col="1">
+      <unit id="206" owner="0" flag="13" face="5" transport="224" exp="25"/>
+    </at>
+    <at row="16" col="7">
+      <unit id="141" owner="0" flag="8" face="6" exp="125" str="8"/>
+    </at>
+    <at row="16" col="6">
+      <unit id="139" owner="0" flag="8" face="6" exp="125" str="4"/>
+    </at>
+    <at row="16" col="5">
+      <unit id="89" owner="0" flag="8" face="5" exp="125"/>
+    </at>
+    <at row="4" col="1">
+      <unit id="199" owner="0" flag="13" face="5" exp="25" str="4"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="0" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="0" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="3" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="4" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="5" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="7" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="8" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="9" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="10" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="11" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="1" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="0" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="1" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="2" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="3" terrain="1" road="24" name="Beda Littoria"/>
+  <hex row="2" col="4" terrain="7"/>
+  <hex row="2" col="5" terrain="7" road="40"/>
+  <hex row="2" col="6" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="7" terrain="1" road="34" name="Appolonia" flag="22" owner="1"/>
+  <hex row="2" col="8" terrain="7" road="40"/>
+  <hex row="2" col="9" terrain="1" road="136" name="Ras Al Hilal" flag="22" owner="1"/>
+  <hex row="2" col="10" terrain="7"/>
+  <hex row="2" col="11" terrain="7"/>
+  <hex row="2" col="12" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="13" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="15" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="2" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="0" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="1" terrain="7" road="40"/>
+  <hex row="3" col="2" terrain="7"/>
+  <hex row="3" col="3" terrain="1" road="43" name="Beda Littoria"/>
+  <hex row="3" col="4" terrain="1" road="162" name="Beda Littoria" flag="22" owner="1"/>
+  <hex row="3" col="5" terrain="7"/>
+  <hex row="3" col="6" terrain="7" road="130"/>
+  <hex row="3" col="7" terrain="7"/>
+  <hex row="3" col="8" terrain="16"/>
+  <hex row="3" col="9" terrain="16"/>
+  <hex row="3" col="10" terrain="16" road="136"/>
+  <hex row="3" col="11" terrain="16" road="136"/>
+  <hex row="3" col="12" terrain="7"/>
+  <hex row="3" col="13" terrain="16"/>
+  <hex row="3" col="14" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="15" terrain="16"/>
+  <hex row="3" col="16" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="17" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="3" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="0" terrain="7" road="50"/>
+  <hex row="4" col="1" terrain="7"/>
+  <hex row="4" col="2" terrain="7" road="130">
+    <unit id="214" owner="0" flag="13" face="5" exp="25"/>
+  </hex>
+  <hex row="4" col="3" terrain="7"/>
+  <hex row="4" col="4" terrain="7" road="136"/>
+  <hex row="4" col="5" terrain="7" road="130"/>
+  <hex row="4" col="6" terrain="2" road="48" name="Susa airport" flag="22" owner="1"/>
+  <hex row="4" col="7" terrain="7" road="24"/>
+  <hex row="4" col="8" terrain="7"/>
+  <hex row="4" col="9" terrain="7" road="40"/>
+  <hex row="4" col="10" terrain="7"/>
+  <hex row="4" col="11" terrain="1" road="50" name="Al Qubba" flag="22" owner="1"/>
+  <hex row="4" col="12" terrain="16" road="168"/>
+  <hex row="4" col="13" terrain="7" road="136"/>
+  <hex row="4" col="14" terrain="16"/>
+  <hex row="4" col="15" terrain="7" road="56"/>
+  <hex row="4" col="16" terrain="16"/>
+  <hex row="4" col="17" terrain="1" road="48" name="Derna"/>
+  <hex row="4" col="18" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="19" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="4" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="0" terrain="16" road="17"/>
+  <hex row="5" col="1" terrain="16"/>
+  <hex row="5" col="2" terrain="7"/>
+  <hex row="5" col="3" terrain="16" road="34">
+    <unit id="214" owner="0" flag="13" face="5" exp="25"/>
+  </hex>
+  <hex row="5" col="4" terrain="7" road="40"/>
+  <hex row="5" col="5" terrain="7" road="136"/>
+  <hex row="5" col="6" terrain="1" road="9" name="Cirene" flag="22" owner="1"/>
+  <hex row="5" col="7" terrain="7" road="161"/>
+  <hex row="5" col="8" terrain="7" road="130"/>
+  <hex row="5" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="5" col="10" terrain="7" road="130"/>
+  <hex row="5" col="11" terrain="16" road="17"/>
+  <hex row="5" col="12" terrain="7"/>
+  <hex row="5" col="13" terrain="7"/>
+  <hex row="5" col="14" terrain="7" road="130"/>
+  <hex row="5" col="15" terrain="7" road="17"/>
+  <hex row="5" col="16" terrain="1" road="138" name="Derna" flag="22" owner="1" victory="1">
+    <unit id="346" owner="1" flag="23" face="13" exp="200" ent="5"/>
+  </hex>
+  <hex row="5" col="17" terrain="1" road="137" name="Derna"/>
+  <hex row="5" col="18" terrain="16">
+    <unit id="627" owner="1" flag="23" face="13" exp="25" ent="5" str="6"/>
+  </hex>
+  <hex row="5" col="19" terrain="16">
+    <unit id="629" owner="1" flag="23" face="13" exp="25" ent="5" str="6"/>
+  </hex>
+  <hex row="5" col="20" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="21" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="5" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="0" terrain="7" road="17"/>
+  <hex row="6" col="1" terrain="7" road="34"/>
+  <hex row="6" col="2" terrain="16" road="34">
+    <unit id="214" owner="0" flag="13" face="5" exp="25"/>
+  </hex>
+  <hex row="6" col="3" terrain="16"/>
+  <hex row="6" col="4" terrain="16"/>
+  <hex row="6" col="5" terrain="7"/>
+  <hex row="6" col="6" terrain="7" road="130"/>
+  <hex row="6" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="6" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="6" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="6" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="6" col="11" terrain="5" road="17" name="Jebel Akhdar"/>
+  <hex row="6" col="12" terrain="7"/>
+  <hex row="6" col="13" terrain="7"/>
+  <hex row="6" col="14" terrain="7"/>
+  <hex row="6" col="15" terrain="7" road="9">
+    <unit id="369" owner="1" flag="23" face="14" exp="25" str="3"/>
+  </hex>
+  <hex row="6" col="16" terrain="7"/>
+  <hex row="6" col="17" terrain="7"/>
+  <hex row="6" col="18" terrain="7" road="136">
+    <unit id="1700" owner="1" flag="23" face="13" exp="25" ent="5" str="8"/>
+  </hex>
+  <hex row="6" col="19" terrain="16" road="144"/>
+  <hex row="6" col="20" terrain="16"/>
+  <hex row="6" col="21" terrain="16"/>
+  <hex row="6" col="22" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="23" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="6" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="0" terrain="7" road="51"/>
+  <hex row="7" col="1" terrain="7"/>
+  <hex row="7" col="2" terrain="7"/>
+  <hex row="7" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="7" col="4" terrain="16"/>
+  <hex row="7" col="5" terrain="16"/>
+  <hex row="7" col="6" terrain="16"/>
+  <hex row="7" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="7" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="7" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="7" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="7" col="11" terrain="5" road="33" name="Jebel Akhdar"/>
+  <hex row="7" col="12" terrain="16"/>
+  <hex row="7" col="13" terrain="7">
+    <unit id="66" owner="0" flag="8" face="7" transport="2407" exp="25" str="4"/>
+  </hex>
+  <hex row="7" col="14" terrain="7"/>
+  <hex row="7" col="15" terrain="7"/>
+  <hex row="7" col="16" terrain="7" road="136"/>
+  <hex row="7" col="17" terrain="7" road="136"/>
+  <hex row="7" col="18" terrain="7"/>
+  <hex row="7" col="19" terrain="1" road="9" name="Martubah" flag="22" owner="1">
+    <unit id="346" owner="1" flag="23" face="13" exp="25" ent="5" str="8"/>
+  </hex>
+  <hex row="7" col="20" terrain="16"/>
+  <hex row="7" col="21" terrain="16"/>
+  <hex row="7" col="22" terrain="16"/>
+  <hex row="7" col="23" terrain="7"/>
+  <hex row="7" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="7" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="0" terrain="7" road="17"/>
+  <hex row="8" col="1" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="2" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="4" terrain="16"/>
+  <hex row="8" col="5" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="6" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="8" col="9" terrain="5" road="10" name="Jebel Akhdar"/>
+  <hex row="8" col="10" terrain="5" road="34" name="Jebel Akhdar"/>
+  <hex row="8" col="11" terrain="16"/>
+  <hex row="8" col="12" terrain="16">
+    <unit id="561" owner="0" flag="8" face="7" str="1"/>
+  </hex>
+  <hex row="8" col="13" terrain="7">
+    <unit id="1233" owner="0" flag="8" face="7" transport="2406" exp="25" str="4"/>
+  </hex>
+  <hex row="8" col="14" terrain="7">
+    <unit id="146" owner="0" flag="8" face="7" exp="125" str="4"/>
+  </hex>
+  <hex row="8" col="15" terrain="7">
+    <unit id="110" owner="0" flag="8" face="7" transport="156" exp="25" str="4"/>
+  </hex>
+  <hex row="8" col="16" terrain="7"/>
+  <hex row="8" col="17" terrain="7"/>
+  <hex row="8" col="18" terrain="7" road="136"/>
+  <hex row="8" col="19" terrain="7" road="136"/>
+  <hex row="8" col="20" terrain="7" road="136"/>
+  <hex row="8" col="21" terrain="7" road="136"/>
+  <hex row="8" col="22" terrain="7"/>
+  <hex row="8" col="23" terrain="1" road="48" name="Tmimi"/>
+  <hex row="8" col="24" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="8" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="0" terrain="7" road="17" name="Jebel Akhdar"/>
+  <hex row="9" col="1" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="2" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="5" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="6" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="9" col="10" terrain="5" road="136" name="Jebel Akhdar"/>
+  <hex row="9" col="11" terrain="5" road="144" name="Jebel Akhdar"/>
+  <hex row="9" col="12" terrain="16"/>
+  <hex row="9" col="13" terrain="7"/>
+  <hex row="9" col="14" terrain="7">
+    <unit id="1244" owner="0" flag="8" face="7" transport="157" exp="25"/>
+  </hex>
+  <hex row="9" col="15" terrain="7"/>
+  <hex row="9" col="16" terrain="7"/>
+  <hex row="9" col="17" terrain="7"/>
+  <hex row="9" col="18" terrain="7"/>
+  <hex row="9" col="19" terrain="7"/>
+  <hex row="9" col="20" terrain="7" road="144"/>
+  <hex row="9" col="21" terrain="7"/>
+  <hex row="9" col="22" terrain="1" road="138" name="Tmimi"/>
+  <hex row="9" col="23" terrain="1" road="145" name="Tmimi" flag="26" owner="1">
+    <unit id="336" owner="1" flag="27" face="12" exp="25" ent="10"/>
+  </hex>
+  <hex row="9" col="24" terrain="7"/>
+  <hex row="9" col="25" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="9" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="0" terrain="7" road="9" name="Jebel Akhdar"/>
+  <hex row="10" col="1" terrain="5" road="144" name="Jebel Akhdar"/>
+  <hex row="10" col="2" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="5" terrain="16" name="Jebel Akhdar"/>
+  <hex row="10" col="6" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="10" col="11" terrain="5" road="9" name="Jebel Akhdar"/>
+  <hex row="10" col="12" terrain="16"/>
+  <hex row="10" col="13" terrain="7"/>
+  <hex row="10" col="14" terrain="7"/>
+  <hex row="10" col="15" terrain="7"/>
+  <hex row="10" col="16" terrain="7"/>
+  <hex row="10" col="17" terrain="7"/>
+  <hex row="10" col="18" terrain="7"/>
+  <hex row="10" col="19" terrain="7"/>
+  <hex row="10" col="20" terrain="7" road="9"/>
+  <hex row="10" col="21" terrain="7" road="144"/>
+  <hex row="10" col="22" terrain="7"/>
+  <hex row="10" col="23" terrain="7" road="9"/>
+  <hex row="10" col="24" terrain="7"/>
+  <hex row="10" col="25" terrain="7"/>
+  <hex row="10" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="10" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="0" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="1" terrain="5" road="17" name="Jebel Akhdar"/>
+  <hex row="11" col="2" terrain="16" name="Jebel Akhdar"/>
+  <hex row="11" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="4" terrain="16" name="Jebel Akhdar"/>
+  <hex row="11" col="5" terrain="16" name="Jebel Akhdar"/>
+  <hex row="11" col="6" terrain="16" name="Jebel Akhdar"/>
+  <hex row="11" col="7" terrain="16" name="Jebel Akhdar"/>
+  <hex row="11" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="11" terrain="5" name="Jebel Akhdar"/>
+  <hex row="11" col="12" terrain="5" road="144" name="Jebel Akhdar">
+    <unit id="336" owner="1" flag="27" face="0" exp="25" str="6"/>
+  </hex>
+  <hex row="11" col="13" terrain="16"/>
+  <hex row="11" col="14" terrain="7"/>
+  <hex row="11" col="15" terrain="7"/>
+  <hex row="11" col="16" terrain="7"/>
+  <hex row="11" col="17" terrain="7"/>
+  <hex row="11" col="18" terrain="7"/>
+  <hex row="11" col="19" terrain="7"/>
+  <hex row="11" col="20" terrain="7"/>
+  <hex row="11" col="21" terrain="7" road="17"/>
+  <hex row="11" col="22" terrain="7"/>
+  <hex row="11" col="23" terrain="7"/>
+  <hex row="11" col="24" terrain="7" road="136"/>
+  <hex row="11" col="25" terrain="7" road="136"/>
+  <hex row="11" col="26" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="27" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="11" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="0" terrain="5" name="Jebel Akhdar"/>
+  <hex row="12" col="1" terrain="5" road="17" name="Jebel Akhdar"/>
+  <hex row="12" col="2" terrain="16" name="Jebel Akhdar"/>
+  <hex row="12" col="3" terrain="16" name="Jebel Akhdar"/>
+  <hex row="12" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="12" col="5" terrain="16" name="Jebel Akhdar"/>
+  <hex row="12" col="6" terrain="16" name="Jebel Akhdar"/>
+  <hex row="12" col="7" terrain="16" name="Jebel Akhdar"/>
+  <hex row="12" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="12" col="9" terrain="5" name="Jebel Akhdar">
+    <unit id="1244" owner="0" flag="8" face="2" transport="157" exp="25" str="8"/>
+  </hex>
+  <hex row="12" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="12" col="11" terrain="5" road="18" name="Jebel Akhdar"/>
+  <hex row="12" col="12" terrain="5" road="33" name="Jebel Akhdar"/>
+  <hex row="12" col="13" terrain="5" name="Jebel Akhdar"/>
+  <hex row="12" col="14" terrain="16">
+    <unit id="110" owner="0" flag="8" face="14" transport="156" exp="25" str="6"/>
+  </hex>
+  <hex row="12" col="15" terrain="16"/>
+  <hex row="12" col="16" terrain="7"/>
+  <hex row="12" col="17" terrain="7"/>
+  <hex row="12" col="18" terrain="7"/>
+  <hex row="12" col="19" terrain="7"/>
+  <hex row="12" col="20" terrain="7"/>
+  <hex row="12" col="21" terrain="7" road="9"/>
+  <hex row="12" col="22" terrain="7"/>
+  <hex row="12" col="23" terrain="7" road="40"/>
+  <hex row="12" col="24" terrain="7"/>
+  <hex row="12" col="25" terrain="7"/>
+  <hex row="12" col="26" terrain="7" road="144"/>
+  <hex row="12" col="27" terrain="7"/>
+  <hex row="12" col="28" terrain="9" name="Mare Nostrum"/>
+  <hex row="12" col="29" terrain="9" name="Mare Nostrum"/>
+  <hex row="13" col="0" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="1" terrain="5" road="17" name="Jebel Akhdar"/>
+  <hex row="13" col="2" terrain="16" name="Jebel Akhdar"/>
+  <hex row="13" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="4" terrain="16" name="Jebel Akhdar"/>
+  <hex row="13" col="5" terrain="16" name="Jebel Akhdar"/>
+  <hex row="13" col="6" terrain="16" name="Jebel Akhdar"/>
+  <hex row="13" col="7" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="8" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="11" terrain="1" road="25" name="Mechili">
+    <unit id="343" owner="1" flag="23" face="10" ent="10"/>
+  </hex>
+  <hex row="13" col="12" terrain="5" name="Jebel Akhdar">
+    <unit id="2275" owner="1" flag="27" face="7" exp="25" ent="10" str="8"/>
+  </hex>
+  <hex row="13" col="13" terrain="5" name="Jebel Akhdar">
+    <unit id="338" owner="1" flag="23" face="6" exp="25" ent="10" str="4"/>
+  </hex>
+  <hex row="13" col="14" terrain="5" name="Jebel Akhdar"/>
+  <hex row="13" col="15" terrain="16"/>
+  <hex row="13" col="16" terrain="7"/>
+  <hex row="13" col="17" terrain="7"/>
+  <hex row="13" col="18" terrain="7"/>
+  <hex row="13" col="19" terrain="7" road="40"/>
+  <hex row="13" col="20" terrain="7"/>
+  <hex row="13" col="21" terrain="7" road="34"/>
+  <hex row="13" col="22" terrain="1" road="162" flag="26" owner="1">
+    <unit id="336" owner="1" flag="27" face="12" exp="25" ent="10"/>
+  </hex>
+  <hex row="13" col="23" terrain="7"/>
+  <hex row="13" col="24" terrain="7" road="136"/>
+  <hex row="13" col="25" terrain="7" road="130"/>
+  <hex row="13" col="26" terrain="1" road="41" name="Gazala"/>
+  <hex row="13" col="27" terrain="1" road="176" name="Gazala"/>
+  <hex row="13" col="28" terrain="7"/>
+  <hex row="13" col="29" terrain="7"/>
+  <hex row="14" col="0" terrain="5" name="Jebel Akhdar"/>
+  <hex row="14" col="1" terrain="1" road="33"/>
+  <hex row="14" col="2" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="14" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="14" col="5" terrain="5" name="Jebel Akhdar"/>
+  <hex row="14" col="6" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="7" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="8" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="9" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="10" terrain="16" name="Jebel Akhdar"/>
+  <hex row="14" col="11" terrain="1" road="51" name="Mechili">
+    <unit id="343" owner="1" flag="23" face="13" ent="10"/>
+  </hex>
+  <hex row="14" col="12" terrain="1" road="168" name="Mechili" flag="22" owner="1" victory="1">
+    <unit id="338" owner="1" flag="23" face="12" transport="1942" ent="10" str="4"/>
+    <unit id="1699" owner="1" flag="23" face="12" transport="1942" ent="10" str="4"/>
+  </hex>
+  <hex row="14" col="13" terrain="5" road="130" name="Jebel Akhdar">
+    <unit id="343" owner="1" flag="23" face="3" ent="10"/>
+  </hex>
+  <hex row="14" col="14" terrain="5" road="40" name="Jebel Akhdar"/>
+  <hex row="14" col="15" terrain="5" road="130" name="Jebel Akhdar"/>
+  <hex row="14" col="16" terrain="16" road="40">
+    <unit id="92" owner="0" flag="8" face="12" transport="157" exp="25"/>
+  </hex>
+  <hex row="14" col="17" terrain="7" road="130"/>
+  <hex row="14" col="18" terrain="7" road="34"/>
+  <hex row="14" col="19" terrain="7"/>
+  <hex row="14" col="20" terrain="7" road="130"/>
+  <hex row="14" col="21" terrain="7"/>
+  <hex row="14" col="22" terrain="7"/>
+  <hex row="14" col="23" terrain="7"/>
+  <hex row="14" col="24" terrain="7"/>
+  <hex row="14" col="25" terrain="7"/>
+  <hex row="14" col="26" terrain="1" road="2" name="Gazala" flag="22" owner="1">
+    <unit id="2275" owner="1" flag="27" face="12" transport="1942" exp="25" ent="5" str="4"/>
+  </hex>
+  <hex row="14" col="27" terrain="7" road="9"/>
+  <hex row="14" col="28" terrain="7"/>
+  <hex row="14" col="29" terrain="7"/>
+  <hex row="15" col="0" terrain="5" road="130" name="Jebel Akhdar"/>
+  <hex row="15" col="1" terrain="16" name="Jebel Akhdar" flag="12" owner="0" victory="0" supply="0"/>
+  <hex row="15" col="2" terrain="16" name="Jebel Akhdar"/>
+  <hex row="15" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="15" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="15" col="5" terrain="16" name="Jebel Akhdar"/>
+  <hex row="15" col="6" terrain="16" name="Jebel Akhdar"/>
+  <hex row="15" col="7" terrain="16" name="Jebel Akhdar"/>
+  <hex row="15" col="8" terrain="16" name="Jebel Akhdar">
+    <unit id="66" owner="0" flag="8" face="5" transport="2407" exp="25"/>
+  </hex>
+  <hex row="15" col="9" terrain="7" road="34"/>
+  <hex row="15" col="10" terrain="5" road="34" name="Jebel Akhdar"/>
+  <hex row="15" col="11" terrain="5" road="17" name="Jebel Akhdar"/>
+  <hex row="15" col="12" terrain="5" name="Jebel Akhdar">
+    <unit id="3360" owner="1" flag="23" face="1" exp="125" ent="10" str="4"/>
+  </hex>
+  <hex row="15" col="13" terrain="5" name="Jebel Akhdar"/>
+  <hex row="15" col="14" terrain="5" name="Jebel Akhdar"/>
+  <hex row="15" col="15" terrain="5" name="Jebel Akhdar"/>
+  <hex row="15" col="16" terrain="16"/>
+  <hex row="15" col="17" terrain="7"/>
+  <hex row="15" col="18" terrain="7"/>
+  <hex row="15" col="19" terrain="7"/>
+  <hex row="15" col="20" terrain="7"/>
+  <hex row="15" col="21" terrain="7"/>
+  <hex row="15" col="22" terrain="7"/>
+  <hex row="15" col="23" terrain="7"/>
+  <hex row="15" col="24" terrain="7"/>
+  <hex row="15" col="25" terrain="2" road="8" name="Gazala airport" flag="22" owner="1">
+    <unit id="321" owner="1" flag="23" face="12" transport="1942"/>
+  </hex>
+  <hex row="15" col="26" terrain="7"/>
+  <hex row="15" col="27" terrain="7" road="40"/>
+  <hex row="15" col="28" terrain="7" road="136"/>
+  <hex row="15" col="29" terrain="7" road="136"/>
+  <hex row="16" col="0" terrain="5" road="40" name="Jebel Akhdar"/>
+  <hex row="16" col="1" terrain="5" road="130" name="Jebel Akhdar"/>
+  <hex row="16" col="2" terrain="16" road="40" name="Jebel Akhdar"/>
+  <hex row="16" col="3" terrain="16" road="130" name="Jebel Akhdar"/>
+  <hex row="16" col="4" terrain="16" road="40" name="Jebel Akhdar"/>
+  <hex row="16" col="5" terrain="16" road="130"/>
+  <hex row="16" col="6" terrain="16" road="40"/>
+  <hex row="16" col="7" terrain="16" road="146"/>
+  <hex row="16" col="8" terrain="7" road="34"/>
+  <hex row="16" col="9" terrain="7"/>
+  <hex row="16" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="16" col="11" terrain="5" road="9" name="Jebel Akhdar" deploy="0"/>
+  <hex row="16" col="12" terrain="5" name="Jebel Akhdar"/>
+  <hex row="16" col="13" terrain="5" name="Jebel Akhdar"/>
+  <hex row="16" col="14" terrain="5" name="Jebel Akhdar">
+    <unit id="75" owner="0" flag="8" face="10" exp="25"/>
+  </hex>
+  <hex row="16" col="15" terrain="5" name="Jebel Akhdar"/>
+  <hex row="16" col="16" terrain="16"/>
+  <hex row="16" col="17" terrain="7"/>
+  <hex row="16" col="18" terrain="7"/>
+  <hex row="16" col="19" terrain="7"/>
+  <hex row="16" col="20" terrain="7"/>
+  <hex row="16" col="21" terrain="7"/>
+  <hex row="16" col="22" terrain="7"/>
+  <hex row="16" col="23" terrain="7"/>
+  <hex row="16" col="24" terrain="7"/>
+  <hex row="16" col="25" terrain="7" road="34"/>
+  <hex row="16" col="26" terrain="7" road="162"/>
+  <hex row="16" col="27" terrain="7"/>
+  <hex row="16" col="28" terrain="7" road="136"/>
+  <hex row="16" col="29" terrain="7" road="136"/>
+  <hex row="17" col="0" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="1" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="2" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="3" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="4" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="5" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="6" terrain="16"/>
+  <hex row="17" col="7" terrain="16" road="17"/>
+  <hex row="17" col="8" terrain="7"/>
+  <hex row="17" col="9" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="10" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="11" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="12" terrain="5" road="144" name="Jebel Akhdar"/>
+  <hex row="17" col="13" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="14" terrain="5" name="Jebel Akhdar"/>
+  <hex row="17" col="15" terrain="7"/>
+  <hex row="17" col="16" terrain="16"/>
+  <hex row="17" col="17" terrain="7"/>
+  <hex row="17" col="18" terrain="7"/>
+  <hex row="17" col="19" terrain="7"/>
+  <hex row="17" col="20" terrain="7"/>
+  <hex row="17" col="21" terrain="7"/>
+  <hex row="17" col="22" terrain="7"/>
+  <hex row="17" col="23" terrain="7" road="34"/>
+  <hex row="17" col="24" terrain="7" road="34"/>
+  <hex row="17" col="25" terrain="7"/>
+  <hex row="17" col="26" terrain="7"/>
+  <hex row="17" col="27" terrain="7"/>
+  <hex row="17" col="28" terrain="7"/>
+  <hex row="17" col="29" terrain="7"/>
+</map>

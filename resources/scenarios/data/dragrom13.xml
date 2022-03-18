@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom13.scn" name="Carei -Satu Mare" turns="8, 10, 12" date="October 22, 1944" dayturns="3" ground="0" atmosferic="0" latitude="1" rows="18" cols="35" eqp="eqp-adlerkorps" image="resources/maps/images/map_761.png">
+  <player id="0" country="17" side="0" airtrans="1" navaltrans="0" support="20, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300"/>
+  <player id="1" country="10" side="1" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="5">
+    <at row="8" col="2">
+      <unit id="191" owner="1" flag="11" face="3" exp="500" str="8"/>
+    </at>
+    <at row="6" col="1">
+      <unit id="977" owner="1" flag="11" face="3" exp="400" str="7"/>
+    </at>
+    <at row="6" col="3">
+      <unit id="620" owner="1" flag="11" face="2" exp="450" str="9" ldr="1"/>
+    </at>
+    <at row="7" col="3">
+      <unit id="2708" owner="1" flag="11" face="2" transport="192" exp="400"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="3" col="1">
+      <unit id="1335" owner="1" flag="11" face="4" exp="500"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="5" col="34">
+      <unit id="682" owner="0" flag="20" face="10" exp="400"/>
+    </at>
+    <at row="1" col="35">
+      <unit id="682" owner="0" flag="20" face="10" exp="400"/>
+    </at>
+    <at row="4" col="35">
+      <unit id="485" owner="0" flag="20" face="11" transport="2586" exp="400"/>
+    </at>
+    <at row="2" col="35">
+      <unit id="682" owner="0" flag="20" face="12" exp="400" ldr="1"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="3"/>
+  <hex row="0" col="3" terrain="10" name="Crasna"/>
+  <hex row="0" col="5" terrain="1" name="Tiborszallas" flag="10" owner="1"/>
+  <hex row="0" col="17" terrain="1" name="Csenger" flag="10" owner="1"/>
+  <hex row="0" col="18" terrain="10" name="Somes"/>
+  <hex row="0" col="19" terrain="10" name="Somes"/>
+  <hex row="0" col="23" terrain="3"/>
+  <hex row="0" col="24" terrain="3" road="8"/>
+  <hex row="0" col="25" road="136"/>
+  <hex row="0" col="27">
+    <unit id="954" owner="1" flag="11" face="4" transport="2718" exp="400" str="7"/>
+  </hex>
+  <hex row="0" col="31" road="32"/>
+  <hex row="1" col="2" terrain="3"/>
+  <hex row="1" col="3" terrain="10" name="Crasna"/>
+  <hex row="1" col="15" terrain="1" name="Csengerujfalu" flag="10" owner="1"/>
+  <hex row="1" col="20" terrain="10" name="Somes"/>
+  <hex row="1" col="21" terrain="10" name="Somes"/>
+  <hex row="1" col="26" road="136">
+    <unit id="1320" owner="1" flag="11" face="1" exp="400" str="7"/>
+  </hex>
+  <hex row="1" col="27" road="136"/>
+  <hex row="1" col="30" road="18"/>
+  <hex row="2" col="1" terrain="3"/>
+  <hex row="2" col="3" terrain="10" name="Crasna"/>
+  <hex row="2" col="22" terrain="10" name="Somes"/>
+  <hex row="2" col="23" terrain="10" name="Somes"/>
+  <hex row="2" col="24" terrain="10" name="Somes"/>
+  <hex row="2" col="25" terrain="10" name="Somes"/>
+  <hex row="2" col="26" terrain="10" name="Somes"/>
+  <hex row="2" col="27" terrain="10" name="Somes"/>
+  <hex row="2" col="28" terrain="1" road="152" name="Satu Mare" flag="10" owner="1" victory="1">
+    <unit id="2706" owner="1" flag="11" face="4" exp="400" ent="5"/>
+  </hex>
+  <hex row="2" col="29" terrain="10" road="162" name="Somes"/>
+  <hex row="2" col="30" road="33"/>
+  <hex row="2" col="34" terrain="1" name="Odoreu" flag="10" owner="1"/>
+  <hex row="3" col="3" terrain="1" name="Merk" flag="10" owner="1">
+    <unit id="1248" owner="1" flag="8" face="2" exp="500"/>
+  </hex>
+  <hex row="3" col="23" road="34"/>
+  <hex row="3" col="24" road="40"/>
+  <hex row="3" col="25" road="130"/>
+  <hex row="3" col="26" road="40"/>
+  <hex row="3" col="27" terrain="1" road="138" name="Satu Mare" flag="10" owner="1" victory="1">
+    <unit id="2706" owner="1" flag="11" face="2" exp="400" ent="5"/>
+  </hex>
+  <hex row="3" col="28" terrain="1" road="51" name="Satu Mare" flag="10" owner="1">
+    <unit id="2706" owner="1" flag="11" face="4" exp="400" ent="7"/>
+  </hex>
+  <hex row="3" col="30" terrain="10" name="Somes"/>
+  <hex row="3" col="31" terrain="10" name="Somes"/>
+  <hex row="3" col="32" terrain="10" name="Somes"/>
+  <hex row="3" col="33" terrain="10" name="Somes"/>
+  <hex row="3" col="34" terrain="10" name="Somes"/>
+  <hex row="4" col="4" terrain="10" name="Crasna"/>
+  <hex row="4" col="5" terrain="10" name="Crasna"/>
+  <hex row="4" col="21">
+    <unit id="98" owner="1" flag="8" face="2" transport="2730" exp="400"/>
+  </hex>
+  <hex row="4" col="22" road="18"/>
+  <hex row="4" col="28" road="145"/>
+  <hex row="5" col="3">
+    <unit id="600" owner="1" flag="8" face="2" exp="500" str="7"/>
+  </hex>
+  <hex row="5" col="6" terrain="10" name="Crasna"/>
+  <hex row="5" col="7" terrain="10" name="Crasna"/>
+  <hex row="5" col="21" road="34"/>
+  <hex row="5" col="22" road="33"/>
+  <hex row="5" col="23">
+    <unit id="113" owner="1" flag="8" face="4" exp="500" ent="5"/>
+  </hex>
+  <hex row="5" col="28" road="17"/>
+  <hex row="6" col="8" terrain="10" name="Crasna"/>
+  <hex row="6" col="9" terrain="10" name="Crasna"/>
+  <hex row="6" col="14" terrain="3"/>
+  <hex row="6" col="19" terrain="1" road="34" name="Doba" flag="10" owner="1">
+    <unit id="113" owner="1" flag="8" face="4" exp="450" ent="8"/>
+  </hex>
+  <hex row="6" col="20" road="34"/>
+  <hex row="6" col="21">
+    <unit id="3167" owner="1" flag="8" face="2" exp="500" ent="7" str="5"/>
+  </hex>
+  <hex row="6" col="28" road="17"/>
+  <hex row="7" col="5">
+    <unit id="1222" owner="1" flag="8" face="2" transport="2407" exp="400" str="7"/>
+  </hex>
+  <hex row="7" col="10" terrain="10" name="Crasna"/>
+  <hex row="7" col="11" terrain="10" name="Crasna"/>
+  <hex row="7" col="17" road="34"/>
+  <hex row="7" col="18" road="34"/>
+  <hex row="7" col="28" road="17"/>
+  <hex row="8" col="6">
+    <unit id="93" owner="1" flag="8" face="2" transport="2404" exp="500"/>
+  </hex>
+  <hex row="8" col="9">
+    <unit id="110" owner="1" flag="8" face="1" transport="156" exp="500" str="5"/>
+  </hex>
+  <hex row="8" col="12" terrain="10" name="Crasna"/>
+  <hex row="8" col="13" terrain="10" name="Crasna"/>
+  <hex row="8" col="15" terrain="10" road="34" name="Crasna"/>
+  <hex row="8" col="16" road="34"/>
+  <hex row="8" col="27" road="18"/>
+  <hex row="8" col="28" road="33"/>
+  <hex row="8" col="29" terrain="2" flag="10" owner="1">
+    <unit id="935" owner="1" flag="11" face="4" transport="2723" exp="500" ent="8" str="5"/>
+  </hex>
+  <hex row="8" col="33" terrain="3"/>
+  <hex row="9" col="3">
+    <unit id="2704" owner="1" flag="11" face="1" transport="2718" exp="400" ent="5"/>
+  </hex>
+  <hex row="9" col="7" terrain="1" road="56" name="Carei" flag="10" owner="1" victory="1">
+    <unit id="1248" owner="1" flag="8" face="1" exp="500" ent="8"/>
+  </hex>
+  <hex row="9" col="9" road="40">
+    <unit id="1248" owner="1" flag="8" face="1" exp="500"/>
+  </hex>
+  <hex row="9" col="11" road="40"/>
+  <hex row="9" col="13" road="42"/>
+  <hex row="9" col="14" terrain="10" road="50" name="Crasna"/>
+  <hex row="9" col="16" terrain="10" name="Crasna"/>
+  <hex row="9" col="27" road="17"/>
+  <hex row="9" col="31" terrain="3"/>
+  <hex row="9" col="32" terrain="3"/>
+  <hex row="9" col="34">
+    <unit id="682" owner="0" flag="20" face="11" exp="300"/>
+  </hex>
+  <hex row="10" col="6" terrain="1" road="26" name="Carei" flag="10" owner="1">
+    <unit id="2706" owner="1" flag="11" face="4" exp="400"/>
+  </hex>
+  <hex row="10" col="7" road="163">
+    <unit id="80" owner="1" flag="8" face="2" transport="2401" exp="500" str="7"/>
+  </hex>
+  <hex row="10" col="8" road="162"/>
+  <hex row="10" col="10" road="130"/>
+  <hex row="10" col="12" road="130"/>
+  <hex row="10" col="14" terrain="1" road="129" name="Moftinu Mic" flag="10" owner="1">
+    <unit id="1248" owner="1" flag="8" face="0" exp="500" ent="8"/>
+  </hex>
+  <hex row="10" col="16" terrain="10" name="Crasna"/>
+  <hex row="10" col="17" terrain="10" name="Crasna"/>
+  <hex row="10" col="27" road="17"/>
+  <hex row="11" col="4">
+    <unit id="1314" owner="1" flag="11" face="1" transport="193" exp="400" ent="7" str="7"/>
+  </hex>
+  <hex row="11" col="5" road="34"/>
+  <hex row="11" col="6" road="35"/>
+  <hex row="11" col="17" terrain="10" name="Crasna"/>
+  <hex row="11" col="25" terrain="3"/>
+  <hex row="11" col="26" terrain="3"/>
+  <hex row="11" col="27" road="9"/>
+  <hex row="11" col="32" terrain="1" name="Viile Satu Mare" flag="10" owner="1"/>
+  <hex row="11" col="34">
+    <unit id="682" owner="0" flag="20" face="11" exp="350"/>
+  </hex>
+  <hex row="12" col="4" road="18"/>
+  <hex row="12" col="17" terrain="10" name="Crasna"/>
+  <hex row="12" col="25" terrain="3"/>
+  <hex row="12" col="26" terrain="3"/>
+  <hex row="12" col="28" road="144"/>
+  <hex row="13" col="2">
+    <unit id="2706" owner="1" flag="11" face="4" exp="400" ent="6"/>
+  </hex>
+  <hex row="13" col="3" road="34"/>
+  <hex row="13" col="4" road="33"/>
+  <hex row="13" col="18" terrain="10" name="Crasna"/>
+  <hex row="13" col="19" terrain="10" name="Crasna"/>
+  <hex row="13" col="28" road="17"/>
+  <hex row="13" col="32" terrain="3"/>
+  <hex row="13" col="33" terrain="3"/>
+  <hex row="13" col="34" terrain="3"/>
+  <hex row="14" col="2" road="18"/>
+  <hex row="14" col="18" terrain="1" name="Craidorolt" flag="10" owner="1"/>
+  <hex row="14" col="19" terrain="10" name="Crasna"/>
+  <hex row="14" col="28" terrain="1" road="17" name="Ardud" flag="10" owner="1"/>
+  <hex row="14" col="31">
+    <unit id="307" owner="0" flag="18" face="9" exp="300"/>
+  </hex>
+  <hex row="14" col="34" terrain="3"/>
+  <hex row="15" col="1" terrain="1" road="34" name="Petresti" flag="10" owner="1">
+    <unit id="2706" owner="1" flag="11" face="2" exp="400" ent="8"/>
+  </hex>
+  <hex row="15" col="2" road="33"/>
+  <hex row="15" col="19" terrain="10" name="Crasna"/>
+  <hex row="15" col="25" terrain="3"/>
+  <hex row="15" col="28" road="17"/>
+  <hex row="15" col="30">
+    <unit id="307" owner="0" flag="18" face="9" exp="300"/>
+  </hex>
+  <hex row="16" col="0" road="2"/>
+  <hex row="16" col="9" deploy="0"/>
+  <hex row="16" col="11" deploy="0"/>
+  <hex row="16" col="13" deploy="0"/>
+  <hex row="16" col="17" deploy="0"/>
+  <hex row="16" col="19" terrain="10" name="Crasna"/>
+  <hex row="16" col="21" terrain="10" name="Crasna"/>
+  <hex row="16" col="25" terrain="3"/>
+  <hex row="16" col="26" terrain="3"/>
+  <hex row="16" col="27" terrain="3"/>
+  <hex row="16" col="28" road="17">
+    <unit id="307" owner="0" flag="18" face="9" exp="300"/>
+  </hex>
+  <hex row="17" col="4" deploy="0"/>
+  <hex row="17" col="6" deploy="0"/>
+  <hex row="17" col="7" terrain="3"/>
+  <hex row="17" col="10" deploy="0"/>
+  <hex row="17" col="12" deploy="0"/>
+  <hex row="17" col="14" deploy="0"/>
+  <hex row="17" col="18" deploy="0"/>
+  <hex row="17" col="20" terrain="10" name="Crasna"/>
+  <hex row="17" col="22" terrain="10" name="Crasna"/>
+  <hex row="17" col="23" terrain="10" name="Crasna"/>
+  <hex row="17" col="26" terrain="3" deploy="0"/>
+  <hex row="17" col="27" road="18"/>
+  <hex row="17" col="28" road="33" flag="17" owner="0" victory="1" deploy="0">
+    <unit id="1577" owner="0" flag="18" face="8" transport="2563" exp="400"/>
+  </hex>
+</map>

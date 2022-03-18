@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="it18maeg.scn" name="Egypt or Malta?" turns="1, 5, 5" date="July 01, 1942" dayturns="5" ground="0" atmosferic="0" latitude="0" rows="39" cols="44" eqp="eqp-adlerkorps" image="resources/maps/images/map_346.png">
+  <player id="0" country="12" side="0" airtrans="3" navaltrans="3" support="8, 6, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="22" side="1" airtrans="0" navaltrans="0" support="20, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <hex row="2" col="28">
+    <unit id="113" owner="0" flag="8" face="3" str="4"/>
+  </hex>
+  <hex row="2" col="30" name="Murmansk (PORT)" flag="19"/>
+  <hex row="3" col="28" name="Lake Inari">
+    <unit id="12" owner="0" flag="6" face="3" str="4"/>
+  </hex>
+  <hex row="4" col="28">
+    <unit id="12" owner="0" flag="6" face="4" str="1"/>
+  </hex>
+  <hex row="6" col="28">
+    <unit id="12" owner="0" flag="6" face="4" str="4"/>
+  </hex>
+  <hex row="7" col="29">
+    <unit id="12" owner="0" flag="6" face="4" str="4"/>
+  </hex>
+  <hex row="9" col="25" name="Helsinki" flag="5"/>
+  <hex row="9" col="29">
+    <unit id="12" owner="0" flag="6" face="2" str="4"/>
+  </hex>
+  <hex row="10" col="15" name="Oslo" flag="7"/>
+  <hex row="10" col="28">
+    <unit id="12" owner="0" flag="6" face="2" str="4"/>
+  </hex>
+  <hex row="10" col="29" name="Leningrad (PORT)" flag="19"/>
+  <hex row="11" col="20" name="Stockholm" flag="20"/>
+  <hex row="11" col="32">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="12" col="30" name="Volkhov">
+    <unit id="115" owner="0" flag="8" face="4"/>
+  </hex>
+  <hex row="13" col="34">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="13" col="36" name="Moscow" flag="19"/>
+  <hex row="14" col="33">
+    <unit id="115" owner="0" flag="8" face="4"/>
+  </hex>
+  <hex row="15" col="16" name="Baltic Sea" flag="7"/>
+  <hex row="15" col="32" name="Smolensk" flag="7"/>
+  <hex row="15" col="36">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="17" col="7" name="London" flag="22"/>
+  <hex row="17" col="27" name="Warsaw" flag="7"/>
+  <hex row="17" col="33" name="Bryansk" flag="7"/>
+  <hex row="17" col="36">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="18" col="10" name="The Hague (PORT)" flag="7"/>
+  <hex row="18" col="18" name="Berlin" flag="7"/>
+  <hex row="19" col="10" name="Brussels" flag="7"/>
+  <hex row="19" col="36">
+    <unit id="115" owner="0" flag="8" face="4"/>
+  </hex>
+  <hex row="19" col="38">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="21" col="9" name="Paris" flag="7"/>
+  <hex row="21" col="21" name="Vienna" flag="7"/>
+  <hex row="21" col="35" name="Stalino" flag="7"/>
+  <hex row="21" col="40" name="Stalingrad" flag="19">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="22" col="23" name="Budapest" flag="10"/>
+  <hex row="22" col="39">
+    <unit id="115" owner="0" flag="8" face="4"/>
+  </hex>
+  <hex row="23" col="9" name="Vichy" flag="6"/>
+  <hex row="23" col="19" name="Zagreb" flag="18"/>
+  <hex row="24" col="32" name="Sevastopol" flag="7"/>
+  <hex row="24" col="37" name="Maikop" flag="7"/>
+  <hex row="24" col="39">
+    <unit id="115" owner="0" flag="8" face="4"/>
+  </hex>
+  <hex row="24" col="41">
+    <unit id="2555" owner="1" flag="20" face="11"/>
+  </hex>
+  <hex row="25" col="21" name="Sarajevo" flag="7"/>
+  <hex row="25" col="25" name="Bucharest" flag="17"/>
+  <hex row="26" col="24" name="Sofia" flag="2"/>
+  <hex row="27" col="14" name="Bonifacio (OCEAN)" flag="12"/>
+  <hex row="27" col="17" name="Rome" flag="12" owner="0" victory="1"/>
+  <hex row="27" col="28" name="Istanbul" flag="11"/>
+  <hex row="28" col="4" name="Madrid" flag="24"/>
+  <hex row="29" col="1" name="Lisbon (PORTUGAL)" flag="16"/>
+  <hex row="29" col="10" name="Palma (OCEAN)" flag="24"/>
+  <hex row="29" col="14" name="Cagliari (PORT)" flag="12"/>
+  <hex row="30" col="17" name="Palermo">
+    <unit id="625" owner="0" flag="13" face="0" str="1"/>
+  </hex>
+  <hex row="30" col="19" name="Straits of Messina">
+    <unit id="214" owner="0" flag="13" face="0" str="1"/>
+  </hex>
+  <hex row="30" col="25" name="Athens" flag="7"/>
+  <hex row="31" col="3" name="Gibraltar (PORT)" flag="22"/>
+  <hex row="31" col="9" name="Algiers" flag="6"/>
+  <hex row="31" col="15" name="Tunis (PORT)" flag="6" owner="1"/>
+  <hex row="32" col="18" name="Malta (AIRFIELD)" flag="22" owner="1" victory="1"/>
+  <hex row="33" col="6" name="Oran" flag="6"/>
+  <hex row="33" col="26" name="Crete (AIRFIELD)" flag="7"/>
+  <hex row="33" col="32" name="Cyprus (AIRFIELD)" flag="22"/>
+  <hex row="34" col="34" name="Beirut" flag="22"/>
+  <hex row="35" col="1" name="Marrakech" flag="6"/>
+  <hex row="35" col="17" flag="12"/>
+  <hex row="36" col="26" name="Tobruk (PORT)" flag="12">
+    <unit id="221" owner="0" flag="13" face="4" str="4"/>
+  </hex>
+  <hex row="36" col="34" name="Jerusalem" flag="22"/>
+  <hex row="36" col="35" name="Amman" flag="22"/>
+  <hex row="37" col="29" flag="22" owner="1" victory="1"/>
+  <hex row="37" col="30" name="Cairo" flag="22"/>
+</map>

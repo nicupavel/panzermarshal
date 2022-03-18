@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="sb6with.scn" name="Withdrawal to Bataan" turns="8, 15, 19" date="December 25, 1941" dayturns="6" ground="0" atmosferic="0" latitude="0" rows="39" cols="44" eqp="eqp-pacific" image="resources/maps/images/map_248.png">
+  <player id="0" country="9" side="1" airtrans="1" navaltrans="3" support="17, 0, 0, 0" turnprestige="20, 30, 30, 30, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="5" side="0" airtrans="1" navaltrans="3" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="2" col="18">
+      <unit id="1058" owner="1" flag="6" face="0" exp="308" ent="3" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="13" col="9">
+      <unit id="1714" owner="1" flag="6" face="13" exp="391" ent="4" str="4"/>
+    </at>
+    <at row="20" col="21">
+      <unit id="638" owner="0" flag="17" face="6" exp="181" ent="3" str="4"/>
+    </at>
+    <at row="21" col="20">
+      <unit id="638" owner="0" flag="17" face="6" exp="125" ent="3" str="5"/>
+    </at>
+    <at row="24" col="18">
+      <unit id="2648" owner="0" flag="10" face="6" transport="1246" exp="155" ent="3" str="3"/>
+    </at>
+    <at row="13" col="10">
+      <unit id="1714" owner="1" flag="6" face="13" exp="392" ent="4" str="5"/>
+    </at>
+    <at row="6" col="25">
+      <unit id="1718" owner="1" flag="6" face="13" transport="982" exp="322" ent="4" str="4"/>
+    </at>
+    <at row="14" col="10">
+      <unit id="1714" owner="1" flag="6" face="13" exp="399" ent="4" str="5"/>
+    </at>
+    <at row="5" col="25">
+      <unit id="1718" owner="1" flag="6" face="13" transport="982" exp="225" ent="4" str="4"/>
+    </at>
+    <at row="7" col="26">
+      <unit id="967" owner="1" flag="6" face="13" exp="351" ent="4" str="5" ldr="1"/>
+    </at>
+    <at row="6" col="26">
+      <unit id="1058" owner="1" flag="6" face="13" exp="388" ent="3" str="4"/>
+    </at>
+    <at row="2" col="5">
+      <unit id="984" owner="1" flag="6" face="0" transport="982" exp="354" ent="1" str="5" ldr="1"/>
+    </at>
+    <at row="1" col="6">
+      <unit id="2626" owner="1" flag="6" face="0" exp="201" ent="1" str="6" ldr="1"/>
+    </at>
+    <at row="2" col="7">
+      <unit id="984" owner="1" flag="6" face="0" transport="982" exp="331" ent="1" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="4" col="23">
+      <unit id="980" owner="1" flag="6" face="1" exp="385" ent="4" str="3"/>
+    </at>
+    <at row="16" col="25">
+      <unit id="1714" owner="1" flag="6" face="13" exp="347" ent="3" str="5"/>
+    </at>
+    <at row="17" col="24">
+      <unit id="1714" owner="1" flag="6" face="13" exp="336" ent="3" str="6"/>
+    </at>
+    <at row="29" col="26">
+      <unit id="1978" owner="0" flag="17" face="9" transport="1504" exp="185" ent="1" str="7"/>
+    </at>
+    <at row="16" col="24">
+      <unit id="1714" owner="1" flag="6" face="13" exp="308" ent="3" str="5"/>
+    </at>
+    <at row="2" col="6">
+      <unit id="977" owner="1" flag="6" face="0" transport="640" exp="341" ent="3" str="5"/>
+    </at>
+    <at row="1" col="6">
+      <unit id="912" owner="1" flag="6" face="0" exp="326" ent="3" str="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="29" col="26">
+      <unit id="1239" owner="0" flag="10" face="8" exp="152" ent="1" str="6"/>
+    </at>
+    <at row="3" col="26">
+      <unit id="885" owner="1" flag="6" face="14" exp="213" ent="1" str="4"/>
+    </at>
+    <at row="28" col="26">
+      <unit id="1239" owner="0" flag="10" face="9" exp="125" ent="1" str="6"/>
+      <unit id="638" owner="0" flag="17" face="9" exp="132" ent="1" str="7"/>
+    </at>
+    <at row="2" col="26">
+      <unit id="885" owner="1" flag="6" face="14" exp="231" ent="1" str="5"/>
+    </at>
+    <at row="4" col="26">
+      <unit id="635" owner="1" flag="6" face="13" exp="167" ent="1" str="1"/>
+    </at>
+    <at row="7" col="26">
+      <unit id="1714" owner="1" flag="6" face="0" exp="279" ent="5" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="5" col="25">
+      <unit id="980" owner="1" flag="6" face="0" exp="315" ent="5" str="5"/>
+    </at>
+    <at row="29" col="26">
+      <unit id="670" owner="0" flag="10" face="9" exp="198" ent="1" str="5"/>
+      <unit id="1505" owner="0" flag="17" face="9" transport="1504" exp="188" ent="1" str="5"/>
+    </at>
+    <at row="6" col="26">
+      <unit id="1058" owner="1" flag="6" face="0" exp="322" ent="5" str="5"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="3"/>
+  <hex row="0" col="1" terrain="3"/>
+  <hex row="0" col="2" terrain="3"/>
+  <hex row="0" col="3" terrain="3"/>
+  <hex row="0" col="4" terrain="3"/>
+  <hex row="0" col="7" terrain="1" road="50" name="Tarlac"/>
+  <hex row="0" col="8" road="33"/>
+  <hex row="0" col="12" terrain="4"/>
+  <hex row="0" col="16" road="17"/>
+  <hex row="0" col="17" terrain="2"/>
+  <hex row="0" col="18" terrain="4"/>
+  <hex row="0" col="19" terrain="16"/>
+  <hex row="0" col="20" terrain="16"/>
+  <hex row="0" col="21" terrain="16"/>
+  <hex row="0" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="0" col="23" terrain="6"/>
+  <hex row="0" col="24" terrain="6"/>
+  <hex row="0" col="25" terrain="6"/>
+  <hex row="0" col="26" terrain="6"/>
+  <hex row="0" col="27" terrain="6"/>
+  <hex row="0" col="28" terrain="4"/>
+  <hex row="1" col="0" terrain="3"/>
+  <hex row="1" col="1" terrain="3"/>
+  <hex row="1" col="2" terrain="3"/>
+  <hex row="1" col="3" terrain="3"/>
+  <hex row="1" col="4" terrain="3"/>
+  <hex row="1" col="5">
+    <unit id="2645" owner="1" flag="6" face="0" transport="640" exp="373" ent="4" str="5"/>
+  </hex>
+  <hex row="1" col="6" terrain="1" road="10" name="Tarlac"/>
+  <hex row="1" col="7" terrain="1" road="161" name="Tarlac">
+    <unit id="984" owner="1" flag="6" face="0" transport="982" exp="300" ent="4" str="6"/>
+  </hex>
+  <hex row="1" col="16" terrain="4" road="17"/>
+  <hex row="1" col="17" terrain="16"/>
+  <hex row="1" col="18" terrain="2" owner="1"/>
+  <hex row="1" col="19" terrain="16"/>
+  <hex row="1" col="20" terrain="16"/>
+  <hex row="1" col="21" terrain="16"/>
+  <hex row="1" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="1" col="24" terrain="6"/>
+  <hex row="1" col="25" terrain="5"/>
+  <hex row="1" col="26" terrain="6"/>
+  <hex row="1" col="27" terrain="4"/>
+  <hex row="1" col="28" terrain="4"/>
+  <hex row="2" col="0" terrain="6"/>
+  <hex row="2" col="1" terrain="6"/>
+  <hex row="2" col="2" terrain="6"/>
+  <hex row="2" col="3" terrain="6"/>
+  <hex row="2" col="4" terrain="3"/>
+  <hex row="2" col="6" road="18">
+    <unit id="1714" owner="1" flag="6" face="0" exp="412" ent="4" str="6"/>
+  </hex>
+  <hex row="2" col="16" terrain="1" road="9" name="LaPaz"/>
+  <hex row="2" col="17" terrain="16" road="136"/>
+  <hex row="2" col="18" terrain="16"/>
+  <hex row="2" col="19" terrain="16"/>
+  <hex row="2" col="20" terrain="16"/>
+  <hex row="2" col="21" terrain="16"/>
+  <hex row="2" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="2" col="24" terrain="5"/>
+  <hex row="2" col="25" terrain="5"/>
+  <hex row="2" col="26" terrain="5"/>
+  <hex row="2" col="27" terrain="15"/>
+  <hex row="2" col="28" terrain="15"/>
+  <hex row="3" col="0" terrain="6"/>
+  <hex row="3" col="1" terrain="6"/>
+  <hex row="3" col="2" terrain="6"/>
+  <hex row="3" col="3" terrain="3"/>
+  <hex row="3" col="4" terrain="3"/>
+  <hex row="3" col="5">
+    <unit id="288" owner="0" flag="17" face="8" transport="2928" exp="296" ent="4" str="6" ldr="1"/>
+  </hex>
+  <hex row="3" col="6" road="17"/>
+  <hex row="3" col="7">
+    <unit id="1981" owner="0" flag="17" face="8" exp="298" ent="2" str="7" ldr="1"/>
+  </hex>
+  <hex row="3" col="16" terrain="4"/>
+  <hex row="3" col="18" road="136"/>
+  <hex row="3" col="19" road="144">
+    <unit id="1037" owner="1" flag="6" face="0" exp="146" ent="12" str="2"/>
+  </hex>
+  <hex row="3" col="20" terrain="16">
+    <unit id="1037" owner="1" flag="6" face="0" exp="120" ent="12" str="2"/>
+  </hex>
+  <hex row="3" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="3" col="23" terrain="4"/>
+  <hex row="3" col="24" terrain="4"/>
+  <hex row="3" col="25" terrain="4"/>
+  <hex row="3" col="26" terrain="4"/>
+  <hex row="3" col="27" terrain="4"/>
+  <hex row="3" col="28" terrain="4"/>
+  <hex row="4" col="0" terrain="6"/>
+  <hex row="4" col="1" terrain="3"/>
+  <hex row="4" col="2" terrain="6"/>
+  <hex row="4" col="3" terrain="3"/>
+  <hex row="4" col="4" terrain="3"/>
+  <hex row="4" col="6" road="17">
+    <unit id="638" owner="0" flag="17" face="1" exp="182" ent="2" str="7"/>
+  </hex>
+  <hex row="4" col="17" terrain="10" name="Dalagat River" deploy="0"/>
+  <hex row="4" col="19" road="33">
+    <unit id="979" owner="1" flag="6" face="13" exp="394" ent="5" str="5"/>
+  </hex>
+  <hex row="4" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="4" col="23" terrain="4"/>
+  <hex row="4" col="24" terrain="4"/>
+  <hex row="4" col="25" terrain="4"/>
+  <hex row="4" col="26" terrain="4"/>
+  <hex row="4" col="27" terrain="4"/>
+  <hex row="4" col="28" terrain="4"/>
+  <hex row="5" col="0" terrain="3"/>
+  <hex row="5" col="1" terrain="3"/>
+  <hex row="5" col="2" terrain="3"/>
+  <hex row="5" col="3" terrain="3"/>
+  <hex row="5" col="4" terrain="3"/>
+  <hex row="5" col="5" terrain="3">
+    <unit id="2636" owner="0" flag="17" face="10" exp="140" ent="2" str="6"/>
+  </hex>
+  <hex row="5" col="6" road="17">
+    <unit id="2636" owner="0" flag="17" face="11" exp="107" ent="2" str="6"/>
+  </hex>
+  <hex row="5" col="7">
+    <unit id="638" owner="0" flag="17" face="15" exp="138" ent="2" str="6"/>
+  </hex>
+  <hex row="5" col="13" terrain="10"/>
+  <hex row="5" col="15" terrain="10" name="Dalagat River"/>
+  <hex row="5" col="16" terrain="10" name="Dalagat River" deploy="0"/>
+  <hex row="5" col="17" terrain="16" road="34" deploy="0"/>
+  <hex row="5" col="18" terrain="10" road="34" name="Dalagat River" deploy="0"/>
+  <hex row="5" col="19" terrain="10" name="Dalagat River"/>
+  <hex row="5" col="20" deploy="0"/>
+  <hex row="5" col="21" terrain="10" name="Pampanga River"/>
+  <hex row="5" col="22" terrain="10" name="Pampanga River"/>
+  <hex row="5" col="23" terrain="10" name="Penaranda River"/>
+  <hex row="5" col="24" terrain="10" name="Penaranda River"/>
+  <hex row="5" col="25" terrain="10" name="Penaranda River"/>
+  <hex row="5" col="26" terrain="4"/>
+  <hex row="5" col="27" terrain="10" name="Penaranda River"/>
+  <hex row="5" col="28" terrain="10"/>
+  <hex row="6" col="0" terrain="3"/>
+  <hex row="6" col="1" terrain="3"/>
+  <hex row="6" col="2" terrain="3"/>
+  <hex row="6" col="3" terrain="3"/>
+  <hex row="6" col="4" terrain="3"/>
+  <hex row="6" col="5" terrain="3"/>
+  <hex row="6" col="6" road="9">
+    <unit id="1985" owner="0" flag="17" face="15" transport="1504" exp="181" ent="2" str="4"/>
+  </hex>
+  <hex row="6" col="7" road="144">
+    <unit id="638" owner="0" flag="17" face="15" exp="160" ent="2" str="6"/>
+  </hex>
+  <hex row="6" col="10" terrain="1" name="Concepcion"/>
+  <hex row="6" col="13">
+    <unit id="2645" owner="1" flag="6" face="2" transport="34" exp="404" ent="6" str="7"/>
+  </hex>
+  <hex row="6" col="14" terrain="10" name="Dalagat River"/>
+  <hex row="6" col="15" road="34"/>
+  <hex row="6" col="16" road="42" deploy="0"/>
+  <hex row="6" col="17" road="136" deploy="0"/>
+  <hex row="6" col="18" deploy="0"/>
+  <hex row="6" col="20" deploy="0"/>
+  <hex row="6" col="21" terrain="10" name="Pampanga River"/>
+  <hex row="6" col="23" terrain="10" name="Penaranda River"/>
+  <hex row="6" col="26" terrain="10" name="Penaranda River"/>
+  <hex row="7" col="0" terrain="3"/>
+  <hex row="7" col="1" terrain="3"/>
+  <hex row="7" col="2" terrain="3"/>
+  <hex row="7" col="3" terrain="3"/>
+  <hex row="7" col="4" terrain="3"/>
+  <hex row="7" col="5" terrain="3"/>
+  <hex row="7" col="7" terrain="1" road="57" name="Bamban"/>
+  <hex row="7" col="9" road="34"/>
+  <hex row="7" col="10" terrain="10" road="33" name="Bamban River"/>
+  <hex row="7" col="11" terrain="10" name="Bamban River"/>
+  <hex row="7" col="12" terrain="10" name="Bamban River"/>
+  <hex row="7" col="13" terrain="10" road="18" name="Bamban River">
+    <unit id="1802" owner="1" flag="6" face="2" exp="411" ent="6" str="5"/>
+  </hex>
+  <hex row="7" col="14" terrain="10" road="34" name="Dalagat River"/>
+  <hex row="7" col="15" terrain="10" name="Dalagat River"/>
+  <hex row="7" col="16" deploy="0"/>
+  <hex row="7" col="18" road="136" deploy="0"/>
+  <hex row="7" col="19" terrain="10" road="144" name="Pampanga River"/>
+  <hex row="7" col="20" terrain="10" name="Pampanga River"/>
+  <hex row="7" col="21" terrain="10" name="Pampanga River"/>
+  <hex row="7" col="22" terrain="10" name="Penaranda River"/>
+  <hex row="8" col="0" terrain="3"/>
+  <hex row="8" col="1" terrain="10" name="Bamban River"/>
+  <hex row="8" col="2" terrain="3"/>
+  <hex row="8" col="3" terrain="3"/>
+  <hex row="8" col="4" terrain="6"/>
+  <hex row="8" col="5" terrain="6"/>
+  <hex row="8" col="6" terrain="1" road="2" name="Bamban"/>
+  <hex row="8" col="7" terrain="10" road="17" name="Bamban River"/>
+  <hex row="8" col="8" road="130"/>
+  <hex row="8" col="9" terrain="10" name="Bamban River"/>
+  <hex row="8" col="10" terrain="10" name="Bamban River"/>
+  <hex row="8" col="13" road="33"/>
+  <hex row="8" col="14" terrain="10" name="Bamban River"/>
+  <hex row="8" col="15" terrain="10" name="Dalagat River"/>
+  <hex row="8" col="18" terrain="10" name="Pampanga River"/>
+  <hex row="8" col="19" terrain="10" road="3" name="Pampanga River"/>
+  <hex row="8" col="20" road="40"/>
+  <hex row="8" col="21" road="130"/>
+  <hex row="8" col="22" terrain="1" road="32" name="Gapan"/>
+  <hex row="8" col="23" road="136"/>
+  <hex row="9" col="0" terrain="10"/>
+  <hex row="9" col="1" terrain="3"/>
+  <hex row="9" col="2" terrain="10" name="Bamban River"/>
+  <hex row="9" col="3" terrain="6"/>
+  <hex row="9" col="4" terrain="6"/>
+  <hex row="9" col="5" terrain="6"/>
+  <hex row="9" col="6" terrain="10" name="Bamban River"/>
+  <hex row="9" col="7" road="17" owner="0" victory="1"/>
+  <hex row="9" col="8" terrain="10" name="Bamban River"/>
+  <hex row="9" col="12" road="18"/>
+  <hex row="9" col="13" terrain="3"/>
+  <hex row="9" col="15" terrain="10" name="Bamban River"/>
+  <hex row="9" col="19" terrain="10" name="Pampanga River"/>
+  <hex row="9" col="22" terrain="5"/>
+  <hex row="9" col="23" terrain="5"/>
+  <hex row="9" col="24" road="144"/>
+  <hex row="10" col="0" terrain="3"/>
+  <hex row="10" col="1" terrain="3"/>
+  <hex row="10" col="2" terrain="10" name="Bamban River"/>
+  <hex row="10" col="3" terrain="10" name="Bamban River"/>
+  <hex row="10" col="4" terrain="6"/>
+  <hex row="10" col="5" terrain="10" name="Bamban River"/>
+  <hex row="10" col="6" terrain="10" name="Bamban River"/>
+  <hex row="10" col="7" road="19"/>
+  <hex row="10" col="8" road="48"/>
+  <hex row="10" col="9" road="40"/>
+  <hex row="10" col="11" road="34"/>
+  <hex row="10" col="12" road="33"/>
+  <hex row="10" col="13" terrain="6" name="Mount Arayat"/>
+  <hex row="10" col="14" terrain="6" name="Mount Arayat"/>
+  <hex row="10" col="15" terrain="3"/>
+  <hex row="10" col="16" terrain="10" name="Bamban River"/>
+  <hex row="10" col="17" terrain="10" name="Pampanga River"/>
+  <hex row="10" col="18" terrain="10" name="Pampanga River"/>
+  <hex row="10" col="21" terrain="5"/>
+  <hex row="10" col="22" terrain="5"/>
+  <hex row="10" col="24" road="17"/>
+  <hex row="11" col="0" terrain="3"/>
+  <hex row="11" col="1" terrain="3"/>
+  <hex row="11" col="2" terrain="3"/>
+  <hex row="11" col="3" terrain="6"/>
+  <hex row="11" col="4" terrain="10" name="Bamban River"/>
+  <hex row="11" col="5" terrain="6"/>
+  <hex row="11" col="6" terrain="3"/>
+  <hex row="11" col="7" road="17" owner="0" victory="1"/>
+  <hex row="11" col="8" road="3"/>
+  <hex row="11" col="10" terrain="1" road="128" name="Magalang"/>
+  <hex row="11" col="11" road="144"/>
+  <hex row="11" col="12" terrain="3"/>
+  <hex row="11" col="13" terrain="6" name="Mount Arayat"/>
+  <hex row="11" col="14" terrain="6" name="Mount Arayat"/>
+  <hex row="11" col="15" terrain="6" name="Mount Arayat"/>
+  <hex row="11" col="16" terrain="8" name="Pampanga River"/>
+  <hex row="11" col="17" terrain="8"/>
+  <hex row="11" col="23" road="18"/>
+  <hex row="11" col="24" road="33"/>
+  <hex row="12" col="0" terrain="6"/>
+  <hex row="12" col="1" terrain="6"/>
+  <hex row="12" col="2" terrain="6"/>
+  <hex row="12" col="3" terrain="6"/>
+  <hex row="12" col="4" terrain="6"/>
+  <hex row="12" col="5" terrain="6"/>
+  <hex row="12" col="6" terrain="3"/>
+  <hex row="12" col="7" road="9"/>
+  <hex row="12" col="11" road="9"/>
+  <hex row="12" col="12" terrain="3"/>
+  <hex row="12" col="13" terrain="3"/>
+  <hex row="12" col="14" terrain="6" name="Mount Arayat"/>
+  <hex row="12" col="15" terrain="3"/>
+  <hex row="12" col="16" terrain="8"/>
+  <hex row="12" col="17" terrain="8"/>
+  <hex row="12" col="18" terrain="8"/>
+  <hex row="12" col="19" terrain="8"/>
+  <hex row="12" col="20" terrain="8"/>
+  <hex row="12" col="23" road="17"/>
+  <hex row="12" col="27" terrain="10"/>
+  <hex row="12" col="28" terrain="10"/>
+  <hex row="13" col="0" terrain="6"/>
+  <hex row="13" col="1" terrain="6"/>
+  <hex row="13" col="2" terrain="6"/>
+  <hex row="13" col="3" terrain="6"/>
+  <hex row="13" col="4" terrain="6"/>
+  <hex row="13" col="5" terrain="6"/>
+  <hex row="13" col="6" terrain="3"/>
+  <hex row="13" col="7" terrain="3"/>
+  <hex row="13" col="8" road="144"/>
+  <hex row="13" col="12" road="136"/>
+  <hex row="13" col="13" road="144"/>
+  <hex row="13" col="14" terrain="3"/>
+  <hex row="13" col="15" terrain="10"/>
+  <hex row="13" col="16" terrain="8"/>
+  <hex row="13" col="17" terrain="8"/>
+  <hex row="13" col="18" terrain="8"/>
+  <hex row="13" col="19" terrain="8"/>
+  <hex row="13" col="20" terrain="8"/>
+  <hex row="13" col="23" terrain="10" road="17"/>
+  <hex row="13" col="24" terrain="10"/>
+  <hex row="13" col="25" terrain="10"/>
+  <hex row="13" col="26" terrain="10"/>
+  <hex row="14" col="0" terrain="6"/>
+  <hex row="14" col="1" terrain="6"/>
+  <hex row="14" col="2" terrain="6"/>
+  <hex row="14" col="3" terrain="6"/>
+  <hex row="14" col="4" terrain="6"/>
+  <hex row="14" col="5" terrain="6"/>
+  <hex row="14" col="6" terrain="6"/>
+  <hex row="14" col="7" terrain="3" road="10"/>
+  <hex row="14" col="8" terrain="1" road="33" name="Angeles" owner="0" victory="1"/>
+  <hex row="14" col="13" road="17"/>
+  <hex row="14" col="16" terrain="10" name="Pampanga River"/>
+  <hex row="14" col="17" terrain="10" name="Pampanga River"/>
+  <hex row="14" col="18" terrain="8"/>
+  <hex row="14" col="19" terrain="8"/>
+  <hex row="14" col="20" terrain="8"/>
+  <hex row="14" col="22" terrain="10"/>
+  <hex row="14" col="23" road="17"/>
+  <hex row="15" col="0" terrain="6"/>
+  <hex row="15" col="1" terrain="6"/>
+  <hex row="15" col="2" terrain="6"/>
+  <hex row="15" col="3" terrain="6"/>
+  <hex row="15" col="4" terrain="6"/>
+  <hex row="15" col="5" terrain="6"/>
+  <hex row="15" col="6" terrain="6"/>
+  <hex row="15" col="8" road="144"/>
+  <hex row="15" col="13" terrain="1" road="17" name="Mexico"/>
+  <hex row="15" col="17" terrain="10" name="Pampanga River"/>
+  <hex row="15" col="18" terrain="8"/>
+  <hex row="15" col="19" terrain="10"/>
+  <hex row="15" col="20" terrain="8"/>
+  <hex row="15" col="21" terrain="10"/>
+  <hex row="15" col="22" terrain="10"/>
+  <hex row="15" col="23" road="17"/>
+  <hex row="16" col="0" terrain="3"/>
+  <hex row="16" col="1" terrain="3"/>
+  <hex row="16" col="2" terrain="3"/>
+  <hex row="16" col="3" terrain="3"/>
+  <hex row="16" col="4" terrain="3"/>
+  <hex row="16" col="5" terrain="3"/>
+  <hex row="16" col="6" terrain="3"/>
+  <hex row="16" col="7" terrain="2" name="Clark Field" flag="9" owner="0" victory="1"/>
+  <hex row="16" col="8" road="9"/>
+  <hex row="16" col="9" road="136"/>
+  <hex row="16" col="13" road="17"/>
+  <hex row="16" col="16" terrain="10" name="Pampanga River"/>
+  <hex row="16" col="17" terrain="8"/>
+  <hex row="16" col="18" terrain="10"/>
+  <hex row="16" col="19" terrain="8"/>
+  <hex row="16" col="20" terrain="10"/>
+  <hex row="16" col="23" road="33"/>
+  <hex row="17" col="0" terrain="3"/>
+  <hex row="17" col="1" terrain="10" name="Gumain River"/>
+  <hex row="17" col="2" terrain="10" name="Gumain River"/>
+  <hex row="17" col="3" terrain="10" name="Gumain River"/>
+  <hex row="17" col="4" terrain="10" name="Gumain River"/>
+  <hex row="17" col="10" road="152"/>
+  <hex row="17" col="11" terrain="1" road="160" name="San Fernando"/>
+  <hex row="17" col="13" road="17"/>
+  <hex row="17" col="15" terrain="10" name="Pampanga River"/>
+  <hex row="17" col="16" terrain="10" name="Pampanga River"/>
+  <hex row="17" col="17" terrain="8"/>
+  <hex row="17" col="18" terrain="8"/>
+  <hex row="17" col="22" road="18"/>
+  <hex row="18" col="0" terrain="10"/>
+  <hex row="18" col="1" terrain="3"/>
+  <hex row="18" col="2" terrain="3"/>
+  <hex row="18" col="3" terrain="3"/>
+  <hex row="18" col="4" terrain="10" name="Gumain River"/>
+  <hex row="18" col="5" terrain="10" name="Gumain River"/>
+  <hex row="18" col="9" road="18"/>
+  <hex row="18" col="10" road="34"/>
+  <hex row="18" col="11" terrain="4"/>
+  <hex row="18" col="12" road="144"/>
+  <hex row="18" col="13" road="49"/>
+  <hex row="18" col="15" terrain="10" name="Pampanga River"/>
+  <hex row="18" col="16" terrain="8"/>
+  <hex row="18" col="17" terrain="8"/>
+  <hex row="18" col="18" terrain="8"/>
+  <hex row="18" col="22" road="17"/>
+  <hex row="19" col="0" terrain="3"/>
+  <hex row="19" col="1" terrain="3"/>
+  <hex row="19" col="2" terrain="3"/>
+  <hex row="19" col="5" terrain="10" road="24" name="Gumain River"/>
+  <hex row="19" col="6" road="24"/>
+  <hex row="19" col="7" road="130"/>
+  <hex row="19" col="8" road="40"/>
+  <hex row="19" col="9" road="129"/>
+  <hex row="19" col="11" terrain="8"/>
+  <hex row="19" col="12" terrain="8" road="3"/>
+  <hex row="19" col="13" road="9"/>
+  <hex row="19" col="15" terrain="10" name="Pampanga River"/>
+  <hex row="19" col="16" terrain="8"/>
+  <hex row="19" col="17" terrain="8"/>
+  <hex row="19" col="21" road="18"/>
+  <hex row="19" col="22" road="33"/>
+  <hex row="20" col="0" terrain="3"/>
+  <hex row="20" col="5" road="17"/>
+  <hex row="20" col="6" terrain="10" road="129" name="Gumain River"/>
+  <hex row="20" col="7" terrain="10" name="Gumain River"/>
+  <hex row="20" col="9" terrain="4"/>
+  <hex row="20" col="10" terrain="4"/>
+  <hex row="20" col="11" terrain="8"/>
+  <hex row="20" col="12" terrain="8"/>
+  <hex row="20" col="14" road="144"/>
+  <hex row="20" col="15" terrain="10" name="Pampanga River"/>
+  <hex row="20" col="16" terrain="8"/>
+  <hex row="20" col="17" terrain="8"/>
+  <hex row="20" col="21" terrain="1" road="33" name="Baliuag"/>
+  <hex row="20" col="25" terrain="10" name="Angat River"/>
+  <hex row="21" col="0" terrain="3"/>
+  <hex row="21" col="5" road="33"/>
+  <hex row="21" col="8" terrain="10" name="Gumain River"/>
+  <hex row="21" col="9" terrain="10"/>
+  <hex row="21" col="10" terrain="4"/>
+  <hex row="21" col="11" terrain="8"/>
+  <hex row="21" col="12" terrain="8"/>
+  <hex row="21" col="14" road="17"/>
+  <hex row="21" col="15" terrain="10" name="Pampanga River"/>
+  <hex row="21" col="16" terrain="8"/>
+  <hex row="21" col="19" road="18"/>
+  <hex row="21" col="20" terrain="1" road="34" name="Baliuag"/>
+  <hex row="21" col="21" terrain="10" name="Angat River"/>
+  <hex row="21" col="22" terrain="10" name="Angat River"/>
+  <hex row="21" col="23" terrain="10" name="Angat River"/>
+  <hex row="21" col="24" terrain="10" name="Angat River"/>
+  <hex row="21" col="25" terrain="10" name="Angat River"/>
+  <hex row="22" col="0" terrain="3"/>
+  <hex row="22" col="4" road="18"/>
+  <hex row="22" col="8" terrain="10" name="Gumain River"/>
+  <hex row="22" col="9" terrain="8"/>
+  <hex row="22" col="10" terrain="10"/>
+  <hex row="22" col="11" terrain="8"/>
+  <hex row="22" col="13" terrain="10" name="Pampanga River"/>
+  <hex row="22" col="14" terrain="10" road="17" name="Pampanga River"/>
+  <hex row="22" col="17" terrain="10" name="Angat River"/>
+  <hex row="22" col="19" terrain="10" road="17" name="Angat River" owner="0" victory="1"/>
+  <hex row="22" col="20" terrain="10" name="Angat River"/>
+  <hex row="22" col="26" terrain="10" name="Angat River"/>
+  <hex row="22" col="27" terrain="10" name="Angat River"/>
+  <hex row="23" col="0" terrain="3"/>
+  <hex row="23" col="1" terrain="3"/>
+  <hex row="23" col="2" road="24"/>
+  <hex row="23" col="3" terrain="3" road="130"/>
+  <hex row="23" col="4" road="33"/>
+  <hex row="23" col="5" terrain="3"/>
+  <hex row="23" col="7" terrain="10"/>
+  <hex row="23" col="8" terrain="10"/>
+  <hex row="23" col="9" terrain="8"/>
+  <hex row="23" col="10" terrain="8"/>
+  <hex row="23" col="13" terrain="10" name="Pampanga River"/>
+  <hex row="23" col="14" terrain="1" road="9" name="Calumpit"/>
+  <hex row="23" col="15" terrain="10" road="136" name="Angat River"/>
+  <hex row="23" col="16" terrain="10" name="Angat River"/>
+  <hex row="23" col="18" terrain="10" name="Angat River"/>
+  <hex row="23" col="19" terrain="10" road="33" name="Angat River"/>
+  <hex row="23" col="26" terrain="10" name="Angat River"/>
+  <hex row="23" col="28" terrain="10"/>
+  <hex row="24" col="0" terrain="3"/>
+  <hex row="24" col="1" terrain="3" road="18"/>
+  <hex row="24" col="2" terrain="3" road="33"/>
+  <hex row="24" col="3" terrain="3"/>
+  <hex row="24" col="4" terrain="3"/>
+  <hex row="24" col="5" terrain="8"/>
+  <hex row="24" col="6" terrain="8"/>
+  <hex row="24" col="7" terrain="10"/>
+  <hex row="24" col="8" terrain="10"/>
+  <hex row="24" col="9" terrain="8"/>
+  <hex row="24" col="10" terrain="8"/>
+  <hex row="24" col="11" terrain="10"/>
+  <hex row="24" col="12" terrain="10" name="Pampanga River"/>
+  <hex row="24" col="14" terrain="10" name="Angat River"/>
+  <hex row="24" col="15" terrain="10"/>
+  <hex row="24" col="16" road="136"/>
+  <hex row="24" col="17" road="130"/>
+  <hex row="24" col="18" terrain="1" road="42" name="Plaridel" flag="9" owner="0" victory="1"/>
+  <hex row="24" col="19" road="136"/>
+  <hex row="24" col="21" road="48"/>
+  <hex row="25" col="0" terrain="3"/>
+  <hex row="25" col="1" terrain="10" road="9" name="Culo River"/>
+  <hex row="25" col="2" terrain="10" name="Culo River"/>
+  <hex row="25" col="3" terrain="10" name="Culo River"/>
+  <hex row="25" col="4" terrain="10" name="Culo River"/>
+  <hex row="25" col="5" terrain="10"/>
+  <hex row="25" col="6" terrain="10"/>
+  <hex row="25" col="7" terrain="8"/>
+  <hex row="25" col="8" terrain="10"/>
+  <hex row="25" col="9" terrain="8"/>
+  <hex row="25" col="10" terrain="8"/>
+  <hex row="25" col="11" terrain="10"/>
+  <hex row="25" col="12" terrain="8"/>
+  <hex row="25" col="13" terrain="8"/>
+  <hex row="25" col="14" terrain="10"/>
+  <hex row="25" col="15" terrain="10"/>
+  <hex row="25" col="20" road="130"/>
+  <hex row="25" col="21" road="9"/>
+  <hex row="26" col="0" terrain="10" name="Culo River"/>
+  <hex row="26" col="1" terrain="6"/>
+  <hex row="26" col="2" terrain="3" road="144"/>
+  <hex row="26" col="5" terrain="8"/>
+  <hex row="26" col="6" terrain="9"/>
+  <hex row="26" col="7" terrain="9"/>
+  <hex row="26" col="8" terrain="10"/>
+  <hex row="26" col="9" terrain="8"/>
+  <hex row="26" col="10" terrain="8"/>
+  <hex row="26" col="11" terrain="8"/>
+  <hex row="26" col="12" terrain="8"/>
+  <hex row="26" col="13" terrain="8"/>
+  <hex row="26" col="14" terrain="10"/>
+  <hex row="26" col="15" terrain="10"/>
+  <hex row="26" col="16" terrain="10"/>
+  <hex row="26" col="17" terrain="8"/>
+  <hex row="26" col="22" road="136"/>
+  <hex row="26" col="23" road="136"/>
+  <hex row="27" col="0" terrain="6"/>
+  <hex row="27" col="1" terrain="6"/>
+  <hex row="27" col="2" terrain="3" road="17"/>
+  <hex row="27" col="3" terrain="2"/>
+  <hex row="27" col="4" terrain="2"/>
+  <hex row="27" col="6" terrain="9"/>
+  <hex row="27" col="7" terrain="9"/>
+  <hex row="27" col="8" terrain="9"/>
+  <hex row="27" col="9" terrain="9"/>
+  <hex row="27" col="10" terrain="10"/>
+  <hex row="27" col="11" terrain="9"/>
+  <hex row="27" col="12" terrain="8"/>
+  <hex row="27" col="13" terrain="8"/>
+  <hex row="27" col="14" terrain="9"/>
+  <hex row="27" col="15" terrain="9"/>
+  <hex row="27" col="16" terrain="10"/>
+  <hex row="27" col="17" terrain="8"/>
+  <hex row="27" col="24" road="136"/>
+  <hex row="27" col="25" road="136"/>
+  <hex row="28" col="0" terrain="6"/>
+  <hex row="28" col="1" terrain="6"/>
+  <hex row="28" col="2" road="9"/>
+  <hex row="28" col="3" road="144"/>
+  <hex row="28" col="6" terrain="9"/>
+  <hex row="28" col="7" terrain="9"/>
+  <hex row="28" col="8" terrain="9"/>
+  <hex row="28" col="9" terrain="9"/>
+  <hex row="28" col="10" terrain="9"/>
+  <hex row="28" col="11" terrain="9"/>
+  <hex row="28" col="12" terrain="9"/>
+  <hex row="28" col="13" terrain="9"/>
+  <hex row="28" col="14" terrain="9"/>
+  <hex row="28" col="15" terrain="9"/>
+  <hex row="28" col="16" terrain="9"/>
+  <hex row="28" col="17" terrain="9"/>
+  <hex row="28" col="18" terrain="8"/>
+  <hex row="28" col="19" terrain="8"/>
+  <hex row="28" col="26" road="144"/>
+  <hex row="29" col="3" road="17" name="Road to Bataan" flag="5" owner="1" victory="1"/>
+  <hex row="29" col="6" terrain="9"/>
+  <hex row="29" col="7" terrain="9"/>
+  <hex row="29" col="8" terrain="9"/>
+  <hex row="29" col="9" terrain="9"/>
+  <hex row="29" col="10" terrain="9"/>
+  <hex row="29" col="11" terrain="9"/>
+  <hex row="29" col="12" terrain="9"/>
+  <hex row="29" col="13" terrain="9"/>
+  <hex row="29" col="14" terrain="9"/>
+  <hex row="29" col="15" terrain="9"/>
+  <hex row="29" col="16" terrain="9"/>
+  <hex row="29" col="17" terrain="9"/>
+  <hex row="29" col="18" terrain="9"/>
+  <hex row="29" col="20" terrain="10"/>
+  <hex row="29" col="26" road="17" name="Road to Manila"/>
+  <hex row="30" col="1" terrain="6"/>
+  <hex row="30" col="2" terrain="6"/>
+  <hex row="30" col="3" road="17"/>
+  <hex row="30" col="6" terrain="9" owner="0" victory="0"/>
+  <hex row="30" col="7" terrain="9"/>
+  <hex row="30" col="8" terrain="9"/>
+  <hex row="30" col="9" terrain="9"/>
+  <hex row="30" col="10" terrain="9"/>
+  <hex row="30" col="11" terrain="9"/>
+  <hex row="30" col="12" terrain="9"/>
+  <hex row="30" col="13" terrain="9"/>
+  <hex row="30" col="14" terrain="9"/>
+  <hex row="30" col="15" terrain="9"/>
+  <hex row="30" col="16" terrain="9"/>
+  <hex row="30" col="17" terrain="9"/>
+  <hex row="30" col="18" terrain="9"/>
+  <hex row="30" col="19" terrain="9"/>
+  <hex row="30" col="20" terrain="9"/>
+  <hex row="30" col="26" road="9"/>
+  <hex row="31" col="2" terrain="6"/>
+  <hex row="31" col="3" road="17"/>
+  <hex row="31" col="6" terrain="9"/>
+  <hex row="31" col="7" terrain="9"/>
+  <hex row="31" col="8" terrain="9"/>
+  <hex row="31" col="9" terrain="9"/>
+  <hex row="31" col="10" terrain="9"/>
+  <hex row="31" col="11" terrain="9"/>
+  <hex row="31" col="12" terrain="9"/>
+  <hex row="31" col="13" terrain="9"/>
+  <hex row="31" col="14" terrain="9"/>
+  <hex row="31" col="15" terrain="9"/>
+  <hex row="31" col="16" terrain="9"/>
+  <hex row="31" col="17" terrain="9"/>
+  <hex row="31" col="18" terrain="9"/>
+  <hex row="31" col="19" terrain="9"/>
+  <hex row="31" col="20" terrain="9"/>
+  <hex row="32" col="6" terrain="9"/>
+  <hex row="32" col="7" terrain="9"/>
+  <hex row="32" col="8" terrain="9"/>
+  <hex row="32" col="9" terrain="9"/>
+  <hex row="32" col="10" terrain="9"/>
+  <hex row="32" col="11" terrain="9"/>
+  <hex row="32" col="12" terrain="9"/>
+  <hex row="32" col="13" terrain="9"/>
+  <hex row="32" col="14" terrain="9"/>
+  <hex row="32" col="15" terrain="9"/>
+  <hex row="32" col="16" terrain="9"/>
+  <hex row="32" col="17" terrain="9"/>
+  <hex row="32" col="18" terrain="9"/>
+  <hex row="32" col="19" terrain="9"/>
+  <hex row="32" col="20" terrain="9"/>
+  <hex row="33" col="6" terrain="9"/>
+  <hex row="33" col="7" terrain="9"/>
+  <hex row="33" col="8" terrain="9"/>
+  <hex row="33" col="9" terrain="9"/>
+  <hex row="33" col="10" terrain="9"/>
+  <hex row="33" col="11" terrain="9"/>
+  <hex row="33" col="12" terrain="9"/>
+  <hex row="33" col="13" terrain="9"/>
+  <hex row="33" col="14" terrain="9"/>
+  <hex row="33" col="15" terrain="9"/>
+  <hex row="33" col="16" terrain="9"/>
+  <hex row="33" col="17" terrain="9"/>
+  <hex row="33" col="18" terrain="9"/>
+  <hex row="33" col="19" terrain="9"/>
+  <hex row="33" col="20" terrain="9"/>
+  <hex row="34" col="6" terrain="9"/>
+  <hex row="34" col="7" terrain="9"/>
+  <hex row="34" col="8" terrain="9"/>
+  <hex row="34" col="9" terrain="9"/>
+  <hex row="34" col="10" terrain="9"/>
+  <hex row="34" col="11" terrain="9"/>
+  <hex row="34" col="12" terrain="9"/>
+  <hex row="34" col="13" terrain="9"/>
+  <hex row="34" col="14" terrain="9"/>
+  <hex row="34" col="15" terrain="9"/>
+  <hex row="34" col="16" terrain="9"/>
+  <hex row="34" col="17" terrain="9"/>
+  <hex row="34" col="18" terrain="9"/>
+  <hex row="34" col="19" terrain="9"/>
+  <hex row="34" col="20" terrain="9"/>
+  <hex row="35" col="10" terrain="9"/>
+  <hex row="35" col="13" terrain="9"/>
+  <hex row="35" col="14" terrain="9"/>
+  <hex row="35" col="18" terrain="9"/>
+  <hex row="35" col="20" terrain="9"/>
+  <hex row="36" col="10" terrain="9"/>
+  <hex row="36" col="14" terrain="9"/>
+  <hex row="36" col="18" terrain="9"/>
+  <hex row="36" col="20" terrain="9"/>
+  <hex row="37" col="14" terrain="9"/>
+</map>

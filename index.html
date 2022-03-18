@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html nomanifest="openpanzer.appcache">
+    <head>
+        <title>Panzer Marshal</title>
+        <meta name="author" content="Nicu Pavel, npavel@linuxconsulting.ro"/>
+        <meta name="description" content="Turn Based World War 2 Strategy Game"/>
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <link rel="icon" href="resources/ui/page/icon/icon.png" type="image/png"/>
+        <link rel="apple-touch-icon" href="resources/ui/page/icon/icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="resources/ui/page/icon/icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="resources/ui/page/icon/icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="resources/ui/page/icon/icon-144x144.png" />
+        <link rel="apple-touch-startup-image" href="resources/ui/splash/splash-1280x775">
+
+        <script src="resources/scenarios/scenariolist.js"></script>
+        <script src="resources/campaigns/campaignlist.js"></script>
+        <script src="js/openpanzer.js"></script>
+        <link href="css/ui.css" rel="stylesheet" type="text/css">
+    </head>
+  <body id="mainbody">
+        <div id="ui-message" class="uiMessageBox"> <!-- Message popup -->
+            <div id="title" class="uiMessageBoxTitle">Panzer Marshal</div>
+            <div id="message" class="uiMessageBoxBody">Turn Based World War 2 Strategy Game, a remake of old Panzer General 2.<br> (c) 2014 Nicu Pavel. <a href="https://github.com/nicupavel/openpanzer">GitHub Project</a></div>
+            <div class="smallButton uiMessageBoxButton" id="uiokbut">1</div>
+        </div>
+        <div id="uiToolTip" class="toolTip"> <!-- Tooltip popup that scrolls with UI surface-->
+            <div id="uiToolTipMessage"></div>
+        </div>
+        <div id="startmenu"> <!-- The main menu -->
+            <!-- The animated backgrounds -->
+            <ul class="animatedBackground" style="list-style: none;">
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+            </ul>
+            <div id="smMain">
+                <div class="smallButton" id="smClose">0</div>
+                <div id="smLogo">
+                    <div id="smLogoText"></div>
+                    <div id="smMiscButs">
+                        <a class="smallButton" id="smHelp" href="https://nicupavel.github.io/openpanzer-manual/" target="_blank">^</a>
+                        <a class="smallButton" id="smPlatform" href="https://openpanzer.itch.io/panzermarshal" target="_blank">o</a>
+                        <a class="smallButton" id="smFacebook" href="https://www.facebook.com/panzermarshal/" target="_blank">u</a>
+                        <a class="smallButton" id="smIssues" href="https://github.com/nicupavel/openpanzer/issues" target="_blank">v</a>
+                    </div>
+                </div>
+                <div id="smNewGame" class="mainPanelInner">
+                    <div  id="smNewGameContent" style="margin:0 auto; height: 90%;" class="flexcenterrow"></div>
+                    <hr>
+                </div>
+                <div class="smBottomCenter">
+                    <div id="smButtons" class="smCenter"></div>
+                </div>
+                <div id="smCredits"></div>
+            </div>
+            <div id="smCamp" class="mainPanel">
+                <div id="smCampSel" class="smSelect"></div>
+                <div id="smCampDesc" class="smDesc"></div>
+                <div id="smCampInfo">
+                    <div id="smCampCountry" class="smCampDetails"></div>
+                    <div class="smCampDetails">
+                        <b>Difficulty</b>
+                        <span class="smallButton" id="smCampDifHelp">^</span><br>
+                        <div id="smCampDif" class="smSelect" style="border: none"></div>
+                    </div>
+                    <div id="smCampScenarios" class="smCampDetails"></div>
+                    <div id="smCampPrestige" class="smCampDetails"></div>
+                </div>
+                <div id="smCampButtons">
+                    <div class="smallButton" id="smCPlayBut">1</div>
+                    <div class="smallButton" id="smCBackBut">0</div>
+                    <div class="smallButton" id="smCFlowBut">m</div>
+                    <!-- Campaign debug buttons -->
+                    <!--
+                    <div style="float: left" id="smCVB">[Briliant Victory]</div>
+                    <div style="float: left" id="smCV">[Normal Victory]</div>
+                    <div style="float: left" id="smCVT">[Tactical Victory]</div>
+                    <div style="float: left" id="smCL">[Lose]</div>
+                    -->
+                </div>
+            </div>
+            <div id="smScen" class="mainPanel">
+                <div id="smScenSel" class="smSelect"></div>
+                <div id="smScenDesc" class="smDesc"></div>
+                <div id="smScenPlayers">
+                    <div id="smSide0"></div>
+                    <div id="smVS"></div>
+                    <div id="smSide1"></div>
+                </div>
+                <div id="smScenButtons">
+                    <div class="smallButton" id="smSPlayBut">1</div>
+                    <div class="smallButton" id="smSBackBut">0</div>
+                </div>
+            </div>
+            <div id="smState" class="mainPanel">
+                <div class="smallButton" id="smStOkBut">1</div>
+            </div>
+        </div>
+
+        <div id="smSettings" class="mainPanel">
+            <div id="smSettingsContainer"  style="overflow-y: scroll; height: 95%;"></div>
+            <div class="smallButton" id="smSetOkBut">1</div>
+        </div>
+
+        <div id="statusbar"> <!-- Status bar where messages/infos are shown -->
+            <div id="weathermsg"></div>
+            <div id="statusmsg" class="message"></div>
+            <div id="locmsg" class="message"></div>
+        </div>
+
+        <div id="statusbar-extension"></div> <!-- Extension below status bar for long duration actions -->
+        <div id="combatLog"></div> <!-- Combat log window -->
+        <div id="combatLogButton">l</div> <!-- The button that open/closes combatLog window -->
+        <div id="statusBarButton"><div class="smallButton smallButtonAlert">G</div></div> <!-- The button that open/closes deploy window -->
+        <div id="unitsBarButton"><div class="smallButton smallButtonAlert">w</div></div> <!-- The button that open/closes equipment/upgrade window -->
+
+        <div id="menu"> <!-- Where the in game right menu is being built -->
+            <div id="slidemenu"></div>
+        </div>
+
+        <div id="unit-context"></div> <!-- Where the buttons for unit contextual actions appear -->
+        <div id="unit-info">  <!-- Unit info dialog -->
+            <div class="nameRow" id="statsRowTop">
+                <span class="uSpacer"></span>
+                <span id="uSmallFlag" class="uSmallFlag"></span>
+                <span id="uName">Select unit to see stats</span>
+                <div class="statsRow">
+                <div class="hscroll-container" id="statsRowContainer">
+                    <div class="hscroll" id="statsRow">
+                    </div>
+                </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="container-unitlist"> <!-- Current player units -->
+            <div class="hscroll-container" id="hscroll-unitlist">
+                <div class="hscroll" id="unitlist"></div>
+            </div>
+        </div>
+        <div id="equipment"> <!-- Equipment Window -->
+            <div id="eqSortButtonsContainer">
+                <div class="smallButton" id="eqSortOrderBut">a</div>
+                <div class="smallButton" id="eqSortOptionsBut">f</div>
+            </div>
+            <div id="eqInfoText">Equipment upgrades and new units</div>
+            <div id="eqSelClass"></div>
+            <div id="eqHeaderSpacer"></div>
+            <div class="hscroll-container" id="hscroll-eqUnitList"><div class="hscroll" id="eqUnitList"></div></div>
+            <div class="hscroll-container" id="hscroll-eqTransportList">
+                <div class="hscroll" id="eqTransportList"></div>
+            </div>
+            <div id="eqActionsContainer">
+                <div id="eqButtonsContainer">
+                    <div id="currentPrestige"></div>
+                    <div id="currentPrestigeAmount"></div>
+                    <div class="smallButton" id="eqCloseBut">0</div>
+                    <div class="smallButton" id="eqSelCountryButton"><div id="eqSelCountry"></div></div>
+                    <div class="smallButton" id="eqUpgradeBut">.</div><div class="eqCostText" style="color: white" id="eqUpgradeCost"></div><div class="eqCostText" id="eqUpgradeText"></div>
+                    <div class="smallButton" id="eqNewBut">,</div><div class="eqCostText" style="color: white" id="eqNewCost"></div><div class="eqCostText" id="eqNewText"></div>
+                    <div class="smallButton" id="eqSellBut">B</div><div class="eqCostText" style="color: white" id="eqSellCost"></div><div class="eqCostText" id="eqSellText"></div>
+                </div>
+                <div id="eqSortOptions">
+                    <div id="eqSortInfo"></div>
+                    <div id="eqSortOptionsContainer"></div>
+                    <div class="smallButton" id="eqSortCloseBut">0</div>
+                </div>
+            </div>
+            <div id="eqUserSel"></div> <!-- keeps track of user selections -->
+        </div>
+
+        <div id="dossier" class="dossier"></div>
+
+	<div id="game"> <!-- Where the canvases are added -->
+        <div id="gameToolTip" class="toolTip"> <!-- In Game Tooltip popup that scrolls with game surface-->
+            <div id="gameToolTipMessage"></div>
+            <div class="smallButton" id="gameToolTipOk">1</div>
+        </div>
+	</div>
+	<!-- reference custom fonts so they get loaded before the canvas rendering -->
+	<span style="font-family: unitInfo; visibility: hidden">Preloading unitInfo font</span>
+	<span style="font-family: coreUnitFont; visibility: hidden">Preloading coreUnitFont</span>
+    <span style="font-family: openpanzer-menu; visibility: hidden">Preloading Panzer Marshal Menu Font</span>
+    <span style="font-family: openpanzer; visibility: hidden">Preloading Panzer Marshal Terrain Font</span>
+
+    <!-- Templates -->
+    <div id="templates" style="display: none">
+        <!-- Dossier Template -->
+        <div id="template__dossier">
+            <div>
+                <div id="dossierTitle" class="combatLogHeader hcenter"></div>
+                <br>
+                <div id="dossierCampaign"></div>
+                <div id="dossierInfo" ></div>
+            </div>
+            <div id="dossierCasualties">
+                <div class="combatLogHeader hcenter">Casualties</div>
+                <table class="hcenter" style="width: 80%">
+                    <tr id="dossierClasses"><th></th></tr>
+                    <tr><td colspan="10"><hr></td></tr>
+                    <tr id="dossierDestroyed"><th>Inflicted</th></tr>
+                    <tr id="dossierLostCore"><th>Core</th></tr>
+                    <tr id="dossierLostAux"><th>Auxiliary</th></tr>
+                </table>
+            </div>
+            <div>
+                <div class="combatLogHeader hcenter"><br>Military Awards<br></div>
+                <div id="dossierMedals"></div>
+            </div>
+        </div>
+        <!-- END Dossier Template -->
+        <!-- Undocked Dossier Template -->
+        <div id="template__dossier_scroll">
+            <div id="dossierScroll" style="max-height: 100%; overflow: auto"></div>
+            <div class="smallButton" id="dossierCloseBut" style="position: absolute; right: 10px; bottom: 10px;">0</div>
+        </div>
+        <!-- END Undocked Dossier Template -->
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="ga3_3.scn" name="Kuhmo" turns="12, 15, 18" date="January 29, 1940" dayturns="3" ground="1" atmosferic="3" latitude="2" rows="30" cols="30" eqp="eqp-adlerkorps" image="resources/maps/images/map_91.png">
+  <player id="0" country="5" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 20, 50, 20, 50, 20, 20, 20, 20, 20, 30, 30, 20, 20, 50, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="40, 60, 60, 60, 60, 400, 60, 60, 100, 60, 60, 200, 60, 60, 200, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300"/>
+  <reinforce turn="2">
+    <at row="19" col="6">
+      <unit id="2429" owner="1" flag="20" face="6" transport="529" exp="200" str="7"/>
+    </at>
+    <at row="12" col="22">
+      <unit id="3170" owner="1" flag="20" face="10" exp="200" str="8"/>
+    </at>
+    <at row="14" col="19">
+      <unit id="520" owner="1" flag="20" face="10" exp="300" str="7"/>
+    </at>
+    <at row="8" col="22">
+      <unit id="2429" owner="1" flag="20" face="11" transport="287" exp="300" str="7"/>
+    </at>
+    <at row="1" col="10">
+      <unit id="1160" owner="0" flag="6" face="2" exp="200"/>
+    </at>
+    <at row="6" col="23">
+      <unit id="2429" owner="1" flag="20" face="11" transport="528" exp="300" str="7"/>
+    </at>
+    <at row="21" col="24">
+      <unit id="1846" owner="1" flag="20" face="10" exp="200" str="11"/>
+    </at>
+    <at row="20" col="24">
+      <unit id="1857" owner="1" flag="20" face="11" exp="300"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="10" col="19">
+      <unit id="2429" owner="1" flag="20" face="9" exp="300" str="6"/>
+    </at>
+    <at row="18" col="5">
+      <unit id="520" owner="1" flag="20" face="6" exp="200" str="6"/>
+    </at>
+    <at row="1" col="9">
+      <unit id="1154" owner="0" flag="6" face="2" exp="200"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="20" col="7">
+      <unit id="1829" owner="1" flag="20" face="7" transport="529" exp="200" str="5"/>
+    </at>
+    <at row="9" col="6">
+      <unit id="12" owner="0" flag="6" face="3" transport="3257" exp="100"/>
+    </at>
+    <at row="8" col="7">
+      <unit id="17" owner="0" flag="6" face="2" exp="200"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="2" col="17">
+      <unit id="1146" owner="0" flag="6" face="2" transport="2696" exp="200"/>
+    </at>
+    <at row="3" col="16">
+      <unit id="1128" owner="0" flag="6" face="3" transport="20" exp="100"/>
+    </at>
+    <at row="1" col="17">
+      <unit id="12" owner="0" flag="6" face="3" transport="3257" exp="200"/>
+    </at>
+    <at row="4" col="16">
+      <unit id="1144" owner="0" flag="6" face="3" transport="20" exp="100"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="10" col="25">
+      <unit id="1139" owner="1" flag="20" face="11" exp="300" str="8"/>
+    </at>
+    <at row="22" col="15">
+      <unit id="681" owner="1" flag="20" face="8" transport="528" exp="200" str="7" ldr="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="7">
+    <at row="22" col="10">
+      <unit id="2429" owner="1" flag="20" face="8" exp="300" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="8">
+    <at row="24" col="11">
+      <unit id="2814" owner="1" flag="20" face="8" exp="100" str="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="10">
+    <at row="22" col="25">
+      <unit id="2429" owner="1" flag="20" face="11" exp="300" str="7"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="0" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="0" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="0" col="3" terrain="3"/>
+  <hex row="0" col="4" terrain="7"/>
+  <hex row="0" col="5" terrain="3"/>
+  <hex row="0" col="6" road="16" name="Railroad"/>
+  <hex row="0" col="7" terrain="7"/>
+  <hex row="0" col="8" terrain="7"/>
+  <hex row="0" col="9" terrain="7"/>
+  <hex row="0" col="10" terrain="7"/>
+  <hex row="0" col="11" terrain="7"/>
+  <hex row="0" col="12" terrain="7"/>
+  <hex row="0" col="13" terrain="3"/>
+  <hex row="0" col="14" terrain="3"/>
+  <hex row="0" col="15" terrain="7"/>
+  <hex row="0" col="16" terrain="7"/>
+  <hex row="0" col="17" terrain="7"/>
+  <hex row="0" col="18" terrain="7"/>
+  <hex row="0" col="19" terrain="7"/>
+  <hex row="0" col="20" terrain="7"/>
+  <hex row="0" col="21" terrain="7"/>
+  <hex row="0" col="22" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="0" col="23" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="0" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="0" col="25" terrain="3"/>
+  <hex row="0" col="26" terrain="4"/>
+  <hex row="0" col="27" terrain="3"/>
+  <hex row="0" col="28" terrain="3"/>
+  <hex row="0" col="29" terrain="7"/>
+  <hex row="1" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="1" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="1" col="2" terrain="10" name="Frozen Lake"/>
+  <hex row="1" col="3" terrain="3"/>
+  <hex row="1" col="4" terrain="3"/>
+  <hex row="1" col="5" terrain="3"/>
+  <hex row="1" col="6" road="25" name="Railroad"/>
+  <hex row="1" col="7" terrain="3" road="160"/>
+  <hex row="1" col="8" terrain="7"/>
+  <hex row="1" col="9" terrain="3"/>
+  <hex row="1" col="10" terrain="3"/>
+  <hex row="1" col="11" terrain="3"/>
+  <hex row="1" col="12" terrain="3"/>
+  <hex row="1" col="13" terrain="7"/>
+  <hex row="1" col="14" terrain="3"/>
+  <hex row="1" col="15" terrain="3"/>
+  <hex row="1" col="16" terrain="7"/>
+  <hex row="1" col="17" terrain="7"/>
+  <hex row="1" col="18" terrain="4"/>
+  <hex row="1" col="19" terrain="4"/>
+  <hex row="1" col="20" terrain="3"/>
+  <hex row="1" col="21" terrain="7"/>
+  <hex row="1" col="22" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="1" col="23" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="1" col="24" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="1" col="25" terrain="3"/>
+  <hex row="1" col="26" terrain="3"/>
+  <hex row="1" col="27" terrain="3"/>
+  <hex row="1" col="28" terrain="3"/>
+  <hex row="1" col="29" terrain="3"/>
+  <hex row="2" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="2" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="2" col="2" terrain="10" name="Frozen Lake"/>
+  <hex row="2" col="3" terrain="3"/>
+  <hex row="2" col="4" terrain="7"/>
+  <hex row="2" col="5" terrain="1" name="Tervapolku" flag="5" owner="0" supply="0"/>
+  <hex row="2" col="6" road="19" name="Railroad"/>
+  <hex row="2" col="7" terrain="7"/>
+  <hex row="2" col="8" terrain="2" name="Tervapolku  Airfield" owner="0"/>
+  <hex row="2" col="9" terrain="2" name="Tervapolku  Airfield">
+    <unit id="2397" owner="0" flag="6" face="4"/>
+  </hex>
+  <hex row="2" col="10" terrain="3" deploy="0"/>
+  <hex row="2" col="11" terrain="7"/>
+  <hex row="2" col="12" terrain="7"/>
+  <hex row="2" col="13" terrain="7"/>
+  <hex row="2" col="14" terrain="3"/>
+  <hex row="2" col="15" terrain="3"/>
+  <hex row="2" col="16" terrain="7"/>
+  <hex row="2" col="17" terrain="7"/>
+  <hex row="2" col="18" terrain="3"/>
+  <hex row="2" col="19" terrain="3"/>
+  <hex row="2" col="20" terrain="7"/>
+  <hex row="2" col="21" terrain="7"/>
+  <hex row="2" col="22" terrain="7"/>
+  <hex row="2" col="23" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="2" col="24" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="2" col="25" terrain="3"/>
+  <hex row="2" col="26" terrain="3"/>
+  <hex row="2" col="27" terrain="3"/>
+  <hex row="2" col="28" terrain="3"/>
+  <hex row="2" col="29" terrain="4"/>
+  <hex row="3" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="3" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="3" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="3" col="3" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="3" col="4" terrain="3"/>
+  <hex row="3" col="5" terrain="7"/>
+  <hex row="3" col="6" road="17" name="Railroad"/>
+  <hex row="3" col="7" terrain="7" deploy="0"/>
+  <hex row="3" col="8" terrain="2" name="Tervapolku  Airfield" owner="0"/>
+  <hex row="3" col="9" terrain="7" deploy="0"/>
+  <hex row="3" col="10" terrain="7" deploy="0"/>
+  <hex row="3" col="11" terrain="7"/>
+  <hex row="3" col="12" terrain="7"/>
+  <hex row="3" col="13" terrain="7"/>
+  <hex row="3" col="14" terrain="7"/>
+  <hex row="3" col="15" terrain="7"/>
+  <hex row="3" col="16" terrain="7"/>
+  <hex row="3" col="17" terrain="3"/>
+  <hex row="3" col="18" terrain="7"/>
+  <hex row="3" col="19" terrain="3"/>
+  <hex row="3" col="20" terrain="7"/>
+  <hex row="3" col="21" terrain="3"/>
+  <hex row="3" col="22" terrain="7"/>
+  <hex row="3" col="23" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="3" col="24" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="3" col="25" terrain="3"/>
+  <hex row="3" col="26" terrain="3"/>
+  <hex row="3" col="27" terrain="3"/>
+  <hex row="3" col="28" terrain="3"/>
+  <hex row="3" col="29" terrain="3"/>
+  <hex row="4" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="4" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="4" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="4" col="3" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="4" col="4" terrain="10" name="Frozen Lake"/>
+  <hex row="4" col="5" terrain="10" name="Frozen Lake"/>
+  <hex row="4" col="6" road="17" name="Railroad"/>
+  <hex row="4" col="7" terrain="3"/>
+  <hex row="4" col="8" terrain="3" deploy="0"/>
+  <hex row="4" col="9" terrain="7">
+    <unit id="12" owner="0" flag="6" face="3" transport="20" exp="300"/>
+  </hex>
+  <hex row="4" col="10" terrain="7"/>
+  <hex row="4" col="11" terrain="7"/>
+  <hex row="4" col="12" terrain="3"/>
+  <hex row="4" col="13" terrain="7"/>
+  <hex row="4" col="14" terrain="7"/>
+  <hex row="4" col="15" terrain="3"/>
+  <hex row="4" col="16" terrain="3"/>
+  <hex row="4" col="17" terrain="3"/>
+  <hex row="4" col="18" terrain="7"/>
+  <hex row="4" col="19" terrain="7"/>
+  <hex row="4" col="20" terrain="3"/>
+  <hex row="4" col="21" terrain="7"/>
+  <hex row="4" col="22" terrain="3"/>
+  <hex row="4" col="23" terrain="3"/>
+  <hex row="4" col="24" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="4" col="25" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="4" col="26" terrain="3"/>
+  <hex row="4" col="27" terrain="3"/>
+  <hex row="4" col="28" terrain="3"/>
+  <hex row="4" col="29" terrain="7"/>
+  <hex row="5" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="5" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="5" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="5" col="3" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="5" col="4" terrain="10" name="Frozen Lake"/>
+  <hex row="5" col="5" terrain="10" name="Frozen Lake"/>
+  <hex row="5" col="6" road="17" name="Railroad"/>
+  <hex row="5" col="7" terrain="7" deploy="0"/>
+  <hex row="5" col="8" terrain="3" deploy="0"/>
+  <hex row="5" col="9" terrain="7"/>
+  <hex row="5" col="10" terrain="7"/>
+  <hex row="5" col="11" terrain="3"/>
+  <hex row="5" col="12" terrain="3"/>
+  <hex row="5" col="13" terrain="3"/>
+  <hex row="5" col="14" terrain="7"/>
+  <hex row="5" col="15" terrain="7"/>
+  <hex row="5" col="16" terrain="3"/>
+  <hex row="5" col="17" terrain="3"/>
+  <hex row="5" col="18" terrain="7"/>
+  <hex row="5" col="19" terrain="7"/>
+  <hex row="5" col="20" terrain="3"/>
+  <hex row="5" col="21" terrain="7"/>
+  <hex row="5" col="22" terrain="3"/>
+  <hex row="5" col="23" terrain="7"/>
+  <hex row="5" col="24" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="5" col="25" terrain="15" name="Lake Lammasjarvi"/>
+  <hex row="5" col="26" terrain="3"/>
+  <hex row="5" col="27" terrain="7"/>
+  <hex row="5" col="28" terrain="7"/>
+  <hex row="5" col="29" terrain="7"/>
+  <hex row="6" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="6" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="6" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="6" col="3" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="6" col="4" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="6" col="5" terrain="10" name="Frozen Lake"/>
+  <hex row="6" col="6" terrain="3" road="17" name="Railroad">
+    <unit id="1132" owner="0" flag="6" face="2" transport="2692" exp="200"/>
+  </hex>
+  <hex row="6" col="7" terrain="3" road="56" deploy="0"/>
+  <hex row="6" col="8" terrain="7">
+    <unit id="2" owner="0" flag="6" face="3" transport="2692" exp="200"/>
+  </hex>
+  <hex row="6" col="9" terrain="3"/>
+  <hex row="6" col="10" terrain="7"/>
+  <hex row="6" col="11" terrain="7"/>
+  <hex row="6" col="12" terrain="7"/>
+  <hex row="6" col="13" terrain="7"/>
+  <hex row="6" col="14" terrain="3"/>
+  <hex row="6" col="15" terrain="3"/>
+  <hex row="6" col="16" terrain="7"/>
+  <hex row="6" col="17" terrain="10" name="Frozen Lake"/>
+  <hex row="6" col="18" terrain="3"/>
+  <hex row="6" col="19" terrain="7"/>
+  <hex row="6" col="20" terrain="3"/>
+  <hex row="6" col="21" terrain="7"/>
+  <hex row="6" col="22" terrain="7"/>
+  <hex row="6" col="23" terrain="3"/>
+  <hex row="6" col="24" terrain="7"/>
+  <hex row="6" col="25" terrain="10" name="Frozen Strait"/>
+  <hex row="6" col="26" terrain="7"/>
+  <hex row="6" col="27" terrain="7"/>
+  <hex row="6" col="28" terrain="7"/>
+  <hex row="6" col="29" terrain="3"/>
+  <hex row="7" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="7" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="7" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="7" col="3" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="7" col="4" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="7" col="5" terrain="7">
+    <unit id="13" owner="0" flag="6" face="1" transport="20" exp="200"/>
+  </hex>
+  <hex row="7" col="6" road="27" name="Railroad"/>
+  <hex row="7" col="7" terrain="1" road="171" name="Kuhmo" flag="5" owner="0" victory="1">
+    <unit id="335" owner="0" flag="6" face="2" exp="200" ent="6"/>
+  </hex>
+  <hex row="7" col="8" terrain="1" road="176" name="Kuhmo"/>
+  <hex row="7" col="9" terrain="3"/>
+  <hex row="7" col="10" terrain="7"/>
+  <hex row="7" col="11" terrain="3"/>
+  <hex row="7" col="12" terrain="7"/>
+  <hex row="7" col="13" terrain="7">
+    <unit id="2688" owner="1" flag="20" face="4" exp="300" str="12"/>
+  </hex>
+  <hex row="7" col="14" terrain="7"/>
+  <hex row="7" col="15" terrain="7"/>
+  <hex row="7" col="16" terrain="3"/>
+  <hex row="7" col="17" terrain="7"/>
+  <hex row="7" col="18" terrain="10" name="Frozen Lake"/>
+  <hex row="7" col="19" terrain="7"/>
+  <hex row="7" col="20" terrain="10" name="Frozen Lake"/>
+  <hex row="7" col="21" terrain="7"/>
+  <hex row="7" col="22" terrain="7"/>
+  <hex row="7" col="23" terrain="7">
+    <unit id="476" owner="1" flag="20" face="10" exp="299" ent="4" str="7" ldr="1"/>
+  </hex>
+  <hex row="7" col="24" terrain="3"/>
+  <hex row="7" col="25" terrain="10" name="Frozen Strait"/>
+  <hex row="7" col="26" terrain="7"/>
+  <hex row="7" col="27" terrain="3"/>
+  <hex row="7" col="28" terrain="3"/>
+  <hex row="7" col="29" terrain="3"/>
+  <hex row="8" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="8" col="1" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="8" col="2" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="8" col="3" terrain="10" name="Frozen Lake"/>
+  <hex row="8" col="4" terrain="10" name="Frozen Lake"/>
+  <hex row="8" col="5" terrain="4"/>
+  <hex row="8" col="6" road="19" name="Railroad">
+    <unit id="10" owner="0" flag="6" face="3" exp="200"/>
+  </hex>
+  <hex row="8" col="7" terrain="7"/>
+  <hex row="8" col="8" terrain="1" road="129" name="Kuhmo">
+    <unit id="10" owner="0" flag="6" face="2" transport="20" exp="200"/>
+  </hex>
+  <hex row="8" col="9" terrain="3"/>
+  <hex row="8" col="10" terrain="7"/>
+  <hex row="8" col="11" terrain="7"/>
+  <hex row="8" col="12" terrain="7"/>
+  <hex row="8" col="13" terrain="7"/>
+  <hex row="8" col="14" terrain="7"/>
+  <hex row="8" col="15" terrain="3"/>
+  <hex row="8" col="16" terrain="3"/>
+  <hex row="8" col="17" terrain="7"/>
+  <hex row="8" col="18" terrain="7">
+    <unit id="1803" owner="1" flag="20" face="11" exp="300" ent="5" str="7"/>
+  </hex>
+  <hex row="8" col="19" terrain="3"/>
+  <hex row="8" col="20" terrain="7"/>
+  <hex row="8" col="21" terrain="7"/>
+  <hex row="8" col="22" terrain="7"/>
+  <hex row="8" col="23" terrain="3"/>
+  <hex row="8" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="8" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="8" col="26" terrain="7"/>
+  <hex row="8" col="27" terrain="3"/>
+  <hex row="8" col="28" terrain="3"/>
+  <hex row="8" col="29" terrain="3"/>
+  <hex row="9" col="0" terrain="15" name="Lake Pajakkajoki"/>
+  <hex row="9" col="1" terrain="7"/>
+  <hex row="9" col="2" terrain="7"/>
+  <hex row="9" col="3" terrain="7"/>
+  <hex row="9" col="4" terrain="4"/>
+  <hex row="9" col="5" terrain="7"/>
+  <hex row="9" col="6" road="17" name="Railroad"/>
+  <hex row="9" col="7" terrain="3"/>
+  <hex row="9" col="8" terrain="3"/>
+  <hex row="9" col="9" terrain="7"/>
+  <hex row="9" col="10" terrain="7"/>
+  <hex row="9" col="11" terrain="3"/>
+  <hex row="9" col="12" terrain="7"/>
+  <hex row="9" col="13" terrain="7"/>
+  <hex row="9" col="14" terrain="4"/>
+  <hex row="9" col="15" terrain="3"/>
+  <hex row="9" col="16" terrain="3"/>
+  <hex row="9" col="17" terrain="7"/>
+  <hex row="9" col="18" terrain="7"/>
+  <hex row="9" col="19" terrain="7"/>
+  <hex row="9" col="20" terrain="7"/>
+  <hex row="9" col="21" terrain="7">
+    <unit id="980" owner="1" flag="20" face="10" exp="200" str="8"/>
+  </hex>
+  <hex row="9" col="22" terrain="7"/>
+  <hex row="9" col="23" terrain="7"/>
+  <hex row="9" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="9" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="9" col="26" terrain="10" name="Frozen Lake"/>
+  <hex row="9" col="27" terrain="3"/>
+  <hex row="9" col="28" terrain="4"/>
+  <hex row="9" col="29" terrain="3"/>
+  <hex row="10" col="0" terrain="7"/>
+  <hex row="10" col="1" terrain="7"/>
+  <hex row="10" col="2" terrain="7"/>
+  <hex row="10" col="3" terrain="4"/>
+  <hex row="10" col="4" terrain="7"/>
+  <hex row="10" col="5" terrain="7"/>
+  <hex row="10" col="6" terrain="12" road="17" name="Railroad"/>
+  <hex row="10" col="7" terrain="7" road="40"/>
+  <hex row="10" col="8" terrain="7"/>
+  <hex row="10" col="9" terrain="7"/>
+  <hex row="10" col="10" terrain="7"/>
+  <hex row="10" col="11" terrain="3"/>
+  <hex row="10" col="12" terrain="7"/>
+  <hex row="10" col="13" terrain="3"/>
+  <hex row="10" col="14" terrain="3"/>
+  <hex row="10" col="15" terrain="3"/>
+  <hex row="10" col="16" terrain="3"/>
+  <hex row="10" col="17" terrain="3"/>
+  <hex row="10" col="18" terrain="7"/>
+  <hex row="10" col="19" terrain="7"/>
+  <hex row="10" col="20" terrain="7"/>
+  <hex row="10" col="21" terrain="3">
+    <unit id="2370" owner="1" flag="20" face="11" exp="300" ent="3" str="6"/>
+  </hex>
+  <hex row="10" col="22" terrain="7"/>
+  <hex row="10" col="23" terrain="1" road="24" name="Karhunpolku"/>
+  <hex row="10" col="24" terrain="7"/>
+  <hex row="10" col="25" terrain="10" name="Frozen Strait"/>
+  <hex row="10" col="26" terrain="3"/>
+  <hex row="10" col="27" terrain="3"/>
+  <hex row="10" col="28" terrain="3"/>
+  <hex row="10" col="29" terrain="7"/>
+  <hex row="11" col="0" terrain="7"/>
+  <hex row="11" col="1" terrain="7"/>
+  <hex row="11" col="2" terrain="4"/>
+  <hex row="11" col="3" terrain="3"/>
+  <hex row="11" col="4" terrain="3"/>
+  <hex row="11" col="5" terrain="3"/>
+  <hex row="11" col="6" terrain="12" road="11" name="Railroad"/>
+  <hex row="11" col="7" terrain="12" road="136" name="Railroad"/>
+  <hex row="11" col="8" terrain="7" road="144"/>
+  <hex row="11" col="9" terrain="3"/>
+  <hex row="11" col="10" terrain="3">
+    <unit id="2429" owner="1" flag="20" face="9" exp="300"/>
+  </hex>
+  <hex row="11" col="11" terrain="7"/>
+  <hex row="11" col="12" terrain="7"/>
+  <hex row="11" col="13" terrain="7"/>
+  <hex row="11" col="14" terrain="3"/>
+  <hex row="11" col="15" terrain="3"/>
+  <hex row="11" col="16" terrain="3"/>
+  <hex row="11" col="17" terrain="10" name="Frozen Lake"/>
+  <hex row="11" col="18" terrain="7"/>
+  <hex row="11" col="19" terrain="7"/>
+  <hex row="11" col="20" terrain="3"/>
+  <hex row="11" col="21" terrain="3"/>
+  <hex row="11" col="22" terrain="7"/>
+  <hex row="11" col="23" terrain="1" road="27" name="Karhunpolku"/>
+  <hex row="11" col="24" terrain="1" road="176" name="Karhunpolku" flag="19" owner="1" victory="0">
+    <unit id="495" owner="1" flag="20" face="12" exp="200" ent="5" str="8"/>
+  </hex>
+  <hex row="11" col="25" terrain="10" name="Frozen Strait"/>
+  <hex row="11" col="26" terrain="3"/>
+  <hex row="11" col="27" terrain="3"/>
+  <hex row="11" col="28" terrain="3"/>
+  <hex row="11" col="29" terrain="7"/>
+  <hex row="12" col="0" terrain="7"/>
+  <hex row="12" col="1" terrain="7"/>
+  <hex row="12" col="2" terrain="7"/>
+  <hex row="12" col="3" terrain="7"/>
+  <hex row="12" col="4" terrain="3"/>
+  <hex row="12" col="5" terrain="7"/>
+  <hex row="12" col="6" terrain="7"/>
+  <hex row="12" col="7" terrain="7">
+    <unit id="2688" owner="1" flag="20" face="4" exp="300" str="11"/>
+  </hex>
+  <hex row="12" col="8" terrain="12" road="153" name="Railroad"/>
+  <hex row="12" col="9" terrain="12" road="136" name="Railroad"/>
+  <hex row="12" col="10" terrain="7"/>
+  <hex row="12" col="11" terrain="3"/>
+  <hex row="12" col="12" terrain="7"/>
+  <hex row="12" col="13" terrain="3"/>
+  <hex row="12" col="14" terrain="7"/>
+  <hex row="12" col="15" terrain="7"/>
+  <hex row="12" col="16" terrain="10" name="Frozen Lake"/>
+  <hex row="12" col="17" terrain="3"/>
+  <hex row="12" col="18" terrain="10" name="Frozen Lake"/>
+  <hex row="12" col="19" terrain="3"/>
+  <hex row="12" col="20" terrain="3"/>
+  <hex row="12" col="21" terrain="7"/>
+  <hex row="12" col="22" terrain="3"/>
+  <hex row="12" col="23" road="19"/>
+  <hex row="12" col="24" terrain="7" road="161"/>
+  <hex row="12" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="12" col="26" terrain="3"/>
+  <hex row="12" col="27" terrain="3"/>
+  <hex row="12" col="28" terrain="3"/>
+  <hex row="12" col="29" terrain="3"/>
+  <hex row="13" col="0" terrain="7"/>
+  <hex row="13" col="1" terrain="3"/>
+  <hex row="13" col="2" terrain="3"/>
+  <hex row="13" col="3" terrain="3"/>
+  <hex row="13" col="4" terrain="7"/>
+  <hex row="13" col="5" terrain="3"/>
+  <hex row="13" col="6" terrain="7"/>
+  <hex row="13" col="7" terrain="7"/>
+  <hex row="13" col="8" road="17">
+    <unit id="495" owner="1" flag="20" face="7" exp="300" ent="4" str="9"/>
+  </hex>
+  <hex row="13" col="9" terrain="4"/>
+  <hex row="13" col="10" terrain="12" road="136" name="Railroad"/>
+  <hex row="13" col="11" terrain="12" road="136" name="Railroad"/>
+  <hex row="13" col="12" terrain="7"/>
+  <hex row="13" col="13" terrain="7"/>
+  <hex row="13" col="14" terrain="3"/>
+  <hex row="13" col="15" terrain="3"/>
+  <hex row="13" col="16" terrain="7"/>
+  <hex row="13" col="17" terrain="3"/>
+  <hex row="13" col="18" terrain="7"/>
+  <hex row="13" col="19" terrain="7"/>
+  <hex row="13" col="20" terrain="7"/>
+  <hex row="13" col="21" terrain="3"/>
+  <hex row="13" col="22" terrain="7"/>
+  <hex row="13" col="23" road="17"/>
+  <hex row="13" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="13" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="13" col="26" terrain="3"/>
+  <hex row="13" col="27" terrain="3"/>
+  <hex row="13" col="28" terrain="3"/>
+  <hex row="13" col="29" terrain="3"/>
+  <hex row="14" col="0" terrain="3"/>
+  <hex row="14" col="1" terrain="3"/>
+  <hex row="14" col="2" terrain="3"/>
+  <hex row="14" col="3" terrain="3"/>
+  <hex row="14" col="4" terrain="4"/>
+  <hex row="14" col="5" terrain="3"/>
+  <hex row="14" col="6" terrain="3"/>
+  <hex row="14" col="7" road="18"/>
+  <hex row="14" col="8" terrain="3" road="33"/>
+  <hex row="14" col="9" terrain="3"/>
+  <hex row="14" col="10" terrain="3"/>
+  <hex row="14" col="11" terrain="7"/>
+  <hex row="14" col="12" terrain="12" road="144" name="Railroad"/>
+  <hex row="14" col="13" terrain="7"/>
+  <hex row="14" col="14" terrain="7"/>
+  <hex row="14" col="15" terrain="7"/>
+  <hex row="14" col="16" terrain="7"/>
+  <hex row="14" col="18" terrain="7"/>
+  <hex row="14" col="19" terrain="7"/>
+  <hex row="14" col="20" terrain="7"/>
+  <hex row="14" col="21" terrain="7"/>
+  <hex row="14" col="22" terrain="7"/>
+  <hex row="14" col="23" road="33"/>
+  <hex row="14" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="14" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="14" col="26" terrain="3"/>
+  <hex row="14" col="27" terrain="4"/>
+  <hex row="14" col="28" terrain="3"/>
+  <hex row="14" col="29" terrain="3"/>
+  <hex row="15" col="0" terrain="3"/>
+  <hex row="15" col="1" terrain="3"/>
+  <hex row="15" col="2" terrain="3"/>
+  <hex row="15" col="3" terrain="3"/>
+  <hex row="15" col="4" terrain="3"/>
+  <hex row="15" col="5" terrain="3"/>
+  <hex row="15" col="6" terrain="7"/>
+  <hex row="15" col="7" road="17"/>
+  <hex row="15" col="8" terrain="10" name="Frozen Lake"/>
+  <hex row="15" col="9" terrain="4"/>
+  <hex row="15" col="10" terrain="3">
+    <unit id="923" owner="1" flag="20" face="4" exp="300" ent="4" str="6"/>
+  </hex>
+  <hex row="15" col="11" terrain="3"/>
+  <hex row="15" col="12" terrain="12" road="9" name="Railroad"/>
+  <hex row="15" col="13" terrain="12" road="144" name="Railroad">
+    <unit id="2354" owner="1" flag="20" face="9" exp="100" str="7"/>
+  </hex>
+  <hex row="15" col="14" terrain="7"/>
+  <hex row="15" col="15" terrain="7"/>
+  <hex row="15" col="16" terrain="7"/>
+  <hex row="15" col="17" terrain="7"/>
+  <hex row="15" col="18" terrain="7"/>
+  <hex row="15" col="19" terrain="3"/>
+  <hex row="15" col="20" terrain="4"/>
+  <hex row="15" col="21" terrain="3" road="18"/>
+  <hex row="15" col="22" terrain="3" road="34"/>
+  <hex row="15" col="23" terrain="7"/>
+  <hex row="15" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="15" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="15" col="26" terrain="3"/>
+  <hex row="15" col="27" terrain="4"/>
+  <hex row="15" col="28" terrain="3"/>
+  <hex row="15" col="29" terrain="3"/>
+  <hex row="16" col="0" terrain="7"/>
+  <hex row="16" col="1" terrain="3"/>
+  <hex row="16" col="2" terrain="7"/>
+  <hex row="16" col="3" terrain="7"/>
+  <hex row="16" col="4" terrain="7"/>
+  <hex row="16" col="5" terrain="7"/>
+  <hex row="16" col="6" terrain="7"/>
+  <hex row="16" col="7" road="17"/>
+  <hex row="16" col="8" terrain="4"/>
+  <hex row="16" col="9" terrain="4"/>
+  <hex row="16" col="10" terrain="3">
+    <unit id="484" owner="1" flag="20" face="8" exp="200" ent="4" str="6"/>
+  </hex>
+  <hex row="16" col="11" terrain="3"/>
+  <hex row="16" col="12" terrain="3"/>
+  <hex row="16" col="13" terrain="12" road="17" name="Railroad"/>
+  <hex row="16" col="14" terrain="7"/>
+  <hex row="16" col="15" terrain="7"/>
+  <hex row="16" col="16" terrain="7"/>
+  <hex row="16" col="17" terrain="3"/>
+  <hex row="16" col="18" terrain="7"/>
+  <hex row="16" col="19" terrain="3"/>
+  <hex row="16" col="20" terrain="3"/>
+  <hex row="16" col="21" road="17"/>
+  <hex row="16" col="22" terrain="7"/>
+  <hex row="16" col="23" terrain="7"/>
+  <hex row="16" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="16" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="16" col="26" terrain="7"/>
+  <hex row="16" col="27" terrain="3"/>
+  <hex row="16" col="28" terrain="3"/>
+  <hex row="16" col="29" terrain="7"/>
+  <hex row="17" col="0" terrain="7"/>
+  <hex row="17" col="1" terrain="7"/>
+  <hex row="17" col="2" terrain="3"/>
+  <hex row="17" col="3" terrain="7"/>
+  <hex row="17" col="4" terrain="7"/>
+  <hex row="17" col="5" terrain="7"/>
+  <hex row="17" col="6" terrain="7"/>
+  <hex row="17" col="7" road="17"/>
+  <hex row="17" col="8" terrain="3"/>
+  <hex row="17" col="9" terrain="3"/>
+  <hex row="17" col="10" terrain="3"/>
+  <hex row="17" col="11" terrain="3"/>
+  <hex row="17" col="12" terrain="3"/>
+  <hex row="17" col="13" terrain="12" road="17" name="Railroad"/>
+  <hex row="17" col="14" terrain="7"/>
+  <hex row="17" col="15" terrain="3"/>
+  <hex row="17" col="16" terrain="3"/>
+  <hex row="17" col="17" terrain="4"/>
+  <hex row="17" col="18" terrain="4"/>
+  <hex row="17" col="19" terrain="7"/>
+  <hex row="17" col="20" terrain="7"/>
+  <hex row="17" col="21" road="17"/>
+  <hex row="17" col="22" terrain="4"/>
+  <hex row="17" col="23" terrain="7"/>
+  <hex row="17" col="24" terrain="10" name="Frozen Lake"/>
+  <hex row="17" col="25" terrain="7"/>
+  <hex row="17" col="26" terrain="3"/>
+  <hex row="17" col="27" terrain="10" name="Frozen Lake"/>
+  <hex row="17" col="28" terrain="3"/>
+  <hex row="17" col="29" terrain="3"/>
+  <hex row="18" col="0" terrain="7"/>
+  <hex row="18" col="1" terrain="7"/>
+  <hex row="18" col="2" terrain="7"/>
+  <hex row="18" col="3" terrain="7"/>
+  <hex row="18" col="4" terrain="7"/>
+  <hex row="18" col="5" terrain="7"/>
+  <hex row="18" col="6" terrain="7"/>
+  <hex row="18" col="7" road="17"/>
+  <hex row="18" col="8" terrain="3"/>
+  <hex row="18" col="9" terrain="3"/>
+  <hex row="18" col="10" terrain="3"/>
+  <hex row="18" col="11" terrain="7"/>
+  <hex row="18" col="12" terrain="7"/>
+  <hex row="18" col="13" terrain="12" road="17" name="Railroad"/>
+  <hex row="18" col="14" terrain="7"/>
+  <hex row="18" col="15" terrain="3"/>
+  <hex row="18" col="16" terrain="3"/>
+  <hex row="18" col="17" terrain="7"/>
+  <hex row="18" col="18" terrain="3"/>
+  <hex row="18" col="19" terrain="7"/>
+  <hex row="18" col="20" terrain="7"/>
+  <hex row="18" col="21" road="33"/>
+  <hex row="18" col="22" terrain="10" name="Frozen Lake"/>
+  <hex row="18" col="23" terrain="7"/>
+  <hex row="18" col="24" terrain="10" name="Frozen Strait"/>
+  <hex row="18" col="25" terrain="7"/>
+  <hex row="18" col="26" terrain="10" name="Frozen Lake"/>
+  <hex row="18" col="27" terrain="10" name="Frozen Lake"/>
+  <hex row="18" col="28" terrain="3"/>
+  <hex row="18" col="29" terrain="7"/>
+  <hex row="19" col="0" terrain="7"/>
+  <hex row="19" col="1" terrain="7"/>
+  <hex row="19" col="2" terrain="3"/>
+  <hex row="19" col="3" terrain="3"/>
+  <hex row="19" col="4" terrain="7"/>
+  <hex row="19" col="5" terrain="7"/>
+  <hex row="19" col="6" terrain="3"/>
+  <hex row="19" col="7" road="17"/>
+  <hex row="19" col="8" terrain="7"/>
+  <hex row="19" col="9" terrain="3"/>
+  <hex row="19" col="10" terrain="7"/>
+  <hex row="19" col="11" terrain="7"/>
+  <hex row="19" col="12" terrain="7"/>
+  <hex row="19" col="13" terrain="12" road="49" name="Railroad"/>
+  <hex row="19" col="14" terrain="3"/>
+  <hex row="19" col="15" terrain="7"/>
+  <hex row="19" col="16" terrain="7"/>
+  <hex row="19" col="17" terrain="7"/>
+  <hex row="19" col="18" terrain="7" owner="1" supply="1">
+    <unit id="923" owner="1" flag="20" face="4" exp="300" ent="4" str="7"/>
+  </hex>
+  <hex row="19" col="19" road="34"/>
+  <hex row="19" col="20" road="34"/>
+  <hex row="19" col="21" terrain="10" name="Frozen Lake"/>
+  <hex row="19" col="22" terrain="10" name="Frozen Lake"/>
+  <hex row="19" col="23" terrain="3"/>
+  <hex row="19" col="24" terrain="10" name="Frozen Strait"/>
+  <hex row="19" col="25" terrain="7"/>
+  <hex row="19" col="26" terrain="10" name="Frozen Lake"/>
+  <hex row="19" col="27" terrain="3"/>
+  <hex row="19" col="28" terrain="3"/>
+  <hex row="19" col="29" terrain="3"/>
+  <hex row="20" col="0" terrain="7"/>
+  <hex row="20" col="1" terrain="7"/>
+  <hex row="20" col="2" terrain="7"/>
+  <hex row="20" col="3" terrain="3"/>
+  <hex row="20" col="4" terrain="7"/>
+  <hex row="20" col="5" terrain="3" road="40"/>
+  <hex row="20" col="6" terrain="7"/>
+  <hex row="20" col="7" road="41"/>
+  <hex row="20" col="8" terrain="3"/>
+  <hex row="20" col="9" terrain="7"/>
+  <hex row="20" col="10" terrain="7"/>
+  <hex row="20" col="11" terrain="1" road="58" name="Piilolantie" flag="19" owner="1">
+    <unit id="1158" owner="1" flag="20" face="8" exp="200" str="5"/>
+  </hex>
+  <hex row="20" col="12" terrain="3" road="58"/>
+  <hex row="20" col="13" terrain="1" road="185" name="Piilolantie"/>
+  <hex row="20" col="14" terrain="7"/>
+  <hex row="20" col="15" road="40"/>
+  <hex row="20" col="16" terrain="7"/>
+  <hex row="20" col="17" road="34"/>
+  <hex row="20" col="18" road="50"/>
+  <hex row="20" col="19" terrain="3"/>
+  <hex row="20" col="20" terrain="7"/>
+  <hex row="20" col="21" terrain="7"/>
+  <hex row="20" col="22" terrain="7"/>
+  <hex row="20" col="23" terrain="7"/>
+  <hex row="20" col="24" terrain="10" name="Frozen Strait"/>
+  <hex row="20" col="25" terrain="7"/>
+  <hex row="20" col="26" terrain="7"/>
+  <hex row="20" col="27" terrain="7"/>
+  <hex row="20" col="28" terrain="3"/>
+  <hex row="20" col="29" terrain="7"/>
+  <hex row="21" col="0" terrain="7"/>
+  <hex row="21" col="1" terrain="7"/>
+  <hex row="21" col="2" terrain="7"/>
+  <hex row="21" col="3" road="34"/>
+  <hex row="21" col="4" road="34"/>
+  <hex row="21" col="5" terrain="10" name="Frozen Lake"/>
+  <hex row="21" col="6" terrain="3" road="130"/>
+  <hex row="21" col="7" terrain="3"/>
+  <hex row="21" col="8" terrain="3" road="136"/>
+  <hex row="21" col="9" terrain="3" road="130"/>
+  <hex row="21" col="10" terrain="1" road="42"/>
+  <hex row="21" col="11" terrain="12" road="155" name="Railroad"/>
+  <hex row="21" col="12" terrain="1" road="187" name="Piilolantie"/>
+  <hex row="21" col="13" terrain="1" road="187" name="Piilolantie" flag="19" owner="1" victory="0">
+    <unit id="2429" owner="1" flag="20" face="8" exp="300" str="6"/>
+  </hex>
+  <hex row="21" col="14" terrain="3" road="178"/>
+  <hex row="21" col="15" terrain="7"/>
+  <hex row="21" col="16" road="130"/>
+  <hex row="21" col="17" terrain="3"/>
+  <hex row="21" col="18" terrain="3" road="9"/>
+  <hex row="21" col="19" terrain="3" road="136"/>
+  <hex row="21" col="20" terrain="3"/>
+  <hex row="21" col="21" terrain="3"/>
+  <hex row="21" col="22" terrain="7"/>
+  <hex row="21" col="23" terrain="7"/>
+  <hex row="21" col="24" terrain="10" name="Frozen Strait"/>
+  <hex row="21" col="25" terrain="3"/>
+  <hex row="21" col="26" terrain="7"/>
+  <hex row="21" col="27" terrain="7"/>
+  <hex row="21" col="28" terrain="7"/>
+  <hex row="21" col="29" terrain="7"/>
+  <hex row="22" col="0" terrain="7"/>
+  <hex row="22" col="1" road="2"/>
+  <hex row="22" col="2" road="34"/>
+  <hex row="22" col="3" terrain="7"/>
+  <hex row="22" col="4" terrain="7"/>
+  <hex row="22" col="5" terrain="3"/>
+  <hex row="22" col="6" terrain="7"/>
+  <hex row="22" col="7" terrain="7"/>
+  <hex row="22" col="8" terrain="7"/>
+  <hex row="22" col="9" terrain="7"/>
+  <hex row="22" col="10" terrain="7"/>
+  <hex row="22" col="11" terrain="12" road="17" name="Railroad"/>
+  <hex row="22" col="12" road="139">
+    <unit id="1814" owner="1" flag="20" face="8" exp="300" ent="2" str="5"/>
+  </hex>
+  <hex row="22" col="13" terrain="3" road="131"/>
+  <hex row="22" col="14" road="161"/>
+  <hex row="22" col="15" terrain="7"/>
+  <hex row="22" col="16" terrain="7"/>
+  <hex row="22" col="17" terrain="10" name="Frozen Lake"/>
+  <hex row="22" col="18" terrain="3"/>
+  <hex row="22" col="19" terrain="10" name="Frozen Lake"/>
+  <hex row="22" col="20" road="136"/>
+  <hex row="22" col="21" terrain="1" road="154" name="Haatajantie" flag="19" owner="1" victory="0">
+    <unit id="2429" owner="1" flag="20" face="10" exp="300" str="6"/>
+  </hex>
+  <hex row="22" col="22" terrain="1" road="56" name="Haatajantie"/>
+  <hex row="22" col="23" terrain="1" road="176" name="Haatajantie"/>
+  <hex row="22" col="24" terrain="10" name="Frozen Strait"/>
+  <hex row="22" col="25" terrain="3"/>
+  <hex row="22" col="26" terrain="7"/>
+  <hex row="22" col="27" terrain="3"/>
+  <hex row="22" col="28" terrain="3"/>
+  <hex row="22" col="29" terrain="7"/>
+  <hex row="23" col="1" terrain="3"/>
+  <hex row="23" col="2" terrain="3"/>
+  <hex row="23" col="3" terrain="3"/>
+  <hex row="23" col="4" terrain="3"/>
+  <hex row="23" col="5" terrain="3"/>
+  <hex row="23" col="6" terrain="7"/>
+  <hex row="23" col="7" terrain="3"/>
+  <hex row="23" col="8" terrain="7"/>
+  <hex row="23" col="9" terrain="7"/>
+  <hex row="23" col="10" terrain="7"/>
+  <hex row="23" col="11" terrain="12" road="17" name="Railroad"/>
+  <hex row="23" col="12" terrain="7"/>
+  <hex row="23" col="13" terrain="7"/>
+  <hex row="23" col="14" terrain="7"/>
+  <hex row="23" col="15" terrain="3"/>
+  <hex row="23" col="16" terrain="7"/>
+  <hex row="23" col="17" terrain="10" name="Frozen Lake"/>
+  <hex row="23" col="18" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="23" col="19" terrain="10" name="Frozen Lake"/>
+  <hex row="23" col="20" terrain="10" name="Frozen Lake"/>
+  <hex row="23" col="21" terrain="10" road="3" name="Frozen Lake"/>
+  <hex row="23" col="22" terrain="1" road="171" name="Haatajantie"/>
+  <hex row="23" col="23" terrain="1" road="137" name="Haatajantie" flag="19" owner="1">
+    <unit id="1814" owner="1" flag="20" face="10" exp="200" str="6"/>
+  </hex>
+  <hex row="23" col="24" terrain="10" name="Frozen Strait">
+    <unit id="1801" owner="1" flag="20" face="11" exp="300" ent="5" str="7"/>
+  </hex>
+  <hex row="23" col="25" terrain="3"/>
+  <hex row="23" col="26" terrain="7"/>
+  <hex row="23" col="27" terrain="10" name="Frozen Lake"/>
+  <hex row="23" col="28" terrain="10" name="Frozen Lake"/>
+  <hex row="23" col="29" terrain="7"/>
+  <hex row="24" col="0" terrain="7"/>
+  <hex row="24" col="1" terrain="7"/>
+  <hex row="24" col="2" terrain="7"/>
+  <hex row="24" col="3" terrain="7"/>
+  <hex row="24" col="4" terrain="7"/>
+  <hex row="24" col="5" terrain="7"/>
+  <hex row="24" col="6" terrain="7"/>
+  <hex row="24" col="7" terrain="3"/>
+  <hex row="24" col="8" terrain="7"/>
+  <hex row="24" col="9" terrain="3"/>
+  <hex row="24" col="10" terrain="7"/>
+  <hex row="24" col="11" terrain="12" road="17" name="Railroad"/>
+  <hex row="24" col="12" terrain="7"/>
+  <hex row="24" col="13" terrain="3"/>
+  <hex row="24" col="14" terrain="7"/>
+  <hex row="24" col="15" terrain="7"/>
+  <hex row="24" col="16" terrain="7"/>
+  <hex row="24" col="17" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="18" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="19" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="20" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="21" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="24" col="22" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="23" terrain="10" name="Frozen Lake"/>
+  <hex row="24" col="24" terrain="10" road="144"/>
+  <hex row="24" col="25" terrain="7"/>
+  <hex row="24" col="26" terrain="3"/>
+  <hex row="24" col="27" terrain="2" name="Haatajantie Airfield" flag="19" owner="1">
+    <unit id="474" owner="1" flag="20" face="10" exp="200" ent="5" str="9"/>
+  </hex>
+  <hex row="24" col="28" terrain="2" name="Haatajantie Airfield"/>
+  <hex row="24" col="29" terrain="7"/>
+  <hex row="25" col="0" terrain="7"/>
+  <hex row="25" col="1" terrain="7"/>
+  <hex row="25" col="2" terrain="7"/>
+  <hex row="25" col="3" terrain="7"/>
+  <hex row="25" col="4" terrain="7"/>
+  <hex row="25" col="5" terrain="7"/>
+  <hex row="25" col="6" terrain="3"/>
+  <hex row="25" col="7" terrain="3"/>
+  <hex row="25" col="8" terrain="3"/>
+  <hex row="25" col="9" terrain="7"/>
+  <hex row="25" col="10" terrain="3"/>
+  <hex row="25" col="11" terrain="12" road="17" name="Railroad"/>
+  <hex row="25" col="12" terrain="7"/>
+  <hex row="25" col="13" terrain="7"/>
+  <hex row="25" col="14" terrain="7"/>
+  <hex row="25" col="15" terrain="3"/>
+  <hex row="25" col="16" terrain="7"/>
+  <hex row="25" col="17" terrain="7"/>
+  <hex row="25" col="18" terrain="10" name="Frozen Lake"/>
+  <hex row="25" col="19" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="25" col="20" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="25" col="21" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="25" col="22" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="25" col="23" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="25" col="24" terrain="10" road="9" name="Frozen Lake"/>
+  <hex row="25" col="25" road="136"/>
+  <hex row="25" col="26" terrain="10" name="Frozen Lake"/>
+  <hex row="25" col="27" terrain="7"/>
+  <hex row="25" col="28" terrain="7"/>
+  <hex row="25" col="29" terrain="3"/>
+  <hex row="26" col="0" terrain="7"/>
+  <hex row="26" col="1" terrain="7"/>
+  <hex row="26" col="2" terrain="7"/>
+  <hex row="26" col="3" terrain="3"/>
+  <hex row="26" col="4" terrain="7"/>
+  <hex row="26" col="5" terrain="3"/>
+  <hex row="26" col="6" terrain="3"/>
+  <hex row="26" col="7" terrain="7"/>
+  <hex row="26" col="8" terrain="7"/>
+  <hex row="26" col="9" terrain="7"/>
+  <hex row="26" col="10" terrain="3"/>
+  <hex row="26" col="11" terrain="3" road="49" name="Railroad"/>
+  <hex row="26" col="12" terrain="3"/>
+  <hex row="26" col="13" terrain="7"/>
+  <hex row="26" col="14" terrain="3"/>
+  <hex row="26" col="15" terrain="3"/>
+  <hex row="26" col="16" terrain="7"/>
+  <hex row="26" col="17" terrain="3"/>
+  <hex row="26" col="18" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="19" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="20" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="21" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="22" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="23" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="24" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="26" col="25" terrain="10" name="Frozen Lake"/>
+  <hex row="26" col="26" road="136"/>
+  <hex row="26" col="27" road="136"/>
+  <hex row="26" col="28" terrain="7"/>
+  <hex row="26" col="29" terrain="7"/>
+  <hex row="27" col="0" terrain="7"/>
+  <hex row="27" col="1" terrain="7"/>
+  <hex row="27" col="2" terrain="3"/>
+  <hex row="27" col="3" terrain="3"/>
+  <hex row="27" col="4" terrain="3"/>
+  <hex row="27" col="5" terrain="3"/>
+  <hex row="27" col="6" terrain="7"/>
+  <hex row="27" col="7" terrain="7"/>
+  <hex row="27" col="8" terrain="7"/>
+  <hex row="27" col="9" terrain="7" road="2"/>
+  <hex row="27" col="10" terrain="7" road="42"/>
+  <hex row="27" col="11" road="137" name="Railroad"/>
+  <hex row="27" col="12" terrain="7"/>
+  <hex row="27" col="13" terrain="7"/>
+  <hex row="27" col="14" terrain="7"/>
+  <hex row="27" col="15" terrain="7"/>
+  <hex row="27" col="16" terrain="3"/>
+  <hex row="27" col="17" terrain="3"/>
+  <hex row="27" col="18" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="19" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="20" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="21" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="22" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="23" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="24" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="25" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="27" col="26" terrain="10" name="Frozen Lake"/>
+  <hex row="27" col="27" terrain="10" name="Frozen Lake"/>
+  <hex row="27" col="28" road="128"/>
+  <hex row="28" col="0" terrain="7"/>
+  <hex row="28" col="1" terrain="7"/>
+  <hex row="28" col="2" terrain="3"/>
+  <hex row="28" col="3" terrain="3"/>
+  <hex row="28" col="4" terrain="3"/>
+  <hex row="28" col="5" terrain="3"/>
+  <hex row="28" col="6" terrain="3"/>
+  <hex row="28" col="7" terrain="7"/>
+  <hex row="28" col="8" terrain="7"/>
+  <hex row="28" col="9" terrain="3"/>
+  <hex row="28" col="10" terrain="3"/>
+  <hex row="28" col="11" terrain="3"/>
+  <hex row="28" col="12" terrain="7" road="128"/>
+  <hex row="28" col="13" terrain="3"/>
+  <hex row="28" col="14" terrain="7"/>
+  <hex row="28" col="15" terrain="7"/>
+  <hex row="28" col="16" terrain="3"/>
+  <hex row="28" col="17" terrain="7"/>
+  <hex row="28" col="18" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="19" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="20" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="21" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="22" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="23" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="24" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="25" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="26" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="27" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="28" terrain="15" name="Lake  Haatajanjarvi"/>
+  <hex row="28" col="29" terrain="15" name="Lake  Haatajanjarvi"/>
+</map>

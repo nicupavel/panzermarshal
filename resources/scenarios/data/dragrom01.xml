@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom01.scn" name="Battle for Kishinev" turns="8, 10, 13" date="July 14, 1941" dayturns="3" ground="0" atmosferic="1" latitude="3" rows="22" cols="23" eqp="eqp-adlerkorps" image="resources/maps/images/map_729.png">
+  <player id="0" country="17" side="0" airtrans="0" navaltrans="0" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="3">
+    <at row="2" col="1">
+      <unit id="618" owner="0" flag="8" face="4"/>
+    </at>
+    <at row="3" col="1">
+      <unit id="174" owner="0" flag="8" face="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="0" col="11">
+      <unit id="312" owner="0" flag="18" face="2"/>
+    </at>
+    <at row="1" col="13">
+      <unit id="3285" owner="0" flag="18" face="2" transport="313"/>
+    </at>
+    <at row="1" col="11">
+      <unit id="3285" owner="0" flag="18" face="1" transport="313"/>
+    </at>
+    <at row="1" col="12">
+      <unit id="303" owner="0" flag="18" face="2" transport="313"/>
+    </at>
+    <at row="2" col="12">
+      <unit id="311" owner="0" flag="18" face="1"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="5" road="8"/>
+  <hex row="0" col="3" terrain="5"/>
+  <hex row="0" col="5" terrain="5"/>
+  <hex row="0" col="11" road="8"/>
+  <hex row="0" col="12" terrain="10"/>
+  <hex row="0" col="13" terrain="10" name="Bic"/>
+  <hex row="0" col="14" terrain="5"/>
+  <hex row="0" col="15" terrain="5"/>
+  <hex row="0" col="16" terrain="5"/>
+  <hex row="0" col="17" terrain="5"/>
+  <hex row="0" col="20" road="24"/>
+  <hex row="0" col="21" terrain="1" name="Radeni" flag="19" owner="1"/>
+  <hex row="0" col="22" terrain="10"/>
+  <hex row="1" col="1" terrain="5"/>
+  <hex row="1" col="2" terrain="5" road="136"/>
+  <hex row="1" col="3" terrain="5" road="130"/>
+  <hex row="1" col="4" terrain="5" road="40"/>
+  <hex row="1" col="5" terrain="5" road="136"/>
+  <hex row="1" col="6" terrain="5"/>
+  <hex row="1" col="7" terrain="5"/>
+  <hex row="1" col="8" terrain="5"/>
+  <hex row="1" col="12" road="144"/>
+  <hex row="1" col="14" terrain="10" name="Bic"/>
+  <hex row="1" col="15" terrain="5"/>
+  <hex row="1" col="16" terrain="5"/>
+  <hex row="1" col="17" terrain="5"/>
+  <hex row="1" col="19" road="18"/>
+  <hex row="1" col="20" road="35"/>
+  <hex row="1" col="21" terrain="10" name="Ichel"/>
+  <hex row="1" col="22" terrain="10" name="Ichel"/>
+  <hex row="2" col="1" terrain="5"/>
+  <hex row="2" col="2" terrain="5"/>
+  <hex row="2" col="3" terrain="5"/>
+  <hex row="2" col="4" terrain="5"/>
+  <hex row="2" col="5" terrain="5"/>
+  <hex row="2" col="6" road="136"/>
+  <hex row="2" col="7" terrain="5" road="144"/>
+  <hex row="2" col="8" terrain="5"/>
+  <hex row="2" col="12" road="9"/>
+  <hex row="2" col="13" road="136"/>
+  <hex row="2" col="14" terrain="10" name="Bic"/>
+  <hex row="2" col="15" terrain="10" name="Bic"/>
+  <hex row="2" col="16" terrain="5"/>
+  <hex row="2" col="17" terrain="5"/>
+  <hex row="2" col="19" road="49"/>
+  <hex row="2" col="21" terrain="10" name="Ichel"/>
+  <hex row="3" col="1" terrain="5"/>
+  <hex row="3" col="2" terrain="5"/>
+  <hex row="3" col="3" terrain="5"/>
+  <hex row="3" col="4" terrain="5"/>
+  <hex row="3" col="5" terrain="5"/>
+  <hex row="3" col="6" terrain="5"/>
+  <hex row="3" col="7" road="9"/>
+  <hex row="3" col="8" terrain="5"/>
+  <hex row="3" col="11" terrain="5"/>
+  <hex row="3" col="14" terrain="1" road="136" name="Straseni" flag="19" owner="1"/>
+  <hex row="3" col="15" road="144"/>
+  <hex row="3" col="16" terrain="10" name="Bic"/>
+  <hex row="3" col="18" road="10"/>
+  <hex row="3" col="19" road="145"/>
+  <hex row="3" col="22" terrain="10" name="Ichel"/>
+  <hex row="4" col="1" terrain="5"/>
+  <hex row="4" col="2" terrain="5"/>
+  <hex row="4" col="3" terrain="5"/>
+  <hex row="4" col="4" terrain="5"/>
+  <hex row="4" col="5" terrain="5"/>
+  <hex row="4" col="6" terrain="5"/>
+  <hex row="4" col="7">
+    <unit id="92" owner="0" flag="8" face="2" transport="157" exp="150"/>
+  </hex>
+  <hex row="4" col="8" road="144">
+    <unit id="115" owner="0" flag="8" face="3" exp="150"/>
+  </hex>
+  <hex row="4" col="9" terrain="5"/>
+  <hex row="4" col="10" terrain="5"/>
+  <hex row="4" col="11" terrain="5"/>
+  <hex row="4" col="12" terrain="5"/>
+  <hex row="4" col="13" terrain="5"/>
+  <hex row="4" col="15" road="17"/>
+  <hex row="4" col="16" terrain="10" name="Bic"/>
+  <hex row="4" col="17" terrain="10" name="Bic"/>
+  <hex row="4" col="19" road="9"/>
+  <hex row="5" col="1" terrain="5"/>
+  <hex row="5" col="2" terrain="5"/>
+  <hex row="5" col="3" terrain="5"/>
+  <hex row="5" col="4" terrain="13" name="Cogalnic"/>
+  <hex row="5" col="6">
+    <unit id="110" owner="0" flag="8" face="3" transport="157" exp="150" str="5"/>
+  </hex>
+  <hex row="5" col="7" terrain="13" name="Botna"/>
+  <hex row="5" col="8" road="17"/>
+  <hex row="5" col="9" terrain="5">
+    <unit id="115" owner="0" flag="8" face="3" exp="150"/>
+  </hex>
+  <hex row="5" col="10" terrain="5"/>
+  <hex row="5" col="11" terrain="5"/>
+  <hex row="5" col="12" terrain="5"/>
+  <hex row="5" col="13" terrain="5"/>
+  <hex row="5" col="15" road="9"/>
+  <hex row="5" col="18" terrain="10" name="Bic"/>
+  <hex row="5" col="20" road="144"/>
+  <hex row="6" col="1" terrain="5"/>
+  <hex row="6" col="2" terrain="5"/>
+  <hex row="6" col="3" terrain="10" name="Cogalnic"/>
+  <hex row="6" col="4" terrain="13" name="Cogalnic"/>
+  <hex row="6" col="5" terrain="5"/>
+  <hex row="6" col="6" terrain="5"/>
+  <hex row="6" col="7" terrain="13" name="Botna">
+    <unit id="115" owner="0" flag="8" face="4" exp="150"/>
+  </hex>
+  <hex row="6" col="8" terrain="5" road="9">
+    <unit id="77" owner="0" flag="8" face="3" transport="2398" exp="150" str="7"/>
+  </hex>
+  <hex row="6" col="9" terrain="5" road="144"/>
+  <hex row="6" col="10" terrain="5"/>
+  <hex row="6" col="11" terrain="5"/>
+  <hex row="6" col="12" terrain="5"/>
+  <hex row="6" col="13" terrain="5"/>
+  <hex row="6" col="16" road="144"/>
+  <hex row="6" col="17" terrain="10" name="Bic"/>
+  <hex row="6" col="18" terrain="10" name="Bic"/>
+  <hex row="6" col="20" road="17"/>
+  <hex row="7" col="1" terrain="5"/>
+  <hex row="7" col="2" terrain="5"/>
+  <hex row="7" col="3" terrain="10" name="Cogalnic"/>
+  <hex row="7" col="4" terrain="1" name="Ciuculeni" flag="17" owner="0"/>
+  <hex row="7" col="5" terrain="5"/>
+  <hex row="7" col="6" terrain="5"/>
+  <hex row="7" col="7" terrain="5"/>
+  <hex row="7" col="8" terrain="13" name="Botna"/>
+  <hex row="7" col="9" terrain="5" road="9"/>
+  <hex row="7" col="10" terrain="5"/>
+  <hex row="7" col="11" terrain="5"/>
+  <hex row="7" col="12" terrain="5"/>
+  <hex row="7" col="13" terrain="5"/>
+  <hex row="7" col="14" terrain="5"/>
+  <hex row="7" col="16" road="17"/>
+  <hex row="7" col="17" terrain="10" name="Bic"/>
+  <hex row="7" col="20" road="17"/>
+  <hex row="8" col="1" terrain="5"/>
+  <hex row="8" col="2" terrain="5"/>
+  <hex row="8" col="3" terrain="5"/>
+  <hex row="8" col="4" terrain="10" name="Cogalnic"/>
+  <hex row="8" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="8" col="6" terrain="5"/>
+  <hex row="8" col="7" terrain="5"/>
+  <hex row="8" col="8" terrain="10" name="Botna"/>
+  <hex row="8" col="9" terrain="10" name="Botna"/>
+  <hex row="8" col="10" terrain="5" road="136"/>
+  <hex row="8" col="11" terrain="5" road="144">
+    <unit id="496" owner="1" flag="20" face="8"/>
+  </hex>
+  <hex row="8" col="12" terrain="5"/>
+  <hex row="8" col="13" terrain="5">
+    <unit id="496" owner="1" flag="20" face="8"/>
+  </hex>
+  <hex row="8" col="14" terrain="5"/>
+  <hex row="8" col="15" terrain="5"/>
+  <hex row="8" col="16" road="9"/>
+  <hex row="8" col="17" terrain="1" road="144" name="Cojusna" flag="19" owner="1">
+    <unit id="477" owner="1" flag="20" face="10" transport="2579" ent="5" str="5"/>
+  </hex>
+  <hex row="8" col="18" terrain="10" name="Bic"/>
+  <hex row="8" col="20" road="9"/>
+  <hex row="8" col="21" road="144"/>
+  <hex row="9" col="1" terrain="5"/>
+  <hex row="9" col="2" terrain="5"/>
+  <hex row="9" col="3" terrain="5"/>
+  <hex row="9" col="4" terrain="10" name="Cogalnic"/>
+  <hex row="9" col="5" terrain="5"/>
+  <hex row="9" col="6" terrain="5"/>
+  <hex row="9" col="7" terrain="5"/>
+  <hex row="9" col="8" terrain="5"/>
+  <hex row="9" col="9" terrain="5"/>
+  <hex row="9" col="10" terrain="10" name="Botna"/>
+  <hex row="9" col="11" terrain="5" road="9"/>
+  <hex row="9" col="12" terrain="5"/>
+  <hex row="9" col="13" terrain="5"/>
+  <hex row="9" col="14" terrain="5"/>
+  <hex row="9" col="15" terrain="5"/>
+  <hex row="9" col="16">
+    <unit id="496" owner="1" flag="20" face="8"/>
+  </hex>
+  <hex row="9" col="17" road="17"/>
+  <hex row="9" col="18" terrain="10" name="Bic"/>
+  <hex row="9" col="21" road="17"/>
+  <hex row="10" col="1" terrain="5"/>
+  <hex row="10" col="2" terrain="5"/>
+  <hex row="10" col="3" terrain="5"/>
+  <hex row="10" col="4" terrain="10" name="Cogalnic"/>
+  <hex row="10" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="10" col="6" terrain="5"/>
+  <hex row="10" col="7" terrain="5"/>
+  <hex row="10" col="8" terrain="5"/>
+  <hex row="10" col="9" terrain="5"/>
+  <hex row="10" col="10" terrain="10" name="Botna"/>
+  <hex row="10" col="11" terrain="5"/>
+  <hex row="10" col="12" terrain="5" road="136">
+    <unit id="496" owner="1" flag="20" face="8"/>
+  </hex>
+  <hex row="10" col="13" terrain="5" road="136"/>
+  <hex row="10" col="14" terrain="5">
+    <unit id="484" owner="1" flag="20" face="9" transport="529" ent="4" str="5"/>
+  </hex>
+  <hex row="10" col="15" terrain="5"/>
+  <hex row="10" col="16" terrain="5"/>
+  <hex row="10" col="17" road="9"/>
+  <hex row="10" col="18" terrain="10" name="Bic"/>
+  <hex row="10" col="19" terrain="10" name="Bic"/>
+  <hex row="10" col="21" road="17"/>
+  <hex row="11" col="1" terrain="5"/>
+  <hex row="11" col="2" terrain="5"/>
+  <hex row="11" col="3" terrain="5"/>
+  <hex row="11" col="4" terrain="5"/>
+  <hex row="11" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="11" col="6" terrain="10" name="Cogalnic"/>
+  <hex row="11" col="7" terrain="5"/>
+  <hex row="11" col="8" terrain="5"/>
+  <hex row="11" col="9" terrain="5"/>
+  <hex row="11" col="10" terrain="10" name="Botna"/>
+  <hex row="11" col="11" terrain="10" name="Botna"/>
+  <hex row="11" col="12" terrain="5"/>
+  <hex row="11" col="13" terrain="5"/>
+  <hex row="11" col="14" terrain="5" road="136"/>
+  <hex row="11" col="15" terrain="5" road="136"/>
+  <hex row="11" col="16" terrain="5"/>
+  <hex row="11" col="18" road="144">
+    <unit id="511" owner="1" flag="20" face="9" str="7"/>
+  </hex>
+  <hex row="11" col="20" terrain="10" name="Bic"/>
+  <hex row="11" col="21" road="49"/>
+  <hex row="12" col="1" terrain="5"/>
+  <hex row="12" col="2" terrain="5"/>
+  <hex row="12" col="3" terrain="5"/>
+  <hex row="12" col="4" terrain="5"/>
+  <hex row="12" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="12" col="6" terrain="5"/>
+  <hex row="12" col="7" terrain="5"/>
+  <hex row="12" col="8" terrain="5"/>
+  <hex row="12" col="9" terrain="5"/>
+  <hex row="12" col="11" terrain="10" name="Botna"/>
+  <hex row="12" col="12" terrain="5"/>
+  <hex row="12" col="14" terrain="5"/>
+  <hex row="12" col="16" terrain="5" road="136"/>
+  <hex row="12" col="17" road="138"/>
+  <hex row="12" col="18" road="57"/>
+  <hex row="12" col="19" terrain="1" road="186" name="Chisinau" flag="19" owner="1">
+    <unit id="477" owner="1" flag="20" face="11" transport="2579" ent="4" str="5"/>
+  </hex>
+  <hex row="12" col="20" terrain="1" name="Chisinau" flag="19" owner="1">
+    <unit id="496" owner="1" flag="20" face="9" ent="6"/>
+  </hex>
+  <hex row="12" col="21" road="185"/>
+  <hex row="13" col="1" terrain="5"/>
+  <hex row="13" col="2" terrain="5"/>
+  <hex row="13" col="3" terrain="5"/>
+  <hex row="13" col="4" terrain="1" name="Loganesti" flag="17" owner="0"/>
+  <hex row="13" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="13" col="6" terrain="5"/>
+  <hex row="13" col="7" terrain="5"/>
+  <hex row="13" col="8" terrain="5"/>
+  <hex row="13" col="10" terrain="10" name="Botna"/>
+  <hex row="13" col="18" road="155"/>
+  <hex row="13" col="19" terrain="1" road="171" name="Chisinau" flag="19" owner="1" victory="1">
+    <unit id="496" owner="1" flag="20" face="8" ent="6"/>
+  </hex>
+  <hex row="13" col="20" terrain="1" road="187" name="Chisinau" flag="19" owner="1" victory="1">
+    <unit id="497" owner="1" flag="20" face="13" exp="85" ent="5" str="5" ldr="1"/>
+  </hex>
+  <hex row="13" col="21" terrain="1" road="163" name="Chisinau">
+    <unit id="484" owner="1" flag="20" face="12" transport="529" exp="50" ent="6" str="5"/>
+  </hex>
+  <hex row="13" col="22" road="168"/>
+  <hex row="14" col="1" terrain="5"/>
+  <hex row="14" col="2" terrain="5"/>
+  <hex row="14" col="3" terrain="5"/>
+  <hex row="14" col="4" terrain="5"/>
+  <hex row="14" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="14" col="6" terrain="5"/>
+  <hex row="14" col="7" terrain="5"/>
+  <hex row="14" col="8" terrain="5"/>
+  <hex row="14" col="10" terrain="10" name="Botna"/>
+  <hex row="14" col="11" terrain="10" name="Botna"/>
+  <hex row="14" col="12" terrain="1" name="Vasluieni" flag="19" owner="1"/>
+  <hex row="14" col="17" road="34"/>
+  <hex row="14" col="18" road="35">
+    <unit id="505" owner="1" flag="20" face="11" exp="70" str="7" ldr="1"/>
+  </hex>
+  <hex row="14" col="19" terrain="10" name="Bic"/>
+  <hex row="14" col="20" terrain="1" road="131" name="Chisinau">
+    <unit id="474" owner="1" flag="20" face="10" ent="5"/>
+  </hex>
+  <hex row="15" col="0" road="8"/>
+  <hex row="15" col="1" terrain="5" road="144" deploy="0"/>
+  <hex row="15" col="2" terrain="5"/>
+  <hex row="15" col="3" terrain="5"/>
+  <hex row="15" col="4" terrain="5"/>
+  <hex row="15" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="15" col="6" terrain="5"/>
+  <hex row="15" col="7" terrain="5"/>
+  <hex row="15" col="8" terrain="5"/>
+  <hex row="15" col="11" terrain="10" name="Botna"/>
+  <hex row="15" col="13" road="40">
+    <unit id="496" owner="1" flag="20" face="13"/>
+  </hex>
+  <hex row="15" col="15" road="34"/>
+  <hex row="15" col="16" road="34"/>
+  <hex row="15" col="18">
+    <unit id="511" owner="1" flag="20" face="11" str="6"/>
+  </hex>
+  <hex row="15" col="19" terrain="10" name="Bic"/>
+  <hex row="15" col="21" terrain="2">
+    <unit id="537" owner="1" flag="20" face="12" str="6"/>
+  </hex>
+  <hex row="16" col="1" terrain="5" road="9" flag="17" owner="0" victory="1" deploy="0"/>
+  <hex row="16" col="2" terrain="5" deploy="0"/>
+  <hex row="16" col="3" terrain="5"/>
+  <hex row="16" col="4" terrain="5"/>
+  <hex row="16" col="6" terrain="10" name="Cogalnic"/>
+  <hex row="16" col="7" terrain="5"/>
+  <hex row="16" col="8" terrain="5"/>
+  <hex row="16" col="10" terrain="10" name="Botna"/>
+  <hex row="16" col="12" road="18"/>
+  <hex row="16" col="14" road="146">
+    <unit id="496" owner="1" flag="20" face="13"/>
+  </hex>
+  <hex row="16" col="20" terrain="10" name="Bic"/>
+  <hex row="16" col="21" terrain="10" name="Bic"/>
+  <hex row="16" col="22" terrain="2" flag="19" owner="1">
+    <unit id="948" owner="1" flag="20" face="11" transport="2579" ent="6"/>
+  </hex>
+  <hex row="17" col="1" terrain="5" deploy="0"/>
+  <hex row="17" col="2" terrain="5" road="136" deploy="0"/>
+  <hex row="17" col="3" terrain="5" road="136"/>
+  <hex row="17" col="4" terrain="5"/>
+  <hex row="17" col="5" terrain="10" name="Cogalnic"/>
+  <hex row="17" col="6" terrain="10" name="Cogalnic"/>
+  <hex row="17" col="7" terrain="5"/>
+  <hex row="17" col="8" terrain="5"/>
+  <hex row="17" col="9" terrain="5"/>
+  <hex row="17" col="10" terrain="10" name="Botna"/>
+  <hex row="17" col="11" terrain="10" road="34" name="Botna"/>
+  <hex row="17" col="12" road="33"/>
+  <hex row="17" col="14" road="9"/>
+  <hex row="17" col="15" terrain="1" road="136" name="Ialoveni" flag="19" owner="1"/>
+  <hex row="17" col="22" terrain="10" name="Bic"/>
+  <hex row="18" col="1" terrain="5"/>
+  <hex row="18" col="2" terrain="5"/>
+  <hex row="18" col="3" terrain="5"/>
+  <hex row="18" col="4" terrain="1" road="136" name="Hancesti" flag="19" owner="1"/>
+  <hex row="18" col="5" terrain="1" road="136" name="Hancesti" flag="19" owner="1">
+    <unit id="3384" owner="1" flag="20" face="11" exp="50" ent="5" str="7"/>
+  </hex>
+  <hex row="18" col="6" terrain="10" name="Cogalnic"/>
+  <hex row="18" col="7" terrain="10" name="Cogalnic"/>
+  <hex row="18" col="8" terrain="5"/>
+  <hex row="18" col="9" road="34"/>
+  <hex row="18" col="10" road="34"/>
+  <hex row="18" col="12" terrain="10" name="Botna"/>
+  <hex row="18" col="13" terrain="10" name="Botna"/>
+  <hex row="18" col="16" road="136"/>
+  <hex row="18" col="17" road="144"/>
+  <hex row="19" col="1" terrain="5"/>
+  <hex row="19" col="2" terrain="5"/>
+  <hex row="19" col="3" terrain="1" name="Mereseni" flag="19" owner="1">
+    <unit id="3384" owner="1" flag="20" face="11" exp="50" ent="4" str="5"/>
+  </hex>
+  <hex row="19" col="4" terrain="5"/>
+  <hex row="19" col="5" terrain="5"/>
+  <hex row="19" col="6" terrain="10" road="136" name="Cogalnic"/>
+  <hex row="19" col="7" road="130">
+    <unit id="484" owner="1" flag="20" face="11" transport="529" str="6"/>
+  </hex>
+  <hex row="19" col="8" road="34"/>
+  <hex row="19" col="9" terrain="5"/>
+  <hex row="19" col="12" terrain="1" name="Costesti" flag="19" owner="1"/>
+  <hex row="19" col="14" terrain="10" name="Botna"/>
+  <hex row="19" col="17" road="9"/>
+  <hex row="20" col="1" terrain="5"/>
+  <hex row="20" col="4" terrain="5"/>
+  <hex row="20" col="5" terrain="5"/>
+  <hex row="20" col="6" terrain="10" name="Cogalnic"/>
+  <hex row="20" col="7" terrain="10" name="Cogalnic"/>
+  <hex row="20" col="8" terrain="5"/>
+  <hex row="20" col="9" terrain="5"/>
+  <hex row="20" col="10" terrain="5"/>
+  <hex row="20" col="13" terrain="10" name="Botna"/>
+  <hex row="20" col="14" terrain="10" name="Botna"/>
+  <hex row="20" col="18" terrain="1" road="136" name="Sangera" flag="19" owner="1"/>
+  <hex row="20" col="19" road="136"/>
+  <hex row="21" col="2" terrain="5"/>
+  <hex row="21" col="3" terrain="5"/>
+  <hex row="21" col="4" terrain="5"/>
+  <hex row="21" col="5" terrain="5"/>
+  <hex row="21" col="7" terrain="10" name="Cogalnic"/>
+  <hex row="21" col="9" terrain="5"/>
+  <hex row="21" col="10" terrain="5"/>
+  <hex row="21" col="11" terrain="5"/>
+  <hex row="21" col="13" terrain="10" name="Botna"/>
+  <hex row="21" col="20" road="144"/>
+</map>

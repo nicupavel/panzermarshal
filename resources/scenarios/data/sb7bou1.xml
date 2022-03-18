@@ -1,0 +1,1273 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="sb7bou1.scn" name="Bougainville 1" turns="4, 9, 11" date="October 31, 1943" dayturns="1" ground="0" atmosferic="0" latitude="1" rows="40" cols="45" eqp="eqp-pacific" image="resources/maps/images/map_297.png">
+  <player id="0" country="25" side="1" airtrans="1" navaltrans="3" support="10, 1, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101"/>
+  <player id="1" country="5" side="0" airtrans="1" navaltrans="3" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="1">
+    <at row="20" col="1">
+      <unit id="1719" owner="1" flag="6" face="1" exp="543" ent="6" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="2">
+    <at row="21" col="1">
+      <unit id="1719" owner="1" flag="6" face="1" exp="586" ent="6" str="5" ldr="1"/>
+    </at>
+    <at row="32" col="16">
+      <unit id="984" owner="1" flag="6" face="15" exp="521" ent="3" str="4"/>
+    </at>
+    <at row="22" col="1">
+      <unit id="1719" owner="1" flag="6" face="1" exp="572" ent="6" str="5"/>
+    </at>
+    <at row="30" col="17">
+      <unit id="1024" owner="1" flag="6" face="4" exp="562" ent="3" str="6"/>
+    </at>
+    <at row="31" col="16">
+      <unit id="984" owner="1" flag="6" face="15" exp="579" ent="3" str="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="37" col="10">
+      <unit id="1115" owner="1" flag="6" face="11" exp="127" ent="5" str="5"/>
+    </at>
+    <at row="37" col="11">
+      <unit id="1116" owner="1" flag="6" face="10" exp="262" ent="5" str="4"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="31" col="17">
+      <unit id="1037" owner="1" flag="6" face="11" exp="531" ent="7" str="3"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="37" col="12">
+      <unit id="961" owner="1" flag="6" face="10" exp="225" ent="5" str="6"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="6"/>
+  <hex row="0" col="1" terrain="6"/>
+  <hex row="0" col="2" terrain="10"/>
+  <hex row="0" col="3" terrain="6"/>
+  <hex row="0" col="4" terrain="6"/>
+  <hex row="0" col="5" terrain="6"/>
+  <hex row="0" col="6" terrain="6"/>
+  <hex row="0" col="7" terrain="6"/>
+  <hex row="0" col="8" terrain="6"/>
+  <hex row="0" col="9" terrain="6"/>
+  <hex row="0" col="10" terrain="6"/>
+  <hex row="0" col="11" terrain="6"/>
+  <hex row="0" col="12" terrain="6"/>
+  <hex row="0" col="13" terrain="6"/>
+  <hex row="0" col="14" terrain="6"/>
+  <hex row="0" col="15" terrain="6"/>
+  <hex row="0" col="16" terrain="6"/>
+  <hex row="0" col="17" terrain="6"/>
+  <hex row="0" col="18" terrain="6"/>
+  <hex row="0" col="19" terrain="10"/>
+  <hex row="0" col="20" terrain="9"/>
+  <hex row="0" col="21" terrain="9"/>
+  <hex row="0" col="22" terrain="9"/>
+  <hex row="0" col="23" terrain="9"/>
+  <hex row="0" col="24" terrain="9"/>
+  <hex row="0" col="25" terrain="9"/>
+  <hex row="0" col="26" terrain="9"/>
+  <hex row="0" col="27" terrain="9"/>
+  <hex row="0" col="28" terrain="9"/>
+  <hex row="0" col="29" terrain="9"/>
+  <hex row="1" col="0" terrain="6"/>
+  <hex row="1" col="1" terrain="6"/>
+  <hex row="1" col="2" terrain="10"/>
+  <hex row="1" col="3" terrain="10"/>
+  <hex row="1" col="4" terrain="6"/>
+  <hex row="1" col="5" terrain="6"/>
+  <hex row="1" col="6" terrain="6"/>
+  <hex row="1" col="7" terrain="6"/>
+  <hex row="1" col="8" terrain="6"/>
+  <hex row="1" col="9" terrain="6"/>
+  <hex row="1" col="10" terrain="6"/>
+  <hex row="1" col="11" terrain="6"/>
+  <hex row="1" col="12" terrain="6"/>
+  <hex row="1" col="13" terrain="10"/>
+  <hex row="1" col="14" terrain="6"/>
+  <hex row="1" col="15" terrain="10"/>
+  <hex row="1" col="16" terrain="6"/>
+  <hex row="1" col="17" terrain="10"/>
+  <hex row="1" col="18" terrain="10"/>
+  <hex row="1" col="19" terrain="14"/>
+  <hex row="1" col="20" terrain="9"/>
+  <hex row="1" col="21" terrain="9"/>
+  <hex row="1" col="22" terrain="9"/>
+  <hex row="1" col="23" terrain="9"/>
+  <hex row="1" col="24" terrain="9"/>
+  <hex row="1" col="25" terrain="9"/>
+  <hex row="1" col="26" terrain="9"/>
+  <hex row="1" col="27" terrain="9"/>
+  <hex row="1" col="28" terrain="2"/>
+  <hex row="1" col="29" terrain="9"/>
+  <hex row="2" col="0" terrain="6"/>
+  <hex row="2" col="1" terrain="6"/>
+  <hex row="2" col="2" terrain="6"/>
+  <hex row="2" col="3" terrain="10"/>
+  <hex row="2" col="4" terrain="6"/>
+  <hex row="2" col="5" terrain="6"/>
+  <hex row="2" col="6" terrain="6"/>
+  <hex row="2" col="7" terrain="6"/>
+  <hex row="2" col="8" terrain="6"/>
+  <hex row="2" col="9" terrain="10"/>
+  <hex row="2" col="10" terrain="6"/>
+  <hex row="2" col="11" terrain="10"/>
+  <hex row="2" col="12" terrain="10"/>
+  <hex row="2" col="13" terrain="6"/>
+  <hex row="2" col="14" terrain="10"/>
+  <hex row="2" col="15" terrain="10"/>
+  <hex row="2" col="16" terrain="10"/>
+  <hex row="2" col="17" terrain="6"/>
+  <hex row="2" col="18" terrain="6"/>
+  <hex row="2" col="19" terrain="14"/>
+  <hex row="2" col="20" terrain="9"/>
+  <hex row="2" col="21" terrain="10" name="Wakunai River"/>
+  <hex row="2" col="22" terrain="9"/>
+  <hex row="2" col="23" terrain="9"/>
+  <hex row="2" col="24" terrain="9"/>
+  <hex row="2" col="25" terrain="9"/>
+  <hex row="2" col="26" terrain="9"/>
+  <hex row="2" col="27" terrain="9"/>
+  <hex row="2" col="28" terrain="9"/>
+  <hex row="2" col="29" terrain="9"/>
+  <hex row="3" col="0" terrain="6"/>
+  <hex row="3" col="1" terrain="6"/>
+  <hex row="3" col="2" terrain="6"/>
+  <hex row="3" col="3" terrain="10"/>
+  <hex row="3" col="4" terrain="6"/>
+  <hex row="3" col="5" terrain="6"/>
+  <hex row="3" col="6" terrain="6"/>
+  <hex row="3" col="7" terrain="10"/>
+  <hex row="3" col="8" terrain="10"/>
+  <hex row="3" col="9" terrain="6"/>
+  <hex row="3" col="10" terrain="10"/>
+  <hex row="3" col="11" terrain="6"/>
+  <hex row="3" col="12" terrain="6"/>
+  <hex row="3" col="13" terrain="10"/>
+  <hex row="3" col="14" terrain="10"/>
+  <hex row="3" col="15" terrain="6"/>
+  <hex row="3" col="16" terrain="6"/>
+  <hex row="3" col="17" terrain="6"/>
+  <hex row="3" col="18" terrain="6"/>
+  <hex row="3" col="19" terrain="14"/>
+  <hex row="3" col="20" terrain="10" name="Wakunai River"/>
+  <hex row="3" col="21" terrain="6"/>
+  <hex row="3" col="22" terrain="8"/>
+  <hex row="3" col="23" terrain="8"/>
+  <hex row="3" col="24" terrain="9"/>
+  <hex row="3" col="25" terrain="9"/>
+  <hex row="3" col="26" terrain="9"/>
+  <hex row="3" col="27" terrain="9"/>
+  <hex row="3" col="28" terrain="9"/>
+  <hex row="3" col="29" terrain="9"/>
+  <hex row="4" col="0" terrain="6"/>
+  <hex row="4" col="1" terrain="6"/>
+  <hex row="4" col="2" terrain="6"/>
+  <hex row="4" col="3" terrain="6"/>
+  <hex row="4" col="4" terrain="10"/>
+  <hex row="4" col="5" terrain="6"/>
+  <hex row="4" col="6" terrain="6"/>
+  <hex row="4" col="7" terrain="10"/>
+  <hex row="4" col="8" terrain="6"/>
+  <hex row="4" col="9" terrain="6"/>
+  <hex row="4" col="10" terrain="6"/>
+  <hex row="4" col="11" terrain="10"/>
+  <hex row="4" col="12" terrain="10"/>
+  <hex row="4" col="13" terrain="6"/>
+  <hex row="4" col="14" terrain="6"/>
+  <hex row="4" col="15" terrain="6"/>
+  <hex row="4" col="16" terrain="6"/>
+  <hex row="4" col="17" terrain="6"/>
+  <hex row="4" col="18" terrain="6"/>
+  <hex row="4" col="19" terrain="10" name="Wakunai River"/>
+  <hex row="4" col="20" terrain="10" name="Wakunai River"/>
+  <hex row="4" col="21" terrain="13"/>
+  <hex row="4" col="22" terrain="6"/>
+  <hex row="4" col="23" terrain="8"/>
+  <hex row="4" col="24" terrain="9"/>
+  <hex row="4" col="25" terrain="9"/>
+  <hex row="4" col="26" terrain="9"/>
+  <hex row="4" col="27" terrain="9"/>
+  <hex row="4" col="28" terrain="9"/>
+  <hex row="4" col="29" terrain="9"/>
+  <hex row="5" col="0" terrain="6"/>
+  <hex row="5" col="1" terrain="6"/>
+  <hex row="5" col="2" terrain="6"/>
+  <hex row="5" col="3" terrain="6"/>
+  <hex row="5" col="4" terrain="10"/>
+  <hex row="5" col="5" terrain="6"/>
+  <hex row="5" col="6" terrain="6"/>
+  <hex row="5" col="7" terrain="6"/>
+  <hex row="5" col="8" terrain="6"/>
+  <hex row="5" col="9" terrain="6"/>
+  <hex row="5" col="10" terrain="6"/>
+  <hex row="5" col="11" terrain="6"/>
+  <hex row="5" col="12" terrain="6"/>
+  <hex row="5" col="13" terrain="6"/>
+  <hex row="5" col="14" terrain="6"/>
+  <hex row="5" col="15" terrain="6"/>
+  <hex row="5" col="16" terrain="6"/>
+  <hex row="5" col="17" terrain="14"/>
+  <hex row="5" col="18" terrain="14"/>
+  <hex row="5" col="19" terrain="10" name="Wakunai River"/>
+  <hex row="5" col="20" terrain="10"/>
+  <hex row="5" col="21" terrain="6"/>
+  <hex row="5" col="22" terrain="8"/>
+  <hex row="5" col="23" terrain="10"/>
+  <hex row="5" col="24" terrain="10"/>
+  <hex row="5" col="25" terrain="1" road="24" name="Numa Numa">
+    <unit id="1001" owner="1" flag="6" face="15" exp="134" ent="18" str="5"/>
+  </hex>
+  <hex row="5" col="26" terrain="9"/>
+  <hex row="5" col="27" terrain="9"/>
+  <hex row="5" col="28" terrain="9"/>
+  <hex row="5" col="29" terrain="9"/>
+  <hex row="6" col="0" terrain="6"/>
+  <hex row="6" col="1" terrain="10"/>
+  <hex row="6" col="2" terrain="10"/>
+  <hex row="6" col="3" terrain="6"/>
+  <hex row="6" col="4" terrain="6"/>
+  <hex row="6" col="5" terrain="6"/>
+  <hex row="6" col="6" terrain="6"/>
+  <hex row="6" col="7" terrain="6"/>
+  <hex row="6" col="8" terrain="6"/>
+  <hex row="6" col="9" terrain="6"/>
+  <hex row="6" col="10" terrain="6"/>
+  <hex row="6" col="11" terrain="6"/>
+  <hex row="6" col="12" terrain="6"/>
+  <hex row="6" col="13" terrain="6"/>
+  <hex row="6" col="14" terrain="6"/>
+  <hex row="6" col="15" terrain="6"/>
+  <hex row="6" col="16" terrain="6"/>
+  <hex row="6" col="17" terrain="10" name="Wakunai River"/>
+  <hex row="6" col="18" terrain="10" name="Wakunai River"/>
+  <hex row="6" col="19" terrain="6"/>
+  <hex row="6" col="20" terrain="6"/>
+  <hex row="6" col="21" terrain="6"/>
+  <hex row="6" col="22" terrain="6"/>
+  <hex row="6" col="23" terrain="10"/>
+  <hex row="6" col="24" terrain="8"/>
+  <hex row="6" col="25" terrain="8" road="19"/>
+  <hex row="6" col="26" terrain="2" road="160" flag="5" owner="1">
+    <unit id="1024" owner="1" flag="6" face="11" exp="833" ent="60" str="3"/>
+  </hex>
+  <hex row="6" col="27" terrain="10"/>
+  <hex row="6" col="28" terrain="9"/>
+  <hex row="6" col="29" terrain="9"/>
+  <hex row="7" col="0" terrain="10"/>
+  <hex row="7" col="1" terrain="6"/>
+  <hex row="7" col="2" terrain="6"/>
+  <hex row="7" col="3" terrain="10"/>
+  <hex row="7" col="4" terrain="6"/>
+  <hex row="7" col="5" terrain="6"/>
+  <hex row="7" col="6" terrain="6"/>
+  <hex row="7" col="7" terrain="6"/>
+  <hex row="7" col="8" terrain="6"/>
+  <hex row="7" col="9" terrain="6"/>
+  <hex row="7" col="10" terrain="6"/>
+  <hex row="7" col="11" terrain="6"/>
+  <hex row="7" col="12" terrain="6"/>
+  <hex row="7" col="13" terrain="6"/>
+  <hex row="7" col="14" terrain="6"/>
+  <hex row="7" col="15" terrain="10" name="Wakunai River"/>
+  <hex row="7" col="16" terrain="6"/>
+  <hex row="7" col="17" terrain="10" name="Wakunai River"/>
+  <hex row="7" col="18" terrain="6"/>
+  <hex row="7" col="19" terrain="6"/>
+  <hex row="7" col="20" terrain="6"/>
+  <hex row="7" col="21" terrain="6"/>
+  <hex row="7" col="22" terrain="10"/>
+  <hex row="7" col="23" terrain="6"/>
+  <hex row="7" col="24" terrain="8"/>
+  <hex row="7" col="25" terrain="4" road="33"/>
+  <hex row="7" col="26" terrain="10"/>
+  <hex row="7" col="27" terrain="6"/>
+  <hex row="7" col="28" terrain="16"/>
+  <hex row="7" col="29" terrain="16"/>
+  <hex row="8" col="0" terrain="6"/>
+  <hex row="8" col="1" terrain="10"/>
+  <hex row="8" col="2" terrain="10"/>
+  <hex row="8" col="3" terrain="6"/>
+  <hex row="8" col="4" terrain="6"/>
+  <hex row="8" col="5" terrain="6"/>
+  <hex row="8" col="6" terrain="6"/>
+  <hex row="8" col="7" terrain="6"/>
+  <hex row="8" col="8" terrain="6"/>
+  <hex row="8" col="9" terrain="6"/>
+  <hex row="8" col="10" terrain="6"/>
+  <hex row="8" col="11" terrain="6"/>
+  <hex row="8" col="12" terrain="6"/>
+  <hex row="8" col="13" terrain="6"/>
+  <hex row="8" col="14" terrain="6"/>
+  <hex row="8" col="15" terrain="10" name="Wakunai River"/>
+  <hex row="8" col="16" terrain="10" name="Wakunai River"/>
+  <hex row="8" col="17" terrain="6"/>
+  <hex row="8" col="18" terrain="6"/>
+  <hex row="8" col="19" terrain="6"/>
+  <hex row="8" col="20" terrain="6"/>
+  <hex row="8" col="21" terrain="10"/>
+  <hex row="8" col="22" terrain="10"/>
+  <hex row="8" col="23" terrain="6"/>
+  <hex row="8" col="24" terrain="5" road="18"/>
+  <hex row="8" col="25" terrain="10"/>
+  <hex row="8" col="26" terrain="10"/>
+  <hex row="8" col="27" terrain="6"/>
+  <hex row="8" col="28" terrain="6"/>
+  <hex row="8" col="29" terrain="6"/>
+  <hex row="9" col="0" terrain="10"/>
+  <hex row="9" col="1" terrain="6"/>
+  <hex row="9" col="2" terrain="6"/>
+  <hex row="9" col="3" terrain="6"/>
+  <hex row="9" col="4" terrain="6"/>
+  <hex row="9" col="5" terrain="10" name="Wakunai River"/>
+  <hex row="9" col="6" terrain="6"/>
+  <hex row="9" col="7" terrain="6"/>
+  <hex row="9" col="8" terrain="6"/>
+  <hex row="9" col="9" terrain="6"/>
+  <hex row="9" col="10" terrain="6"/>
+  <hex row="9" col="11" terrain="6"/>
+  <hex row="9" col="12" terrain="6"/>
+  <hex row="9" col="13" terrain="6"/>
+  <hex row="9" col="14" terrain="10" name="Wakunai River"/>
+  <hex row="9" col="15" terrain="10" name="Wakunai River"/>
+  <hex row="9" col="16" terrain="6"/>
+  <hex row="9" col="17" terrain="6"/>
+  <hex row="9" col="18" terrain="6"/>
+  <hex row="9" col="19" terrain="6"/>
+  <hex row="9" col="20" terrain="6"/>
+  <hex row="9" col="21" terrain="10"/>
+  <hex row="9" col="22" terrain="6"/>
+  <hex row="9" col="23" terrain="5" road="18"/>
+  <hex row="9" col="24" terrain="10" road="33"/>
+  <hex row="9" col="25" terrain="6"/>
+  <hex row="9" col="26" terrain="6"/>
+  <hex row="9" col="27" terrain="6"/>
+  <hex row="9" col="28" terrain="6"/>
+  <hex row="9" col="29" terrain="6"/>
+  <hex row="10" col="0" terrain="6"/>
+  <hex row="10" col="1" terrain="6"/>
+  <hex row="10" col="2" terrain="6"/>
+  <hex row="10" col="3" terrain="6"/>
+  <hex row="10" col="4" terrain="10"/>
+  <hex row="10" col="5" terrain="10" name="Wakunai River"/>
+  <hex row="10" col="6" terrain="6"/>
+  <hex row="10" col="7" terrain="6"/>
+  <hex row="10" col="8" terrain="6"/>
+  <hex row="10" col="9" terrain="6"/>
+  <hex row="10" col="10" terrain="6"/>
+  <hex row="10" col="11" terrain="10" name="Wakunai River"/>
+  <hex row="10" col="12" terrain="6"/>
+  <hex row="10" col="13" terrain="10" name="Wakunai River"/>
+  <hex row="10" col="14" terrain="10" name="Wakunai River"/>
+  <hex row="10" col="15" terrain="6"/>
+  <hex row="10" col="16" terrain="6"/>
+  <hex row="10" col="17" terrain="6"/>
+  <hex row="10" col="18" terrain="6"/>
+  <hex row="10" col="19" terrain="6"/>
+  <hex row="10" col="20" terrain="6"/>
+  <hex row="10" col="21" terrain="10"/>
+  <hex row="10" col="22" terrain="6"/>
+  <hex row="10" col="23" terrain="10" road="33"/>
+  <hex row="10" col="24" terrain="10"/>
+  <hex row="10" col="25" terrain="6"/>
+  <hex row="10" col="26" terrain="6"/>
+  <hex row="10" col="27" terrain="6"/>
+  <hex row="10" col="28" terrain="6"/>
+  <hex row="10" col="29" terrain="6"/>
+  <hex row="11" col="0" terrain="6"/>
+  <hex row="11" col="1" terrain="6"/>
+  <hex row="11" col="2" terrain="6"/>
+  <hex row="11" col="3" terrain="6"/>
+  <hex row="11" col="4" terrain="10"/>
+  <hex row="11" col="5" terrain="10" name="Wakunai River"/>
+  <hex row="11" col="6" terrain="6"/>
+  <hex row="11" col="7" terrain="6"/>
+  <hex row="11" col="8" terrain="6"/>
+  <hex row="11" col="9" terrain="10" name="Wakunai River"/>
+  <hex row="11" col="10" terrain="10" name="Wakunai River"/>
+  <hex row="11" col="11" terrain="14"/>
+  <hex row="11" col="12" terrain="10" name="Wakunai River"/>
+  <hex row="11" col="13" terrain="10"/>
+  <hex row="11" col="14" terrain="6"/>
+  <hex row="11" col="15" terrain="14"/>
+  <hex row="11" col="16" terrain="6"/>
+  <hex row="11" col="17" terrain="6"/>
+  <hex row="11" col="18" terrain="6"/>
+  <hex row="11" col="19" terrain="6"/>
+  <hex row="11" col="20" terrain="10">
+    <unit id="1043" owner="1" flag="6" face="15" exp="556" ent="7" str="6"/>
+  </hex>
+  <hex row="11" col="21" terrain="6"/>
+  <hex row="11" col="22" terrain="10" road="18"/>
+  <hex row="11" col="23" terrain="6"/>
+  <hex row="11" col="24" terrain="6"/>
+  <hex row="11" col="25" terrain="6"/>
+  <hex row="11" col="26" terrain="6"/>
+  <hex row="11" col="27" terrain="6"/>
+  <hex row="11" col="28" terrain="6"/>
+  <hex row="11" col="29" terrain="6"/>
+  <hex row="12" col="0" terrain="6"/>
+  <hex row="12" col="1" terrain="6"/>
+  <hex row="12" col="2" terrain="6"/>
+  <hex row="12" col="3" terrain="6"/>
+  <hex row="12" col="4" terrain="10"/>
+  <hex row="12" col="5" terrain="10"/>
+  <hex row="12" col="6" terrain="10" name="Wakunai River"/>
+  <hex row="12" col="7" terrain="10" name="Wakunai River"/>
+  <hex row="12" col="8" terrain="10" name="Wakunai River"/>
+  <hex row="12" col="9" terrain="14"/>
+  <hex row="12" col="10" terrain="14"/>
+  <hex row="12" col="11" terrain="1" name="Sisivie"/>
+  <hex row="12" col="12" terrain="10"/>
+  <hex row="12" col="13" terrain="1" name="Vivie"/>
+  <hex row="12" col="14" terrain="6"/>
+  <hex row="12" col="15" terrain="6"/>
+  <hex row="12" col="16" terrain="14"/>
+  <hex row="12" col="17" terrain="6"/>
+  <hex row="12" col="18" terrain="14"/>
+  <hex row="12" col="19" terrain="5"/>
+  <hex row="12" col="20" terrain="10"/>
+  <hex row="12" col="21" terrain="5"/>
+  <hex row="12" col="22" terrain="10" road="33"/>
+  <hex row="12" col="23" terrain="6"/>
+  <hex row="12" col="24" terrain="6"/>
+  <hex row="12" col="25" terrain="6"/>
+  <hex row="12" col="26" terrain="6"/>
+  <hex row="12" col="27" terrain="6"/>
+  <hex row="12" col="28" terrain="6"/>
+  <hex row="12" col="29" terrain="6"/>
+  <hex row="13" col="0" terrain="6"/>
+  <hex row="13" col="1" terrain="6"/>
+  <hex row="13" col="2" terrain="6"/>
+  <hex row="13" col="3" terrain="6"/>
+  <hex row="13" col="4" terrain="6"/>
+  <hex row="13" col="5" terrain="6"/>
+  <hex row="13" col="6" terrain="10"/>
+  <hex row="13" col="7" terrain="10"/>
+  <hex row="13" col="8" terrain="10"/>
+  <hex row="13" col="9" terrain="10"/>
+  <hex row="13" col="10" terrain="10"/>
+  <hex row="13" col="11" terrain="10"/>
+  <hex row="13" col="12" terrain="10"/>
+  <hex row="13" col="13" terrain="6"/>
+  <hex row="13" col="14" terrain="6"/>
+  <hex row="13" col="15" terrain="6"/>
+  <hex row="13" col="16" terrain="14"/>
+  <hex row="13" col="17" terrain="6"/>
+  <hex row="13" col="18" terrain="6"/>
+  <hex row="13" col="19" terrain="14"/>
+  <hex row="13" col="20" terrain="5"/>
+  <hex row="13" col="21" terrain="6"/>
+  <hex row="13" col="22" terrain="6"/>
+  <hex row="13" col="23" terrain="6"/>
+  <hex row="13" col="24" terrain="6"/>
+  <hex row="13" col="25" terrain="6"/>
+  <hex row="13" col="26" terrain="6"/>
+  <hex row="13" col="27" terrain="6"/>
+  <hex row="13" col="28" terrain="6"/>
+  <hex row="13" col="29" terrain="6"/>
+  <hex row="14" col="0" terrain="6"/>
+  <hex row="14" col="1" terrain="6"/>
+  <hex row="14" col="2" terrain="6"/>
+  <hex row="14" col="3" terrain="6"/>
+  <hex row="14" col="4" terrain="6"/>
+  <hex row="14" col="5" terrain="6"/>
+  <hex row="14" col="6" terrain="6"/>
+  <hex row="14" col="7" terrain="6"/>
+  <hex row="14" col="8" terrain="6"/>
+  <hex row="14" col="9" terrain="6"/>
+  <hex row="14" col="10" terrain="6"/>
+  <hex row="14" col="11" terrain="6"/>
+  <hex row="14" col="12" terrain="6"/>
+  <hex row="14" col="13" terrain="6"/>
+  <hex row="14" col="14" terrain="6"/>
+  <hex row="14" col="15" terrain="5"/>
+  <hex row="14" col="16" terrain="6"/>
+  <hex row="14" col="17" terrain="14"/>
+  <hex row="14" col="18" terrain="6"/>
+  <hex row="14" col="19" terrain="14"/>
+  <hex row="14" col="20" terrain="6"/>
+  <hex row="14" col="21" terrain="6"/>
+  <hex row="14" col="22" terrain="6"/>
+  <hex row="14" col="23" terrain="6"/>
+  <hex row="14" col="24" terrain="6"/>
+  <hex row="14" col="25" terrain="6"/>
+  <hex row="14" col="26" terrain="6"/>
+  <hex row="14" col="27" terrain="6"/>
+  <hex row="14" col="28" terrain="6"/>
+  <hex row="14" col="29" terrain="6"/>
+  <hex row="15" col="0" terrain="6"/>
+  <hex row="15" col="1" terrain="6"/>
+  <hex row="15" col="2" terrain="6"/>
+  <hex row="15" col="3" terrain="6"/>
+  <hex row="15" col="4" terrain="6"/>
+  <hex row="15" col="5" terrain="6"/>
+  <hex row="15" col="6" terrain="6"/>
+  <hex row="15" col="7" terrain="6"/>
+  <hex row="15" col="8" terrain="10" name="Doiabi River"/>
+  <hex row="15" col="9" terrain="10" name="Doiabi River"/>
+  <hex row="15" col="10" terrain="6"/>
+  <hex row="15" col="11" terrain="10" name="Doiabi River"/>
+  <hex row="15" col="12" terrain="6"/>
+  <hex row="15" col="13" terrain="6"/>
+  <hex row="15" col="14" terrain="5"/>
+  <hex row="15" col="15" terrain="6"/>
+  <hex row="15" col="16" terrain="6"/>
+  <hex row="15" col="17" terrain="6"/>
+  <hex row="15" col="18" terrain="6"/>
+  <hex row="15" col="19" terrain="6"/>
+  <hex row="15" col="20" terrain="14"/>
+  <hex row="15" col="21" terrain="6"/>
+  <hex row="15" col="22" terrain="6"/>
+  <hex row="15" col="23" terrain="6"/>
+  <hex row="15" col="24" terrain="6"/>
+  <hex row="15" col="25" terrain="6"/>
+  <hex row="15" col="26" terrain="6"/>
+  <hex row="15" col="27" terrain="6"/>
+  <hex row="15" col="28" terrain="6"/>
+  <hex row="15" col="29" terrain="6"/>
+  <hex row="16" col="0" terrain="6"/>
+  <hex row="16" col="1" terrain="6"/>
+  <hex row="16" col="2" terrain="6"/>
+  <hex row="16" col="3" terrain="6"/>
+  <hex row="16" col="4" terrain="6"/>
+  <hex row="16" col="5" terrain="6"/>
+  <hex row="16" col="6" terrain="6"/>
+  <hex row="16" col="7" terrain="6"/>
+  <hex row="16" col="8" terrain="6"/>
+  <hex row="16" col="9" terrain="6"/>
+  <hex row="16" col="10" terrain="10" name="Doiabi River"/>
+  <hex row="16" col="11" terrain="10" name="Doiabi River"/>
+  <hex row="16" col="12" terrain="6"/>
+  <hex row="16" col="13" terrain="6"/>
+  <hex row="16" col="14" terrain="1" road="17" name="Piaterapaia"/>
+  <hex row="16" col="15" terrain="6"/>
+  <hex row="16" col="16" terrain="6"/>
+  <hex row="16" col="17" terrain="14"/>
+  <hex row="16" col="18" terrain="6"/>
+  <hex row="16" col="19" terrain="6"/>
+  <hex row="16" col="20" terrain="6"/>
+  <hex row="16" col="21" terrain="6"/>
+  <hex row="16" col="22" terrain="6"/>
+  <hex row="16" col="23" terrain="6"/>
+  <hex row="16" col="24" terrain="6"/>
+  <hex row="16" col="25" terrain="6"/>
+  <hex row="16" col="26" terrain="6"/>
+  <hex row="16" col="27" terrain="6"/>
+  <hex row="16" col="28" terrain="6"/>
+  <hex row="16" col="29" terrain="6"/>
+  <hex row="17" col="0" terrain="6"/>
+  <hex row="17" col="1" terrain="6"/>
+  <hex row="17" col="2" terrain="6"/>
+  <hex row="17" col="3" terrain="6"/>
+  <hex row="17" col="4" terrain="6"/>
+  <hex row="17" col="5" terrain="6"/>
+  <hex row="17" col="6" terrain="6"/>
+  <hex row="17" col="7" terrain="6"/>
+  <hex row="17" col="8" terrain="6"/>
+  <hex row="17" col="9" terrain="6"/>
+  <hex row="17" col="10" terrain="6"/>
+  <hex row="17" col="11" terrain="6"/>
+  <hex row="17" col="12" terrain="10" name="Doiabi River"/>
+  <hex row="17" col="13" terrain="10" name="Doiabi River"/>
+  <hex row="17" col="14" terrain="5"/>
+  <hex row="17" col="15" terrain="6"/>
+  <hex row="17" col="16" terrain="6"/>
+  <hex row="17" col="17" terrain="6"/>
+  <hex row="17" col="18" terrain="6"/>
+  <hex row="17" col="19" terrain="6"/>
+  <hex row="17" col="20" terrain="6"/>
+  <hex row="17" col="21" terrain="6"/>
+  <hex row="17" col="22" terrain="6"/>
+  <hex row="17" col="23" terrain="10"/>
+  <hex row="17" col="24" terrain="6"/>
+  <hex row="17" col="25" terrain="10"/>
+  <hex row="17" col="26" terrain="6"/>
+  <hex row="17" col="27" terrain="10"/>
+  <hex row="17" col="28" terrain="6"/>
+  <hex row="17" col="29" terrain="6"/>
+  <hex row="18" col="0" terrain="6"/>
+  <hex row="18" col="1" terrain="6"/>
+  <hex row="18" col="2" terrain="6"/>
+  <hex row="18" col="3" terrain="6"/>
+  <hex row="18" col="4" terrain="6"/>
+  <hex row="18" col="5" terrain="6"/>
+  <hex row="18" col="6" terrain="6"/>
+  <hex row="18" col="7" terrain="6"/>
+  <hex row="18" col="8" terrain="6"/>
+  <hex row="18" col="9" terrain="6"/>
+  <hex row="18" col="10" terrain="6"/>
+  <hex row="18" col="11" terrain="6"/>
+  <hex row="18" col="12" terrain="6"/>
+  <hex row="18" col="13" terrain="10" name="Doiabi River"/>
+  <hex row="18" col="14" terrain="5"/>
+  <hex row="18" col="15" terrain="10" name="Laruma River"/>
+  <hex row="18" col="16" terrain="6"/>
+  <hex row="18" col="17" terrain="10" name="Laruma River"/>
+  <hex row="18" col="18" terrain="10" name="Laruma River"/>
+  <hex row="18" col="19" terrain="10" name="Laruma River"/>
+  <hex row="18" col="20" terrain="10" name="Laruma River"/>
+  <hex row="18" col="21" terrain="9" name="Crater Lake"/>
+  <hex row="18" col="22" terrain="6"/>
+  <hex row="18" col="23" terrain="6"/>
+  <hex row="18" col="24" terrain="10"/>
+  <hex row="18" col="25" terrain="6"/>
+  <hex row="18" col="26" terrain="10"/>
+  <hex row="18" col="27" terrain="6"/>
+  <hex row="18" col="28" terrain="10"/>
+  <hex row="18" col="29" terrain="10"/>
+  <hex row="19" col="0" terrain="6"/>
+  <hex row="19" col="1" terrain="6"/>
+  <hex row="19" col="2" terrain="6"/>
+  <hex row="19" col="3" terrain="6"/>
+  <hex row="19" col="4" terrain="6"/>
+  <hex row="19" col="5" terrain="6"/>
+  <hex row="19" col="6" terrain="6"/>
+  <hex row="19" col="7" terrain="6"/>
+  <hex row="19" col="8" terrain="6"/>
+  <hex row="19" col="9" terrain="6"/>
+  <hex row="19" col="10" terrain="6"/>
+  <hex row="19" col="11" terrain="6"/>
+  <hex row="19" col="12" terrain="10" name="Doiabi River"/>
+  <hex row="19" col="13" terrain="10" name="Laruma River"/>
+  <hex row="19" col="14" terrain="10" name="Laruma River"/>
+  <hex row="19" col="15" terrain="6"/>
+  <hex row="19" col="16" terrain="10" name="Laruma River"/>
+  <hex row="19" col="17" terrain="6"/>
+  <hex row="19" col="18" terrain="10"/>
+  <hex row="19" col="19" terrain="10"/>
+  <hex row="19" col="20" terrain="6"/>
+  <hex row="19" col="21" terrain="14"/>
+  <hex row="19" col="22" terrain="9" name="Crater Lake"/>
+  <hex row="19" col="23" terrain="6"/>
+  <hex row="19" col="24" terrain="6"/>
+  <hex row="19" col="25" terrain="6"/>
+  <hex row="19" col="26" terrain="6"/>
+  <hex row="19" col="27" terrain="6"/>
+  <hex row="19" col="28" terrain="6"/>
+  <hex row="20" col="0" terrain="5"/>
+  <hex row="20" col="1" terrain="5"/>
+  <hex row="20" col="2" terrain="6"/>
+  <hex row="20" col="3" terrain="6"/>
+  <hex row="20" col="4" terrain="6"/>
+  <hex row="20" col="5" terrain="6"/>
+  <hex row="20" col="6" terrain="6"/>
+  <hex row="20" col="7" terrain="6"/>
+  <hex row="20" col="8" terrain="6"/>
+  <hex row="20" col="9" terrain="6"/>
+  <hex row="20" col="10" terrain="6"/>
+  <hex row="20" col="11" terrain="10" name="Laruma River"/>
+  <hex row="20" col="12" terrain="10" name="Laruma River"/>
+  <hex row="20" col="13" terrain="6"/>
+  <hex row="20" col="14" terrain="5">
+    <unit id="1714" owner="1" flag="6" face="0" exp="548" ent="6" str="5"/>
+  </hex>
+  <hex row="20" col="15" terrain="6"/>
+  <hex row="20" col="16" terrain="6"/>
+  <hex row="20" col="17" terrain="6"/>
+  <hex row="20" col="18" terrain="6"/>
+  <hex row="20" col="19" terrain="6"/>
+  <hex row="20" col="20" terrain="6"/>
+  <hex row="20" col="21" terrain="6"/>
+  <hex row="20" col="22" terrain="14"/>
+  <hex row="20" col="23" terrain="6"/>
+  <hex row="20" col="24" terrain="6"/>
+  <hex row="20" col="25" terrain="6"/>
+  <hex row="20" col="26" terrain="6"/>
+  <hex row="20" col="27" terrain="6"/>
+  <hex row="20" col="28" terrain="6"/>
+  <hex row="20" col="29" terrain="6"/>
+  <hex row="21" col="0" terrain="9"/>
+  <hex row="21" col="1" terrain="16"/>
+  <hex row="21" col="2" terrain="6"/>
+  <hex row="21" col="3" terrain="6"/>
+  <hex row="21" col="4" terrain="6"/>
+  <hex row="21" col="5" terrain="6"/>
+  <hex row="21" col="6" terrain="6"/>
+  <hex row="21" col="7" terrain="6"/>
+  <hex row="21" col="8" terrain="6"/>
+  <hex row="21" col="9" terrain="6"/>
+  <hex row="21" col="10" terrain="6"/>
+  <hex row="21" col="11" terrain="10" name="Laruma River"/>
+  <hex row="21" col="12" terrain="6"/>
+  <hex row="21" col="13" terrain="5"/>
+  <hex row="21" col="14" terrain="5"/>
+  <hex row="21" col="15" terrain="6"/>
+  <hex row="21" col="16" terrain="6"/>
+  <hex row="21" col="17" terrain="6"/>
+  <hex row="21" col="18" terrain="6"/>
+  <hex row="21" col="19" terrain="10" name="Saua River"/>
+  <hex row="21" col="20" terrain="9" name="Saua River"/>
+  <hex row="21" col="21" terrain="9" name="Saua River"/>
+  <hex row="21" col="22" terrain="6"/>
+  <hex row="21" col="23" terrain="6"/>
+  <hex row="21" col="24" terrain="6"/>
+  <hex row="21" col="25" terrain="6"/>
+  <hex row="21" col="26" terrain="6"/>
+  <hex row="21" col="27" terrain="6"/>
+  <hex row="21" col="28" terrain="6"/>
+  <hex row="21" col="29" terrain="6"/>
+  <hex row="22" col="0" terrain="9"/>
+  <hex row="22" col="1" terrain="16"/>
+  <hex row="22" col="2" terrain="6"/>
+  <hex row="22" col="3" terrain="6">
+    <unit id="1038" owner="1" flag="6" face="0" exp="379" ent="6" str="4"/>
+  </hex>
+  <hex row="22" col="4" terrain="6"/>
+  <hex row="22" col="5" terrain="6"/>
+  <hex row="22" col="6" terrain="6"/>
+  <hex row="22" col="7" terrain="6"/>
+  <hex row="22" col="8" terrain="6"/>
+  <hex row="22" col="9" terrain="6"/>
+  <hex row="22" col="10" terrain="6"/>
+  <hex row="22" col="11" terrain="10" name="Laruma River"/>
+  <hex row="22" col="12" terrain="5"/>
+  <hex row="22" col="13" terrain="6"/>
+  <hex row="22" col="14" terrain="6"/>
+  <hex row="22" col="15" terrain="6"/>
+  <hex row="22" col="16" terrain="6"/>
+  <hex row="22" col="17" terrain="10" name="Saua River"/>
+  <hex row="22" col="18" terrain="10" name="Saua River"/>
+  <hex row="22" col="19" terrain="6"/>
+  <hex row="22" col="20" terrain="6"/>
+  <hex row="22" col="21" terrain="6"/>
+  <hex row="22" col="22" terrain="6"/>
+  <hex row="22" col="23" terrain="6"/>
+  <hex row="22" col="24" terrain="6"/>
+  <hex row="22" col="25" terrain="6"/>
+  <hex row="22" col="26" terrain="6"/>
+  <hex row="22" col="27" terrain="6"/>
+  <hex row="22" col="28" terrain="6"/>
+  <hex row="22" col="29" terrain="6"/>
+  <hex row="23" col="0" terrain="9"/>
+  <hex row="23" col="1" terrain="16"/>
+  <hex row="23" col="2" terrain="6"/>
+  <hex row="23" col="3" terrain="6"/>
+  <hex row="23" col="4" terrain="6"/>
+  <hex row="23" col="5" terrain="6"/>
+  <hex row="23" col="6" terrain="6"/>
+  <hex row="23" col="7" terrain="6"/>
+  <hex row="23" col="8" terrain="6"/>
+  <hex row="23" col="9" terrain="10" name="Laruma River"/>
+  <hex row="23" col="10" terrain="10" name="Laruma River"/>
+  <hex row="23" col="11" terrain="5">
+    <unit id="1714" owner="1" flag="6" face="0" exp="579" ent="6" str="5"/>
+  </hex>
+  <hex row="23" col="12" terrain="5"/>
+  <hex row="23" col="13" terrain="6"/>
+  <hex row="23" col="14" terrain="6"/>
+  <hex row="23" col="15" terrain="6"/>
+  <hex row="23" col="16" terrain="6"/>
+  <hex row="23" col="17" terrain="10" name="Saua River"/>
+  <hex row="23" col="18" terrain="6"/>
+  <hex row="23" col="19" terrain="6"/>
+  <hex row="23" col="20" terrain="6"/>
+  <hex row="23" col="21" terrain="6"/>
+  <hex row="23" col="22" terrain="6"/>
+  <hex row="23" col="23" terrain="6"/>
+  <hex row="23" col="24" terrain="10" name="Reini River"/>
+  <hex row="23" col="25" terrain="6"/>
+  <hex row="23" col="26" terrain="6"/>
+  <hex row="23" col="27" terrain="6"/>
+  <hex row="23" col="28" terrain="6"/>
+  <hex row="23" col="29" terrain="6"/>
+  <hex row="24" col="0" terrain="9"/>
+  <hex row="24" col="1" terrain="8" road="9"/>
+  <hex row="24" col="2" terrain="8"/>
+  <hex row="24" col="3" terrain="8"/>
+  <hex row="24" col="4" terrain="6"/>
+  <hex row="24" col="5" terrain="5"/>
+  <hex row="24" col="6" terrain="10" name="Laruma River"/>
+  <hex row="24" col="7" terrain="10" name="Laruma River"/>
+  <hex row="24" col="8" terrain="10" name="Laruma River"/>
+  <hex row="24" col="9" terrain="6"/>
+  <hex row="24" col="10" terrain="6"/>
+  <hex row="24" col="11" terrain="5"/>
+  <hex row="24" col="12" terrain="6"/>
+  <hex row="24" col="13" terrain="6">
+    <unit id="865" owner="1" flag="6" face="13" exp="579" ent="7" str="7"/>
+  </hex>
+  <hex row="24" col="14" terrain="6"/>
+  <hex row="24" col="15" terrain="10" name="Saua River"/>
+  <hex row="24" col="16" terrain="10" name="Saua River"/>
+  <hex row="24" col="17" terrain="6"/>
+  <hex row="24" col="18" terrain="6"/>
+  <hex row="24" col="19" terrain="6"/>
+  <hex row="24" col="20" terrain="6"/>
+  <hex row="24" col="21" terrain="6"/>
+  <hex row="24" col="22" terrain="6"/>
+  <hex row="24" col="23" terrain="6"/>
+  <hex row="24" col="24" terrain="10" name="Reini River"/>
+  <hex row="24" col="25" terrain="6"/>
+  <hex row="24" col="26" terrain="6"/>
+  <hex row="24" col="27" terrain="6"/>
+  <hex row="24" col="28" terrain="6"/>
+  <hex row="24" col="29" terrain="6"/>
+  <hex row="25" col="0" terrain="9"/>
+  <hex row="25" col="1" terrain="8"/>
+  <hex row="25" col="2" terrain="8" road="144"/>
+  <hex row="25" col="3" terrain="8"/>
+  <hex row="25" col="4" terrain="5"/>
+  <hex row="25" col="5" terrain="10" name="Laruma River"/>
+  <hex row="25" col="6" terrain="10" name="Laruma River"/>
+  <hex row="25" col="7" terrain="3"/>
+  <hex row="25" col="8" terrain="3"/>
+  <hex row="25" col="9" terrain="6"/>
+  <hex row="25" col="10" terrain="5"/>
+  <hex row="25" col="11" terrain="6"/>
+  <hex row="25" col="12" terrain="6"/>
+  <hex row="25" col="13" terrain="6"/>
+  <hex row="25" col="14" terrain="6"/>
+  <hex row="25" col="15" terrain="10" name="Saua River"/>
+  <hex row="25" col="16" terrain="6"/>
+  <hex row="25" col="17" terrain="6"/>
+  <hex row="25" col="18" terrain="6"/>
+  <hex row="25" col="19" terrain="6"/>
+  <hex row="25" col="20" terrain="6"/>
+  <hex row="25" col="21" terrain="6"/>
+  <hex row="25" col="22" terrain="6"/>
+  <hex row="25" col="23" terrain="10" name="Reini River"/>
+  <hex row="25" col="24" terrain="10" name="Reini River"/>
+  <hex row="25" col="25" terrain="6"/>
+  <hex row="25" col="26" terrain="6"/>
+  <hex row="25" col="27" terrain="6"/>
+  <hex row="25" col="28" terrain="6"/>
+  <hex row="25" col="29" terrain="6"/>
+  <hex row="26" col="0" terrain="9"/>
+  <hex row="26" col="1" terrain="9"/>
+  <hex row="26" col="2" terrain="8" road="9"/>
+  <hex row="26" col="3" terrain="10" road="128" name="Laruma River" flag="5" owner="1" victory="1"/>
+  <hex row="26" col="4" terrain="10" name="Laruma River"/>
+  <hex row="26" col="5" terrain="4"/>
+  <hex row="26" col="6" terrain="5"/>
+  <hex row="26" col="7" terrain="4"/>
+  <hex row="26" col="8" terrain="3"/>
+  <hex row="26" col="9" terrain="6"/>
+  <hex row="26" col="10" terrain="5" road="17">
+    <unit id="984" owner="1" flag="6" face="5" exp="325" ent="7" str="5"/>
+  </hex>
+  <hex row="26" col="11" terrain="6"/>
+  <hex row="26" col="12" terrain="3"/>
+  <hex row="26" col="13" terrain="6"/>
+  <hex row="26" col="14" terrain="10" name="Saua River"/>
+  <hex row="26" col="15" terrain="6"/>
+  <hex row="26" col="16" terrain="6"/>
+  <hex row="26" col="17" terrain="6"/>
+  <hex row="26" col="18" terrain="6"/>
+  <hex row="26" col="19" terrain="6"/>
+  <hex row="26" col="20" terrain="6"/>
+  <hex row="26" col="21" terrain="6"/>
+  <hex row="26" col="22" terrain="6"/>
+  <hex row="26" col="23" terrain="10" name="Reini River"/>
+  <hex row="26" col="24" terrain="6"/>
+  <hex row="26" col="25" terrain="6"/>
+  <hex row="26" col="26" terrain="6"/>
+  <hex row="26" col="27" terrain="6"/>
+  <hex row="26" col="28" terrain="6"/>
+  <hex row="26" col="29" terrain="6"/>
+  <hex row="27" col="0" terrain="9"/>
+  <hex row="27" col="1" terrain="9"/>
+  <hex row="27" col="2" terrain="8"/>
+  <hex row="27" col="3" terrain="10" name="Laruma River"/>
+  <hex row="27" col="4" road="136">
+    <unit id="1716" owner="1" flag="6" face="1" exp="641" ent="12" str="4"/>
+  </hex>
+  <hex row="27" col="5" terrain="2"/>
+  <hex row="27" col="6" terrain="2"/>
+  <hex row="27" col="7" terrain="4" road="136">
+    <unit id="34" owner="1" flag="6" face="1" exp="314" ent="4" str="6"/>
+  </hex>
+  <hex row="27" col="8" terrain="4"/>
+  <hex row="27" col="9" terrain="5" road="50"/>
+  <hex row="27" col="10" terrain="5" road="33"/>
+  <hex row="27" col="11" terrain="6"/>
+  <hex row="27" col="12" terrain="3"/>
+  <hex row="27" col="13" terrain="10" name="Saua River"/>
+  <hex row="27" col="14" terrain="10" name="Saua River"/>
+  <hex row="27" col="15" terrain="6"/>
+  <hex row="27" col="16" terrain="6"/>
+  <hex row="27" col="17" terrain="6"/>
+  <hex row="27" col="18" terrain="6"/>
+  <hex row="27" col="19" terrain="6"/>
+  <hex row="27" col="20" terrain="6"/>
+  <hex row="27" col="21" terrain="6"/>
+  <hex row="27" col="22" terrain="6"/>
+  <hex row="27" col="23" terrain="10" name="Reini River"/>
+  <hex row="27" col="24" terrain="6"/>
+  <hex row="27" col="25" terrain="6"/>
+  <hex row="27" col="26" terrain="6"/>
+  <hex row="27" col="27" terrain="6"/>
+  <hex row="27" col="28" terrain="6"/>
+  <hex row="27" col="29" terrain="6"/>
+  <hex row="28" col="0" terrain="9"/>
+  <hex row="28" col="1" terrain="9"/>
+  <hex row="28" col="2" terrain="9"/>
+  <hex row="28" col="3" terrain="9"/>
+  <hex row="28" col="4" terrain="8">
+    <unit id="240" owner="1" flag="6" face="1" exp="801" ent="6" str="6"/>
+  </hex>
+  <hex row="28" col="5" terrain="1" name="Piva Village"/>
+  <hex row="28" col="6" terrain="4"/>
+  <hex row="28" col="7" terrain="4" flag="25" owner="0" victory="1"/>
+  <hex row="28" col="8" terrain="1" road="154" name="Piva">
+    <unit id="599" owner="0" flag="1" face="15" exp="222" ent="1" str="4" ldr="1"/>
+  </hex>
+  <hex row="28" col="9" terrain="1" road="177" name="Piva">
+    <unit id="1716" owner="1" flag="6" face="12" exp="675" ent="12" str="4"/>
+  </hex>
+  <hex row="28" col="10" terrain="6"/>
+  <hex row="28" col="11" terrain="4">
+    <unit id="1716" owner="1" flag="6" face="11" exp="573" ent="6" str="3"/>
+  </hex>
+  <hex row="28" col="12" terrain="3"/>
+  <hex row="28" col="13" terrain="10" name="Saua River"/>
+  <hex row="28" col="14" terrain="6">
+    <unit id="1716" owner="1" flag="6" face="12" exp="596" ent="6" str="3"/>
+  </hex>
+  <hex row="28" col="15" terrain="6"/>
+  <hex row="28" col="16" terrain="6"/>
+  <hex row="28" col="17" terrain="6"/>
+  <hex row="28" col="18" terrain="6"/>
+  <hex row="28" col="19" terrain="6"/>
+  <hex row="28" col="20" terrain="6"/>
+  <hex row="28" col="21" terrain="10" name="Reini River"/>
+  <hex row="28" col="22" terrain="10" name="Reini River"/>
+  <hex row="28" col="23" terrain="6"/>
+  <hex row="28" col="24" terrain="6"/>
+  <hex row="28" col="25" terrain="6"/>
+  <hex row="28" col="26" terrain="6"/>
+  <hex row="28" col="27" terrain="6"/>
+  <hex row="28" col="28" terrain="6"/>
+  <hex row="28" col="29" terrain="6"/>
+  <hex row="29" col="0" terrain="9"/>
+  <hex row="29" col="1" terrain="9">
+    <unit id="837" owner="1" flag="6" face="10" exp="870" ent="15" str="9"/>
+  </hex>
+  <hex row="29" col="2" terrain="9"/>
+  <hex row="29" col="3" terrain="9"/>
+  <hex row="29" col="4" terrain="9">
+    <unit id="837" owner="1" flag="6" face="0" exp="894" ent="15" str="9"/>
+  </hex>
+  <hex row="29" col="5" terrain="9"/>
+  <hex row="29" col="6" terrain="16">
+    <unit id="34" owner="1" flag="6" face="1" exp="344" ent="4" str="6"/>
+  </hex>
+  <hex row="29" col="7" terrain="16"/>
+  <hex row="29" col="8" terrain="1" road="11" name="Piva"/>
+  <hex row="29" col="9" terrain="1" road="137" name="Buretoni Mission"/>
+  <hex row="29" col="12" terrain="10" name="Saua River"/>
+  <hex row="29" col="13" terrain="4"/>
+  <hex row="29" col="14" terrain="6"/>
+  <hex row="29" col="15" terrain="6"/>
+  <hex row="29" col="16" terrain="6"/>
+  <hex row="29" col="17" terrain="6"/>
+  <hex row="29" col="18" terrain="6"/>
+  <hex row="29" col="19" terrain="6"/>
+  <hex row="29" col="20" terrain="10" name="Reini River"/>
+  <hex row="29" col="21" terrain="6"/>
+  <hex row="29" col="22" terrain="6"/>
+  <hex row="29" col="23" terrain="6"/>
+  <hex row="29" col="24" terrain="6"/>
+  <hex row="29" col="25" terrain="6"/>
+  <hex row="29" col="26" terrain="6"/>
+  <hex row="29" col="27" terrain="6"/>
+  <hex row="29" col="28" terrain="6"/>
+  <hex row="29" col="29" terrain="6"/>
+  <hex row="30" col="0" terrain="9"/>
+  <hex row="30" col="1" terrain="9"/>
+  <hex row="30" col="2" terrain="9"/>
+  <hex row="30" col="3" terrain="9"/>
+  <hex row="30" col="4" terrain="9"/>
+  <hex row="30" col="5" terrain="9"/>
+  <hex row="30" col="6" terrain="9" deploy="0"/>
+  <hex row="30" col="7" terrain="9"/>
+  <hex row="30" col="8" terrain="16"/>
+  <hex row="30" col="9" terrain="16">
+    <unit id="34" owner="1" flag="6" face="12" exp="396" ent="4" str="6"/>
+  </hex>
+  <hex row="30" col="10" terrain="16" road="136"/>
+  <hex row="30" col="11" terrain="16" road="136"/>
+  <hex row="30" col="12" terrain="10" name="Saua River" flag="5" owner="1" victory="1">
+    <unit id="978" owner="1" flag="6" face="12" transport="34" exp="472" ent="6" str="9"/>
+  </hex>
+  <hex row="30" col="13" terrain="4" road="40"/>
+  <hex row="30" col="14" terrain="4"/>
+  <hex row="30" col="15" terrain="8"/>
+  <hex row="30" col="16" terrain="6"/>
+  <hex row="30" col="17" terrain="6"/>
+  <hex row="30" col="18" terrain="6"/>
+  <hex row="30" col="19" terrain="6"/>
+  <hex row="30" col="20" terrain="10" name="Reini River"/>
+  <hex row="30" col="21" terrain="6"/>
+  <hex row="30" col="22" terrain="6"/>
+  <hex row="30" col="23" terrain="6"/>
+  <hex row="30" col="24" terrain="6"/>
+  <hex row="30" col="25" terrain="6"/>
+  <hex row="30" col="26" terrain="6"/>
+  <hex row="30" col="27" terrain="6"/>
+  <hex row="30" col="28" terrain="6"/>
+  <hex row="30" col="29" terrain="6"/>
+  <hex row="31" col="0" terrain="9"/>
+  <hex row="31" col="1" terrain="9"/>
+  <hex row="31" col="2" terrain="9">
+    <unit id="837" owner="1" flag="6" face="0" exp="825" ent="15" str="9"/>
+  </hex>
+  <hex row="31" col="3" terrain="9"/>
+  <hex row="31" col="4" terrain="9"/>
+  <hex row="31" col="5" terrain="9"/>
+  <hex row="31" col="6" terrain="9"/>
+  <hex row="31" col="7" terrain="9"/>
+  <hex row="31" col="8" terrain="9" deploy="0"/>
+  <hex row="31" col="9" terrain="9">
+    <unit id="837" owner="1" flag="6" face="12" exp="841" ent="15" str="9"/>
+  </hex>
+  <hex row="31" col="10" terrain="9">
+    <unit id="837" owner="1" flag="6" face="12" exp="893" ent="15" str="9"/>
+  </hex>
+  <hex row="31" col="11" terrain="9"/>
+  <hex row="31" col="12" terrain="10" road="130"/>
+  <hex row="31" col="13" terrain="14"/>
+  <hex row="31" col="14" terrain="8" road="136"/>
+  <hex row="31" col="15" terrain="2"/>
+  <hex row="31" col="16" terrain="6"/>
+  <hex row="31" col="17" terrain="5"/>
+  <hex row="31" col="18" terrain="5"/>
+  <hex row="31" col="19" terrain="5"/>
+  <hex row="31" col="20" terrain="10" name="Reini River"/>
+  <hex row="31" col="21" terrain="6"/>
+  <hex row="31" col="22" terrain="6"/>
+  <hex row="31" col="23" terrain="6"/>
+  <hex row="31" col="24" terrain="6"/>
+  <hex row="31" col="25" terrain="6"/>
+  <hex row="31" col="26" terrain="6"/>
+  <hex row="31" col="27" terrain="6"/>
+  <hex row="31" col="28" terrain="6"/>
+  <hex row="31" col="29" terrain="6"/>
+  <hex row="32" col="0" terrain="9"/>
+  <hex row="32" col="1" terrain="9"/>
+  <hex row="32" col="2" terrain="9"/>
+  <hex row="32" col="3" terrain="9"/>
+  <hex row="32" col="4" terrain="9" deploy="0"/>
+  <hex row="32" col="5" terrain="9"/>
+  <hex row="32" col="6" terrain="9" deploy="0"/>
+  <hex row="32" col="7" terrain="9"/>
+  <hex row="32" col="8" terrain="9"/>
+  <hex row="32" col="9" terrain="9"/>
+  <hex row="32" col="10" terrain="9"/>
+  <hex row="32" col="11" terrain="9"/>
+  <hex row="32" col="12" terrain="9"/>
+  <hex row="32" col="13" terrain="9"/>
+  <hex row="32" col="14" terrain="13"/>
+  <hex row="32" col="15" terrain="16"/>
+  <hex row="32" col="16" terrain="16"/>
+  <hex row="32" col="18" terrain="6"/>
+  <hex row="32" col="19" terrain="10" name="Reini River"/>
+  <hex row="32" col="20" terrain="10" name="Reini River"/>
+  <hex row="32" col="21" terrain="6"/>
+  <hex row="32" col="22" terrain="6"/>
+  <hex row="32" col="23" terrain="6"/>
+  <hex row="32" col="24" terrain="6"/>
+  <hex row="32" col="25" terrain="6"/>
+  <hex row="32" col="26" terrain="6"/>
+  <hex row="32" col="27" terrain="6"/>
+  <hex row="32" col="28" terrain="6"/>
+  <hex row="32" col="29" terrain="6"/>
+  <hex row="33" col="0" terrain="9"/>
+  <hex row="33" col="1" terrain="9"/>
+  <hex row="33" col="2" terrain="9"/>
+  <hex row="33" col="3" terrain="9"/>
+  <hex row="33" col="4" terrain="9"/>
+  <hex row="33" col="5" terrain="9"/>
+  <hex row="33" col="6" terrain="9"/>
+  <hex row="33" col="7" terrain="9"/>
+  <hex row="33" col="8" terrain="9" deploy="0"/>
+  <hex row="33" col="9" terrain="9"/>
+  <hex row="33" col="10" terrain="9">
+    <unit id="837" owner="1" flag="6" face="1" exp="853" ent="15" str="9"/>
+  </hex>
+  <hex row="33" col="11" terrain="9"/>
+  <hex row="33" col="12" terrain="9"/>
+  <hex row="33" col="13" terrain="9"/>
+  <hex row="33" col="14" terrain="9"/>
+  <hex row="33" col="15" terrain="9">
+    <unit id="837" owner="1" flag="6" face="10" exp="811" ent="15" str="9"/>
+  </hex>
+  <hex row="33" col="16" terrain="9"/>
+  <hex row="33" col="17" terrain="9"/>
+  <hex row="33" col="19" terrain="10" name="Reini River"/>
+  <hex row="33" col="20" terrain="5"/>
+  <hex row="33" col="21" terrain="5"/>
+  <hex row="33" col="22" terrain="6"/>
+  <hex row="33" col="23" terrain="6"/>
+  <hex row="33" col="24" terrain="6"/>
+  <hex row="33" col="25" terrain="6"/>
+  <hex row="33" col="26" terrain="6"/>
+  <hex row="33" col="27" terrain="6"/>
+  <hex row="33" col="28" terrain="6"/>
+  <hex row="33" col="29" terrain="6"/>
+  <hex row="34" col="0" terrain="9"/>
+  <hex row="34" col="1" terrain="9"/>
+  <hex row="34" col="2" terrain="9"/>
+  <hex row="34" col="3" terrain="9"/>
+  <hex row="34" col="4" terrain="9"/>
+  <hex row="34" col="5" terrain="9"/>
+  <hex row="34" col="6" terrain="9"/>
+  <hex row="34" col="7" terrain="9"/>
+  <hex row="34" col="8" terrain="9"/>
+  <hex row="34" col="9" terrain="9"/>
+  <hex row="34" col="10" terrain="9"/>
+  <hex row="34" col="11" terrain="9"/>
+  <hex row="34" col="12" terrain="9"/>
+  <hex row="34" col="13" terrain="9">
+    <unit id="837" owner="1" flag="6" face="15" exp="869" ent="15" str="9"/>
+  </hex>
+  <hex row="34" col="14" terrain="9"/>
+  <hex row="34" col="15" terrain="9"/>
+  <hex row="34" col="16" terrain="9"/>
+  <hex row="34" col="17" terrain="9"/>
+  <hex row="34" col="18" terrain="9"/>
+  <hex row="34" col="19" terrain="9"/>
+  <hex row="34" col="20" terrain="8"/>
+  <hex row="34" col="21" terrain="5"/>
+  <hex row="34" col="22" terrain="6"/>
+  <hex row="34" col="23" terrain="6"/>
+  <hex row="34" col="24" terrain="6"/>
+  <hex row="34" col="25" terrain="6"/>
+  <hex row="34" col="26" terrain="6"/>
+  <hex row="34" col="27" terrain="6"/>
+  <hex row="34" col="28" terrain="6"/>
+  <hex row="34" col="29" terrain="6"/>
+  <hex row="35" col="0" terrain="9"/>
+  <hex row="35" col="1" terrain="9"/>
+  <hex row="35" col="2" terrain="9"/>
+  <hex row="35" col="3" terrain="9"/>
+  <hex row="35" col="4" terrain="9"/>
+  <hex row="35" col="5" terrain="9">
+    <unit id="1221" owner="0" flag="10" face="8" exp="198" ent="1" str="6"/>
+  </hex>
+  <hex row="35" col="6" terrain="9"/>
+  <hex row="35" col="7" terrain="9"/>
+  <hex row="35" col="8" terrain="9"/>
+  <hex row="35" col="9" terrain="9"/>
+  <hex row="35" col="10" terrain="9"/>
+  <hex row="35" col="11" terrain="9"/>
+  <hex row="35" col="12" terrain="9"/>
+  <hex row="35" col="13" terrain="9"/>
+  <hex row="35" col="14" terrain="9"/>
+  <hex row="35" col="15" terrain="9"/>
+  <hex row="35" col="16" terrain="9"/>
+  <hex row="35" col="17" terrain="9">
+    <unit id="837" owner="1" flag="6" face="10" exp="890" ent="15" str="9"/>
+  </hex>
+  <hex row="35" col="18" terrain="9"/>
+  <hex row="35" col="19" terrain="9"/>
+  <hex row="35" col="20" terrain="8"/>
+  <hex row="35" col="21" terrain="8"/>
+  <hex row="35" col="22" terrain="5"/>
+  <hex row="35" col="23" terrain="5"/>
+  <hex row="35" col="24" terrain="6"/>
+  <hex row="35" col="25" terrain="6"/>
+  <hex row="35" col="26" terrain="6"/>
+  <hex row="35" col="27" terrain="6"/>
+  <hex row="35" col="28" terrain="6"/>
+  <hex row="35" col="29" terrain="6"/>
+  <hex row="36" col="0" terrain="9"/>
+  <hex row="36" col="1" terrain="9"/>
+  <hex row="36" col="2" terrain="9"/>
+  <hex row="36" col="3" terrain="9"/>
+  <hex row="36" col="4" terrain="9"/>
+  <hex row="36" col="5" terrain="9">
+    <unit id="1221" owner="0" flag="10" face="7" exp="139" ent="1" str="5"/>
+  </hex>
+  <hex row="36" col="6" terrain="9" deploy="0"/>
+  <hex row="36" col="7" terrain="9" deploy="0"/>
+  <hex row="36" col="8" terrain="9"/>
+  <hex row="36" col="9" terrain="9" deploy="0"/>
+  <hex row="36" col="10" terrain="9"/>
+  <hex row="36" col="11" terrain="9"/>
+  <hex row="36" col="12" terrain="9"/>
+  <hex row="36" col="13" terrain="9"/>
+  <hex row="36" col="14" terrain="9"/>
+  <hex row="36" col="15" terrain="9">
+    <unit id="837" owner="1" flag="6" face="15" exp="875" ent="15" str="9"/>
+  </hex>
+  <hex row="36" col="16" terrain="9"/>
+  <hex row="36" col="17" terrain="9"/>
+  <hex row="36" col="18" terrain="9"/>
+  <hex row="36" col="19" terrain="9"/>
+  <hex row="36" col="20" terrain="9"/>
+  <hex row="36" col="21" terrain="9"/>
+  <hex row="36" col="22" terrain="8"/>
+  <hex row="36" col="23" terrain="5"/>
+  <hex row="36" col="24" terrain="6"/>
+  <hex row="36" col="25" terrain="6"/>
+  <hex row="36" col="26" terrain="6"/>
+  <hex row="36" col="27" terrain="6"/>
+  <hex row="36" col="28" terrain="6"/>
+  <hex row="36" col="29" terrain="6"/>
+  <hex row="37" col="0" terrain="9"/>
+  <hex row="37" col="1" terrain="9">
+    <unit id="1120" owner="1" flag="6" face="6" exp="406" ent="1" str="5"/>
+    <unit id="865" owner="1" flag="6" face="5" exp="539" ent="7" str="7"/>
+  </hex>
+  <hex row="37" col="2" terrain="9"/>
+  <hex row="37" col="3" terrain="9"/>
+  <hex row="37" col="4" terrain="9"/>
+  <hex row="37" col="5" terrain="9"/>
+  <hex row="37" col="6" terrain="9"/>
+  <hex row="37" col="7" terrain="9"/>
+  <hex row="37" col="8" terrain="2" flag="25" owner="0" deploy="0" supply="0"/>
+  <hex row="37" col="9" terrain="9"/>
+  <hex row="37" col="10" terrain="9"/>
+  <hex row="37" col="11" terrain="9" deploy="0"/>
+  <hex row="37" col="12" terrain="9"/>
+  <hex row="37" col="13" terrain="9"/>
+  <hex row="37" col="14" terrain="9"/>
+  <hex row="37" col="15" terrain="9"/>
+  <hex row="37" col="16" terrain="9"/>
+  <hex row="37" col="17" terrain="9"/>
+  <hex row="37" col="18" terrain="9"/>
+  <hex row="37" col="19" terrain="9"/>
+  <hex row="37" col="20" terrain="9"/>
+  <hex row="37" col="21" terrain="9"/>
+  <hex row="37" col="22" terrain="16"/>
+  <hex row="37" col="23" terrain="5"/>
+  <hex row="37" col="24" terrain="6"/>
+  <hex row="37" col="25" terrain="6"/>
+  <hex row="37" col="26" terrain="6"/>
+  <hex row="37" col="27" terrain="6"/>
+  <hex row="37" col="28" terrain="6"/>
+  <hex row="37" col="29" terrain="6"/>
+  <hex row="38" col="0" terrain="9"/>
+  <hex row="38" col="1" terrain="9"/>
+  <hex row="38" col="2" terrain="9"/>
+  <hex row="38" col="3" terrain="9"/>
+  <hex row="38" col="4" terrain="9"/>
+  <hex row="38" col="5" terrain="9"/>
+  <hex row="38" col="6" terrain="9"/>
+  <hex row="38" col="7" terrain="9"/>
+  <hex row="38" col="8" terrain="9"/>
+  <hex row="38" col="9" terrain="9"/>
+  <hex row="38" col="10" terrain="9"/>
+  <hex row="38" col="11" terrain="9"/>
+  <hex row="38" col="12" terrain="9"/>
+  <hex row="38" col="13" terrain="9"/>
+  <hex row="38" col="14" terrain="9"/>
+  <hex row="38" col="15" terrain="9"/>
+  <hex row="38" col="16" terrain="9"/>
+  <hex row="38" col="17" terrain="9"/>
+  <hex row="38" col="18" terrain="9"/>
+  <hex row="38" col="19" terrain="9"/>
+  <hex row="38" col="20" terrain="9"/>
+  <hex row="38" col="21" terrain="9"/>
+  <hex row="38" col="22" terrain="16"/>
+  <hex row="38" col="23" terrain="5"/>
+  <hex row="38" col="24" terrain="6"/>
+  <hex row="38" col="25" terrain="6"/>
+  <hex row="38" col="26" terrain="6"/>
+  <hex row="38" col="27" terrain="6"/>
+  <hex row="38" col="28" terrain="6"/>
+  <hex row="38" col="29" terrain="6"/>
+</map>

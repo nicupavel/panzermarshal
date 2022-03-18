@@ -1,0 +1,1342 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dr9fr03.scn" name="7th French Army rush North" turns="10, 13, 17" date="May 15, 1940" dayturns="3" ground="0" atmosferic="0" latitude="2" rows="39" cols="43" eqp="eqp-adlerkorps" image="resources/maps/images/map_327.png">
+  <player id="0" country="7" side="0" airtrans="2" navaltrans="1" support="0, 0, 0, 0" turnprestige="5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 75"/>
+  <player id="1" country="6" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="6">
+    <at row="37" col="13">
+      <unit id="1202" owner="1" flag="7" face="5" str="4"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="9" name="Noordzee"/>
+  <hex row="0" col="1" terrain="9" name="Noordzee"/>
+  <hex row="0" col="2" terrain="9" name="Noordzee"/>
+  <hex row="0" col="3" terrain="9" name="Noordzee"/>
+  <hex row="0" col="4" terrain="9" name="Noordzee"/>
+  <hex row="0" col="5" terrain="9" name="Noordzee"/>
+  <hex row="0" col="6" terrain="9" name="Noordzee"/>
+  <hex row="0" col="7" terrain="9" name="Noordzee"/>
+  <hex row="0" col="8" terrain="9" name="Noordzee"/>
+  <hex row="0" col="9" terrain="9" name="Noordzee"/>
+  <hex row="0" col="10" terrain="9" name="Noordzee"/>
+  <hex row="0" col="11" terrain="9" name="Noordzee"/>
+  <hex row="0" col="12" terrain="9" name="Noordzee"/>
+  <hex row="0" col="13" terrain="9" name="Noordzee"/>
+  <hex row="0" col="14" terrain="9" name="Noordzee"/>
+  <hex row="0" col="15" terrain="9" name="Noordzee"/>
+  <hex row="0" col="16" terrain="9" name="Noordzee"/>
+  <hex row="0" col="17" terrain="9" name="Noordzee"/>
+  <hex row="0" col="18" terrain="9" name="Noordzee"/>
+  <hex row="0" col="19" terrain="8"/>
+  <hex row="0" col="20" terrain="8"/>
+  <hex row="0" col="21" terrain="8"/>
+  <hex row="0" col="22" terrain="8"/>
+  <hex row="0" col="23" terrain="8"/>
+  <hex row="0" col="24" terrain="8"/>
+  <hex row="0" col="25" terrain="8"/>
+  <hex row="0" col="26" terrain="8"/>
+  <hex row="0" col="27" terrain="8"/>
+  <hex row="0" col="28" terrain="8"/>
+  <hex row="0" col="29" terrain="8" road="33"/>
+  <hex row="0" col="30" terrain="8"/>
+  <hex row="0" col="31" terrain="8"/>
+  <hex row="0" col="32" terrain="8"/>
+  <hex row="0" col="33" terrain="8"/>
+  <hex row="0" col="34" terrain="8"/>
+  <hex row="0" col="41" terrain="1" road="25" name="Bussum"/>
+  <hex row="1" col="0" terrain="9" name="Noordzee"/>
+  <hex row="1" col="1" terrain="9" name="Noordzee"/>
+  <hex row="1" col="2" terrain="9" name="Noordzee"/>
+  <hex row="1" col="3" terrain="9" name="Noordzee"/>
+  <hex row="1" col="4" terrain="9" name="Noordzee"/>
+  <hex row="1" col="5" terrain="9" name="Noordzee"/>
+  <hex row="1" col="6" terrain="9" name="Noordzee"/>
+  <hex row="1" col="7" terrain="9" name="Noordzee"/>
+  <hex row="1" col="8" terrain="9" name="Noordzee"/>
+  <hex row="1" col="9" terrain="9" name="Noordzee"/>
+  <hex row="1" col="10" terrain="9" name="Noordzee"/>
+  <hex row="1" col="11" terrain="9" name="Noordzee"/>
+  <hex row="1" col="12" terrain="9" name="Noordzee"/>
+  <hex row="1" col="13" terrain="9" name="Noordzee"/>
+  <hex row="1" col="14" terrain="9" name="Noordzee"/>
+  <hex row="1" col="15" terrain="9" name="Noordzee"/>
+  <hex row="1" col="16" terrain="9" name="Noordzee"/>
+  <hex row="1" col="17" terrain="9" name="Noordzee"/>
+  <hex row="1" col="18" terrain="9" name="Noordzee"/>
+  <hex row="1" col="19" terrain="9" name="Noordzee"/>
+  <hex row="1" col="20" terrain="1" road="16" name="Katwijk"/>
+  <hex row="1" col="21" terrain="8"/>
+  <hex row="1" col="22" terrain="8"/>
+  <hex row="1" col="23" terrain="8"/>
+  <hex row="1" col="24" terrain="8"/>
+  <hex row="1" col="25" terrain="8"/>
+  <hex row="1" col="26" terrain="8"/>
+  <hex row="1" col="27" terrain="8">
+    <unit id="118" owner="0" flag="8" face="15" exp="106" str="9"/>
+  </hex>
+  <hex row="1" col="28" terrain="8" road="18"/>
+  <hex row="1" col="29" terrain="8"/>
+  <hex row="1" col="30" terrain="8"/>
+  <hex row="1" col="31" terrain="8"/>
+  <hex row="1" col="32" terrain="8"/>
+  <hex row="1" col="33" terrain="8"/>
+  <hex row="1" col="34" terrain="8"/>
+  <hex row="1" col="39">
+    <unit id="162" owner="0" flag="8" face="15" exp="147" str="5"/>
+  </hex>
+  <hex row="1" col="41" road="33"/>
+  <hex row="1" col="42" terrain="1" road="128" name="Bussum"/>
+  <hex row="2" col="0" terrain="9" name="Noordzee"/>
+  <hex row="2" col="1" terrain="9" name="Noordzee"/>
+  <hex row="2" col="2" terrain="9" name="Noordzee"/>
+  <hex row="2" col="3" terrain="9" name="Noordzee"/>
+  <hex row="2" col="4" terrain="9" name="Noordzee"/>
+  <hex row="2" col="5" terrain="9" name="Noordzee"/>
+  <hex row="2" col="6" terrain="9" name="Noordzee"/>
+  <hex row="2" col="7" terrain="9" name="Noordzee"/>
+  <hex row="2" col="8" terrain="9" name="Noordzee"/>
+  <hex row="2" col="9" terrain="9" name="Noordzee"/>
+  <hex row="2" col="10" terrain="9" name="Noordzee"/>
+  <hex row="2" col="11" terrain="9" name="Noordzee"/>
+  <hex row="2" col="12" terrain="9" name="Noordzee"/>
+  <hex row="2" col="13" terrain="9" name="Noordzee"/>
+  <hex row="2" col="14" terrain="9" name="Noordzee"/>
+  <hex row="2" col="15" terrain="9" name="Noordzee"/>
+  <hex row="2" col="16" terrain="9" name="Noordzee"/>
+  <hex row="2" col="17" terrain="9" name="Noordzee"/>
+  <hex row="2" col="18" terrain="9" name="Noordzee"/>
+  <hex row="2" col="19" terrain="8" road="18"/>
+  <hex row="2" col="20" terrain="8" road="33"/>
+  <hex row="2" col="21" terrain="8"/>
+  <hex row="2" col="22" terrain="8"/>
+  <hex row="2" col="23" terrain="8"/>
+  <hex row="2" col="24" terrain="8"/>
+  <hex row="2" col="25" terrain="8"/>
+  <hex row="2" col="26" terrain="8"/>
+  <hex row="2" col="27" terrain="8" road="34"/>
+  <hex row="2" col="28" terrain="8" road="33"/>
+  <hex row="2" col="29" terrain="8"/>
+  <hex row="2" col="30" terrain="8"/>
+  <hex row="2" col="31" terrain="8"/>
+  <hex row="2" col="32" terrain="8"/>
+  <hex row="2" col="33" terrain="8"/>
+  <hex row="2" col="40" road="18">
+    <unit id="989" owner="0" flag="8" face="15" exp="114" str="7"/>
+  </hex>
+  <hex row="3" col="0" terrain="9" name="Noordzee"/>
+  <hex row="3" col="1" terrain="9" name="Noordzee"/>
+  <hex row="3" col="2" terrain="9" name="Noordzee"/>
+  <hex row="3" col="3" terrain="9" name="Noordzee"/>
+  <hex row="3" col="4" terrain="9" name="Noordzee"/>
+  <hex row="3" col="5" terrain="9" name="Noordzee"/>
+  <hex row="3" col="6" terrain="9" name="Noordzee"/>
+  <hex row="3" col="7" terrain="9" name="Noordzee"/>
+  <hex row="3" col="8" terrain="9" name="Noordzee"/>
+  <hex row="3" col="9" terrain="9" name="Noordzee"/>
+  <hex row="3" col="10" terrain="9" name="Noordzee"/>
+  <hex row="3" col="11" terrain="9" name="Noordzee"/>
+  <hex row="3" col="12" terrain="9" name="Noordzee"/>
+  <hex row="3" col="13" terrain="9" name="Noordzee"/>
+  <hex row="3" col="14" terrain="9" name="Noordzee"/>
+  <hex row="3" col="15" terrain="9" name="Noordzee"/>
+  <hex row="3" col="16" terrain="9" name="Noordzee"/>
+  <hex row="3" col="17" terrain="9" name="Noordzee"/>
+  <hex row="3" col="18" terrain="9" name="Noordzee"/>
+  <hex row="3" col="19" terrain="8" road="9"/>
+  <hex row="3" col="20" terrain="8"/>
+  <hex row="3" col="21" terrain="8" road="40"/>
+  <hex row="3" col="22" terrain="8"/>
+  <hex row="3" col="23" terrain="1" road="56" name="Leiden"/>
+  <hex row="3" col="24" terrain="8"/>
+  <hex row="3" col="25" terrain="8" road="34"/>
+  <hex row="3" col="26" terrain="8" road="34"/>
+  <hex row="3" col="27" terrain="8"/>
+  <hex row="3" col="28" terrain="8"/>
+  <hex row="3" col="29" terrain="8"/>
+  <hex row="3" col="30" terrain="8"/>
+  <hex row="3" col="31" terrain="8"/>
+  <hex row="3" col="32" terrain="8"/>
+  <hex row="3" col="33" terrain="8"/>
+  <hex row="3" col="34" terrain="15"/>
+  <hex row="3" col="38" terrain="15"/>
+  <hex row="3" col="39" terrain="15"/>
+  <hex row="3" col="40" road="17"/>
+  <hex row="4" col="0" terrain="9" name="Noordzee"/>
+  <hex row="4" col="1" terrain="9" name="Noordzee"/>
+  <hex row="4" col="2" terrain="9" name="Noordzee"/>
+  <hex row="4" col="3" terrain="9" name="Noordzee"/>
+  <hex row="4" col="4" terrain="9" name="Noordzee"/>
+  <hex row="4" col="5" terrain="9" name="Noordzee"/>
+  <hex row="4" col="6" terrain="9" name="Noordzee"/>
+  <hex row="4" col="7" terrain="9" name="Noordzee"/>
+  <hex row="4" col="8" terrain="9" name="Noordzee"/>
+  <hex row="4" col="9" terrain="9" name="Noordzee"/>
+  <hex row="4" col="10" terrain="9" name="Noordzee"/>
+  <hex row="4" col="11" terrain="9" name="Noordzee"/>
+  <hex row="4" col="12" terrain="9" name="II/11/9Pz [XXVI]"/>
+  <hex row="4" col="13" terrain="9" name="Noordzee"/>
+  <hex row="4" col="14" terrain="9" name="Noordzee"/>
+  <hex row="4" col="15" terrain="9" name="Noordzee"/>
+  <hex row="4" col="16" terrain="9" name="Noordzee"/>
+  <hex row="4" col="17" terrain="9" name="Noordzee"/>
+  <hex row="4" col="18" terrain="8"/>
+  <hex row="4" col="19" terrain="8"/>
+  <hex row="4" col="20" terrain="8" road="130"/>
+  <hex row="4" col="21" terrain="8"/>
+  <hex row="4" col="22" terrain="8" road="130"/>
+  <hex row="4" col="23" terrain="1" road="27" name="Leiden">
+    <unit id="115" owner="0" flag="8" face="0" transport="2406" exp="153"/>
+  </hex>
+  <hex row="4" col="24" terrain="1" road="162" name="Leiden"/>
+  <hex row="4" col="25" terrain="8"/>
+  <hex row="4" col="26" terrain="8"/>
+  <hex row="4" col="27" terrain="8"/>
+  <hex row="4" col="28" terrain="8"/>
+  <hex row="4" col="29" terrain="8"/>
+  <hex row="4" col="30" terrain="8"/>
+  <hex row="4" col="31" terrain="8"/>
+  <hex row="4" col="32" terrain="8"/>
+  <hex row="4" col="33" terrain="8"/>
+  <hex row="4" col="38" terrain="15"/>
+  <hex row="4" col="39" terrain="15"/>
+  <hex row="4" col="40" road="17"/>
+  <hex row="4" col="42" road="16"/>
+  <hex row="5" col="0" terrain="9" name="Noordzee"/>
+  <hex row="5" col="1" terrain="9" name="Noordzee"/>
+  <hex row="5" col="2" terrain="9" name="Noordzee"/>
+  <hex row="5" col="3" terrain="9" name="Noordzee"/>
+  <hex row="5" col="4" terrain="9" name="Noordzee"/>
+  <hex row="5" col="5" terrain="9" name="Noordzee"/>
+  <hex row="5" col="6" terrain="9" name="Noordzee"/>
+  <hex row="5" col="7" terrain="9" name="Noordzee"/>
+  <hex row="5" col="8" terrain="9" name="Noordzee"/>
+  <hex row="5" col="9" terrain="9" name="Noordzee"/>
+  <hex row="5" col="10" terrain="9" name="Noordzee"/>
+  <hex row="5" col="11" terrain="9" name="Noordzee"/>
+  <hex row="5" col="12" terrain="9" name="Noordzee"/>
+  <hex row="5" col="13" terrain="9" name="Noordzee"/>
+  <hex row="5" col="14" terrain="9" name="Noordzee"/>
+  <hex row="5" col="15" terrain="9" name="Noordzee"/>
+  <hex row="5" col="16" terrain="9" name="Noordzee"/>
+  <hex row="5" col="17" terrain="8"/>
+  <hex row="5" col="18" terrain="8"/>
+  <hex row="5" col="19" terrain="2" name="Valkenburg Airodrome" flag="7" owner="0" victory="0">
+    <unit id="115" owner="0" flag="8" face="0" exp="131" str="7"/>
+  </hex>
+  <hex row="5" col="20" terrain="8"/>
+  <hex row="5" col="21" terrain="8"/>
+  <hex row="5" col="22" terrain="8"/>
+  <hex row="5" col="23" terrain="8" road="33"/>
+  <hex row="5" col="24" terrain="8" road="136">
+    <unit id="1941" owner="0" flag="8" face="0" exp="133" str="8"/>
+  </hex>
+  <hex row="5" col="25" terrain="8" road="136"/>
+  <hex row="5" col="26" terrain="8"/>
+  <hex row="5" col="27" terrain="8"/>
+  <hex row="5" col="28" terrain="8"/>
+  <hex row="5" col="29" terrain="8"/>
+  <hex row="5" col="30" terrain="8"/>
+  <hex row="5" col="31" terrain="8"/>
+  <hex row="5" col="32" terrain="8"/>
+  <hex row="5" col="33" terrain="8"/>
+  <hex row="5" col="34" terrain="8"/>
+  <hex row="5" col="40" terrain="1" road="25" name="Hilversum"/>
+  <hex row="5" col="41" terrain="1" road="178" name="Hilversum"/>
+  <hex row="5" col="42" road="33"/>
+  <hex row="6" col="0" terrain="9" name="Noordzee"/>
+  <hex row="6" col="1" terrain="9" name="Noordzee"/>
+  <hex row="6" col="2" terrain="9" name="Noordzee"/>
+  <hex row="6" col="3" terrain="9" name="Noordzee"/>
+  <hex row="6" col="4" terrain="9" name="Noordzee"/>
+  <hex row="6" col="5" terrain="9" name="Noordzee"/>
+  <hex row="6" col="6" terrain="9" name="Noordzee"/>
+  <hex row="6" col="7" terrain="9" name="Noordzee"/>
+  <hex row="6" col="8" terrain="9" name="Noordzee"/>
+  <hex row="6" col="9" terrain="9" name="Noordzee"/>
+  <hex row="6" col="10" terrain="9" name="Noordzee"/>
+  <hex row="6" col="11" terrain="9" name="Noordzee"/>
+  <hex row="6" col="12" terrain="9" name="Noordzee"/>
+  <hex row="6" col="13" terrain="9" name="Noordzee"/>
+  <hex row="6" col="14" terrain="9" name="Noordzee"/>
+  <hex row="6" col="15" terrain="9" name="Noordzee"/>
+  <hex row="6" col="16" terrain="8"/>
+  <hex row="6" col="17" terrain="8"/>
+  <hex row="6" col="18" terrain="8"/>
+  <hex row="6" col="19" terrain="8"/>
+  <hex row="6" col="20" terrain="8"/>
+  <hex row="6" col="21" terrain="8" road="34"/>
+  <hex row="6" col="22" terrain="8" road="34"/>
+  <hex row="6" col="23" terrain="8"/>
+  <hex row="6" col="24" terrain="8"/>
+  <hex row="6" col="25" terrain="8"/>
+  <hex row="6" col="26" terrain="8" road="136"/>
+  <hex row="6" col="27" road="136"/>
+  <hex row="6" col="28" terrain="8"/>
+  <hex row="6" col="29" terrain="8"/>
+  <hex row="6" col="30" terrain="8"/>
+  <hex row="6" col="31" terrain="8"/>
+  <hex row="6" col="32" terrain="8"/>
+  <hex row="6" col="33" terrain="8"/>
+  <hex row="6" col="35" road="34"/>
+  <hex row="6" col="36" road="40"/>
+  <hex row="6" col="37" road="130"/>
+  <hex row="6" col="38" road="40"/>
+  <hex row="6" col="39" road="138"/>
+  <hex row="6" col="40" terrain="1" road="59" name="Hilversum"/>
+  <hex row="6" col="41" terrain="1" road="179" name="Hilversum"/>
+  <hex row="6" col="42" road="40"/>
+  <hex row="7" col="0" terrain="9" name="Noordzee"/>
+  <hex row="7" col="1" terrain="9" name="Noordzee"/>
+  <hex row="7" col="2" terrain="9" name="Noordzee"/>
+  <hex row="7" col="3" terrain="9" name="Noordzee"/>
+  <hex row="7" col="4" terrain="9" name="Noordzee"/>
+  <hex row="7" col="5" terrain="9" name="Noordzee"/>
+  <hex row="7" col="6" terrain="9" name="Noordzee"/>
+  <hex row="7" col="7" terrain="9" name="Noordzee"/>
+  <hex row="7" col="8" terrain="9" name="Noordzee"/>
+  <hex row="7" col="9" terrain="9" name="Noordzee"/>
+  <hex row="7" col="10" terrain="9" name="Noordzee"/>
+  <hex row="7" col="11" terrain="9" name="Noordzee"/>
+  <hex row="7" col="12" terrain="9" name="Noordzee"/>
+  <hex row="7" col="13" terrain="9" name="Noordzee"/>
+  <hex row="7" col="14" terrain="9" name="Noordzee"/>
+  <hex row="7" col="15" terrain="8"/>
+  <hex row="7" col="16" terrain="8"/>
+  <hex row="7" col="17" terrain="8"/>
+  <hex row="7" col="18" terrain="8"/>
+  <hex row="7" col="19" terrain="8" road="34"/>
+  <hex row="7" col="20" terrain="8" road="34"/>
+  <hex row="7" col="21" terrain="8"/>
+  <hex row="7" col="22" terrain="8"/>
+  <hex row="7" col="23" terrain="8"/>
+  <hex row="7" col="24" terrain="8"/>
+  <hex row="7" col="28" road="136"/>
+  <hex row="7" col="29" road="130"/>
+  <hex row="7" col="30" road="40"/>
+  <hex row="7" col="31" road="130"/>
+  <hex row="7" col="32" road="56"/>
+  <hex row="7" col="33" road="130"/>
+  <hex row="7" col="34" road="34"/>
+  <hex row="7" col="40" terrain="1" road="155" name="Hilversum"/>
+  <hex row="7" col="41" terrain="1" road="129" name="Hilversum"/>
+  <hex row="8" col="0" terrain="9" name="Noordzee"/>
+  <hex row="8" col="1" terrain="9" name="Noordzee"/>
+  <hex row="8" col="2" terrain="9" name="Noordzee"/>
+  <hex row="8" col="3" terrain="9" name="Noordzee"/>
+  <hex row="8" col="4" terrain="9" name="Noordzee"/>
+  <hex row="8" col="5" terrain="9" name="Noordzee"/>
+  <hex row="8" col="6" terrain="9" name="Noordzee"/>
+  <hex row="8" col="7" terrain="9" name="Noordzee"/>
+  <hex row="8" col="8" terrain="9" name="Noordzee"/>
+  <hex row="8" col="9" terrain="9" name="Noordzee"/>
+  <hex row="8" col="10" terrain="9" name="Noordzee"/>
+  <hex row="8" col="11" terrain="9" name="Noordzee"/>
+  <hex row="8" col="12" terrain="9" name="Noordzee"/>
+  <hex row="8" col="13" terrain="9" name="Noordzee"/>
+  <hex row="8" col="14" terrain="9" name="Noordzee"/>
+  <hex row="8" col="15" terrain="8"/>
+  <hex row="8" col="16" terrain="8"/>
+  <hex row="8" col="17" terrain="8" road="34"/>
+  <hex row="8" col="18" terrain="8" road="34"/>
+  <hex row="8" col="19" terrain="8"/>
+  <hex row="8" col="20" terrain="8"/>
+  <hex row="8" col="21" terrain="8"/>
+  <hex row="8" col="22" terrain="8"/>
+  <hex row="8" col="29" road="40"/>
+  <hex row="8" col="31" road="34"/>
+  <hex row="8" col="32" road="33"/>
+  <hex row="8" col="40" road="17"/>
+  <hex row="9" col="0" terrain="9" name="Noordzee"/>
+  <hex row="9" col="1" terrain="9" name="Noordzee"/>
+  <hex row="9" col="2" terrain="9" name="Noordzee"/>
+  <hex row="9" col="3" terrain="9" name="Noordzee"/>
+  <hex row="9" col="4" terrain="9" name="Noordzee"/>
+  <hex row="9" col="5" terrain="9" name="Noordzee"/>
+  <hex row="9" col="6" terrain="9" name="Noordzee"/>
+  <hex row="9" col="7" terrain="9" name="Noordzee"/>
+  <hex row="9" col="8" terrain="9" name="Noordzee"/>
+  <hex row="9" col="9" terrain="9" name="Noordzee"/>
+  <hex row="9" col="10" terrain="9" name="Noordzee"/>
+  <hex row="9" col="11" terrain="12" name="Den Haag"/>
+  <hex row="9" col="12" terrain="9" name="Noordzee"/>
+  <hex row="9" col="13" terrain="1" road="48" name="Den Haag"/>
+  <hex row="9" col="14" terrain="8"/>
+  <hex row="9" col="15" terrain="8" road="42"/>
+  <hex row="9" col="16" terrain="8" road="34"/>
+  <hex row="9" col="17" terrain="8" road="40"/>
+  <hex row="9" col="18" terrain="8"/>
+  <hex row="9" col="19" terrain="8" road="40"/>
+  <hex row="9" col="20" terrain="8"/>
+  <hex row="9" col="27" road="34"/>
+  <hex row="9" col="28" road="34"/>
+  <hex row="9" col="30" road="130"/>
+  <hex row="9" col="40" road="17"/>
+  <hex row="10" col="0" terrain="9" name="Noordzee"/>
+  <hex row="10" col="1" terrain="9" name="Noordzee"/>
+  <hex row="10" col="2" terrain="9" name="Noordzee"/>
+  <hex row="10" col="3" terrain="9" name="Noordzee"/>
+  <hex row="10" col="4" terrain="9" name="Noordzee"/>
+  <hex row="10" col="5" terrain="9" name="Noordzee"/>
+  <hex row="10" col="6" terrain="9" name="Noordzee"/>
+  <hex row="10" col="7" terrain="9" name="Noordzee"/>
+  <hex row="10" col="8" terrain="9" name="Noordzee"/>
+  <hex row="10" col="9" terrain="9" name="Noordzee"/>
+  <hex row="10" col="10" terrain="12" name="Den Haag"/>
+  <hex row="10" col="11" terrain="1" road="58" name="Den Haag"/>
+  <hex row="10" col="12" terrain="1" road="58" name="Den Haag" flag="7" owner="0" victory="0">
+    <unit id="114" owner="0" flag="8" face="0" exp="162" str="7"/>
+  </hex>
+  <hex row="10" col="13" terrain="1" road="179" name="Den Haag">
+    <unit id="115" owner="0" flag="8" face="0" exp="144"/>
+  </hex>
+  <hex row="10" col="14" terrain="8" road="34">
+    <unit id="1941" owner="0" flag="8" face="0" exp="166" str="8"/>
+  </hex>
+  <hex row="10" col="15" terrain="8"/>
+  <hex row="10" col="16" terrain="8" road="130"/>
+  <hex row="10" col="17" terrain="8"/>
+  <hex row="10" col="18" terrain="8" road="130"/>
+  <hex row="10" col="19" road="34"/>
+  <hex row="10" col="20" road="168"/>
+  <hex row="10" col="21" road="130"/>
+  <hex row="10" col="22" road="40"/>
+  <hex row="10" col="23" road="130"/>
+  <hex row="10" col="24" road="40"/>
+  <hex row="10" col="25" road="146"/>
+  <hex row="10" col="26" road="34"/>
+  <hex row="10" col="30" terrain="3"/>
+  <hex row="10" col="31" terrain="3"/>
+  <hex row="10" col="33" terrain="15"/>
+  <hex row="10" col="34" terrain="15"/>
+  <hex row="10" col="40" road="17"/>
+  <hex row="11" col="0" terrain="9" name="Noordzee"/>
+  <hex row="11" col="1" terrain="9" name="Noordzee"/>
+  <hex row="11" col="2" terrain="9" name="Noordzee"/>
+  <hex row="11" col="3" terrain="9" name="Noordzee"/>
+  <hex row="11" col="4" terrain="9" name="Noordzee"/>
+  <hex row="11" col="5" terrain="9" name="Noordzee"/>
+  <hex row="11" col="6" terrain="9" name="Noordzee"/>
+  <hex row="11" col="7" terrain="9" name="Noordzee"/>
+  <hex row="11" col="8" terrain="9" name="Noordzee"/>
+  <hex row="11" col="9" terrain="8" road="34"/>
+  <hex row="11" col="10" terrain="2" road="34" name="Ockenburg Airodrome" flag="7" owner="0" victory="0">
+    <unit id="115" owner="0" flag="8" face="0" exp="152" str="7"/>
+  </hex>
+  <hex row="11" col="11" terrain="1" road="3" name="Den Haag"/>
+  <hex row="11" col="12" terrain="1" road="171" name="Den Haag"/>
+  <hex row="11" col="13" terrain="8" road="145"/>
+  <hex row="11" col="14" terrain="8"/>
+  <hex row="11" col="15" terrain="2" name="Iepenburg Airodrome" flag="7" owner="0" victory="0">
+    <unit id="115" owner="0" flag="8" face="0" exp="101" str="7"/>
+  </hex>
+  <hex row="11" col="16" terrain="8"/>
+  <hex row="11" col="18" road="2"/>
+  <hex row="11" col="25" road="17"/>
+  <hex row="11" col="30" terrain="3"/>
+  <hex row="11" col="31" terrain="3"/>
+  <hex row="11" col="40" road="17"/>
+  <hex row="12" col="0" terrain="9" name="Noordzee"/>
+  <hex row="12" col="1" terrain="9" name="Noordzee"/>
+  <hex row="12" col="2" terrain="9" name="Noordzee"/>
+  <hex row="12" col="3" terrain="9" name="Noordzee"/>
+  <hex row="12" col="4" terrain="9" name="Noordzee"/>
+  <hex row="12" col="5" terrain="9" name="Noordzee"/>
+  <hex row="12" col="6" terrain="9" name="Noordzee"/>
+  <hex row="12" col="7" terrain="8" road="34"/>
+  <hex row="12" col="8" terrain="8" road="34"/>
+  <hex row="12" col="9" terrain="8"/>
+  <hex row="12" col="10" terrain="8"/>
+  <hex row="12" col="11" terrain="8"/>
+  <hex row="12" col="12" terrain="8"/>
+  <hex row="12" col="13" terrain="8" road="9"/>
+  <hex row="12" col="14" terrain="8">
+    <unit id="159" owner="0" flag="8" face="0" exp="186" str="8"/>
+  </hex>
+  <hex row="12" col="15" terrain="8"/>
+  <hex row="12" col="25" road="25"/>
+  <hex row="12" col="40" road="17"/>
+  <hex row="13" col="0" terrain="9" name="Noordzee"/>
+  <hex row="13" col="1" terrain="9" name="Noordzee"/>
+  <hex row="13" col="2" terrain="9" name="Noordzee"/>
+  <hex row="13" col="3" terrain="9" name="Noordzee"/>
+  <hex row="13" col="4" terrain="9" name="Noordzee"/>
+  <hex row="13" col="5" terrain="1" road="34" name="Hoek van Holland"/>
+  <hex row="13" col="6" terrain="8" road="34"/>
+  <hex row="13" col="7" terrain="8"/>
+  <hex row="13" col="8" terrain="8"/>
+  <hex row="13" col="9" terrain="8"/>
+  <hex row="13" col="10" terrain="8"/>
+  <hex row="13" col="11" terrain="8"/>
+  <hex row="13" col="12" terrain="8"/>
+  <hex row="13" col="13" terrain="8"/>
+  <hex row="13" col="14" terrain="8" road="144"/>
+  <hex row="13" col="15" terrain="8"/>
+  <hex row="13" col="19" terrain="3"/>
+  <hex row="13" col="23" terrain="3"/>
+  <hex row="13" col="25" terrain="3" road="17"/>
+  <hex row="13" col="26" road="136"/>
+  <hex row="13" col="27" terrain="1" road="128" name="Gouda"/>
+  <hex row="13" col="40" road="17"/>
+  <hex row="14" col="0" terrain="9" name="Noordzee"/>
+  <hex row="14" col="1" terrain="9" name="Noordzee"/>
+  <hex row="14" col="2" terrain="9" name="Noordzee"/>
+  <hex row="14" col="3" terrain="9" name="Noordzee"/>
+  <hex row="14" col="4" terrain="12" road="10" name="Hoek van Holland"/>
+  <hex row="14" col="5" terrain="8" road="136"/>
+  <hex row="14" col="6" terrain="8"/>
+  <hex row="14" col="7" terrain="8"/>
+  <hex row="14" col="8" terrain="8"/>
+  <hex row="14" col="9" terrain="8"/>
+  <hex row="14" col="10" terrain="8"/>
+  <hex row="14" col="11" terrain="8"/>
+  <hex row="14" col="12" terrain="8"/>
+  <hex row="14" col="13" terrain="8"/>
+  <hex row="14" col="14" terrain="8" road="17">
+    <unit id="1941" owner="0" flag="8" face="0" exp="130" str="8"/>
+  </hex>
+  <hex row="14" col="18" terrain="15"/>
+  <hex row="14" col="19" terrain="15"/>
+  <hex row="14" col="23" terrain="3"/>
+  <hex row="14" col="24" terrain="3"/>
+  <hex row="14" col="25" terrain="3" road="17"/>
+  <hex row="14" col="40" road="17"/>
+  <hex row="14" col="41" terrain="1" road="56" name="Utrecht"/>
+  <hex row="15" col="0" terrain="9" name="Noordzee"/>
+  <hex row="15" col="1" terrain="9" name="Noordzee"/>
+  <hex row="15" col="2" terrain="9" name="Noordzee"/>
+  <hex row="15" col="3" terrain="9" name="Noordzee"/>
+  <hex row="15" col="4" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="15" col="5" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="15" col="6" terrain="8" road="136"/>
+  <hex row="15" col="7" terrain="8" road="136"/>
+  <hex row="15" col="8" terrain="8"/>
+  <hex row="15" col="9" terrain="8"/>
+  <hex row="15" col="10" terrain="8"/>
+  <hex row="15" col="11" terrain="8"/>
+  <hex row="15" col="12" terrain="8"/>
+  <hex row="15" col="13" terrain="8"/>
+  <hex row="15" col="14" road="9"/>
+  <hex row="15" col="15" terrain="1" road="138" name="Delft">
+    <unit id="115" owner="0" flag="8" face="0" exp="117"/>
+  </hex>
+  <hex row="15" col="16" terrain="1" road="48" name="Delft"/>
+  <hex row="15" col="18" terrain="15"/>
+  <hex row="15" col="20" terrain="15"/>
+  <hex row="15" col="24" terrain="3"/>
+  <hex row="15" col="25" terrain="3" road="17"/>
+  <hex row="15" col="39" road="40"/>
+  <hex row="15" col="40" terrain="1" road="11" name="Utrecht"/>
+  <hex row="15" col="41" terrain="1" road="187" name="Utrecht"/>
+  <hex row="15" col="42" terrain="1" road="178" name="Utrecht"/>
+  <hex row="16" col="0" terrain="9" name="Noordzee"/>
+  <hex row="16" col="1" terrain="9" name="Noordzee"/>
+  <hex row="16" col="2" terrain="9" name="Noordzee"/>
+  <hex row="16" col="3" terrain="9" name="Noordzee"/>
+  <hex row="16" col="4" terrain="8"/>
+  <hex row="16" col="5" terrain="8"/>
+  <hex row="16" col="6" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="16" col="7" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="16" col="8" terrain="8" road="136"/>
+  <hex row="16" col="9" terrain="8" road="136"/>
+  <hex row="16" col="10" terrain="8"/>
+  <hex row="16" col="11" terrain="8"/>
+  <hex row="16" col="12" terrain="8"/>
+  <hex row="16" col="13" terrain="3"/>
+  <hex row="16" col="16" terrain="1" road="137" name="Delft"/>
+  <hex row="16" col="17" road="136">
+    <unit id="139" owner="0" flag="8" face="2" exp="189" str="4"/>
+  </hex>
+  <hex row="16" col="18">
+    <unit id="142" owner="0" flag="8" face="2" exp="107" str="4"/>
+  </hex>
+  <hex row="16" col="25" road="17"/>
+  <hex row="16" col="33" road="34"/>
+  <hex row="16" col="34" road="40"/>
+  <hex row="16" col="35" road="130" name="Gouda"/>
+  <hex row="16" col="36" road="40"/>
+  <hex row="16" col="37" road="130"/>
+  <hex row="16" col="38" road="34"/>
+  <hex row="16" col="40" road="130"/>
+  <hex row="16" col="41" terrain="1" road="19" name="Utrecht"/>
+  <hex row="16" col="42" terrain="1" road="161" name="Utrecht"/>
+  <hex row="17" col="0" terrain="9" name="Noordzee"/>
+  <hex row="17" col="1" terrain="9" name="Noordzee"/>
+  <hex row="17" col="3" terrain="9" name="Oude Maas"/>
+  <hex row="17" col="4" terrain="8"/>
+  <hex row="17" col="5" terrain="8"/>
+  <hex row="17" col="7" terrain="3"/>
+  <hex row="17" col="8" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="17" col="9" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="17" col="10" terrain="8" road="136"/>
+  <hex row="17" col="11" terrain="8" road="136"/>
+  <hex row="17" col="12" terrain="8"/>
+  <hex row="17" col="18" road="136">
+    <unit id="1260" owner="0" flag="8" face="2" exp="151" str="4"/>
+  </hex>
+  <hex row="17" col="19" road="136"/>
+  <hex row="17" col="23" terrain="1" road="56" name="Rotterdam"/>
+  <hex row="17" col="25" road="33"/>
+  <hex row="17" col="29" terrain="1" road="18" name="Schoonhoven"/>
+  <hex row="17" col="30" terrain="1" road="32" name="Schoonhoven"/>
+  <hex row="17" col="31" road="34"/>
+  <hex row="17" col="32" road="34"/>
+  <hex row="17" col="41" terrain="10" road="17" name="Nieuwe Waterweg"/>
+  <hex row="17" col="42" terrain="15"/>
+  <hex row="18" col="0" terrain="9" name="Noordzee"/>
+  <hex row="18" col="1" terrain="9" name="Noordzee"/>
+  <hex row="18" col="2" terrain="9" name="Noordzee"/>
+  <hex row="18" col="3" terrain="8"/>
+  <hex row="18" col="4" terrain="9" name="Oude Maas"/>
+  <hex row="18" col="5" terrain="9" name="Oude Maas"/>
+  <hex row="18" col="7" terrain="3"/>
+  <hex row="18" col="8" terrain="3"/>
+  <hex row="18" col="9" terrain="3"/>
+  <hex row="18" col="10" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="18" col="11" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="18" col="12" road="136"/>
+  <hex row="18" col="13" road="136"/>
+  <hex row="18" col="20" road="136"/>
+  <hex row="18" col="21" terrain="1" road="154" name="Rotterdam"/>
+  <hex row="18" col="22" terrain="1" road="58" name="Rotterdam"/>
+  <hex row="18" col="23" terrain="1" road="187" name="Rotterdam">
+    <unit id="115" owner="0" flag="8" face="0" transport="2406" exp="109"/>
+  </hex>
+  <hex row="18" col="24" terrain="1" road="186" name="Rotterdam"/>
+  <hex row="18" col="25" terrain="1" road="160" name="Rotterdam"/>
+  <hex row="18" col="29" road="35"/>
+  <hex row="18" col="30" road="34"/>
+  <hex row="18" col="39" terrain="15" name="Lek"/>
+  <hex row="18" col="40" terrain="15" name="Nieuwe Waterweg"/>
+  <hex row="18" col="41" road="17"/>
+  <hex row="19" col="0" terrain="9" name="Noordzee"/>
+  <hex row="19" col="1" terrain="9" name="Noordzee"/>
+  <hex row="19" col="2" terrain="9" name="Noordzee"/>
+  <hex row="19" col="3" terrain="8"/>
+  <hex row="19" col="4" terrain="1" road="8" name="Oostvoorne"/>
+  <hex row="19" col="5" terrain="1" road="136" name="Oostvoorne"/>
+  <hex row="19" col="6" terrain="9" name="Oude Maas"/>
+  <hex row="19" col="7" terrain="9" name="Oude Maas"/>
+  <hex row="19" col="8" terrain="3"/>
+  <hex row="19" col="10" terrain="3"/>
+  <hex row="19" col="11" terrain="3"/>
+  <hex row="19" col="12" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="19" col="13" terrain="9" name="Nieuwe Waterweg"/>
+  <hex row="19" col="14" terrain="1" road="136" name="Vlaardingen"/>
+  <hex row="19" col="15" terrain="1" road="130" name="Vlaardingen"/>
+  <hex row="19" col="16" road="40"/>
+  <hex row="19" col="17" road="130"/>
+  <hex row="19" col="18" road="40"/>
+  <hex row="19" col="19" road="130"/>
+  <hex row="19" col="20" road="40"/>
+  <hex row="19" col="21" terrain="1" road="139" name="Rotterdam" deploy="0"/>
+  <hex row="19" col="22" terrain="1" road="187" name="Rotterdam">
+    <unit id="115" owner="0" flag="8" face="0" transport="2406" exp="111"/>
+  </hex>
+  <hex row="19" col="23" terrain="1" road="179" name="Rotterdam" deploy="0"/>
+  <hex row="19" col="24" terrain="1" road="171" name="Rotterdam"/>
+  <hex row="19" col="25" road="130"/>
+  <hex row="19" col="26" road="40"/>
+  <hex row="19" col="27" road="130"/>
+  <hex row="19" col="28" road="34"/>
+  <hex row="19" col="37" terrain="15" name="Lek"/>
+  <hex row="19" col="38" terrain="15" name="Lek"/>
+  <hex row="19" col="41" road="17"/>
+  <hex row="20" col="0" terrain="9" name="Noordzee"/>
+  <hex row="20" col="1" terrain="9" name="Noordzee"/>
+  <hex row="20" col="2" terrain="9" name="Noordzee"/>
+  <hex row="20" col="3" terrain="8"/>
+  <hex row="20" col="4" terrain="8"/>
+  <hex row="20" col="5" terrain="8"/>
+  <hex row="20" col="6" terrain="8" road="136"/>
+  <hex row="20" col="7" terrain="8" road="136"/>
+  <hex row="20" col="8" terrain="9" name="Oude Maas"/>
+  <hex row="20" col="9" terrain="9" name="Oude Maas"/>
+  <hex row="20" col="12" terrain="3"/>
+  <hex row="20" col="13" terrain="8"/>
+  <hex row="20" col="14" terrain="9" name="Lek"/>
+  <hex row="20" col="15" terrain="9" name="Lek"/>
+  <hex row="20" col="16" terrain="9" name="Lek"/>
+  <hex row="20" col="17" terrain="9" name="Lek"/>
+  <hex row="20" col="18" terrain="9" name="Lek"/>
+  <hex row="20" col="19" terrain="9" name="Lek"/>
+  <hex row="20" col="20" terrain="9" name="Lek"/>
+  <hex row="20" col="21" terrain="9" name="Lek"/>
+  <hex row="20" col="22" terrain="12" road="139" name="Rotterdam" deploy="0"/>
+  <hex row="20" col="23" terrain="10" road="137" name="Rotterdam bridges" flag="7" owner="0" victory="0" supply="0"/>
+  <hex row="20" col="24" terrain="9" name="Lek"/>
+  <hex row="20" col="25" terrain="9" name="Lek"/>
+  <hex row="20" col="27" terrain="15" name="Lek"/>
+  <hex row="20" col="28" terrain="15" name="Lek"/>
+  <hex row="20" col="29" terrain="15" name="Lek"/>
+  <hex row="20" col="30" terrain="15" name="Lek"/>
+  <hex row="20" col="31" terrain="15" name="Lek"/>
+  <hex row="20" col="32" terrain="15" name="Lek"/>
+  <hex row="20" col="33" terrain="15" name="Lek"/>
+  <hex row="20" col="34" terrain="15" name="Lek"/>
+  <hex row="20" col="35" terrain="15" name="Lek"/>
+  <hex row="20" col="36" terrain="15" name="Lek"/>
+  <hex row="20" col="38" terrain="3"/>
+  <hex row="20" col="41" road="17"/>
+  <hex row="21" col="0" terrain="9" name="Noordzee"/>
+  <hex row="21" col="1" terrain="9" name="Noordzee"/>
+  <hex row="21" col="2" terrain="9" name="Haringvliet"/>
+  <hex row="21" col="3" terrain="9" name="Haringvliet"/>
+  <hex row="21" col="4" terrain="8"/>
+  <hex row="21" col="5" terrain="8"/>
+  <hex row="21" col="6" terrain="8"/>
+  <hex row="21" col="7" terrain="8"/>
+  <hex row="21" col="8" terrain="8" road="136"/>
+  <hex row="21" col="9" terrain="8" road="136"/>
+  <hex row="21" col="10" terrain="9" name="Oude Maas"/>
+  <hex row="21" col="11" terrain="9" name="Oude Maas"/>
+  <hex row="21" col="12" terrain="3"/>
+  <hex row="21" col="13" terrain="9" name="Oude Maas"/>
+  <hex row="21" col="14" terrain="9" name="Oude Maas"/>
+  <hex row="21" col="15" terrain="15" name="Lek"/>
+  <hex row="21" col="16" terrain="8"/>
+  <hex row="21" col="17" terrain="8"/>
+  <hex row="21" col="18" terrain="8"/>
+  <hex row="21" col="19" terrain="8"/>
+  <hex row="21" col="20" terrain="8"/>
+  <hex row="21" col="21" terrain="2" road="8" name="Waalhaven" flag="7" owner="0" victory="0">
+    <unit id="114" owner="0" flag="8" face="0" exp="113" str="9"/>
+  </hex>
+  <hex row="21" col="22" terrain="9" name="Lek"/>
+  <hex row="21" col="23" terrain="1" road="42" name="Ridderkerk" deploy="0"/>
+  <hex row="21" col="24" terrain="1" road="168" name="Ridderkerk" deploy="0">
+    <unit id="92" owner="0" flag="8" face="1" transport="157" exp="111"/>
+  </hex>
+  <hex row="21" col="25" name="Rotterdam" deploy="0">
+    <unit id="92" owner="0" flag="8" face="1" transport="157" exp="173"/>
+  </hex>
+  <hex row="21" col="26" terrain="9" name="Lek"/>
+  <hex row="21" col="27" terrain="15" name="Lek"/>
+  <hex row="21" col="33" terrain="3"/>
+  <hex row="21" col="34" terrain="3"/>
+  <hex row="21" col="35" terrain="3"/>
+  <hex row="21" col="36" terrain="3"/>
+  <hex row="21" col="37" terrain="3"/>
+  <hex row="21" col="41" road="17"/>
+  <hex row="22" col="0" terrain="8"/>
+  <hex row="22" col="1" terrain="8"/>
+  <hex row="22" col="2" terrain="9" name="Haringvliet"/>
+  <hex row="22" col="3" terrain="9" name="Haringvliet"/>
+  <hex row="22" col="4" terrain="9" name="Haringvliet"/>
+  <hex row="22" col="5" terrain="8"/>
+  <hex row="22" col="6" terrain="8"/>
+  <hex row="22" col="7" terrain="8"/>
+  <hex row="22" col="8" terrain="8"/>
+  <hex row="22" col="9" terrain="8"/>
+  <hex row="22" col="10" terrain="8" road="144"/>
+  <hex row="22" col="11" terrain="8"/>
+  <hex row="22" col="12" terrain="9" name="Oude Maas"/>
+  <hex row="22" col="13" terrain="8"/>
+  <hex row="22" col="14" terrain="8"/>
+  <hex row="22" col="15" terrain="15" name="Oude Maas"/>
+  <hex row="22" col="16" terrain="8"/>
+  <hex row="22" col="17" terrain="8"/>
+  <hex row="22" col="18" terrain="8"/>
+  <hex row="22" col="19" terrain="8"/>
+  <hex row="22" col="20" terrain="8">
+    <unit id="159" owner="0" flag="8" face="0" exp="156" str="8"/>
+  </hex>
+  <hex row="22" col="21">
+    <unit id="749" owner="0" flag="8" face="0" exp="138" str="6"/>
+  </hex>
+  <hex row="22" col="22" road="130" deploy="0"/>
+  <hex row="22" col="23" deploy="0">
+    <unit id="118" owner="0" flag="8" face="1" exp="189"/>
+  </hex>
+  <hex row="22" col="24" road="136" deploy="0">
+    <unit id="92" owner="0" flag="8" face="1" transport="157" exp="143"/>
+  </hex>
+  <hex row="22" col="25" road="144" deploy="0"/>
+  <hex row="22" col="26" deploy="0"/>
+  <hex row="22" col="27" deploy="0"/>
+  <hex row="22" col="28" terrain="15"/>
+  <hex row="22" col="33" terrain="3"/>
+  <hex row="22" col="34" terrain="3"/>
+  <hex row="22" col="35" terrain="3"/>
+  <hex row="22" col="36" terrain="3"/>
+  <hex row="22" col="37" terrain="3"/>
+  <hex row="22" col="38" terrain="3"/>
+  <hex row="22" col="41" road="17">
+    <unit id="110" owner="0" flag="8" face="15" transport="157" exp="169"/>
+  </hex>
+  <hex row="23" col="0" terrain="8"/>
+  <hex row="23" col="1" terrain="8"/>
+  <hex row="23" col="2" terrain="8"/>
+  <hex row="23" col="3" terrain="1" road="40" name="Stellendam"/>
+  <hex row="23" col="4" terrain="9" name="Haringvliet"/>
+  <hex row="23" col="5" terrain="9" name="Haringvliet"/>
+  <hex row="23" col="6" terrain="8"/>
+  <hex row="23" col="7" terrain="8"/>
+  <hex row="23" col="8" terrain="8"/>
+  <hex row="23" col="9" terrain="8"/>
+  <hex row="23" col="10" terrain="8" road="9"/>
+  <hex row="23" col="11" terrain="8" road="136"/>
+  <hex row="23" col="12" terrain="8"/>
+  <hex row="23" col="13" terrain="8"/>
+  <hex row="23" col="14" terrain="8"/>
+  <hex row="23" col="15" terrain="8"/>
+  <hex row="23" col="16" terrain="15" name="Oude Maas"/>
+  <hex row="23" col="17" terrain="15" name="Oude Maas"/>
+  <hex row="23" col="18" terrain="8"/>
+  <hex row="23" col="19" terrain="15" name="Waal"/>
+  <hex row="23" col="20" terrain="8"/>
+  <hex row="23" col="22">
+    <unit id="749" owner="0" flag="8" face="0" exp="119" str="6"/>
+  </hex>
+  <hex row="23" col="23" deploy="0"/>
+  <hex row="23" col="24" deploy="0"/>
+  <hex row="23" col="25" road="33" deploy="0">
+    <unit id="108" owner="0" flag="8" face="0" transport="157" exp="117"/>
+  </hex>
+  <hex row="23" col="26" deploy="0">
+    <unit id="74" owner="0" flag="8" face="1" exp="137"/>
+  </hex>
+  <hex row="23" col="28" terrain="15"/>
+  <hex row="23" col="34" terrain="3"/>
+  <hex row="23" col="36" terrain="3"/>
+  <hex row="23" col="41" road="33">
+    <unit id="101" owner="0" flag="8" face="15" exp="148" str="4"/>
+  </hex>
+  <hex row="24" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="24" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="24" col="2" terrain="1" road="2" name="Stellendam"/>
+  <hex row="24" col="3" terrain="8"/>
+  <hex row="24" col="4" terrain="8" road="144"/>
+  <hex row="24" col="5" terrain="9" name="Haringvliet"/>
+  <hex row="24" col="6" terrain="9" name="Haringvliet"/>
+  <hex row="24" col="7" terrain="8"/>
+  <hex row="24" col="8" terrain="8"/>
+  <hex row="24" col="9" terrain="8"/>
+  <hex row="24" col="10" terrain="8"/>
+  <hex row="24" col="11" terrain="8"/>
+  <hex row="24" col="12" terrain="1" road="152" name="Brielle"/>
+  <hex row="24" col="13" terrain="1" road="168" name="Brielle"/>
+  <hex row="24" col="14" terrain="8"/>
+  <hex row="24" col="15" terrain="8"/>
+  <hex row="24" col="16" terrain="8"/>
+  <hex row="24" col="17" terrain="15" name="Oude Maas"/>
+  <hex row="24" col="18" terrain="15" name="Waal"/>
+  <hex row="24" col="19" terrain="8"/>
+  <hex row="24" col="20" terrain="15" name="Waal"/>
+  <hex row="24" col="21" terrain="15" name="Waal"/>
+  <hex row="24" col="23" deploy="0"/>
+  <hex row="24" col="24" road="10" deploy="0">
+    <unit id="108" owner="0" flag="8" face="2" transport="157" exp="109"/>
+  </hex>
+  <hex row="24" col="25" road="136" deploy="0">
+    <unit id="108" owner="0" flag="8" face="0" transport="157" exp="115"/>
+  </hex>
+  <hex row="24" col="28" terrain="15"/>
+  <hex row="24" col="40" road="18"/>
+  <hex row="25" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="25" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="25" col="2" terrain="9" name="Oosterschelde"/>
+  <hex row="25" col="3" terrain="9" name="Oosterschelde"/>
+  <hex row="25" col="4" terrain="8" road="9"/>
+  <hex row="25" col="5" terrain="8" road="136"/>
+  <hex row="25" col="6" terrain="9" name="Haringvliet"/>
+  <hex row="25" col="7" terrain="9" name="Haringvliet"/>
+  <hex row="25" col="8" terrain="8"/>
+  <hex row="25" col="9" terrain="8"/>
+  <hex row="25" col="10" terrain="8"/>
+  <hex row="25" col="11" terrain="8"/>
+  <hex row="25" col="12" terrain="1" road="3" name="Brielle"/>
+  <hex row="25" col="13" terrain="8"/>
+  <hex row="25" col="14" terrain="8" road="136"/>
+  <hex row="25" col="15" terrain="10" road="136"/>
+  <hex row="25" col="16" terrain="15"/>
+  <hex row="25" col="17" terrain="1" road="40" name="Oud Beijerland"/>
+  <hex row="25" col="18" terrain="8"/>
+  <hex row="25" col="19" terrain="8" road="40"/>
+  <hex row="25" col="20" terrain="8"/>
+  <hex row="25" col="21" terrain="8"/>
+  <hex row="25" col="22" terrain="15" name="Waal"/>
+  <hex row="25" col="23" terrain="15" name="Waal"/>
+  <hex row="25" col="26" road="144"/>
+  <hex row="25" col="27" terrain="15"/>
+  <hex row="25" col="28" terrain="15"/>
+  <hex row="25" col="37" terrain="8"/>
+  <hex row="25" col="38" terrain="8"/>
+  <hex row="25" col="40" road="17"/>
+  <hex row="26" col="0" terrain="8"/>
+  <hex row="26" col="1" terrain="8"/>
+  <hex row="26" col="2" terrain="9" name="Oosterschelde"/>
+  <hex row="26" col="3" terrain="9" name="Oosterschelde"/>
+  <hex row="26" col="4" terrain="8"/>
+  <hex row="26" col="5" terrain="8"/>
+  <hex row="26" col="6" terrain="8" road="144"/>
+  <hex row="26" col="7" terrain="9" name="Haringvliet"/>
+  <hex row="26" col="8" terrain="9" name="Haringvliet"/>
+  <hex row="26" col="9" terrain="9" name="Haringvliet"/>
+  <hex row="26" col="10" terrain="8"/>
+  <hex row="26" col="11" terrain="8"/>
+  <hex row="26" col="12" terrain="8"/>
+  <hex row="26" col="13" terrain="15"/>
+  <hex row="26" col="14" terrain="15"/>
+  <hex row="26" col="15" terrain="3"/>
+  <hex row="26" col="16" terrain="3" road="130"/>
+  <hex row="26" col="17" terrain="8"/>
+  <hex row="26" col="18" terrain="8" road="130"/>
+  <hex row="26" col="19" terrain="8"/>
+  <hex row="26" col="20" terrain="8" road="136"/>
+  <hex row="26" col="21" terrain="8" road="130"/>
+  <hex row="26" col="22" terrain="8" road="40"/>
+  <hex row="26" col="23" terrain="8" road="136"/>
+  <hex row="26" col="24" terrain="15" name="Waal"/>
+  <hex row="26" col="25" terrain="15" name="Waal"/>
+  <hex row="26" col="26" terrain="10" road="9" name="Dordrecht bridge" flag="7" owner="0" victory="0">
+    <unit id="115" owner="0" flag="8" face="2" exp="116"/>
+  </hex>
+  <hex row="26" col="27" terrain="1" road="136" name="Dordrecht"/>
+  <hex row="26" col="28" terrain="15" name="Waal"/>
+  <hex row="26" col="29" terrain="15" name="Waal"/>
+  <hex row="26" col="30" terrain="15"/>
+  <hex row="26" col="31" terrain="15" name="Waal"/>
+  <hex row="26" col="32" terrain="15"/>
+  <hex row="26" col="33" terrain="15" name="Waal"/>
+  <hex row="26" col="35" terrain="15" name="Waal"/>
+  <hex row="26" col="36" terrain="8"/>
+  <hex row="26" col="40" road="17"/>
+  <hex row="26" col="41" terrain="1" road="32" name="Gorinchem"/>
+  <hex row="27" col="0" terrain="8"/>
+  <hex row="27" col="1" terrain="8"/>
+  <hex row="27" col="2" terrain="9" name="Oosterschelde"/>
+  <hex row="27" col="3" terrain="9" name="Oosterschelde"/>
+  <hex row="27" col="4" terrain="9" name="Oosterschelde"/>
+  <hex row="27" col="5" terrain="8" road="40"/>
+  <hex row="27" col="6" terrain="8" road="9"/>
+  <hex row="27" col="7" terrain="1" road="168" name="Overflakkee"/>
+  <hex row="27" col="8" terrain="9" name="Haringvliet"/>
+  <hex row="27" col="9" terrain="9" name="Haringvliet"/>
+  <hex row="27" col="10" terrain="8"/>
+  <hex row="27" col="11" terrain="15" name="Hollands Diep"/>
+  <hex row="27" col="12" terrain="15" name="Hollands Diep"/>
+  <hex row="27" col="13" terrain="8"/>
+  <hex row="27" col="14" terrain="8"/>
+  <hex row="27" col="15" terrain="8"/>
+  <hex row="27" col="16" terrain="8"/>
+  <hex row="27" col="17" terrain="8"/>
+  <hex row="27" col="18" terrain="8"/>
+  <hex row="27" col="19" terrain="8"/>
+  <hex row="27" col="20" terrain="8"/>
+  <hex row="27" col="21" terrain="8"/>
+  <hex row="27" col="22" terrain="8"/>
+  <hex row="27" col="23" terrain="8"/>
+  <hex row="27" col="24" terrain="8" road="144"/>
+  <hex row="27" col="25" terrain="8"/>
+  <hex row="27" col="26" terrain="15"/>
+  <hex row="27" col="27" terrain="15"/>
+  <hex row="27" col="28" road="144"/>
+  <hex row="27" col="30" terrain="3" name="Waal"/>
+  <hex row="27" col="34" terrain="15" name="Waal"/>
+  <hex row="27" col="36" terrain="15" name="Waal"/>
+  <hex row="27" col="37" terrain="15" name="Waal"/>
+  <hex row="27" col="40" terrain="1" road="19" name="Gorinchem"/>
+  <hex row="27" col="41" terrain="15" name="Oude Maas"/>
+  <hex row="28" col="0" terrain="8"/>
+  <hex row="28" col="1" terrain="8"/>
+  <hex row="28" col="2" terrain="8"/>
+  <hex row="28" col="3" terrain="1" road="2" name="Nieuwerkerk"/>
+  <hex row="28" col="4" terrain="10" road="34" name="Oosterschelde"/>
+  <hex row="28" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="28" col="6" terrain="8" road="130"/>
+  <hex row="28" col="7" terrain="8" name="Oude Tonge"/>
+  <hex row="28" col="8" terrain="8" road="136"/>
+  <hex row="28" col="9" terrain="8" road="136"/>
+  <hex row="28" col="10" terrain="9" name="Hollands Diep"/>
+  <hex row="28" col="11" terrain="9" name="Hollands Diep"/>
+  <hex row="28" col="12" terrain="8"/>
+  <hex row="28" col="13" terrain="8"/>
+  <hex row="28" col="14" terrain="8"/>
+  <hex row="28" col="15" terrain="8"/>
+  <hex row="28" col="16" terrain="8"/>
+  <hex row="28" col="17" terrain="8"/>
+  <hex row="28" col="18" terrain="8"/>
+  <hex row="28" col="19" terrain="8"/>
+  <hex row="28" col="20" terrain="8"/>
+  <hex row="28" col="21" terrain="8"/>
+  <hex row="28" col="22" terrain="8"/>
+  <hex row="28" col="23" terrain="8"/>
+  <hex row="28" col="24" terrain="8" road="17"/>
+  <hex row="28" col="25" terrain="8"/>
+  <hex row="28" col="26" terrain="8"/>
+  <hex row="28" col="27" terrain="15"/>
+  <hex row="28" col="28" road="17"/>
+  <hex row="28" col="35" terrain="15"/>
+  <hex row="28" col="36" terrain="15"/>
+  <hex row="28" col="38" terrain="15" name="Waal"/>
+  <hex row="28" col="39" terrain="15" name="Waal"/>
+  <hex row="28" col="40" terrain="10" road="17" name="Oude Maas"/>
+  <hex row="28" col="42" terrain="15"/>
+  <hex row="29" col="0" terrain="8"/>
+  <hex row="29" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="29" col="2" terrain="8"/>
+  <hex row="29" col="3" terrain="8"/>
+  <hex row="29" col="4" terrain="8"/>
+  <hex row="29" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="29" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="29" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="29" col="8" terrain="8"/>
+  <hex row="29" col="9" terrain="9" name="Oosterschelde"/>
+  <hex row="29" col="10" terrain="10" road="144" name="Oosterschelde"/>
+  <hex row="29" col="11" terrain="8"/>
+  <hex row="29" col="12" terrain="9" name="Hollands Diep"/>
+  <hex row="29" col="13" terrain="9" name="Hollands Diep"/>
+  <hex row="29" col="14" terrain="8"/>
+  <hex row="29" col="15" terrain="8"/>
+  <hex row="29" col="16" terrain="8"/>
+  <hex row="29" col="17" terrain="8"/>
+  <hex row="29" col="18" terrain="8"/>
+  <hex row="29" col="19" terrain="8"/>
+  <hex row="29" col="20" terrain="8"/>
+  <hex row="29" col="21" terrain="8"/>
+  <hex row="29" col="22" terrain="8"/>
+  <hex row="29" col="23" terrain="8"/>
+  <hex row="29" col="24" terrain="8" road="17"/>
+  <hex row="29" col="25" terrain="8"/>
+  <hex row="29" col="26" terrain="8"/>
+  <hex row="29" col="27" terrain="15"/>
+  <hex row="29" col="28" road="17"/>
+  <hex row="29" col="33" terrain="15"/>
+  <hex row="29" col="34" terrain="15"/>
+  <hex row="29" col="40" road="17"/>
+  <hex row="30" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="2" terrain="8"/>
+  <hex row="30" col="3" terrain="8"/>
+  <hex row="30" col="4" terrain="8"/>
+  <hex row="30" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="8" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="9" terrain="9" name="Oosterschelde"/>
+  <hex row="30" col="10" road="17"/>
+  <hex row="30" col="14" terrain="9" name="Hollands Diep"/>
+  <hex row="30" col="15" terrain="9" name="Hollands Diep"/>
+  <hex row="30" col="16" terrain="8"/>
+  <hex row="30" col="17" terrain="8"/>
+  <hex row="30" col="18" terrain="8"/>
+  <hex row="30" col="19" terrain="8"/>
+  <hex row="30" col="20" terrain="8"/>
+  <hex row="30" col="21" terrain="8"/>
+  <hex row="30" col="22" terrain="8"/>
+  <hex row="30" col="23" terrain="8"/>
+  <hex row="30" col="24" terrain="8" road="17"/>
+  <hex row="30" col="25" terrain="8"/>
+  <hex row="30" col="26" terrain="8"/>
+  <hex row="30" col="27" terrain="15"/>
+  <hex row="30" col="28" road="17"/>
+  <hex row="30" col="31" terrain="15"/>
+  <hex row="30" col="32" terrain="15"/>
+  <hex row="30" col="33" terrain="3"/>
+  <hex row="30" col="34" terrain="3"/>
+  <hex row="30" col="35" terrain="3"/>
+  <hex row="30" col="40" road="17"/>
+  <hex row="31" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="31" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="31" col="2" terrain="8"/>
+  <hex row="31" col="3" terrain="9" name="Oosterschelde"/>
+  <hex row="31" col="4" terrain="9" name="Oosterschelde"/>
+  <hex row="31" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="31" col="6" terrain="8"/>
+  <hex row="31" col="7" terrain="3"/>
+  <hex row="31" col="8" terrain="3"/>
+  <hex row="31" col="9" road="18"/>
+  <hex row="31" col="10" road="33"/>
+  <hex row="31" col="15" terrain="9" name="Hollands Diep"/>
+  <hex row="31" col="16" terrain="8"/>
+  <hex row="31" col="17" terrain="8"/>
+  <hex row="31" col="18" terrain="8"/>
+  <hex row="31" col="19" terrain="8"/>
+  <hex row="31" col="20" terrain="8"/>
+  <hex row="31" col="21" terrain="8"/>
+  <hex row="31" col="22" terrain="8"/>
+  <hex row="31" col="23" terrain="8"/>
+  <hex row="31" col="24" terrain="1" road="9" name="'s Grandeel"/>
+  <hex row="31" col="25" terrain="8" road="130"/>
+  <hex row="31" col="26" terrain="10" road="40" name="Hollands Diep"/>
+  <hex row="31" col="27" road="146"/>
+  <hex row="31" col="28" road="33"/>
+  <hex row="31" col="29" terrain="9"/>
+  <hex row="31" col="30" terrain="15"/>
+  <hex row="31" col="31" terrain="3"/>
+  <hex row="31" col="32" terrain="3"/>
+  <hex row="31" col="33" terrain="3"/>
+  <hex row="31" col="34" terrain="3"/>
+  <hex row="31" col="40" road="17"/>
+  <hex row="32" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="32" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="32" col="2" terrain="9" name="Oosterschelde"/>
+  <hex row="32" col="3" terrain="8"/>
+  <hex row="32" col="4" terrain="8"/>
+  <hex row="32" col="5" terrain="8"/>
+  <hex row="32" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="32" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="32" col="8" terrain="3"/>
+  <hex row="32" col="9" road="17"/>
+  <hex row="32" col="16" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="17" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="18" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="19" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="20" terrain="8"/>
+  <hex row="32" col="21" terrain="8"/>
+  <hex row="32" col="22" terrain="8"/>
+  <hex row="32" col="23" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="24" terrain="8"/>
+  <hex row="32" col="25" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="26" terrain="9" name="Hollands Diep"/>
+  <hex row="32" col="27" terrain="10" road="33" name="Moerdijk bridge" flag="7" owner="0" victory="0"/>
+  <hex row="32" col="28" terrain="9" name="Maas"/>
+  <hex row="32" col="29" terrain="9" name="Maas"/>
+  <hex row="32" col="30" terrain="15" name="Maas"/>
+  <hex row="32" col="31" terrain="15" name="Maas"/>
+  <hex row="32" col="32" terrain="3"/>
+  <hex row="32" col="33" terrain="15" name="Maas"/>
+  <hex row="32" col="35" terrain="15" name="Maas"/>
+  <hex row="32" col="37" terrain="15" name="Maas"/>
+  <hex row="32" col="39" terrain="15" name="Maas"/>
+  <hex row="32" col="40" road="17" name="Haringvliet"/>
+  <hex row="32" col="41" terrain="15" name="Haringvliet"/>
+  <hex row="32" col="42" terrain="15"/>
+  <hex row="33" col="0" terrain="8"/>
+  <hex row="33" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="33" col="2" terrain="9" name="Oosterschelde"/>
+  <hex row="33" col="3" terrain="9" name="Oosterschelde"/>
+  <hex row="33" col="4" terrain="8"/>
+  <hex row="33" col="5" terrain="8"/>
+  <hex row="33" col="6" terrain="8"/>
+  <hex row="33" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="33" col="8" terrain="9" name="Oosterschelde"/>
+  <hex row="33" col="9" road="9"/>
+  <hex row="33" col="20" terrain="9" name="Hollands Diep"/>
+  <hex row="33" col="21" terrain="9" name="Hollands Diep">
+    <unit id="902" owner="1" flag="7" face="4" exp="108" str="8"/>
+  </hex>
+  <hex row="33" col="22" terrain="9" name="Hollands Diep"/>
+  <hex row="33" col="23">
+    <unit id="957" owner="1" flag="7" face="5" exp="7" str="4"/>
+    <unit id="1185" owner="1" flag="7" face="6" transport="56" exp="60" str="11"/>
+  </hex>
+  <hex row="33" col="24" terrain="9" name="Hollands Diep"/>
+  <hex row="33" col="25" road="34"/>
+  <hex row="33" col="26" road="34" name="Moerdijk">
+    <unit id="114" owner="0" flag="8" face="15" transport="157" exp="184" str="8"/>
+  </hex>
+  <hex row="33" col="30" terrain="15" name="Maas"/>
+  <hex row="33" col="32" terrain="15" name="Maas"/>
+  <hex row="33" col="34" terrain="15" name="Maas"/>
+  <hex row="33" col="36" terrain="15"/>
+  <hex row="33" col="37" terrain="3"/>
+  <hex row="33" col="38" terrain="15"/>
+  <hex row="33" col="40" terrain="10" road="17"/>
+  <hex row="34" col="0" terrain="8" road="136"/>
+  <hex row="34" col="1" terrain="8" road="130"/>
+  <hex row="34" col="2" terrain="8" road="40"/>
+  <hex row="34" col="3" terrain="8" road="144"/>
+  <hex row="34" col="4" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="8" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="9" terrain="9" name="Oosterschelde"/>
+  <hex row="34" col="10" road="136"/>
+  <hex row="34" col="11" road="144"/>
+  <hex row="34" col="13" road="40"/>
+  <hex row="34" col="15" road="40"/>
+  <hex row="34" col="17" terrain="1" road="184" name="Breda" deploy="1"/>
+  <hex row="34" col="19" road="40"/>
+  <hex row="34" col="21" road="40">
+    <unit id="587" owner="1" flag="7" face="5" transport="56" exp="3"/>
+  </hex>
+  <hex row="34" col="23" terrain="1" road="34" name="Raamdonksveer">
+    <unit id="61" owner="1" flag="7" face="5" exp="124" str="8"/>
+    <unit id="1185" owner="1" flag="7" face="6" transport="56" exp="58" str="11"/>
+  </hex>
+  <hex row="34" col="24" terrain="1" road="42" name="Raamdonksveer">
+    <unit id="1185" owner="1" flag="7" face="5" transport="56" exp="58" str="11"/>
+  </hex>
+  <hex row="34" col="25" road="136">
+    <unit id="1191" owner="1" flag="7" face="6" exp="23" str="11"/>
+  </hex>
+  <hex row="34" col="33" terrain="15"/>
+  <hex row="34" col="37" terrain="3"/>
+  <hex row="34" col="38" terrain="3">
+    <unit id="139" owner="0" flag="8" face="14" exp="105" str="4"/>
+  </hex>
+  <hex row="34" col="39" terrain="3">
+    <unit id="1260" owner="0" flag="8" face="14" exp="124" str="4"/>
+  </hex>
+  <hex row="34" col="40" road="17"/>
+  <hex row="35" col="0" terrain="8"/>
+  <hex row="35" col="1" terrain="8"/>
+  <hex row="35" col="2" terrain="8"/>
+  <hex row="35" col="3" terrain="8" road="9"/>
+  <hex row="35" col="4" terrain="8"/>
+  <hex row="35" col="5" terrain="8"/>
+  <hex row="35" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="35" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="35" col="8" terrain="9" name="Oosterschelde"/>
+  <hex row="35" col="9" terrain="9" name="Oosterschelde"/>
+  <hex row="35" col="11" terrain="1" road="19" name="Bergen op Zoom" flag="6" owner="1"/>
+  <hex row="35" col="12" road="34"/>
+  <hex row="35" col="14" road="130"/>
+  <hex row="35" col="15">
+    <unit id="53" owner="1" flag="7" face="5" exp="101"/>
+  </hex>
+  <hex row="35" col="16" terrain="1" road="138" name="Breda" deploy="1"/>
+  <hex row="35" col="17" terrain="1" road="129" name="Breda" flag="6" owner="1" victory="1" deploy="1"/>
+  <hex row="35" col="18" road="130" deploy="1"/>
+  <hex row="35" col="19" terrain="3">
+    <unit id="581" owner="1" flag="7" face="5" transport="56" exp="42"/>
+  </hex>
+  <hex row="35" col="20" road="130">
+    <unit id="32" owner="1" flag="7" face="5" transport="58" exp="30"/>
+  </hex>
+  <hex row="35" col="22" road="130">
+    <unit id="718" owner="1" flag="7" face="6" exp="17" str="11"/>
+  </hex>
+  <hex row="35" col="23">
+    <unit id="718" owner="1" flag="7" face="6" exp="84" str="11"/>
+  </hex>
+  <hex row="35" col="25">
+    <unit id="1191" owner="1" flag="7" face="6" exp="45" str="11"/>
+  </hex>
+  <hex row="35" col="26" road="136">
+    <unit id="1191" owner="1" flag="7" face="6" exp="83" str="11"/>
+  </hex>
+  <hex row="35" col="27" road="136"/>
+  <hex row="35" col="34" terrain="15"/>
+  <hex row="35" col="35" terrain="15"/>
+  <hex row="35" col="37" terrain="3"/>
+  <hex row="35" col="38" terrain="3">
+    <unit id="142" owner="0" flag="8" face="14" exp="187" str="4"/>
+  </hex>
+  <hex row="35" col="39" terrain="3" road="18"/>
+  <hex row="35" col="40" road="33"/>
+  <hex row="35" col="41" terrain="3"/>
+  <hex row="35" col="42" terrain="3"/>
+  <hex row="36" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="36" col="1" terrain="8"/>
+  <hex row="36" col="2" terrain="8"/>
+  <hex row="36" col="3" terrain="1" road="2" name="Hoedekenskerke"/>
+  <hex row="36" col="4" terrain="1" road="168" name="Hoedekenskerke" flag="6" owner="1"/>
+  <hex row="36" col="5" terrain="8" road="136"/>
+  <hex row="36" col="6" terrain="8"/>
+  <hex row="36" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="36" col="8" terrain="9" name="Oosterschelde"/>
+  <hex row="36" col="9" terrain="9" name="Oosterschelde">
+    <unit id="902" owner="1" flag="7" face="4" exp="159" str="8"/>
+  </hex>
+  <hex row="36" col="10" terrain="9" name="Oosterschelde"/>
+  <hex row="36" col="11" terrain="10" road="33"/>
+  <hex row="36" col="15">
+    <unit id="53" owner="1" flag="7" face="5" exp="132"/>
+  </hex>
+  <hex row="36" col="16">
+    <unit id="957" owner="1" flag="7" face="5" exp="99" str="3"/>
+  </hex>
+  <hex row="36" col="17" deploy="1"/>
+  <hex row="36" col="18" terrain="3" deploy="1"/>
+  <hex row="36" col="19" terrain="3">
+    <unit id="1173" owner="1" flag="7" face="5" transport="58" exp="66"/>
+  </hex>
+  <hex row="36" col="20">
+    <unit id="32" owner="1" flag="7" face="5" transport="58" exp="93"/>
+  </hex>
+  <hex row="36" col="21" terrain="3"/>
+  <hex row="36" col="22" terrain="3">
+    <unit id="718" owner="1" flag="7" face="6" exp="61" str="11"/>
+  </hex>
+  <hex row="36" col="23" terrain="3">
+    <unit id="1185" owner="1" flag="7" face="6" transport="56" exp="30"/>
+  </hex>
+  <hex row="36" col="24">
+    <unit id="27" owner="1" flag="7" face="7" transport="56" exp="32"/>
+  </hex>
+  <hex row="36" col="27">
+    <unit id="1189" owner="1" flag="7" face="7" exp="22" str="5"/>
+  </hex>
+  <hex row="36" col="28" road="136"/>
+  <hex row="36" col="29" road="144"/>
+  <hex row="36" col="35" road="8"/>
+  <hex row="36" col="36" terrain="15"/>
+  <hex row="36" col="37" terrain="3"/>
+  <hex row="36" col="38" terrain="3"/>
+  <hex row="36" col="39" terrain="3" road="33"/>
+  <hex row="36" col="40" terrain="3"/>
+  <hex row="36" col="41" terrain="3"/>
+  <hex row="36" col="42" terrain="3"/>
+  <hex row="37" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="37" col="1" terrain="8"/>
+  <hex row="37" col="2" terrain="8"/>
+  <hex row="37" col="3" terrain="8"/>
+  <hex row="37" col="4" terrain="8"/>
+  <hex row="37" col="5" terrain="8"/>
+  <hex row="37" col="6" terrain="8" road="136"/>
+  <hex row="37" col="7" road="130"/>
+  <hex row="37" col="8" road="40"/>
+  <hex row="37" col="9" road="130"/>
+  <hex row="37" col="10" road="42"/>
+  <hex row="37" col="11" road="136"/>
+  <hex row="37" col="12" terrain="10"/>
+  <hex row="37" col="13" terrain="10"/>
+  <hex row="37" col="16" deploy="1"/>
+  <hex row="37" col="17" deploy="1"/>
+  <hex row="37" col="18" deploy="1"/>
+  <hex row="37" col="19" terrain="3" deploy="1"/>
+  <hex row="37" col="20">
+    <unit id="38" owner="1" flag="7" face="5" transport="56" exp="4"/>
+  </hex>
+  <hex row="37" col="21" terrain="3"/>
+  <hex row="37" col="22" terrain="3"/>
+  <hex row="37" col="23" terrain="3">
+    <unit id="1185" owner="1" flag="7" face="6" transport="56" exp="61"/>
+  </hex>
+  <hex row="37" col="24" terrain="3">
+    <unit id="1185" owner="1" flag="7" face="6" transport="56" exp="20"/>
+  </hex>
+  <hex row="37" col="25" terrain="3"/>
+  <hex row="37" col="28" name="Rijen" flag="6" owner="1">
+    <unit id="49" owner="1" flag="7" face="7" exp="74" str="5"/>
+  </hex>
+  <hex row="37" col="29" terrain="1" road="41" name="Rijen"/>
+  <hex row="37" col="31" road="40"/>
+  <hex row="37" col="33" road="40"/>
+  <hex row="37" col="35" road="40"/>
+  <hex row="37" col="36" road="136"/>
+  <hex row="37" col="37" road="168"/>
+  <hex row="37" col="38" terrain="1" road="18" name="Tilburg"/>
+  <hex row="37" col="40" terrain="3"/>
+  <hex row="37" col="42" terrain="3"/>
+  <hex row="38" col="0" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="1" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="2" terrain="8"/>
+  <hex row="38" col="3" terrain="8"/>
+  <hex row="38" col="4" terrain="8"/>
+  <hex row="38" col="5" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="6" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="7" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="9" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="10" terrain="9" name="Oosterschelde"/>
+  <hex row="38" col="12" road="136"/>
+  <hex row="38" col="13" road="144"/>
+  <hex row="38" col="14" terrain="10"/>
+  <hex row="38" col="15" terrain="10"/>
+  <hex row="38" col="21" terrain="3"/>
+  <hex row="38" col="22" terrain="3"/>
+  <hex row="38" col="23" terrain="3"/>
+  <hex row="38" col="24" terrain="3"/>
+  <hex row="38" col="25" terrain="3"/>
+  <hex row="38" col="26" terrain="3"/>
+  <hex row="38" col="28" terrain="1" road="2" name="Rijen"/>
+  <hex row="38" col="30" road="130"/>
+  <hex row="38" col="32" road="130"/>
+  <hex row="38" col="34" road="130"/>
+  <hex row="38" col="36" road="130"/>
+  <hex row="38" col="38" terrain="1" road="129" name="Tilburg"/>
+  <hex row="38" col="40" terrain="3"/>
+  <hex row="38" col="42" terrain="3"/>
+</map>

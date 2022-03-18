@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom00.scn" name="Bridgehead over Prut river" turns="6, 8, 9" date="June 29, 1941" dayturns="2" ground="0" atmosferic="0" latitude="3" rows="10" cols="15" eqp="eqp-adlerkorps" image="resources/maps/images/map_728.png">
+  <player id="0" country="17" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="3">
+    <at row="0" col="1">
+      <unit id="2489" owner="0" flag="18" face="3" str="5"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="5"/>
+  <hex row="0" col="4" terrain="15" name="Prut River"/>
+  <hex row="0" col="9" road="16"/>
+  <hex row="0" col="12" terrain="5"/>
+  <hex row="0" col="13" terrain="5"/>
+  <hex row="0" col="14" terrain="5"/>
+  <hex row="1" col="1" terrain="5"/>
+  <hex row="1" col="2" terrain="3"/>
+  <hex row="1" col="4" terrain="15" name="Prut River"/>
+  <hex row="1" col="5" terrain="1" name="Cotu Morii" flag="19" owner="1"/>
+  <hex row="1" col="6" terrain="3"/>
+  <hex row="1" col="9" road="17"/>
+  <hex row="1" col="12" terrain="5"/>
+  <hex row="1" col="13" terrain="5"/>
+  <hex row="1" col="14" terrain="5"/>
+  <hex row="2" col="1" terrain="5"/>
+  <hex row="2" col="3" terrain="5" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4"/>
+  </hex>
+  <hex row="2" col="4" terrain="10" name="Prut River">
+    <unit id="1981" owner="0" flag="18" face="4" str="2"/>
+  </hex>
+  <hex row="2" col="5" terrain="15" name="Prut River"/>
+  <hex row="2" col="8">
+    <unit id="3384" owner="1" flag="20" face="1" exp="50"/>
+  </hex>
+  <hex row="2" col="9" road="33"/>
+  <hex row="2" col="10">
+    <unit id="484" owner="1" flag="20" face="15" transport="529" ent="3" str="5"/>
+  </hex>
+  <hex row="3" col="1" terrain="5"/>
+  <hex row="3" col="2" terrain="5" deploy="0">
+    <unit id="304" owner="0" flag="18" face="5" transport="2563"/>
+  </hex>
+  <hex row="3" col="3" terrain="5"/>
+  <hex row="3" col="5" terrain="15" name="Prut River"/>
+  <hex row="3" col="8" road="18"/>
+  <hex row="3" col="9">
+    <unit id="1829" owner="1" flag="20" face="13" exp="50" ent="5" str="5"/>
+  </hex>
+  <hex row="4" col="1" terrain="5"/>
+  <hex row="4" col="2" terrain="5"/>
+  <hex row="4" col="5" terrain="15" name="Prut River"/>
+  <hex row="4" col="7" road="18"/>
+  <hex row="4" col="8" terrain="1" road="33" name="Leuseni" flag="19" owner="1" victory="1">
+    <unit id="3384" owner="1" flag="20" face="12" exp="120" ent="5"/>
+  </hex>
+  <hex row="5" col="1" terrain="5"/>
+  <hex row="5" col="2" terrain="5"/>
+  <hex row="5" col="3" deploy="0">
+    <unit id="303" owner="0" flag="18" face="5" transport="314"/>
+  </hex>
+  <hex row="5" col="4" deploy="0">
+    <unit id="308" owner="0" flag="18" face="5"/>
+  </hex>
+  <hex row="5" col="6" terrain="15" name="Prut River"/>
+  <hex row="5" col="7" road="33"/>
+  <hex row="5" col="12">
+    <unit id="486" owner="1" flag="20" face="14" transport="529" ent="5"/>
+  </hex>
+  <hex row="5" col="14" terrain="10"/>
+  <hex row="6" col="1" terrain="5"/>
+  <hex row="6" col="5" road="18" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4"/>
+  </hex>
+  <hex row="6" col="6" terrain="10" road="34" name="Prut River"/>
+  <hex row="6" col="7" terrain="15" name="Prut River"/>
+  <hex row="6" col="10">
+    <unit id="3384" owner="1" flag="20" face="1"/>
+  </hex>
+  <hex row="6" col="13" terrain="10"/>
+  <hex row="6" col="14" terrain="1" name="Carpineni" flag="19" owner="1" victory="1">
+    <unit id="477" owner="1" flag="20" face="14" transport="2579" exp="80" ent="6" str="8"/>
+  </hex>
+  <hex row="7" col="1" terrain="5"/>
+  <hex row="7" col="3">
+    <unit id="589" owner="0" flag="18" face="5" transport="2566" exp="50" str="5"/>
+  </hex>
+  <hex row="7" col="4" terrain="3"/>
+  <hex row="7" col="5" terrain="3" road="33"/>
+  <hex row="7" col="8" terrain="15" name="Prut River"/>
+  <hex row="7" col="13" terrain="10"/>
+  <hex row="8" col="1" terrain="5"/>
+  <hex row="8" col="3" terrain="1" road="34" name="Husi" flag="17" owner="0" victory="1"/>
+  <hex row="8" col="4" road="34"/>
+  <hex row="8" col="5" terrain="3">
+    <unit id="304" owner="0" flag="18" face="6" transport="2563"/>
+  </hex>
+  <hex row="8" col="6">
+    <unit id="308" owner="0" flag="18" face="5"/>
+  </hex>
+  <hex row="8" col="7">
+    <unit id="308" owner="0" flag="18" face="5"/>
+  </hex>
+  <hex row="8" col="8" terrain="15" name="Prut River"/>
+  <hex row="8" col="9" terrain="10" name="Prut River">
+    <unit id="1981" owner="0" flag="18" face="4" str="2"/>
+  </hex>
+  <hex row="8" col="12" terrain="10"/>
+  <hex row="9" col="1" road="130"/>
+  <hex row="9" col="2" road="34"/>
+  <hex row="9" col="5" terrain="5"/>
+  <hex row="9" col="9" terrain="15" name="Prut River"/>
+  <hex row="9" col="12" terrain="10"/>
+</map>

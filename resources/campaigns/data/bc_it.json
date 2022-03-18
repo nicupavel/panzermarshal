@@ -1,0 +1,1058 @@
+[
+ {
+  "id": 0, 
+  "intro": "GALLABAT<br>November 6th, 1940<br><br>Welcome to East Africa, commander.  I am Captain Jenkins and I shall be your assistant for the foreseeable future - unless I'm killed, captured or sent on a special mission to Fiji....<br><br>It has been four months since British Somaliland fell to the Italians.  They have also captured a few border outposts in Sudan at Karora, Gallabat, Kurmak, and Kassala.  Despite this loss, we were able to withdraw in good order and most of our forces are still intact.  It has been decided now to launch a surprise attack on Gallabat.  Your newly arrived forces will lead the assault.  You will have some limited armour and air support for this task, though if the rather large Italian air force in Gondor shows up you will be in a rather precarious position.<br><br>[NOTE:  You need to buy your core.]", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Very impressive commander!  Despite the odds being stacked against you, you managed to take the fort at Gallabat and the city of Metemma.  Unfortunately, we can not continue to hold these positions.  The Italians are much too strong at this point, and we need to save our strength for elsewhere.  The raid served its purpose however, and we can be thankful for that."
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "LOSS<br><br>Unlucky, Sir.  It was only a raid anyway, and the Italians were much too strong in the end.  We will get the better of them eventually, and you will get another chance to prove your worth."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Well done, commander.  Despite the odds being stacked against you, you managed to take the fort at Gallabat and the city of Metemma.  Unfortunately, we can not continue to hold these positions.  The Italians are much too strong at this point, and we need to save our strength for elsewhere.  The raid served its purpose however, and we can be thankful for that."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Impressive commander.  Despite the odds being stacked against you, you managed to take the fort at Gallabat and the city of Metemma.  Unfortunately, we can not continue to hold these positions.  The Italians are much too strong at this point, and we need to save our strength for elsewhere.  The raid served its purpose however, and we can be thankful for that."
+   }
+  }, 
+  "scenario": "bc_it_gal.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "ADVANCE TO AGORDAT<br>January 27th, 1941<br><br>Thanks to victories in the Mediterranean Sea, the Western Desert, the Italian failure in Greece, and supply problems the Italians have ceased their offensive operations.  They have now adopted a more defensive posture.  This gives us a golden opportunity to go on the attack here in East Africa.  Three forces will simultaneously strike into Ethiopia:  A northern front led by Lt. Gen. Platt which will advance from the Sudan through Eritrea, and down into Ethiopia.  A southern front led by Lt. Gen. Cunningham which will move north from Kenya, up into Italian Somaliland and then into Ethiopia.  In addition, a third group will make an amphibious assault in British Somaliland to retake the colony.  All groups are to meet in the Ethiopian capital, Addis Ababa.<br><br>Your brigade has been assigned to the 'Northern Front', and as such will begin the march into Eritrea.  The Italians have abandoned their border defences for better defensive positions in the mountains around Agordat.  Agordat is a vital junction of Eritrea: here pass the roads to Keren, Asmara, and the sea. The strategic importance of this town is confirmed by the two important battles that took place here in that dry and inaccessible zone in 1890 and 1893.", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Jolly good show, sir.  Despite the desperate attempts by the Italians and their Colonial allies, the advance is going swimmingly.  Further challenges await however, as the vice tightens around the Italians and their East African forces."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Well done, sir.  Despite the desperate attempts by the Italians and their Colonial allies, the advance is going swimmingly.  Further challenges await however, as the vice tightens around the Italians and their East African forces."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Good show, sir.  Despite the desperate attempts by the Italians and their Colonial allies, the advance is going swimmingly.  Further challenges await however, as the vice tightens around the Italians and their East African forces."
+   }
+  }, 
+  "scenario": "bc_it_bar.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "KEREN<br>March 15th, 1941<br><br>With victory at Agordat, all that lies in the way of victory in Eritrea is the town of Keren.  To approach the town of Keren, which lies 4,300 feet above sea level, from any direction but the east means an arduous passage through mountainous country. A formidable barrier of hills guards the town as you drive towards it up the road from Agordat. Only one gap exists through this barrier, the narrow and climbing Dongolaas Gorge that takes both road and railway up to the Keren plateau.<br><br>The strategic possibilities of this natural position before Keren, has been for many years appreciated by the Italians as a defence of Asmara and the highlands of Eritrea. On the Keren escarpment General Luigi Frusci, the sixty-two-year-old commander in the field, who had served in the Spanish Civil War, has decided to make his main stand, and to concentrate the bulk of his forces here.<br><br>Previous attacks have already been made on this formidable mountain barrier and all have been thrown back by stubborn and persistent Italian counter-attacks.  The enemy is determined to hold on to these positions and is willing to fight to the death for them.  Your unit has been given the arduous task of capturing Fort Dologorodoc.  The 4th Indian Division and the 29th Brigade will advance on your flanks.", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Splendidly handled, sir.  Those Italians certainly put up a stiff patch of resistance, but our forces prevailed in the end, no doubt due to your unrivalled ability as a General.  Elsewhere things are going well, and victory is well within our sights here in East Africa.  May I request sir, that we head for the coast at the first opportunity?  I'm bloody sick of looking at the giant rock we just had to fight over...."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Admirably handled, sir.  Those Italians certainly put up a stiff patch of resistance, but our forces prevailed in the end, no doubt due to your sheer stubbornness.  Elsewhere things are going well, and victory is well within our sights here in East Africa.  May I request sir, that we head for the coast at the first opportunity?  I'm bloody sick of looking at the giant rock we just had to fight over...."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Splendidly handled, sir.  Those Italians certainly put up a stiff patch of resistance, but our forces prevailed in the end, no doubt due to your great ability as a General.  Elsewhere things are going well, and victory is well within our sights here in East Africa.  May I request sir, that we head for the coast at the first opportunity?  I'm bloody sick of looking at the giant rock we just had to fight over...."
+   }
+  }, 
+  "scenario": "bc_it_ker.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "OPERATION IRONCLAD<br>May 5th, 1942<br><br>Commander, we have stormed ashore on the northern side of the Vichy French held island of Madgascar in order to prevent the Japanese from using the islands ports.  With a submarine base in Madagascar the Japanese navy would be able to threaten our supply route to the 8th Army, our merchant shipping and the Eastern Fleet.<br><br>Your first objective is the port of Diego Suarez.  The Vichy defenders are expected to be a mix of French colonial troops along with local volunteers.  You will have naval support provided by several battleships, cruisers and destroyers, and you will also receive air support from aircraft flying out from our aircraft carriers.<br><br>[NOTE:  There is limited deployment in this scenario.]", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>A superb piece of Generalship if you don't mind me saying, sir.  With the port captured, we have essentially nullified the threat posed by the Japanese Navy.  Now, we must press onwards to take the rest of the island."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>A fine piece of Generalship if you don't mind me saying, sir.  With the port captured, we have essentially nullified the threat posed by the Japanese Navy.  Now, we must press onwards to take the rest of the island."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>A good piece of Generalship if you don't mind me saying, sir.  With the port captured, we have essentially nullified the threat posed by the Japanese Navy.  Now, we must press onwards to take the rest of the island."
+   }
+  }, 
+  "scenario": "bc_it_mad1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "MANDRITSARA<br>September 12th, 1942<br><br>Hostilities on the island have continued at a low level for several months now.  We have landed on the western coast of the island at Majunga and are now pressing south towards the capital Tananarive.  For this task we have called upon your unit to spearhead our advance through the mountains, and to capture the city.  Resistance is expected to be minimal at the worst and non-existent at the best.  We fully expect the Vichy forces on Madagascar to surrender soon.", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent performance, General.  It was a bit hairy for some time on the island, as we traversed its difficult landscape against a determined opponent.  Fatigue and the degradation of the men's morale was a worry throughout, illustrated at the point where some men started sticking pencils up their nose and putting underpants on their head - claiming to be mad.....oh wait, that was just me...<br><br>Ahem.  Anyway, our work on Madagascar is done and the island is secured.  A new assignment awaits us.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "TACTICAL VICTORY<br><br>Fine performance, General.  It was a bit hairy for some time on the island, as we traversed its difficult landscape against a determined opponent.  Fatigue and the degradation of the men's morale was a worry throughout, illustrated at the point where some men started sticking pencils up their nose and putting underpants on their head - claiming to be mad.....oh wait, that was just me...<br><br>Ahem.  Anyway, our work on Madagascar is done and the island is secured.  A new assignment awaits us.<br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "VICTORY<br><br>Good performance, General.  It was a bit hairy for some time on the island, as we traversed its difficult landscape against a determined opponent.  Fatigue and the degradation of the men's morale was a worry throughout, illustrated at the point where some men started sticking pencils up their nose and putting underpants on their head - claiming to be mad.....oh wait, that was just me...<br><br>Ahem.  Anyway, our work on Madagascar is done and the island is secured.  A new assignment awaits us.<br>"
+   }
+  }, 
+  "scenario": "bc_it_mad2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "MARETH LINE<br>March 19th, 1943<br><br>Your unit has been transferred to North Africa to help with the Tunisian campaign.  You have been assigned to Montgomery's 8th Army and will assist in breaking through the Mareth Line - a series of fortifications built by the French before the outbreak of war.  It was believed that the mountains to the southwest were impassable to mechanised transport, however some recon reports from the LRDG (Long Range Desert Patrol Group) suggest otherwise.  Your men are to move through these mountains and flank the Mareth Line, cutting off its defenders.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "BRILLIANT VICTORY<br><br>Fantastic work, sir.  You gave Rommel's boys a darn good thrashing, and now we can begin planning our final attack against the Afrika Korps in Tunisia.  Let's just hope those bloody Yanks - now being referred to contemptuously as 'our Italians' - don't spoil everything with another showing like that at Kasserine Pass.  If we're going to liberate Europe, we'll need better allies than this."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "TACTICAL VICTORY<br><br>Fine work, sir.  You gave Rommel's boys a darn good thrashing, and now we can begin planning our final attack against the Afrika Korps in Tunisia.  Let's just hope those bloody Yanks - now being referred to contemptuously as 'our Italians' - don't spoil everything with another showing like that at Kasserine Pass.  If we're going to liberate Europe, we'll need better allies than this."
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "VICTORY<br><br>Great work, sir.  You gave Rommel's boys a darn good thrashing, and now we can begin planning our final attack against the Afrika Korps in Tunisia.  Let's just hope those bloody Yanks - now being referred to contemptuously as 'our Italians' - don't spoil everything with another showing like that at Kasserine Pass.  If we're going to liberate Europe, we'll need better allies than this."
+   }
+  }, 
+  "scenario": "bc_it_mar.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "OPERATION VULCAN<br>April 20th, 1943<br><br>We are now ready to launch the final ground attack against German forces in Tunisia, the last holdings of the Axis forces in Africa.  While the 2nd New Zealand Division takes the mountains to the south of Tunis and protects your left flank, your forces will smash through the German defences and capture Tunis and Cap Bon.  Be aware however that seeing as the enemy has no escape route left, he will fight mercilessly and can be expected to resist until the very end.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent display, General.  With the annihilation of the German Afrika Korps we can now begin the long, arduous task of liberating Europe from the tyranny of leather shorts, sausages and foul-smelling cabbage.  Oh and we'll give the pasta munchers a bloody good seeing too while we're at it.  Pip pip!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "TACTICAL VICTORY<br><br>Fine display, General.  With the annihilation of the German Afrika Korps we can now begin the long, arduous task of liberating Europe from the tyranny of leather shorts, sausages and foul-smelling cabbage.  Oh and we'll give the pasta munchers a bloody good seeing too while we're at it.  Pip pip!"
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "VICTORY<br><br>Great display, General.  With the annihilation of the German Afrika Korps we can now begin the long, arduous task of liberating Europe from the tyranny of leather shorts, sausages and foul-smelling cabbage.  Oh and we'll give the pasta munchers a bloody good seeing too while we're at it.  Pip pip!"
+   }
+  }, 
+  "scenario": "bc_it_vul.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "SYRACUSE<br>July 10th, 1943<br><br>With the defeat of the Afrika Korps and their Italian allies in Tunisia, we can now prepare to for our return to Europe.  It has been concluded that an invasion of France is out of our reach at the present time, and thusly our focus is on Italy.  To begin with we will need to secure the island of Sicily, which will allow us to advance across the straits of Messinna into Italy itself.  The Italian defenders on the island have reportedly low morale and are considered inadequate to defend the coastline, however they have been reinforced by several German divisions.  Your main objective is the port of Syracuse.", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent performance, sir.  With Syracuse in our hands we have secured an excellent supply hub for our advance to Messina.  We have also gained valuable lessons in amphibious landings which will help us plan for the return to France."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Fine performance, sir.  With Syracuse in our hands we have secured an excellent supply hub for our advance to Messina.  We have also gained valuable lessons in amphibious landings which will help us plan for the return to France."
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Splendid performance, sir.  With Syracuse in our hands we have secured an excellent supply hub for our advance to Messina.  We have also gained valuable lessons in amphibious landings which will help us plan for the return to France."
+   }
+  }, 
+  "scenario": "bc_it_syr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "CATANIA<br>July 12th, 1943<br><br>Our landings on the island have been successful so far, although the American sector had to fight off a fierce counter-attack by a German Panzer Division.  In our sector we have quickly taken the port of Syracuse and we have also taken Augusta.  We can therefore begin our advance to Messina, and you will be at the very head of our column.  For a rapid advance to Messina we need to secure the important Primasole bridge south of Catania, and the port of Catania itself.", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "BRILLIANT VICTORY<br><br>Magnificent performance General.  We've secured the bridge at Primasole and the port of Catania has fallen to us - though not after a tough fight against a crack German Parachute Division.  The advance will continue on up the coast to Messina, however your unit has been withdrawn and placed in reserve for future operations."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "TACTICAL VICTORY<br><br>Fine performance General.  We've secured the bridge at Primasole and the port of Catania has fallen to us - though not after a tough fight against a crack German Parachute Division.  The advance will continue on up the coast to Messina, however your unit has been withdrawn and placed in reserve for future operations."
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "VICTORY<br><br>Great performance General.  We've secured the bridge at Primasole and the port of Catania has fallen to us - though not after a tough fight against a crack German Parachute Division.  The advance will continue on up the coast to Messina, however your unit has been withdrawn and placed in reserve for future operations."
+   }
+  }, 
+  "scenario": "bc_it_cat.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "SALERNO<br>September 9th, 1943<br><br>It is now time to assault the Italian mainland.  While Montgomery's 8th Army advances across the straits of Messina, your force as part of the British X Corps will land near Salerno.  On your right flank will be the U.S. 36th Infantry Division.  After securing a beach head your men are to assist in the capture of Naples port.  Diversionary attacks have been made to the east in order to draw away the attention of German forces.", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Fantastic work, sir.  In spite of an initial wobble when the Germans launched a co-ordinated counter-attack, we were able to hold our beachhead and then eventually breakout.  Even the appearance of Gorings own panzer division was no match for the stiff upper lip of the average Tommy.  We must push on now however, as the Bosch are retreating to a set of defensive lines to the north."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Fine work, sir.  In spite of an initial wobble when the Germans launched a co-ordinated counter-attack, we were able to hold our beachhead and then eventually breakout.  Even the appearance of Gorings own panzer division was no match for the stiff upper lip of the average Tommy.  We must push on now however, as the Bosch are retreating to a set of defensive lines to the north."
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Good work, sir.  In spite of an initial wobble when the Germans launched a co-ordinated counter-attack, we were able to hold our beachhead and then eventually breakout.  Even the appearance of Gorings own panzer division was no match for the stiff upper lip of the average Tommy.  We must push on now however, as the Bosch are retreating to a set of defensive lines to the north."
+   }
+  }, 
+  "scenario": "bc_it_sal.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "VIKTOR LINE<br>October 12th, 1943<br><br>We have reached the southernmost German defensive line - the Viktor Line - following our successful landings at Salerno.  As part of the U.S. 5th Army we will attack across the Volturno River, breaching the Viktor Line.  When through we must advance quickly to prevent the Germans from retreating and regrouping at further defensive lines further to the north.", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Splendid job, sir.  The good news is we have breached the southernmost German defence line, and now stand at the banks of the Gargliano River.  The bad news is that Fritz has fallen back in good order to an entirely different defensive line across the river.  Well, mustn't get too downhearted, how bad could these new defences possibly be?  I certainly don't think they'll be quite as many elephants as predicted by Corporal Darling...."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Adequately performed job, sir.  The good news is we have breached the southernmost German defence line, and now stand at the banks of the Gargliano River.  The bad news is that Fritz has fallen back in good order to an entirely different defensive line across the river.  Well, mustn't get too downhearted, how bad could these new defences possibly be?  I certainly don't think they'll be quite as many elephants as predicted by Corporal Darling...."
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Good job, sir.  The good news is we have breached the southernmost German defence line, and now stand at the banks of the Gargliano River.  The bad news is that Fritz has fallen back in good order to an entirely different defensive line across the river.  Well, mustn't get too downhearted, how bad could these new defences possibly be?  I certainly don't think they'll be quite as many elephants as predicted by Corporal Darling...."
+   }
+  }, 
+  "scenario": "bc_it_vik.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "GARIGLIANO RIVER<br>January 17th, 1944<br><br>Progress has been disappointing.  Poor weather and terrain, coupled with a skillful German defence has made our further advance slow and painful all across the front.  In front of us now is the Gustav Line, otherwise known as the Winter Line, the last defensive position the Germans are holding south of Rome.  Our unit, as part of the X Corps, will be the first to launch a co-ordinated attack on this line, while the U.S. VI Corps lands at Anzio, further up the coast.", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>That went rather well, sir.  Unfortunately, our rather limited advance has done little other than draw large swarms of angry Germans upon us.  Furthermore, the advance to our right has also been halted, at Cassino, and the Army within the Anzio beachhead refuses to move. This is not good.  We're in the stickiest situation since Sticky the Stick Insect got stuck on a sticky bun.  Thankfully however you needn't worry about all of this anymore - we've recieved orders to embark for home.  No, the war isn't over; we're needed for the invasion of Normandy."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>That went ok, sir.  Unfortunately, our rather limited advance has done little other than draw large swarms of angry Germans upon us.  Furthermore, the advance to our right has also been halted, at Cassino, and the Army within the Anzio beachhead refuses to move. This is not good.  We're in the stickiest situation since Sticky the Stick Insect got stuck on a sticky bun.  Thankfully however you needn't worry about all of this anymore - we've recieved orders to embark for home.  No, the war isn't over; we're needed for the invasion of Normandy."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>That went well, sir.  Unfortunately, our rather limited advance has done little other than draw large swarms of angry Germans upon us.  Furthermore, the advance to our right has also been halted, at Cassino, and the Army within the Anzio beachhead refuses to move. This is not good.  We're in the stickiest situation since Sticky the Stick Insect got stuck on a sticky bun.  Thankfully however you needn't worry about all of this anymore - we've recieved orders to embark for home.  No, the war isn't over; we're needed for the invasion of Normandy."
+   }
+  }, 
+  "scenario": "bc_it_gar.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "OPERATION OVERLORD<br>June 6th, 1944<br><br>Commander, you have been assigned to the first wave of landings in Normandy, occupied France.  You and your men will land at 'Sword Beach', secure our bridgehead and then move out towards Caen.  Note that a quick link up with the 6th Para Division will be needed as they hold positions east of the River Orne, and will be expected to face a heavy German counter-attack.  Also, keep in mind that the 21st Panzer Division is in this area, and although we may have given them a good licking in Africa, they will still be formidable opponents.<br><br>[NOTE:  There is limited deployment in this scenario.]<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Splendid work, sir.  We've successfully made a landing in Normandy, though we have somewhat fallen short of our first day objectives.  All in all, casualties are light, and the German lines look thinly held.  Now, we just need to get the reinforcements and supplies we need to finish the job.  I'd offer you a spot of tea and biscuits sir, but I'm afraid a shell from one of those attacking German tanks tore right through your supply truck.  War is ghastly sometimes."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Oh, you're back?  We've successfully made a landing in Normandy, though we have somewhat fallen short of our first day objectives.  All in all, casualties are light, and the German lines look thinly held.  Now, we just need to get the reinforcements and supplies we need to finish the job.  I'd offer you a spot of tea and biscuits sir, but I'm afraid a shell from one of those attacking German tanks tore right through your supply truck.  War is ghastly sometimes."
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Good work, sir.  We've successfully made a landing in Normandy, though we have somewhat fallen short of our first day objectives.  All in all, casualties are light, and the German lines look thinly held.  Now, we just need to get the reinforcements and supplies we need to finish the job.  I'd offer you a spot of tea and biscuits sir, but I'm afraid a shell from one of those attacking German tanks tore right through your supply truck.  War is ghastly sometimes."
+   }
+  }, 
+  "scenario": "bc_it_01.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "BRIDGEHEAD EXPANSION<br>June 7th, 1944<br><br>We've held our positions through the night and now we must push on to expand our bridgehead.  We now should make an assault to capture the airfield to the west of Caen, while the 50th Infantry takes Bayuex and the Canadians head for the Caen-Bayuex highway.  Intelligence reports suggest that another German Panzer Division will be arriving soon, so we must move quickly.<br><br>[NOTE:  There is limited deployment in this scenario.]", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent display, sir.  We've extended our beachhead a little further, but since then, we've made about as much ground as an asthmatic ant with a heavy load of shopping.  Montgomery is extremely grateful for the gains you've made, and sends his warmest regards - oh and a bottle of scotch, which I've already consumed."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Good display, sir.  We've extended our beachhead a little further, but since then, we've made about as much ground as an asthmatic ant with a heavy load of shopping.  Montgomery is extremely grateful for the gains you've made, and sends his warmest regards - oh and a bottle of scotch, which I've already consumed."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Very good display, sir.  We've extended our beachhead a little further, but since then, we've made about as much ground as an asthmatic ant with a heavy load of shopping.  Montgomery is extremely grateful for the gains you've made, and sends his warmest regards - oh and a bottle of scotch, which I've already consumed."
+   }
+  }, 
+  "scenario": "bc_it_02.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "OPERATION EPSOM<br>June 26th, 1944<br><br>Poor weather has hindered our build up of troops and materials in the Normandy beachhead.  Furthermore, the Germans have been able to move an entire SS Panzer Corps completely unhindered to the front, thanks again to bad weather grounding our aircraft.  From our intelligence interceptions, we can deduce that the Germans are planning to use these reinforcements in a counter-offensive.  Therefore, we must forestall them with a new attack of our own.  This operation, devised by Montgomery, is looking to outflank the defenders of Caen by crossing both the River Odon and River Orne southwest of the city.", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Splendid job, sir.  We've pushed the Germans back somewhat to the west of Caen, allowing Montgomery the pleasure of moving his drinks cabinet six inches closer to Berlin.  Unfortunately those German reinforcements that showed up have stalled our advance, and we need a new plan to wrest Caen from the Bosch.  I fear the words \"I have a cunning plan\" are rapidly marching from Montgomery's mouth with ill-deserved confidence.  Cup of tea, sir?"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Fine job, sir.  We've pushed the Germans back somewhat to the west of Caen, allowing Montgomery the pleasure of moving his drinks cabinet six inches closer to Berlin.  Unfortunately those German reinforcements that showed up have stalled our advance, and we need a new plan to wrest Caen from the Bosch.  I fear the words \"I have a cunning plan\" are rapidly marching from Montgomery's mouth with ill-deserved confidence.  Cup of tea, sir?"
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Good job, sir.  We've pushed the Germans back somewhat to the west of Caen, allowing Montgomery the pleasure of moving his drinks cabinet six inches closer to Berlin.  Unfortunately those German reinforcements that showed up have stalled our advance, and we need a new plan to wrest Caen from the Bosch.  I fear the words \"I have a cunning plan\" are rapidly marching from Montgomery's mouth with ill-deserved confidence.  Cup of tea, sir?"
+   }
+  }, 
+  "scenario": "bc_it_03.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "OPERATION CHARNWOOD<br>July 8th, 1944<br><br>We must now move on to capture the city of Caen.  It has been an objective since day one of our landings in Normandy, and the Germans are still holding onto it.  Taking the city and its surrounding plains will gift us enough space us to build airfields.  Also, it is considered vital that we establish a foothold over the Orne River, and taking Caen would give us exactly that.  To assist in this operation, your advance will be preceded by a large aerial bombardment of the German defences.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Superbly done, sir.  We've finally taken the city of Caen - well, a bit of it at least - our major objective since we landed here in Normandy.  Montgomery is delighted, and is taking all of the credit of course.  He said we'd take the city on day one, but now claims having us get bogged down was all part of his subtle plan.  I don't think he'd recognize a subtle plan if it painted itself purple and danced naked on a harpsichord singing 'subtle plans are here again' quite frankly.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Finely done, sir.  We've finally taken the city of Caen - well, a bit of it at least - our major objective since we landed here in Normandy.  Montgomery is delighted, and is taking all of the credit of course.  He said we'd take the city on day one, but now claims having us get bogged down was all part of his subtle plan.  I don't think he'd recognize a subtle plan if it painted itself purple and danced naked on a harpsichord singing 'subtle plans are here again' quite frankly.<br><br>"
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Great job, sir.  We've finally taken the city of Caen - well, a bit of it at least - our major objective since we landed here in Normandy.  Montgomery is delighted, and is taking all of the credit of course.  He said we'd take the city on day one, but now claims having us get bogged down was all part of his subtle plan.  I don't think he'd recognize a subtle plan if it painted itself purple and danced naked on a harpsichord singing 'subtle plans are here again' quite frankly.<br>"
+   }
+  }, 
+  "scenario": "bc_it_04.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "OPERATION GOODWOOD<br>July 17th, 1944<br><br>The current plan for Normandy is for an American breakthrough in the west, to be made possible by an attritional battle here in the east, to draw away German reserves.  For this plan to work, we need to secure the rest of Caen and the surrounding area, including the Bourgebus ridge to the south.  This will then draw in whatever German reserves remain into this battle, preventing them being used to counter the U.S. forces in the west.", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Fantastic work, sir.  The Jerries have been thoroughly and comprehensively trounced - that's what Montogomery told Eisenhower when he lied to him this afternoon.  We have achieved some measure of success though, Caen has been taken, along with Bourgebus ridge, and now with the U.S. breakout to the west, a chance for encirclement looks enticing.  You, sir, have been afforded a few days rest."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Fine work, sir.  The Jerries have been thoroughly and comprehensively trounced - that's what Montogomery told Eisenhower when he lied to him this afternoon.  We have achieved some measure of success though, Caen has been taken, along with Bourgebus ridge, and now with the U.S. breakout to the west, a chance for encirclement looks enticing.  You, sir, have been afforded a few days rest."
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Good work, sir.  The Jerries have been thoroughly and comprehensively trounced - that's what Montogomery told Eisenhower when he lied to him this afternoon.  We have achieved some measure of success though, Caen has been taken, along with Bourgebus ridge, and now with the U.S. breakout to the west, a chance for encirclement looks enticing.  You, sir, have been afforded a few days rest."
+   }
+  }, 
+  "scenario": "bc_it_05.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "OPERATION PADDLE<br>August 17th, 1944<br><br>With Caen taken, and a large portion of German units destroyed at the Falaise Gap, we can now begin to breakout and liberate France.  You are tasked with carrying out 'Operation Paddle' - the offensive to clear the Germans from the land between the Orne and the Seine Rivers.", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Superlative work, General.  We have the Hun on the run, and the road to Paris is gapingly wide open.  Lovely French girls and croissants await the sex-starved and salivating Allied Armies.  Unfortunately, we have orders to march into Belgium instead.  So, Belgian girls and waffles await us.  If we're lucky."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL  VICTORY<br><br>Adequate work, General.  We have the Hun on the run, and the road to Paris is gapingly wide open.  Lovely French girls and croissants await the sex-starved and salivating Allied Armies.  Unfortunately, we have orders to march into Belgium instead.  So, Belgian girls and waffles await us.  If we're lucky."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Great work, General.  We have the Hun on the run, and the road to Paris is gapingly wide open.  Lovely French girls and croissants await the sex-starved and salivating Allied Armies.  Unfortunately, we have orders to march into Belgium instead.  So, Belgian girls and waffles await us.  If we're lucky."
+   }
+  }, 
+  "scenario": "bc_it_pad.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "MARKET GARDEN<br>September 17th, 1944<br><br>The Germans are withdrawing towards the Rhine and the Low Countries, following our victories in Normandy.  Further advance however, on the 'broad front strategy' is becoming increasingly difficult, due to supply problems.  It is therefore impossible to continue to ensure all units are in a state of 'combat supply' and an attack across a narrow front is our only option at this stage.<br><br>Montgomery has initiated Operation Market Garden, which aims to bypass the Sigfried Line, cross the Rhine with large-scale forces, and trap the German 15th Army between Arnhem and the shores of the IJsselmeer.  The plan actually consists of two operations: Market - the seizure of bridges and other vital points by the First Airborne Army, and Garden - the northward advance of the British 2nd Army.  You will be attached to the 2nd Army, as part of XXX Corps.<br><br>[NOTES: There is initially limited deployment in this scenario.  To deploy the rest of your core, you will need to take the supply hex at Eindhoven.  A loss won't end the campaign in this scenario, due to it being the historical outcome.]", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent showing, sir!  Despite the rather madcap nature of Montgomery's cunning plan, you still somehow managed to achieve your objectives - and in good time!  Unfortunately, due to the heavy casualties suffered by our airborne chaps, the lack of supplies and the German counter-attacks bearing down on our flanks, we have little chance of exploiting this breakthrough.  The war won't be over by Christmas it now appears."
+   }, 
+   "lose": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "LOSS<br><br>Well, that wasn't so cunning a plan was it?  The German Army that was supposedly on its knees somehow managed to stop our advance to the Rhine, our airborne chaps have suffered tremendously at Arnhem, and the Germans are now threatening to cut across our single road of advance.  This is a crisis.  A large crisis. In fact, if you've got a moment, it's a twelve-story crisis with a magnificent entrance hall, carpeting throughout, 24-hour portage, and an enormous sign on the roof, saying 'This Is a Large Crisis'. A large crisis requires a large plan. Get me two pencils and a pair of underpants."
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "TACTICAL VICTORY<br><br>Fine showing, sir.  Despite the rather madcap nature of Montgomery's cunning plan, you still somehow managed to achieve your objectives - and in good time!  Unfortunately, due to the heavy casualties suffered by our airborne chaps, the lack of supplies and the German counter-attacks bearing down on our flanks, we have little chance of exploiting this breakthrough.  The war won't be over by Christmas it now appears."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "VICTORY<br><br>Good showing, sir!  Despite the rather madcap nature of Montgomery's cunning plan, you still somehow managed to achieve your objectives - and in good time!  Unfortunately, due to the heavy casualties suffered by our airborne chaps, the lack of supplies and the German counter-attacks bearing down on our flanks, we have little chance of exploiting this breakthrough.  The war won't be over by Christmas it now appears."
+   }
+  }, 
+  "scenario": "bc_it_ein.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "BREDA<br>October 6th, 1944<br><br>Following the failure of Market Garden, your unit has been moved just north of Antwerp to take part in a new offensive operation.  It is absolutely vital that we clear the banks of the Scheldt estuary in order to open up the port of Antwerp to Allied shipping.  Supply and reinforcement problems are reaching breaking point.  You will strike north towards the city of Breda, clearing the east bank of the Scheldt.", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Splendid work, General.  Thanks to our attacks here, and the Canadian assault to the west, we've finally cleared the Scheldt estuary and can now use the port of Antwerp, bringing in much needed supplies and reinforcements.  Unfortunately, the Hun isn't playing fair, and has mined the entire area, meaning it will take weeks to clear for our shipping."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Fine work, General.  Thanks to our attacks here, and the Canadian assault to the west, we've finally cleared the Scheldt estuary and can now use the port of Antwerp, bringing in much needed supplies and reinforcements.  Unfortunately, the Hun isn't playing fair, and has mined the entire area, meaning it will take weeks to clear for our shipping."
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Nice work, General.  Thanks to our attacks here, and the Canadian assault to the west, we've finally cleared the Scheldt estuary and can now use the port of Antwerp, bringing in much needed supplies and reinforcements.  Unfortunately, the Hun isn't playing fair, and has mined the entire area, meaning it will take weeks to clear for our shipping."
+   }
+  }, 
+  "scenario": "bc_it_bre.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "ARDENNES COUNTERATTACK<br>December 25th, 1944<br><br>Merry bloody Christmas.<br><br>A German attack through the Ardennes forest, while initially achieving some success against the thinly held American lines, has now effectively been halted.  The Germans have outrun their supply lines, and are thus experiencing huge shortages of fuel, ammunition and other vital supplies.  It is at this juncture that we will go onto the attack.  You will cross the bridge at Dinant and assist the U.S. 2nd Armoured Division in reducing the German bulge.", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent, sir.  Jerry sure made a bit of a ruckus in this sector, but we soon put a stop to that - thanks to your magnificent generalship, of course.  The commander of the U.S. 2nd Armoured Division sends his gratitude for your help, in the form of the largest collection of Charlie Chaplin films ever gathered.  Its all piled up outside your HQ.  Shall I use petrol to make it burn quicker, sir?"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICS VICTORY<br><br>Good, sir.  Jerry sure made a bit of a ruckus in this sector, but we soon put a stop to that - thanks to your magnificent generalship, of course.  The commander of the U.S. 2nd Armoured Division sends his gratitude for your help, in the form of the largest collection of Charlie Chaplin films ever gathered.  Its all piled up outside your HQ.  Shall I use petrol to make it burn quicker, sir?"
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Splendid, sir.  Jerry sure made a bit of a ruckus in this sector, but we soon put a stop to that - thanks to your magnificent generalship, of course.  The commander of the U.S. 2nd Armoured Division sends his gratitude for your help, in the form of the largest collection of Charlie Chaplin films ever gathered.  Its all piled up outside your HQ.  Shall I use petrol to make it burn quicker, sir?"
+   }
+  }, 
+  "scenario": "bc_it_ard.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "ROER TRIANGLE<br>January 14th, 1945<br><br>With the failed German offensive in the Ardennes, we now have an opportunity to push and chase them towards the Rhine.  There are two main barriers to our further advance - the river Maas running along the Dutch/Belgian border, and the river Rur running from the German Eifel area through Heinsberg towards Roermond - where it joins the Maas.  The front in this area has settled into what is being called 'Saefeller Beek' a triangular area protruding from the frontline, otherwise known as the 'Roer Triangle', and you have been tasked to clear it.", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "BRILLIANT VICTORY<br><br>Thanks to your wonderful efforts sir, we've crushed a particularly troublesome pocket of Bosche resistance.  We now stand on the west bank of the Rhine, with the advance into Germany awaiting us.  This will take planning of course.  A cunning plan, I presume.  Fortunately, the Germans are so ravaged by this point, even another one of Montgomery's hare brained schemes can't possibly see us get our brains blown out."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Thanks to your efforts sir, we've crushed a particularly troublesome pocket of Bosche resistance.  We now stand on the west bank of the Rhine, with the advance into Germany awaiting us.  This will take planning of course.  A cunning plan, I presume.  Fortunately, the Germans are so ravaged by this point, even another one of Montgomery's hare brained schemes can't possibly see us get our brains blown out."
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "VICTORY<br><br>Thanks to your great efforts sir, we've crushed a particularly troublesome pocket of Bosche resistance.  We now stand on the west bank of the Rhine, with the advance into Germany awaiting us.  This will take planning of course.  A cunning plan, I presume.  Fortunately, the Germans are so ravaged by this point, even another one of Montgomery's hare brained schemes can't possibly see us get our brains blown out."
+   }
+  }, 
+  "scenario": "bc_it_roe.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "WESEL<br>March 23rd, 1945<br><br>The time has finally come.  We are to advance across the Rhine and into Germany, where we will finally bring the war to an end!  As part of Operation Plunder, we will cross and secure the city of Wesel.  After that, we will continue the advance deep into Germany, advancing along the roads to Bremen and Hannover.", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Superb, sir.  Our crossing of the Rhine has been successful, and now all that stands in our way to Berlin is a few Hitler Youth and old men.  Oh, and the Soviets, but try and keep quiet about that.  For you however, the war is over - you've been summoned to 10 Downing Street by Prime Minister Churchill, where you will be awarded a truckload of medals and a promotion.  Its been a pleasure working with you.  Glass of champagne, Field Marshall?"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Fine work, sir.  Our crossing of the Rhine has been successful, and now all that stands in our way to Berlin is a few Hitler Youth and old men.  Oh, and the Soviets, but try and keep quiet about that.  For you however, the war is over - you've been summoned to 10 Downing Street by Prime Minister Churchill, where you will be awarded a truckload of medals and a promotion.  Its been a pleasure working with you.  Glass of champagne, Field Marshall?"
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Good, sir.  Our crossing of the Rhine has been successful, and now all that stands in our way to Berlin is a few Hitler Youth and old men.  Oh, and the Soviets, but try and keep quiet about that.  For you however, the war is over - you've been summoned to 10 Downing Street by Prime Minister Churchill, where you will be awarded a truckload of medals and a promotion.  Its been a pleasure working with you.  Glass of champagne, Field Marshall?"
+   }
+  }, 
+  "scenario": "bc_it_wes.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "WESERBERGLAND<br>April 6th, 1945<br><br>I'm afraid you're trip back home has been cancelled.  The Allied commander wants you to take your forces and establish a bridgehead over the Weser River, although you needn't worry too much about enemy resistance.  Intelligence reports suggest that the German units within the area are a mix of various under strength replacement units and local militia, which should be no match for your crack troops.", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Congratulations commander on another splendid performance.  Although the Germans were dazed and on the run they still managed to put up a stiff and competent resistance.  Now with the Reds closing in on Berlin and our successes here in the west, the war's outcome is in little doubt.  For you, the war is most definitely over, and you are to return to the UK to await your post-war assignment.<br><br>How does a posting in Fiji sound to you?<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Commander, it is my duty to inform you that you have been dismissed from your position as requested by the Corps commander, the Army commander, the Theatre commander and the Chiefs of Staff. The dismissal is due to your, and I quote, \"complete and utter ineptitude and incompetence\". It was nice working with you sir. Here are your transfer papers to the Women's Auxiliary Balloon Corps."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Congratulations commander on another fine performance.  Although the Germans were dazed and on the run they still managed to put up a stiff and competent resistance.  Now with the Reds closing in on Berlin and our successes here in the west, the war's outcome is in little doubt.  For you, the war is most definitely over, and you are to return to the UK to await your post-war assignment.<br><br>How does a posting in Fiji sound to you?<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Congratulations commander on another great performance.  Although the Germans were dazed and on the run they still managed to put up a stiff and competent resistance.  Now with the Reds closing in on Berlin and our successes here in the west, the war's outcome is in little doubt.  For you, the war is most definitely over, and you are to return to the UK to await your post-war assignment.<br><br>How does a posting in Fiji sound to you?<br>"
+   }
+  }, 
+  "scenario": "bc_it_teu.xml", 
+  "startprestige": 0
+ }
+]

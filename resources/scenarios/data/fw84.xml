@@ -1,0 +1,1369 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="fw84.scn" name="Warsaw" turns="12, 14, 18" date="September 22, 1939" dayturns="4" ground="0" atmosferic="1" latitude="3" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_349.png">
+  <player id="0" country="7" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="15" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10"/>
+  <reinforce turn="10">
+    <at row="36" col="23">
+      <unit id="142" owner="0" flag="8" face="9" exp="120"/>
+    </at>
+    <at row="29" col="2">
+      <unit id="136" owner="0" flag="8" face="4" exp="100"/>
+    </at>
+    <at row="31" col="2">
+      <unit id="115" owner="0" flag="8" face="4" transport="157" exp="150"/>
+    </at>
+    <at row="30" col="2">
+      <unit id="110" owner="0" flag="8" face="4" transport="157" str="6"/>
+    </at>
+    <at row="37" col="22">
+      <unit id="92" owner="0" flag="8" face="9" transport="157"/>
+    </at>
+    <at row="36" col="22">
+      <unit id="1260" owner="0" flag="8" face="9" exp="120"/>
+    </at>
+    <at row="36" col="21">
+      <unit id="115" owner="0" flag="8" face="10" transport="157" exp="150"/>
+    </at>
+    <at row="29" col="3">
+      <unit id="1260" owner="0" flag="8" face="4" exp="100"/>
+    </at>
+    <at row="37" col="20">
+      <unit id="583" owner="0" flag="8" face="10" exp="200" str="6"/>
+    </at>
+    <at row="26" col="3">
+      <unit id="173" owner="0" flag="8" face="4"/>
+    </at>
+    <at row="26" col="2">
+      <unit id="728" owner="0" flag="8" face="4"/>
+    </at>
+    <at row="31" col="1">
+      <unit id="93" owner="0" flag="8" face="4" transport="157"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="4" col="15">
+      <unit id="111" owner="0" flag="8" face="2" transport="158" exp="100" str="6" ldr="1"/>
+    </at>
+    <at row="2" col="16">
+      <unit id="110" owner="0" flag="8" face="0" transport="157" ldr="1"/>
+    </at>
+    <at row="2" col="15">
+      <unit id="111" owner="0" flag="8" face="0" transport="157" exp="257" str="6"/>
+    </at>
+    <at row="1" col="15">
+      <unit id="1244" owner="0" flag="8" face="0" transport="157" exp="50" str="7"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="21" col="3">
+      <unit id="115" owner="0" flag="8" face="4" exp="120"/>
+    </at>
+    <at row="21" col="1">
+      <unit id="92" owner="0" flag="8" face="4" transport="158"/>
+    </at>
+    <at row="19" col="4">
+      <unit id="115" owner="0" flag="8" face="4"/>
+    </at>
+    <at row="18" col="2">
+      <unit id="115" owner="0" flag="8" face="4" exp="120"/>
+    </at>
+    <at row="32" col="3">
+      <unit id="93" owner="0" flag="8" face="5" transport="157"/>
+    </at>
+    <at row="17" col="1">
+      <unit id="92" owner="0" flag="8" face="4" transport="158"/>
+    </at>
+    <at row="19" col="5">
+      <unit id="115" owner="0" flag="8" face="4"/>
+    </at>
+    <at row="22" col="2">
+      <unit id="115" owner="0" flag="8" face="4" exp="120"/>
+    </at>
+    <at row="20" col="4">
+      <unit id="115" owner="0" flag="8" face="4"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="3" terrain="3"/>
+  <hex row="0" col="4" terrain="3"/>
+  <hex row="0" col="5" terrain="3"/>
+  <hex row="0" col="6" terrain="3"/>
+  <hex row="0" col="7" terrain="3"/>
+  <hex row="0" col="8" terrain="3"/>
+  <hex row="0" col="9" terrain="3"/>
+  <hex row="0" col="10" terrain="10" name="River Wkra"/>
+  <hex row="0" col="15" terrain="1" road="26" name="Nasielsk"/>
+  <hex row="0" col="16" terrain="1" road="48" name="Nasielsk"/>
+  <hex row="0" col="18" terrain="3"/>
+  <hex row="0" col="20" terrain="3"/>
+  <hex row="0" col="22" terrain="3"/>
+  <hex row="0" col="25" terrain="10" name="River Narew"/>
+  <hex row="0" col="26" terrain="3"/>
+  <hex row="0" col="27" terrain="3"/>
+  <hex row="0" col="35" terrain="1" road="58" name="Wyszkow"/>
+  <hex row="0" col="36" terrain="1" road="48" name="Wyszkow"/>
+  <hex row="0" col="39" terrain="10" name="River Bug"/>
+  <hex row="0" col="40" terrain="16"/>
+  <hex row="0" col="41" terrain="16"/>
+  <hex row="0" col="42" terrain="16"/>
+  <hex row="0" col="43" terrain="5"/>
+  <hex row="1" col="0" road="136"/>
+  <hex row="1" col="1" road="136"/>
+  <hex row="1" col="4" terrain="3"/>
+  <hex row="1" col="6" terrain="3"/>
+  <hex row="1" col="7" terrain="3"/>
+  <hex row="1" col="8" terrain="3"/>
+  <hex row="1" col="10" terrain="10" name="River Wkra"/>
+  <hex row="1" col="11" terrain="10" name="River Wkra"/>
+  <hex row="1" col="15" road="49" deploy="0"/>
+  <hex row="1" col="16" terrain="1" road="137" name="Nasielsk" flag="7" owner="0" victory="1" deploy="0">
+    <unit id="583" owner="0" flag="8" face="1" str="5"/>
+  </hex>
+  <hex row="1" col="17" road="144" deploy="0"/>
+  <hex row="1" col="18" terrain="3"/>
+  <hex row="1" col="19" terrain="3"/>
+  <hex row="1" col="20" terrain="3"/>
+  <hex row="1" col="21" terrain="3"/>
+  <hex row="1" col="24" terrain="10" name="River Narew"/>
+  <hex row="1" col="25" terrain="3"/>
+  <hex row="1" col="26" terrain="3"/>
+  <hex row="1" col="27" terrain="3"/>
+  <hex row="1" col="31" road="34">
+    <unit id="115" owner="0" flag="8" face="0"/>
+  </hex>
+  <hex row="1" col="32" road="40">
+    <unit id="95" owner="0" flag="8" face="0" transport="158"/>
+  </hex>
+  <hex row="1" col="33" road="130"/>
+  <hex row="1" col="34" road="34">
+    <unit id="1234" owner="0" flag="8" face="0" transport="158" exp="123"/>
+  </hex>
+  <hex row="1" col="35" terrain="1" road="3" name="Wyszkow" deploy="0">
+    <unit id="115" owner="0" flag="8" face="0" exp="123"/>
+  </hex>
+  <hex row="1" col="36" terrain="1" road="177" name="Wyszkow" flag="7" owner="0" victory="1" deploy="0">
+    <unit id="112" owner="0" flag="8" face="0"/>
+  </hex>
+  <hex row="1" col="37" deploy="0"/>
+  <hex row="1" col="40" terrain="10" name="River Bug"/>
+  <hex row="1" col="41" terrain="10" name="River Bug"/>
+  <hex row="1" col="42" terrain="5"/>
+  <hex row="1" col="43" terrain="5"/>
+  <hex row="2" col="2" road="136"/>
+  <hex row="2" col="3" road="136"/>
+  <hex row="2" col="9" road="18"/>
+  <hex row="2" col="10" road="40"/>
+  <hex row="2" col="11" terrain="10" road="130" name="River Wkra"/>
+  <hex row="2" col="12" road="40"/>
+  <hex row="2" col="13" terrain="3" road="130"/>
+  <hex row="2" col="14" road="50"/>
+  <hex row="2" col="15" road="9"/>
+  <hex row="2" col="16" deploy="0"/>
+  <hex row="2" col="17" road="9"/>
+  <hex row="2" col="18" terrain="3"/>
+  <hex row="2" col="19" terrain="3" road="40">
+    <unit id="108" owner="0" flag="8" face="4" transport="157" exp="250"/>
+  </hex>
+  <hex row="2" col="20" terrain="3"/>
+  <hex row="2" col="21" terrain="3"/>
+  <hex row="2" col="22" terrain="2" flag="7" owner="0"/>
+  <hex row="2" col="23" terrain="2"/>
+  <hex row="2" col="24" terrain="10" name="River Narew"/>
+  <hex row="2" col="26" terrain="3"/>
+  <hex row="2" col="27" road="34"/>
+  <hex row="2" col="28" road="40"/>
+  <hex row="2" col="29" road="130"/>
+  <hex row="2" col="30" road="34">
+    <unit id="115" owner="0" flag="8" face="0" exp="123"/>
+  </hex>
+  <hex row="2" col="32">
+    <unit id="115" owner="0" flag="8" face="0" exp="123"/>
+  </hex>
+  <hex row="2" col="34">
+    <unit id="115" owner="0" flag="8" face="0" exp="156"/>
+  </hex>
+  <hex row="2" col="35" road="10"/>
+  <hex row="2" col="36" road="33" deploy="0">
+    <unit id="115" owner="0" flag="8" face="0" exp="145"/>
+  </hex>
+  <hex row="2" col="42" terrain="10" name="River Bug"/>
+  <hex row="2" col="43" terrain="10" name="River Bug"/>
+  <hex row="3" col="1" terrain="3"/>
+  <hex row="3" col="4" road="136"/>
+  <hex row="3" col="5" road="152"/>
+  <hex row="3" col="9" terrain="3" road="33"/>
+  <hex row="3" col="11" terrain="10" name="River Wkra"/>
+  <hex row="3" col="12" terrain="3"/>
+  <hex row="3" col="13" terrain="3"/>
+  <hex row="3" col="14" road="17"/>
+  <hex row="3" col="16" road="144"/>
+  <hex row="3" col="18" road="130"/>
+  <hex row="3" col="20" road="136">
+    <unit id="93" owner="0" flag="8" face="4" transport="158"/>
+  </hex>
+  <hex row="3" col="21" road="130">
+    <unit id="110" owner="0" flag="8" face="4" str="7"/>
+  </hex>
+  <hex row="3" col="22" road="40">
+    <unit id="1260" owner="0" flag="8" face="4" exp="125"/>
+  </hex>
+  <hex row="3" col="23" road="130"/>
+  <hex row="3" col="24" terrain="10" road="40" name="River Narew"/>
+  <hex row="3" col="25" road="138"/>
+  <hex row="3" col="26" terrain="3" road="34"/>
+  <hex row="3" col="27" terrain="3"/>
+  <hex row="3" col="36" road="144"/>
+  <hex row="4" col="0" terrain="3"/>
+  <hex row="4" col="1" terrain="3"/>
+  <hex row="4" col="5" road="27"/>
+  <hex row="4" col="6" terrain="1" road="184" name="Zatuski" flag="7" owner="0"/>
+  <hex row="4" col="7" road="178"/>
+  <hex row="4" col="8" road="34"/>
+  <hex row="4" col="9" terrain="3"/>
+  <hex row="4" col="10" terrain="3"/>
+  <hex row="4" col="11" terrain="10" name="River Wkra"/>
+  <hex row="4" col="12" terrain="3"/>
+  <hex row="4" col="13" terrain="3"/>
+  <hex row="4" col="14" road="17"/>
+  <hex row="4" col="15" terrain="3"/>
+  <hex row="4" col="16" road="9">
+    <unit id="92" owner="0" flag="8" face="1" transport="158"/>
+  </hex>
+  <hex row="4" col="17" road="144"/>
+  <hex row="4" col="19">
+    <unit id="66" owner="0" flag="8" face="2" transport="158" exp="45"/>
+  </hex>
+  <hex row="4" col="21" terrain="8"/>
+  <hex row="4" col="23" terrain="10" name="River Narew"/>
+  <hex row="4" col="24" terrain="10" name="River Narew"/>
+  <hex row="4" col="26" road="136"/>
+  <hex row="4" col="27" road="136"/>
+  <hex row="4" col="35" terrain="1" road="26" name="Zabrodzie"/>
+  <hex row="4" col="36" road="49"/>
+  <hex row="4" col="39" terrain="3"/>
+  <hex row="5" col="0" terrain="3"/>
+  <hex row="5" col="1" terrain="3"/>
+  <hex row="5" col="2" terrain="3"/>
+  <hex row="5" col="3" terrain="3"/>
+  <hex row="5" col="5" road="17"/>
+  <hex row="5" col="6" terrain="1" road="131" name="Zatuski"/>
+  <hex row="5" col="7" road="9"/>
+  <hex row="5" col="9" terrain="3"/>
+  <hex row="5" col="10" terrain="3"/>
+  <hex row="5" col="11" terrain="10" name="River Wkra"/>
+  <hex row="5" col="12" terrain="3"/>
+  <hex row="5" col="13" road="18"/>
+  <hex row="5" col="14" terrain="3" road="33"/>
+  <hex row="5" col="15" terrain="3"/>
+  <hex row="5" col="16">
+    <unit id="115" owner="0" flag="8" face="2" exp="100"/>
+  </hex>
+  <hex row="5" col="17" road="17">
+    <unit id="115" owner="0" flag="8" face="3" exp="145"/>
+  </hex>
+  <hex row="5" col="18">
+    <unit id="115" owner="0" flag="8" face="2" exp="145"/>
+  </hex>
+  <hex row="5" col="19" terrain="8"/>
+  <hex row="5" col="20" terrain="8"/>
+  <hex row="5" col="21" terrain="8"/>
+  <hex row="5" col="22" terrain="8"/>
+  <hex row="5" col="23" terrain="10" name="River Narew"/>
+  <hex row="5" col="25" terrain="3"/>
+  <hex row="5" col="28" road="136"/>
+  <hex row="5" col="29" road="136"/>
+  <hex row="5" col="31" terrain="1" road="56" name="Dabrowka"/>
+  <hex row="5" col="35" road="35"/>
+  <hex row="5" col="36" terrain="1" road="177" name="Zabrodzie" flag="15" owner="1"/>
+  <hex row="5" col="39" terrain="3"/>
+  <hex row="5" col="40" terrain="3"/>
+  <hex row="5" col="42" terrain="3"/>
+  <hex row="6" col="0" terrain="3"/>
+  <hex row="6" col="1" terrain="3"/>
+  <hex row="6" col="2" terrain="3"/>
+  <hex row="6" col="3" terrain="3"/>
+  <hex row="6" col="4" terrain="3"/>
+  <hex row="6" col="5" road="33"/>
+  <hex row="6" col="8" road="136"/>
+  <hex row="6" col="9" road="136"/>
+  <hex row="6" col="10" terrain="3"/>
+  <hex row="6" col="11" terrain="10" name="River Wkra"/>
+  <hex row="6" col="12" terrain="3"/>
+  <hex row="6" col="13" road="33"/>
+  <hex row="6" col="14" terrain="3"/>
+  <hex row="6" col="15" terrain="10" name="River Narew"/>
+  <hex row="6" col="16" terrain="10" name="River Narew"/>
+  <hex row="6" col="17" terrain="10" road="9" name="River Narew"/>
+  <hex row="6" col="19" terrain="10" name="River Narew"/>
+  <hex row="6" col="20" terrain="8" name="River Narew"/>
+  <hex row="6" col="21" terrain="10" name="River Narew"/>
+  <hex row="6" col="22" terrain="10" name="River Narew"/>
+  <hex row="6" col="23" terrain="3"/>
+  <hex row="6" col="24" terrain="3"/>
+  <hex row="6" col="25" terrain="3"/>
+  <hex row="6" col="26" terrain="3"/>
+  <hex row="6" col="27" terrain="3"/>
+  <hex row="6" col="29" terrain="3"/>
+  <hex row="6" col="30" road="138"/>
+  <hex row="6" col="31" terrain="1" road="131" name="Dabrowka"/>
+  <hex row="6" col="32" terrain="1" road="168" name="Dabrowka" flag="15" owner="1"/>
+  <hex row="6" col="33" terrain="3" road="130"/>
+  <hex row="6" col="34" road="34"/>
+  <hex row="6" col="36" road="17"/>
+  <hex row="6" col="39" terrain="3"/>
+  <hex row="7" col="4" terrain="3" road="18"/>
+  <hex row="7" col="10" road="136"/>
+  <hex row="7" col="11" terrain="1" road="146" name="Modlin-Twierdza" flag="7" owner="0">
+    <unit id="92" owner="0" flag="8" face="2" transport="158"/>
+  </hex>
+  <hex row="7" col="12" terrain="10" road="34" name="River Wkra"/>
+  <hex row="7" col="13" terrain="10" name="River Wkra"/>
+  <hex row="7" col="15" terrain="10" name="River Narew"/>
+  <hex row="7" col="18" terrain="10" road="144" name="River Narew"/>
+  <hex row="7" col="22" terrain="3"/>
+  <hex row="7" col="23" terrain="3"/>
+  <hex row="7" col="24" terrain="3"/>
+  <hex row="7" col="25" terrain="3"/>
+  <hex row="7" col="26" terrain="3"/>
+  <hex row="7" col="27" terrain="3"/>
+  <hex row="7" col="28" terrain="3"/>
+  <hex row="7" col="29" terrain="3"/>
+  <hex row="7" col="30" terrain="3"/>
+  <hex row="7" col="31" terrain="3"/>
+  <hex row="7" col="32" terrain="3"/>
+  <hex row="7" col="33" terrain="3"/>
+  <hex row="7" col="34" terrain="3"/>
+  <hex row="7" col="35" terrain="3"/>
+  <hex row="7" col="36" road="17"/>
+  <hex row="8" col="0" terrain="3"/>
+  <hex row="8" col="1" terrain="3"/>
+  <hex row="8" col="4" road="17"/>
+  <hex row="8" col="11" road="41">
+    <unit id="115" owner="0" flag="8" face="2" exp="123"/>
+  </hex>
+  <hex row="8" col="12">
+    <unit id="115" owner="0" flag="8" face="2" exp="124"/>
+  </hex>
+  <hex row="8" col="13" terrain="10" name="River Narew"/>
+  <hex row="8" col="14" terrain="10" name="River Narew"/>
+  <hex row="8" col="18" road="17"/>
+  <hex row="8" col="19">
+    <unit id="1523" owner="1" flag="16" face="8" ent="12"/>
+  </hex>
+  <hex row="8" col="22" terrain="3"/>
+  <hex row="8" col="23" terrain="3"/>
+  <hex row="8" col="24" terrain="3"/>
+  <hex row="8" col="25" terrain="3"/>
+  <hex row="8" col="26" terrain="3"/>
+  <hex row="8" col="27" terrain="3"/>
+  <hex row="8" col="28" terrain="3"/>
+  <hex row="8" col="30" terrain="3"/>
+  <hex row="8" col="31" terrain="3"/>
+  <hex row="8" col="32" terrain="3">
+    <unit id="270" owner="1" flag="16" face="8" exp="80" ent="5" str="6"/>
+  </hex>
+  <hex row="8" col="33" terrain="3"/>
+  <hex row="8" col="34" terrain="3">
+    <unit id="1481" owner="1" flag="16" face="8" exp="100" ent="12" str="4"/>
+  </hex>
+  <hex row="8" col="36" road="17"/>
+  <hex row="8" col="39" road="34"/>
+  <hex row="8" col="40" road="34"/>
+  <hex row="9" col="0" terrain="3"/>
+  <hex row="9" col="1" terrain="3"/>
+  <hex row="9" col="2" terrain="3"/>
+  <hex row="9" col="3" terrain="15" name="River Vistula"/>
+  <hex row="9" col="4" terrain="1" road="1" name="Zakroczyn" flag="7" owner="0"/>
+  <hex row="9" col="5" terrain="15" name="River Vistula"/>
+  <hex row="9" col="6" terrain="15" name="River Vistula"/>
+  <hex row="9" col="7" terrain="15" name="River Vistula"/>
+  <hex row="9" col="8" terrain="15" name="River Vistula"/>
+  <hex row="9" col="9" terrain="15" name="River Vistula"/>
+  <hex row="9" col="10" terrain="10" road="18" name="River Vistula">
+    <unit id="115" owner="0" flag="8" face="2" exp="123"/>
+  </hex>
+  <hex row="9" col="11" terrain="15" name="River Vistula"/>
+  <hex row="9" col="12" terrain="10" road="136" name="River Narew"/>
+  <hex row="9" col="13" road="136"/>
+  <hex row="9" col="15" road="40"/>
+  <hex row="9" col="17">
+    <unit id="1523" owner="1" flag="16" face="8" ent="12"/>
+  </hex>
+  <hex row="9" col="18" road="9"/>
+  <hex row="9" col="19" road="144"/>
+  <hex row="9" col="21" terrain="3"/>
+  <hex row="9" col="22" terrain="3"/>
+  <hex row="9" col="23" terrain="3"/>
+  <hex row="9" col="24" terrain="3"/>
+  <hex row="9" col="25" terrain="3"/>
+  <hex row="9" col="26" terrain="3"/>
+  <hex row="9" col="27" terrain="3"/>
+  <hex row="9" col="28" terrain="3"/>
+  <hex row="9" col="32" terrain="3"/>
+  <hex row="9" col="35" terrain="1" road="18" name="Poswietne" flag="15" owner="1" victory="0">
+    <unit id="270" owner="1" flag="16" face="8" exp="80" ent="4" str="6"/>
+  </hex>
+  <hex row="9" col="36" road="41"/>
+  <hex row="9" col="37" road="130"/>
+  <hex row="9" col="38" road="34"/>
+  <hex row="9" col="43" terrain="3"/>
+  <hex row="10" col="0" terrain="3"/>
+  <hex row="10" col="1" terrain="15" name="River Vistula"/>
+  <hex row="10" col="2" terrain="15" name="River Vistula"/>
+  <hex row="10" col="3" road="40"/>
+  <hex row="10" col="4" terrain="15" name="River Vistula"/>
+  <hex row="10" col="5" road="34"/>
+  <hex row="10" col="6" road="40"/>
+  <hex row="10" col="7" terrain="3" road="130" name="Kampinoski Park Narodowy"/>
+  <hex row="10" col="8" road="40"/>
+  <hex row="10" col="9" road="130"/>
+  <hex row="10" col="10" road="41"/>
+  <hex row="10" col="11" road="136"/>
+  <hex row="10" col="12" terrain="15" name="River Vistula"/>
+  <hex row="10" col="13" terrain="15" name="River Vistula"/>
+  <hex row="10" col="14" road="130"/>
+  <hex row="10" col="16" road="136"/>
+  <hex row="10" col="17" road="130"/>
+  <hex row="10" col="18" terrain="1" road="40" name="Legionowo"/>
+  <hex row="10" col="19" terrain="1" road="137" name="Legionowo" flag="15" owner="1">
+    <unit id="1481" owner="1" flag="16" face="8" exp="120" str="5"/>
+  </hex>
+  <hex row="10" col="22" terrain="3"/>
+  <hex row="10" col="23" terrain="3"/>
+  <hex row="10" col="24" terrain="3"/>
+  <hex row="10" col="32">
+    <unit id="1473" owner="1" flag="16" face="8" transport="279" exp="120" str="6"/>
+  </hex>
+  <hex row="10" col="33">
+    <unit id="268" owner="1" flag="16" face="8" transport="279" exp="100" str="4" ldr="1"/>
+  </hex>
+  <hex row="10" col="35" road="9"/>
+  <hex row="10" col="36" terrain="1" name="Poswietne">
+    <unit id="270" owner="1" flag="16" face="8" exp="120" ent="12" str="3"/>
+  </hex>
+  <hex row="10" col="42" terrain="3"/>
+  <hex row="10" col="43" terrain="3"/>
+  <hex row="11" col="0" terrain="15"/>
+  <hex row="11" col="1" road="34"/>
+  <hex row="11" col="2" road="34"/>
+  <hex row="11" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="4" terrain="3" road="130" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="7" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="8" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="9" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="11" col="12" road="136"/>
+  <hex row="11" col="13" road="136"/>
+  <hex row="11" col="14" terrain="15" name="River Vistula"/>
+  <hex row="11" col="15" terrain="15" name="River Vistula"/>
+  <hex row="11" col="16" terrain="15" name="River Vistula"/>
+  <hex row="11" col="17" terrain="15" name="River Vistula"/>
+  <hex row="11" col="20" road="136"/>
+  <hex row="11" col="21" road="136"/>
+  <hex row="11" col="22" terrain="3"/>
+  <hex row="11" col="34">
+    <unit id="725" owner="1" flag="16" face="6" transport="279" exp="120" str="5"/>
+  </hex>
+  <hex row="11" col="36" road="144"/>
+  <hex row="11" col="39" terrain="15"/>
+  <hex row="11" col="43" terrain="3"/>
+  <hex row="12" col="0" terrain="3" road="2"/>
+  <hex row="12" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="2" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="7" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="8" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="9" terrain="3" name="Kampinoski Park Narodowy" flag="15" owner="1"/>
+  <hex row="12" col="10" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="11" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="12" col="14" road="136"/>
+  <hex row="12" col="15" road="136"/>
+  <hex row="12" col="18" terrain="15" name="River Vistula"/>
+  <hex row="12" col="19" terrain="15" name="River Vistula"/>
+  <hex row="12" col="22" road="136"/>
+  <hex row="12" col="23" road="136"/>
+  <hex row="12" col="29" terrain="3"/>
+  <hex row="12" col="30" terrain="3"/>
+  <hex row="12" col="36" road="17"/>
+  <hex row="12" col="38" terrain="15"/>
+  <hex row="12" col="39" terrain="15"/>
+  <hex row="12" col="40" terrain="15"/>
+  <hex row="12" col="41" terrain="3"/>
+  <hex row="12" col="42" terrain="3"/>
+  <hex row="12" col="43" terrain="3"/>
+  <hex row="13" col="0" terrain="3"/>
+  <hex row="13" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="2" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="7" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="14" ent="7" str="3"/>
+  </hex>
+  <hex row="13" col="8" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="1475" owner="1" flag="16" face="14" transport="279" exp="34" ent="5" str="6"/>
+  </hex>
+  <hex row="13" col="9" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="10" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="11" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="12" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="13" col="13" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="13" col="14" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="15" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="13" col="16" road="136"/>
+  <hex row="13" col="17" road="136"/>
+  <hex row="13" col="19" terrain="15" name="River Vistula"/>
+  <hex row="13" col="23" terrain="1" road="58" name="Warsaw"/>
+  <hex row="13" col="24" terrain="1" road="184" name="Warsaw"/>
+  <hex row="13" col="25" terrain="1" road="184" name="Warsaw"/>
+  <hex row="13" col="27" terrain="3" deploy="1"/>
+  <hex row="13" col="28" terrain="3"/>
+  <hex row="13" col="31" terrain="3"/>
+  <hex row="13" col="32" terrain="3"/>
+  <hex row="13" col="35" terrain="1" road="26" name="Dluga Szlache" flag="15" owner="1">
+    <unit id="267" owner="1" flag="16" face="8" ent="12" str="5"/>
+  </hex>
+  <hex row="13" col="36" road="49"/>
+  <hex row="13" col="38" terrain="15"/>
+  <hex row="13" col="39" terrain="15"/>
+  <hex row="13" col="40" terrain="15"/>
+  <hex row="13" col="42" terrain="3"/>
+  <hex row="14" col="0" terrain="3"/>
+  <hex row="14" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="2" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="7" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="8" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="9" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="10" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="13" exp="100" ent="8" str="4"/>
+  </hex>
+  <hex row="14" col="11" terrain="3" name="Kampinoski Park Narodowy" flag="15" owner="1" victory="0">
+    <unit id="1473" owner="1" flag="16" face="14" transport="279" exp="100" ent="5" str="5" ldr="1"/>
+  </hex>
+  <hex row="14" col="12" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="13" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="14" col="14" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="14" col="15" terrain="3" name="Kampinoski Park Narodowy" flag="15" owner="1" victory="0" deploy="1"/>
+  <hex row="14" col="16" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="17" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="14" col="18" road="136"/>
+  <hex row="14" col="19" road="144"/>
+  <hex row="14" col="20" terrain="15" name="River Vistula"/>
+  <hex row="14" col="21" terrain="15" name="River Vistula"/>
+  <hex row="14" col="22" terrain="1" road="26" name="Warsaw"/>
+  <hex row="14" col="23" terrain="1" road="187" name="Warsaw"/>
+  <hex row="14" col="24" terrain="1" road="187" name="Warsaw"/>
+  <hex row="14" col="25" terrain="1" road="187" name="Warsaw">
+    <unit id="1523" owner="1" flag="16" face="8" ent="12"/>
+  </hex>
+  <hex row="14" col="26" terrain="1" road="184" name="Warsaw"/>
+  <hex row="14" col="27" terrain="1" road="178" name="Kobylak" flag="15" owner="1">
+    <unit id="1479" owner="1" flag="16" face="7" ent="12" str="6"/>
+  </hex>
+  <hex row="14" col="28" deploy="1"/>
+  <hex row="14" col="29" deploy="1"/>
+  <hex row="14" col="31" terrain="3"/>
+  <hex row="14" col="32" terrain="3"/>
+  <hex row="14" col="35" road="35"/>
+  <hex row="14" col="36" terrain="1" road="169" name="Dluga Szlache"/>
+  <hex row="14" col="37" road="136"/>
+  <hex row="15" col="0" terrain="3"/>
+  <hex row="15" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="2" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="7" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="8" terrain="3" name="Kampinoski Park Narodowy" flag="15" owner="1">
+    <unit id="270" owner="1" flag="16" face="14" ent="8" str="6"/>
+  </hex>
+  <hex row="15" col="9" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="14" exp="50" ent="6" str="5"/>
+  </hex>
+  <hex row="15" col="10" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="13" exp="60" ent="8" str="5"/>
+  </hex>
+  <hex row="15" col="11" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="1" ent="7" str="7"/>
+  </hex>
+  <hex row="15" col="12" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="15" col="13" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="270" owner="1" flag="16" face="14" ent="9" str="8"/>
+  </hex>
+  <hex row="15" col="14" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="15" col="15" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="15" col="16" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="15" col="17" terrain="3" name="Kampinoski Park Narodowy" deploy="1"/>
+  <hex row="15" col="19" road="17"/>
+  <hex row="15" col="20" terrain="15" name="River Vistula"/>
+  <hex row="15" col="21" terrain="15" name="River Vistula"/>
+  <hex row="15" col="22" terrain="1" road="11" name="Warsaw">
+    <unit id="1523" owner="1" flag="16" face="8" ent="12"/>
+  </hex>
+  <hex row="15" col="23" terrain="1" road="155" name="Warsaw"/>
+  <hex row="15" col="24" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="270" owner="1" flag="16" face="10" exp="120" ent="6" str="9"/>
+  </hex>
+  <hex row="15" col="25" terrain="1" road="187" name="Warsaw"/>
+  <hex row="15" col="26" terrain="1" road="187" name="Kobylak"/>
+  <hex row="15" col="27" terrain="1" road="177" name="Kobylak"/>
+  <hex row="15" col="28" deploy="1"/>
+  <hex row="15" col="29" deploy="1"/>
+  <hex row="15" col="30" terrain="3" deploy="1"/>
+  <hex row="15" col="31" terrain="3" deploy="1"/>
+  <hex row="15" col="32" terrain="3"/>
+  <hex row="15" col="33" road="34"/>
+  <hex row="15" col="34" road="34"/>
+  <hex row="15" col="35" terrain="3"/>
+  <hex row="15" col="38" road="136"/>
+  <hex row="15" col="39" road="136"/>
+  <hex row="15" col="41" road="40"/>
+  <hex row="15" col="43" road="40"/>
+  <hex row="16" col="0" terrain="3"/>
+  <hex row="16" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="2" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="3" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="6" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="7" terrain="1" road="48" name="Grady" flag="15" owner="1"/>
+  <hex row="16" col="8" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="9" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="10" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="11" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="12" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="13" terrain="3" name="Kampinoski Park Narodowy" flag="15" owner="1"/>
+  <hex row="16" col="14" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="15" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="16" col="16" terrain="3"/>
+  <hex row="16" col="19" terrain="1" road="59" name="Warsaw"/>
+  <hex row="16" col="20" terrain="1" road="56" name="Warsaw"/>
+  <hex row="16" col="21" terrain="1" road="184" name="Warsaw"/>
+  <hex row="16" col="22" terrain="15" name="River Vistula"/>
+  <hex row="16" col="23" terrain="1" road="59" name="Warsaw" flag="15" owner="1">
+    <unit id="1473" owner="1" flag="16" face="8" transport="279" exp="124"/>
+  </hex>
+  <hex row="16" col="24" terrain="1" road="187" name="Warsaw"/>
+  <hex row="16" col="25" terrain="1" road="187" name="Warsaw"/>
+  <hex row="16" col="26" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="270" owner="1" flag="16" face="7" exp="80" ent="6" str="6"/>
+  </hex>
+  <hex row="16" col="27" terrain="1" road="185" name="Warsaw"/>
+  <hex row="16" col="30" terrain="3" deploy="1"/>
+  <hex row="16" col="31" terrain="3" road="34">
+    <unit id="1523" owner="1" flag="16" face="13" ent="12"/>
+  </hex>
+  <hex row="16" col="32" road="34" deploy="1"/>
+  <hex row="16" col="33" terrain="3"/>
+  <hex row="16" col="34" terrain="3"/>
+  <hex row="16" col="35" terrain="3"/>
+  <hex row="16" col="36" terrain="3"/>
+  <hex row="16" col="40" terrain="1" road="146" name="Cygan" flag="15" owner="1"/>
+  <hex row="16" col="42" road="130"/>
+  <hex row="17" col="0" terrain="3"/>
+  <hex row="17" col="1" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="2" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="115" owner="0" flag="8" face="4" exp="100"/>
+  </hex>
+  <hex row="17" col="3" terrain="3" name="Kampinoski Park Narodowy">
+    <unit id="115" owner="0" flag="8" face="4" exp="100"/>
+  </hex>
+  <hex row="17" col="4" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="5" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="6" terrain="1" road="10" name="Grady"/>
+  <hex row="17" col="7" terrain="1" road="145" name="Grady"/>
+  <hex row="17" col="8" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="9" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="10" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="11" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="12" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="13" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="14" terrain="3" name="Kampinoski Park Narodowy"/>
+  <hex row="17" col="18" terrain="1" road="10" name="Warsaw"/>
+  <hex row="17" col="19" terrain="1" road="155" name="Warsaw" flag="15" owner="1">
+    <unit id="268" owner="1" flag="16" face="12" transport="279" exp="130" ent="12" str="4"/>
+  </hex>
+  <hex row="17" col="20" terrain="1" road="187" name="Warsaw"/>
+  <hex row="17" col="21" terrain="1" road="177" name="Warsaw"/>
+  <hex row="17" col="22" terrain="10" road="138" name="River Vistula"/>
+  <hex row="17" col="23" terrain="1" road="155" name="Warsaw"/>
+  <hex row="17" col="24" terrain="1" road="187" name="Warsaw">
+    <unit id="1492" owner="1" flag="16" face="7" exp="100" str="5"/>
+  </hex>
+  <hex row="17" col="25" terrain="1" road="187" name="Warsaw">
+    <unit id="726" owner="1" flag="16" face="7" transport="279" exp="100" str="5"/>
+  </hex>
+  <hex row="17" col="26" terrain="1" road="187" name="Warsaw"/>
+  <hex row="17" col="27" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="268" owner="1" flag="16" face="7" transport="279" exp="80" str="8"/>
+  </hex>
+  <hex row="17" col="28" terrain="1" road="184" name="Warsaw"/>
+  <hex row="17" col="29" terrain="1" road="186" name="Warsaw"/>
+  <hex row="17" col="30" terrain="3" road="34">
+    <unit id="706" owner="1" flag="16" face="5" exp="100" str="5"/>
+  </hex>
+  <hex row="17" col="32" terrain="3"/>
+  <hex row="17" col="33" terrain="3"/>
+  <hex row="17" col="34" terrain="3"/>
+  <hex row="17" col="35" terrain="3"/>
+  <hex row="17" col="36" terrain="3"/>
+  <hex row="17" col="40" road="17"/>
+  <hex row="17" col="43" terrain="3"/>
+  <hex row="18" col="7" road="9"/>
+  <hex row="18" col="19" terrain="1" road="59" name="Warsaw"/>
+  <hex row="18" col="20" terrain="1" road="187" name="Warsaw"/>
+  <hex row="18" col="21" terrain="1" road="185" name="Warsaw"/>
+  <hex row="18" col="22" terrain="15" name="River Vistula"/>
+  <hex row="18" col="23" terrain="1" road="43" name="Warsaw" flag="15" owner="1" victory="0">
+    <unit id="1475" owner="1" flag="16" face="14" transport="279" exp="100" str="7"/>
+  </hex>
+  <hex row="18" col="24" terrain="1" road="187" name="Warsaw">
+    <unit id="1473" owner="1" flag="16" face="7" transport="279" str="5"/>
+  </hex>
+  <hex row="18" col="25" terrain="1" road="187" name="Warsaw"/>
+  <hex row="18" col="26" terrain="1" road="187" name="Warsaw"/>
+  <hex row="18" col="27" terrain="1" road="187" name="Warsaw"/>
+  <hex row="18" col="28" terrain="1" road="187" name="Warsaw"/>
+  <hex row="18" col="29" terrain="1" road="187" name="Warsaw">
+    <unit id="1483" owner="1" flag="16" face="7" exp="100" ent="4" str="6"/>
+  </hex>
+  <hex row="18" col="30" terrain="1" road="184" name="Warsaw"/>
+  <hex row="18" col="31" terrain="1" road="184" name="Warsaw"/>
+  <hex row="18" col="32" terrain="3"/>
+  <hex row="18" col="33" terrain="3"/>
+  <hex row="18" col="34" terrain="3"/>
+  <hex row="18" col="35" terrain="3"/>
+  <hex row="18" col="36" terrain="3"/>
+  <hex row="18" col="40" road="17"/>
+  <hex row="18" col="42" terrain="3"/>
+  <hex row="18" col="43" terrain="3"/>
+  <hex row="19" col="1" terrain="4"/>
+  <hex row="19" col="3" terrain="4">
+    <unit id="92" owner="0" flag="8" face="4" transport="158"/>
+  </hex>
+  <hex row="19" col="8" road="144"/>
+  <hex row="19" col="11" terrain="4"/>
+  <hex row="19" col="13" terrain="4"/>
+  <hex row="19" col="16">
+    <unit id="706" owner="1" flag="16" face="11" exp="60" str="5"/>
+  </hex>
+  <hex row="19" col="17">
+    <unit id="1523" owner="1" flag="16" face="13" ent="12"/>
+  </hex>
+  <hex row="19" col="18" terrain="1" road="26" name="Warsaw"/>
+  <hex row="19" col="19" terrain="1" road="187" name="Warsaw"/>
+  <hex row="19" col="20" terrain="1" road="187" name="Warsaw"/>
+  <hex row="19" col="21" terrain="1" road="187" name="Warsaw">
+    <unit id="725" owner="1" flag="16" face="14" transport="278" exp="100" str="7" ldr="1"/>
+  </hex>
+  <hex row="19" col="22" terrain="10" road="178" name="River Vistula"/>
+  <hex row="19" col="23" terrain="15" name="River Vistula"/>
+  <hex row="19" col="24" terrain="1" road="139" name="Warsaw">
+    <unit id="1475" owner="1" flag="16" face="7" transport="279" str="5"/>
+  </hex>
+  <hex row="19" col="25" terrain="1" road="139" name="Warsaw"/>
+  <hex row="19" col="26" terrain="1" road="187" name="Warsaw" flag="15" owner="1" victory="0">
+    <unit id="270" owner="1" flag="16" face="6" exp="80" ent="6" str="6"/>
+  </hex>
+  <hex row="19" col="27" terrain="1" road="187" name="Warsaw">
+    <unit id="706" owner="1" flag="16" face="15" exp="80" str="4"/>
+  </hex>
+  <hex row="19" col="28" terrain="1" road="187" name="Warsaw"/>
+  <hex row="19" col="29" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="1483" owner="1" flag="16" face="7" ent="4" str="6"/>
+  </hex>
+  <hex row="19" col="30" terrain="1" road="187" name="Warsaw"/>
+  <hex row="19" col="31" terrain="1" road="187" name="Warsaw"/>
+  <hex row="19" col="32" terrain="1" road="176" name="Warsaw"/>
+  <hex row="19" col="34" terrain="3"/>
+  <hex row="19" col="35" terrain="3"/>
+  <hex row="19" col="40" road="17"/>
+  <hex row="19" col="41" terrain="3"/>
+  <hex row="19" col="42" terrain="3"/>
+  <hex row="19" col="43" terrain="3"/>
+  <hex row="20" col="0" road="136"/>
+  <hex row="20" col="1" road="136"/>
+  <hex row="20" col="2" terrain="4"/>
+  <hex row="20" col="3" road="40"/>
+  <hex row="20" col="5" road="40"/>
+  <hex row="20" col="7" road="42"/>
+  <hex row="20" col="8" terrain="1" road="57" name="Blonie"/>
+  <hex row="20" col="9" terrain="1" road="168" name="Blonie" flag="15" owner="1"/>
+  <hex row="20" col="11" road="40"/>
+  <hex row="20" col="12" terrain="4"/>
+  <hex row="20" col="13" terrain="1" road="58" name="Pruszkow"/>
+  <hex row="20" col="14" terrain="1" road="56" name="Pruszkow"/>
+  <hex row="20" col="15" terrain="1" road="186" name="Pruszkow"/>
+  <hex row="20" col="16" terrain="1" road="56" name="Warsaw"/>
+  <hex row="20" col="17" terrain="1" road="186" name="Warsaw"/>
+  <hex row="20" col="18" terrain="1" road="59" name="Warsaw"/>
+  <hex row="20" col="19" terrain="1" road="187" name="Warsaw"/>
+  <hex row="20" col="20" terrain="1" road="187" name="Warsaw">
+    <unit id="267" owner="1" flag="16" face="14" exp="110" str="4"/>
+  </hex>
+  <hex row="20" col="21" terrain="1" road="187" name="Warsaw" flag="15" owner="1" victory="0">
+    <unit id="270" owner="1" flag="16" face="13" exp="120" ent="12" str="5"/>
+  </hex>
+  <hex row="20" col="22" terrain="1" road="187" name="Warsaw"/>
+  <hex row="20" col="23" terrain="1" road="184" name="Warsaw">
+    <unit id="726" owner="1" flag="16" face="14" transport="279" exp="100" str="4" ldr="1"/>
+  </hex>
+  <hex row="20" col="24" terrain="15" name="River Vistula"/>
+  <hex row="20" col="25" terrain="10" road="50" name="River Vistula"/>
+  <hex row="20" col="26" terrain="1" road="171" name="Warsaw"/>
+  <hex row="20" col="27" terrain="1" road="187" name="Warsaw">
+    <unit id="268" owner="1" flag="16" face="7" transport="279" exp="100" ent="6" str="4"/>
+  </hex>
+  <hex row="20" col="28" terrain="1" road="187" name="Warsaw"/>
+  <hex row="20" col="29" terrain="1" road="187" name="Warsaw"/>
+  <hex row="20" col="30" terrain="1" road="187" name="Warsaw"/>
+  <hex row="20" col="31" terrain="1" road="171" name="Warsaw"/>
+  <hex row="20" col="32" terrain="1" road="177" name="Warsaw" flag="15" owner="1"/>
+  <hex row="20" col="33" terrain="1" road="176" name="Warsaw"/>
+  <hex row="20" col="37">
+    <unit id="268" owner="1" flag="16" face="9" transport="1007" str="6"/>
+  </hex>
+  <hex row="20" col="39" terrain="1" road="24" name="Minsk Mazowiecki" flag="15" owner="1" victory="0" supply="1">
+    <unit id="270" owner="1" flag="16" face="9" transport="267" exp="150" str="5"/>
+  </hex>
+  <hex row="20" col="40" road="17"/>
+  <hex row="20" col="42" terrain="3"/>
+  <hex row="20" col="43" terrain="3"/>
+  <hex row="21" col="2" terrain="1" road="146" name="Kaski" flag="7" owner="0">
+    <unit id="115" owner="0" flag="8" face="4" exp="100"/>
+  </hex>
+  <hex row="21" col="4" road="130"/>
+  <hex row="21" col="6" terrain="3" road="130"/>
+  <hex row="21" col="7" terrain="3"/>
+  <hex row="21" col="8" road="153"/>
+  <hex row="21" col="10" road="130"/>
+  <hex row="21" col="12" road="130"/>
+  <hex row="21" col="13" terrain="1" road="11" name="Pruszkow"/>
+  <hex row="21" col="14" terrain="1" road="187" name="Pruszkow"/>
+  <hex row="21" col="15" terrain="1" road="187" name="Pruszkow" flag="15" owner="1"/>
+  <hex row="21" col="16" terrain="1" road="187" name="Warsaw"/>
+  <hex row="21" col="17" terrain="1" road="187" name="Warsaw">
+    <unit id="706" owner="1" flag="16" face="12" exp="100" str="4"/>
+  </hex>
+  <hex row="21" col="18" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="270" owner="1" flag="16" face="13" exp="60" ent="6" str="7"/>
+  </hex>
+  <hex row="21" col="19" terrain="1" road="187" name="Warsaw"/>
+  <hex row="21" col="20" terrain="1" road="187" name="Warsaw"/>
+  <hex row="21" col="21" terrain="1" road="187" name="Warsaw">
+    <unit id="1481" owner="1" flag="16" face="13" exp="110" ent="7" str="6"/>
+  </hex>
+  <hex row="21" col="22" terrain="1" road="187" name="Warsaw"/>
+  <hex row="21" col="23" terrain="1" road="187" name="Warsaw"/>
+  <hex row="21" col="24" terrain="1" road="186" name="Warsaw">
+    <unit id="725" owner="1" flag="16" face="13" transport="279" exp="80" str="6"/>
+  </hex>
+  <hex row="21" col="25" terrain="1" road="177" name="Warsaw"/>
+  <hex row="21" col="26" terrain="15" name="River Vistula"/>
+  <hex row="21" col="27" terrain="1" road="27" name="Warsaw"/>
+  <hex row="21" col="28" terrain="1" road="187" name="Warsaw">
+    <unit id="1473" owner="1" flag="16" face="7" transport="279" exp="120" ent="4" str="5"/>
+  </hex>
+  <hex row="21" col="29" terrain="1" road="179" name="Warsaw" flag="15" owner="1">
+    <unit id="725" owner="1" flag="16" face="14" transport="279" exp="60" str="5"/>
+  </hex>
+  <hex row="21" col="30" terrain="1" road="163" name="Warsaw">
+    <unit id="725" owner="1" flag="16" face="3" transport="279" exp="100" str="6"/>
+  </hex>
+  <hex row="21" col="31" terrain="3"/>
+  <hex row="21" col="32" terrain="1" road="139" name="Warsaw"/>
+  <hex row="21" col="33" terrain="1" road="139" name="Warsaw"/>
+  <hex row="21" col="35" road="40"/>
+  <hex row="21" col="37" road="40"/>
+  <hex row="21" col="38">
+    <unit id="267" owner="1" flag="16" face="9" transport="270" exp="80" str="6"/>
+  </hex>
+  <hex row="21" col="39" terrain="1" road="43" name="Minsk Mazowiecki">
+    <unit id="267" owner="1" flag="16" face="9" transport="270" exp="100" str="7"/>
+  </hex>
+  <hex row="21" col="40" terrain="1" road="177" name="Minsk Mazowiecki" flag="15" owner="1"/>
+  <hex row="21" col="41" terrain="3"/>
+  <hex row="21" col="42" terrain="3"/>
+  <hex row="22" col="2" road="17"/>
+  <hex row="22" col="5" terrain="3"/>
+  <hex row="22" col="6" terrain="3"/>
+  <hex row="22" col="7" terrain="3"/>
+  <hex row="22" col="8" road="17"/>
+  <hex row="22" col="14" terrain="1" road="155" name="Pruszkow">
+    <unit id="1523" owner="1" flag="16" face="13" ent="12"/>
+  </hex>
+  <hex row="22" col="15" terrain="1" road="171" name="Pruszkow"/>
+  <hex row="22" col="16" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="17" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="18" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="19" terrain="1" road="187" name="Warsaw" flag="15" owner="1">
+    <unit id="1479" owner="1" flag="16" face="14" ent="12" str="6"/>
+  </hex>
+  <hex row="22" col="20" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="21" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="22" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="23" terrain="1" road="187" name="Warsaw" flag="15" owner="1" victory="0">
+    <unit id="270" owner="1" flag="16" face="13" exp="80" ent="9" str="6"/>
+  </hex>
+  <hex row="22" col="24" terrain="1" road="187" name="Warsaw"/>
+  <hex row="22" col="25" terrain="1" road="161" name="Warsaw"/>
+  <hex row="22" col="26" terrain="15" name="River Vistula"/>
+  <hex row="22" col="27" terrain="1" road="11" name="Otwock"/>
+  <hex row="22" col="28" terrain="1" road="187" name="Otwock"/>
+  <hex row="22" col="29" terrain="1" road="177" name="Otwock"/>
+  <hex row="22" col="30" terrain="3"/>
+  <hex row="22" col="31" terrain="3"/>
+  <hex row="22" col="34" road="130"/>
+  <hex row="22" col="36" road="130"/>
+  <hex row="22" col="38" road="130">
+    <unit id="1472" owner="1" flag="16" face="9" transport="1007" exp="124" str="7"/>
+  </hex>
+  <hex row="22" col="40" terrain="1" road="153"/>
+  <hex row="22" col="41" road="136"/>
+  <hex row="22" col="42" terrain="3"/>
+  <hex row="23" col="2" road="17"/>
+  <hex row="23" col="3" terrain="15"/>
+  <hex row="23" col="5" terrain="8"/>
+  <hex row="23" col="6" terrain="3"/>
+  <hex row="23" col="7" terrain="3"/>
+  <hex row="23" col="8" road="17"/>
+  <hex row="23" col="14" terrain="1" road="11" name="Pruszkow"/>
+  <hex row="23" col="15" road="136"/>
+  <hex row="23" col="16" terrain="1" road="155" name="Warsaw">
+    <unit id="1523" owner="1" flag="16" face="13" ent="12"/>
+  </hex>
+  <hex row="23" col="17" terrain="1" road="171" name="Warsaw"/>
+  <hex row="23" col="18" terrain="1" road="187" name="Warsaw"/>
+  <hex row="23" col="19" terrain="1" road="171" name="Warsaw"/>
+  <hex row="23" col="20" terrain="1" road="187" name="Warsaw">
+    <unit id="1523" owner="1" flag="16" face="13" ent="12"/>
+  </hex>
+  <hex row="23" col="21" terrain="1" road="187" name="Warsaw">
+    <unit id="261" owner="1" flag="16" face="0" exp="100"/>
+  </hex>
+  <hex row="23" col="22" terrain="1" road="187" name="Warsaw"/>
+  <hex row="23" col="23" terrain="1" road="163" name="Warsaw">
+    <unit id="261" owner="1" flag="16" face="0" exp="100" ent="5"/>
+  </hex>
+  <hex row="23" col="24" terrain="1" road="163" name="Warsaw"/>
+  <hex row="23" col="26" terrain="15" name="River Vistula"/>
+  <hex row="23" col="27" terrain="15" name="River Vistula"/>
+  <hex row="23" col="28" terrain="1" road="139" name="Otwock" flag="15" owner="1" victory="0">
+    <unit id="1483" owner="1" flag="16" face="15" ent="4" str="7"/>
+  </hex>
+  <hex row="23" col="29" terrain="1" road="129" name="Otwock"/>
+  <hex row="23" col="30" terrain="3"/>
+  <hex row="23" col="35" terrain="10" name="River Wieprz"/>
+  <hex row="23" col="40" road="17"/>
+  <hex row="23" col="42" road="136"/>
+  <hex row="23" col="43" terrain="3" road="136"/>
+  <hex row="24" col="2" road="17"/>
+  <hex row="24" col="3" terrain="15"/>
+  <hex row="24" col="4" terrain="15"/>
+  <hex row="24" col="5" terrain="15"/>
+  <hex row="24" col="6" terrain="8"/>
+  <hex row="24" col="8" terrain="1" road="25" name="Grodzisk Mazowiecki"/>
+  <hex row="24" col="9" terrain="1" road="160" name="Grodzisk Mazowiecki" flag="15" owner="1"/>
+  <hex row="24" col="16" terrain="1" road="131" name="Warsaw"/>
+  <hex row="24" col="17" road="18"/>
+  <hex row="24" col="18" terrain="1" road="187" name="Warsaw"/>
+  <hex row="24" col="19" terrain="2" road="128" name="Warsaw Airport" flag="15" owner="1" victory="0" supply="1">
+    <unit id="706" owner="1" flag="16" face="15" exp="100" str="4" ldr="1"/>
+  </hex>
+  <hex row="24" col="20" terrain="1" road="139" name="Warsaw"/>
+  <hex row="24" col="21" terrain="1" road="131" name="Warsaw"/>
+  <hex row="24" col="22" terrain="1" road="179" name="Warsaw"/>
+  <hex row="24" col="28" terrain="15" name="River Vistula"/>
+  <hex row="24" col="29" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="30" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="31" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="32" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="33" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="34" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="36" terrain="10" name="River Wieprz"/>
+  <hex row="24" col="40" road="17"/>
+  <hex row="24" col="41" terrain="3"/>
+  <hex row="24" col="42" terrain="3"/>
+  <hex row="24" col="43" terrain="3"/>
+  <hex row="25" col="2" road="17"/>
+  <hex row="25" col="4" terrain="15"/>
+  <hex row="25" col="7" road="34"/>
+  <hex row="25" col="8" road="35"/>
+  <hex row="25" col="17" road="17"/>
+  <hex row="25" col="18" terrain="2" road="9" name="Warsaw Airport"/>
+  <hex row="25" col="19" terrain="2" road="128" name="Warsaw Airport"/>
+  <hex row="25" col="21" road="18"/>
+  <hex row="25" col="22" road="33"/>
+  <hex row="25" col="25" terrain="10" name="River Pilicc"/>
+  <hex row="25" col="28" terrain="15" name="River Vistula"/>
+  <hex row="25" col="30" terrain="5"/>
+  <hex row="25" col="32" terrain="5"/>
+  <hex row="25" col="33" terrain="3"/>
+  <hex row="25" col="34" terrain="3"/>
+  <hex row="25" col="36" terrain="10" name="River Wieprz"/>
+  <hex row="25" col="37" terrain="10" name="River Wieprz"/>
+  <hex row="25" col="39" terrain="10" road="34" name="River Wieprz"/>
+  <hex row="25" col="40" road="33"/>
+  <hex row="25" col="42" terrain="3"/>
+  <hex row="25" col="43" terrain="3"/>
+  <hex row="26" col="2" road="17"/>
+  <hex row="26" col="5" road="34"/>
+  <hex row="26" col="6" road="34"/>
+  <hex row="26" col="17" terrain="3" road="33"/>
+  <hex row="26" col="18" terrain="3"/>
+  <hex row="26" col="21" terrain="1" road="19" name="Piaseczno" flag="15" owner="1"/>
+  <hex row="26" col="22" road="40"/>
+  <hex row="26" col="23" terrain="10" road="136" name="River Pilicc"/>
+  <hex row="26" col="24" terrain="10" name="River Pilicc"/>
+  <hex row="26" col="26" terrain="10" name="River Pilicc"/>
+  <hex row="26" col="27" terrain="10" name="River Pilicc"/>
+  <hex row="26" col="28" terrain="15" name="River Vistula"/>
+  <hex row="26" col="29" terrain="1" road="8" name="Karczew" flag="15" owner="1"/>
+  <hex row="26" col="31" terrain="3"/>
+  <hex row="26" col="32" terrain="3"/>
+  <hex row="26" col="33" terrain="3"/>
+  <hex row="26" col="37" terrain="1" road="24" name="Katy" flag="15" owner="1" victory="0"/>
+  <hex row="26" col="38" terrain="10" road="18" name="River Wieprz"/>
+  <hex row="26" col="40" terrain="10" name="River Wieprz"/>
+  <hex row="26" col="41" terrain="10" name="River Wieprz"/>
+  <hex row="27" col="2" terrain="1" road="25" name="Zyrardow" deploy="0"/>
+  <hex row="27" col="3" terrain="1" road="178" name="Zyrardow" flag="7" owner="0" victory="1" deploy="0">
+    <unit id="108" owner="0" flag="8" face="4" transport="157" exp="300" str="12"/>
+  </hex>
+  <hex row="27" col="4" road="34"/>
+  <hex row="27" col="16" road="18"/>
+  <hex row="27" col="17" terrain="3"/>
+  <hex row="27" col="18" terrain="3"/>
+  <hex row="27" col="21" terrain="1" road="1" name="Piaseczno"/>
+  <hex row="27" col="22" terrain="10" name="River Pilicc"/>
+  <hex row="27" col="23" terrain="10" name="River Pilicc"/>
+  <hex row="27" col="24" road="144"/>
+  <hex row="27" col="28" terrain="15" name="River Vistula"/>
+  <hex row="27" col="29" terrain="15" name="River Vistula"/>
+  <hex row="27" col="30" road="144"/>
+  <hex row="27" col="31" terrain="3"/>
+  <hex row="27" col="32" terrain="3"/>
+  <hex row="27" col="35" road="34"/>
+  <hex row="27" col="36" road="40"/>
+  <hex row="27" col="37" terrain="1" road="139" name="Katy"/>
+  <hex row="27" col="38" terrain="1" road="177" name="Katy"/>
+  <hex row="27" col="41" terrain="10" name="River Wieprz"/>
+  <hex row="27" col="43" terrain="10" name="River Wieprz"/>
+  <hex row="28" col="2" terrain="1" road="3" name="Zyrardow" deploy="0"/>
+  <hex row="28" col="3" road="9" deploy="0"/>
+  <hex row="28" col="4" deploy="0"/>
+  <hex row="28" col="5" deploy="0"/>
+  <hex row="28" col="7" terrain="3"/>
+  <hex row="28" col="8" terrain="3"/>
+  <hex row="28" col="9" terrain="3"/>
+  <hex row="28" col="16" road="17"/>
+  <hex row="28" col="18" terrain="3"/>
+  <hex row="28" col="23" terrain="10" name="River Pilicc"/>
+  <hex row="28" col="24" road="9"/>
+  <hex row="28" col="25" road="136"/>
+  <hex row="28" col="28" terrain="15" name="River Vistula"/>
+  <hex row="28" col="29" terrain="15" name="River Vistula"/>
+  <hex row="28" col="30" road="9"/>
+  <hex row="28" col="31" road="178"/>
+  <hex row="28" col="32" road="40"/>
+  <hex row="28" col="33" road="130"/>
+  <hex row="28" col="34" road="34"/>
+  <hex row="28" col="35" terrain="3"/>
+  <hex row="28" col="38" road="153"/>
+  <hex row="28" col="39" road="130"/>
+  <hex row="28" col="40" road="40"/>
+  <hex row="28" col="41" road="130"/>
+  <hex row="28" col="42" terrain="10" road="40" name="River Wieprz"/>
+  <hex row="28" col="43" road="130"/>
+  <hex row="29" col="4" road="136" deploy="0"/>
+  <hex row="29" col="5" road="144"/>
+  <hex row="29" col="7" terrain="3"/>
+  <hex row="29" col="8" terrain="3"/>
+  <hex row="29" col="9" terrain="3"/>
+  <hex row="29" col="10" terrain="3"/>
+  <hex row="29" col="11" terrain="3"/>
+  <hex row="29" col="16" road="17"/>
+  <hex row="29" col="23" terrain="10" name="River Pilicc"/>
+  <hex row="29" col="26" road="144"/>
+  <hex row="29" col="28" terrain="15" name="River Vistula"/>
+  <hex row="29" col="30" terrain="1" road="18" name="Gora Kalwaria" flag="15" owner="1" victory="0"/>
+  <hex row="29" col="31" road="17"/>
+  <hex row="29" col="33" terrain="3"/>
+  <hex row="29" col="34" terrain="3"/>
+  <hex row="29" col="35" terrain="3"/>
+  <hex row="29" col="36" terrain="3"/>
+  <hex row="29" col="37" terrain="3"/>
+  <hex row="29" col="38" road="9"/>
+  <hex row="29" col="39" road="136"/>
+  <hex row="29" col="41" terrain="3"/>
+  <hex row="29" col="42" terrain="3"/>
+  <hex row="29" col="43" terrain="3"/>
+  <hex row="30" col="5" terrain="1" road="49" name="Mszczonow"/>
+  <hex row="30" col="8" terrain="3"/>
+  <hex row="30" col="9" terrain="3"/>
+  <hex row="30" col="10" terrain="3"/>
+  <hex row="30" col="11" terrain="3"/>
+  <hex row="30" col="13" terrain="3"/>
+  <hex row="30" col="16" road="17"/>
+  <hex row="30" col="23" terrain="10" name="River Pilicc"/>
+  <hex row="30" col="26" road="9"/>
+  <hex row="30" col="27" road="136"/>
+  <hex row="30" col="28" terrain="15" name="River Vistula"/>
+  <hex row="30" col="29" terrain="10" road="34" name="River Vistula"/>
+  <hex row="30" col="30" road="33"/>
+  <hex row="30" col="31" road="17"/>
+  <hex row="30" col="32" terrain="3"/>
+  <hex row="30" col="33" terrain="3"/>
+  <hex row="30" col="34" terrain="3"/>
+  <hex row="30" col="35" terrain="3"/>
+  <hex row="30" col="36" terrain="3"/>
+  <hex row="30" col="37" terrain="3"/>
+  <hex row="30" col="40" road="136"/>
+  <hex row="30" col="41" terrain="3" road="144"/>
+  <hex row="30" col="42" terrain="3"/>
+  <hex row="31" col="1" road="40"/>
+  <hex row="31" col="3" road="34"/>
+  <hex row="31" col="4" road="42">
+    <unit id="115" owner="0" flag="8" face="5" transport="158" exp="120"/>
+  </hex>
+  <hex row="31" col="5" terrain="1" road="169" name="Mszczonow" flag="7" owner="0">
+    <unit id="115" owner="0" flag="8" face="5" transport="158" exp="120"/>
+  </hex>
+  <hex row="31" col="7" terrain="3"/>
+  <hex row="31" col="8" terrain="3"/>
+  <hex row="31" col="9" terrain="3"/>
+  <hex row="31" col="10" terrain="3"/>
+  <hex row="31" col="11" terrain="3"/>
+  <hex row="31" col="12" terrain="3"/>
+  <hex row="31" col="13" terrain="3"/>
+  <hex row="31" col="14" terrain="3"/>
+  <hex row="31" col="16" road="17"/>
+  <hex row="31" col="18" terrain="3"/>
+  <hex row="31" col="21" terrain="10" name="River Pilicc"/>
+  <hex row="31" col="23" terrain="10" name="River Pilicc"/>
+  <hex row="31" col="27" road="18"/>
+  <hex row="31" col="28" road="162"/>
+  <hex row="31" col="30" terrain="15" name="River Vistula"/>
+  <hex row="31" col="31" road="9"/>
+  <hex row="31" col="33" terrain="3"/>
+  <hex row="31" col="34" terrain="3"/>
+  <hex row="31" col="35" terrain="3"/>
+  <hex row="31" col="36" terrain="3"/>
+  <hex row="31" col="37" terrain="3"/>
+  <hex row="31" col="38" terrain="3"/>
+  <hex row="31" col="39" terrain="3"/>
+  <hex row="31" col="41" road="17"/>
+  <hex row="32" col="0" road="130"/>
+  <hex row="32" col="1" terrain="3"/>
+  <hex row="32" col="2" terrain="1" road="146" name="Paplin" flag="7" owner="0" supply="0"/>
+  <hex row="32" col="5">
+    <unit id="92" owner="0" flag="8" face="5" transport="158"/>
+  </hex>
+  <hex row="32" col="6" road="136">
+    <unit id="115" owner="0" flag="8" face="5" transport="158"/>
+  </hex>
+  <hex row="32" col="7" road="130"/>
+  <hex row="32" col="8" terrain="3" road="40"/>
+  <hex row="32" col="9" road="136"/>
+  <hex row="32" col="10" terrain="3"/>
+  <hex row="32" col="11" terrain="3"/>
+  <hex row="32" col="12" terrain="3"/>
+  <hex row="32" col="13" terrain="3"/>
+  <hex row="32" col="14" terrain="3"/>
+  <hex row="32" col="16" road="17"/>
+  <hex row="32" col="19" terrain="10" name="River Pilicc"/>
+  <hex row="32" col="20" terrain="10" name="River Pilicc"/>
+  <hex row="32" col="22" terrain="10" name="River Pilicc"/>
+  <hex row="32" col="23" terrain="3"/>
+  <hex row="32" col="24" terrain="3"/>
+  <hex row="32" col="27" road="33"/>
+  <hex row="32" col="30" terrain="15" name="River Vistula"/>
+  <hex row="32" col="31" terrain="15" name="River Vistula"/>
+  <hex row="32" col="32" road="136"/>
+  <hex row="32" col="33" terrain="3" road="144"/>
+  <hex row="32" col="34" terrain="3"/>
+  <hex row="32" col="35" terrain="3"/>
+  <hex row="32" col="36" terrain="3"/>
+  <hex row="32" col="37" terrain="3"/>
+  <hex row="32" col="38" terrain="3"/>
+  <hex row="32" col="41" road="9"/>
+  <hex row="33" col="0" terrain="5"/>
+  <hex row="33" col="1" terrain="5"/>
+  <hex row="33" col="2" road="9"/>
+  <hex row="33" col="3" road="136"/>
+  <hex row="33" col="4">
+    <unit id="110" owner="0" flag="8" face="5" transport="158" exp="100" str="6" ldr="1"/>
+  </hex>
+  <hex row="33" col="7" deploy="0">
+    <unit id="115" owner="0" flag="8" face="5" exp="100"/>
+  </hex>
+  <hex row="33" col="9">
+    <unit id="115" owner="0" flag="8" face="5" exp="100"/>
+  </hex>
+  <hex row="33" col="10" road="136"/>
+  <hex row="33" col="11" road="136"/>
+  <hex row="33" col="16" road="9"/>
+  <hex row="33" col="17" terrain="10" road="144" name="River Pilicc"/>
+  <hex row="33" col="18" terrain="10" name="River Pilicc"/>
+  <hex row="33" col="23" terrain="3"/>
+  <hex row="33" col="24" terrain="3"/>
+  <hex row="33" col="25" road="18"/>
+  <hex row="33" col="26" road="34"/>
+  <hex row="33" col="31" terrain="15" name="River Vistula"/>
+  <hex row="33" col="32" terrain="15" name="River Vistula"/>
+  <hex row="33" col="33" road="17"/>
+  <hex row="33" col="34" terrain="3"/>
+  <hex row="33" col="38" terrain="3"/>
+  <hex row="33" col="42" road="144"/>
+  <hex row="34" col="0" terrain="5"/>
+  <hex row="34" col="1" terrain="5"/>
+  <hex row="34" col="2" terrain="5"/>
+  <hex row="34" col="4" road="136"/>
+  <hex row="34" col="5" road="136" deploy="0">
+    <unit id="1234" owner="0" flag="8" face="5" transport="158"/>
+  </hex>
+  <hex row="34" col="6" deploy="0">
+    <unit id="110" owner="0" flag="8" face="5" transport="158" exp="120" str="6"/>
+  </hex>
+  <hex row="34" col="7" deploy="0">
+    <unit id="115" owner="0" flag="8" face="5" exp="100"/>
+  </hex>
+  <hex row="34" col="9">
+    <unit id="92" owner="0" flag="8" face="5" transport="158"/>
+  </hex>
+  <hex row="34" col="10">
+    <unit id="115" owner="0" flag="8" face="5" exp="120"/>
+  </hex>
+  <hex row="34" col="11">
+    <unit id="115" owner="0" flag="8" face="5" exp="120"/>
+  </hex>
+  <hex row="34" col="12" road="136"/>
+  <hex row="34" col="13" road="136"/>
+  <hex row="34" col="14" terrain="10" name="River Pilicc"/>
+  <hex row="34" col="15" terrain="10" name="River Pilicc"/>
+  <hex row="34" col="16" terrain="10" name="River Pilicc"/>
+  <hex row="34" col="17" road="17"/>
+  <hex row="34" col="23" deploy="0"/>
+  <hex row="34" col="25" road="33" deploy="0"/>
+  <hex row="34" col="27" deploy="0"/>
+  <hex row="34" col="31" terrain="15" name="River Vistula"/>
+  <hex row="34" col="32" terrain="15" name="River Vistula"/>
+  <hex row="34" col="33" road="17"/>
+  <hex row="34" col="42" road="25"/>
+  <hex row="34" col="43" terrain="1" road="176" name="Garwolin"/>
+  <hex row="35" col="0" terrain="5"/>
+  <hex row="35" col="1" terrain="5"/>
+  <hex row="35" col="2" terrain="5"/>
+  <hex row="35" col="6" road="144"/>
+  <hex row="35" col="7" terrain="10" name="River Pilicc"/>
+  <hex row="35" col="8" deploy="0">
+    <unit id="115" owner="0" flag="8" face="5" exp="100"/>
+  </hex>
+  <hex row="35" col="9" terrain="10" name="River Pilicc"/>
+  <hex row="35" col="11" terrain="10" name="River Pilicc"/>
+  <hex row="35" col="13" terrain="10" name="River Pilicc"/>
+  <hex row="35" col="14" terrain="10" road="136" name="River Pilicc"/>
+  <hex row="35" col="15" road="136"/>
+  <hex row="35" col="17" terrain="1" road="57" name="Grojec"/>
+  <hex row="35" col="21" road="40"/>
+  <hex row="35" col="22" deploy="0"/>
+  <hex row="35" col="23" road="34" deploy="0"/>
+  <hex row="35" col="24" road="34" deploy="0"/>
+  <hex row="35" col="25" deploy="0"/>
+  <hex row="35" col="26" deploy="0"/>
+  <hex row="35" col="29" terrain="8"/>
+  <hex row="35" col="30" terrain="15" name="River Vistula"/>
+  <hex row="35" col="33" road="9"/>
+  <hex row="35" col="41" terrain="1" road="34" name="Garwolin"/>
+  <hex row="35" col="42" terrain="1" road="43" name="Garwolin" flag="15" owner="1" supply="1"/>
+  <hex row="35" col="43" terrain="1" road="129" name="Garwolin"/>
+  <hex row="36" col="0" terrain="5"/>
+  <hex row="36" col="1" terrain="13" name="River Pilicc"/>
+  <hex row="36" col="2" terrain="3"/>
+  <hex row="36" col="3" terrain="3"/>
+  <hex row="36" col="5" terrain="10" name="River Pilicc"/>
+  <hex row="36" col="6" terrain="10" road="9" name="River Pilicc"/>
+  <hex row="36" col="7" terrain="3" road="144"/>
+  <hex row="36" col="8" terrain="10" name="River Pilicc"/>
+  <hex row="36" col="9" terrain="3"/>
+  <hex row="36" col="10" terrain="10" name="River Pilicc"/>
+  <hex row="36" col="12" terrain="10" name="River Pilicc"/>
+  <hex row="36" col="15" terrain="1" road="10" name="Grojec"/>
+  <hex row="36" col="16" terrain="1" road="186" name="Grojec"/>
+  <hex row="36" col="17" terrain="1" road="171" name="Grojec" flag="15" owner="1" victory="0"/>
+  <hex row="36" col="18" terrain="1" road="184" name="Grojec"/>
+  <hex row="36" col="19" terrain="1" road="170" name="Grojec"/>
+  <hex row="36" col="20" road="34"/>
+  <hex row="36" col="22" road="130"/>
+  <hex row="36" col="24" terrain="3" deploy="0"/>
+  <hex row="36" col="25" terrain="3"/>
+  <hex row="36" col="26" deploy="0"/>
+  <hex row="36" col="27" terrain="8"/>
+  <hex row="36" col="28" terrain="8"/>
+  <hex row="36" col="29" terrain="8"/>
+  <hex row="36" col="30" terrain="15" name="River Vistula"/>
+  <hex row="36" col="31" terrain="3"/>
+  <hex row="36" col="32" terrain="3"/>
+  <hex row="36" col="34" road="144"/>
+  <hex row="36" col="37" road="40"/>
+  <hex row="36" col="39" road="34"/>
+  <hex row="36" col="40" road="34"/>
+  <hex row="37" col="0" terrain="13"/>
+  <hex row="37" col="1" terrain="5"/>
+  <hex row="37" col="2" terrain="13" name="River Pilicc"/>
+  <hex row="37" col="3" terrain="13" name="River Pilicc"/>
+  <hex row="37" col="4" terrain="10" name="River Pilicc"/>
+  <hex row="37" col="5" terrain="2" flag="7" owner="0" supply="0">
+    <unit id="69" owner="0" flag="8" face="11" str="5"/>
+  </hex>
+  <hex row="37" col="7" road="17"/>
+  <hex row="37" col="8" terrain="3"/>
+  <hex row="37" col="9" terrain="3"/>
+  <hex row="37" col="10" terrain="3"/>
+  <hex row="37" col="11" terrain="3"/>
+  <hex row="37" col="16" terrain="1" road="131" name="Grojec"/>
+  <hex row="37" col="17" terrain="3"/>
+  <hex row="37" col="18" terrain="1" road="131" name="Grojec"/>
+  <hex row="37" col="19" terrain="3"/>
+  <hex row="37" col="20" road="136"/>
+  <hex row="37" col="21" road="136"/>
+  <hex row="37" col="24" terrain="3"/>
+  <hex row="37" col="25" terrain="3"/>
+  <hex row="37" col="28" terrain="8"/>
+  <hex row="37" col="30" terrain="15" name="River Vistula"/>
+  <hex row="37" col="31" terrain="15" name="River Vistula"/>
+  <hex row="37" col="34" terrain="1" road="25" name="Wilga" flag="15" owner="1"/>
+  <hex row="37" col="35" road="130"/>
+  <hex row="37" col="36" road="34"/>
+  <hex row="37" col="38" road="130"/>
+  <hex row="38" col="0" terrain="5"/>
+  <hex row="38" col="1" terrain="5"/>
+  <hex row="38" col="2" terrain="5"/>
+  <hex row="38" col="3" terrain="5"/>
+  <hex row="38" col="6" terrain="2"/>
+  <hex row="38" col="7" road="17"/>
+  <hex row="38" col="8" terrain="3"/>
+  <hex row="38" col="9" terrain="3"/>
+  <hex row="38" col="10" terrain="3"/>
+  <hex row="38" col="11" terrain="3"/>
+  <hex row="38" col="12" terrain="3"/>
+  <hex row="38" col="17" terrain="3"/>
+  <hex row="38" col="18" terrain="3"/>
+  <hex row="38" col="19" terrain="3"/>
+  <hex row="38" col="22" road="136"/>
+  <hex row="38" col="23" road="136"/>
+  <hex row="38" col="24" terrain="3"/>
+  <hex row="38" col="25" terrain="3"/>
+  <hex row="38" col="32" terrain="15" name="River Vistula"/>
+  <hex row="38" col="34" road="9"/>
+  <hex row="38" col="35" road="144"/>
+</map>

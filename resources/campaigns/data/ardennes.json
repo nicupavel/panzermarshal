@@ -1,0 +1,266 @@
+[
+ {
+  "id": 0, 
+  "intro": "Ardennes 16-22 Dec:<br><br>General, you've been assigned to command the main group of our armies to demostrate allies<br>that we can still fight and this isn't over yet.<br>Your mission will be open a way in the front and move to River Meuse as fast as you can<br>saving all the flanks.<br>The allies forces doesn't know anything about this operation... you will surprise them !<br><br>Good Luck!<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Very Good, the advance was as we'd expected, however we hope that you end the site to Bastonge<br>as fast you can that this is a critical point of communications.<br><br>Now begins the hard part.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "General, you are a completely dissaster, Hitler sorrow for trust you in this important mission.<br>You are out of your unit command.<br><br>Note: your score is this campaign was worse than historically<br>"
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Very Good, the advance was as we'd expected, however we hope that you end the site to Bastonge<br>as fast you can that this is a critical point of communications.<br><br>Now begins the hard part.<br>"
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Very Good, the advance was as we'd expected, however we hope that you end the site to Bastonge<br>as fast you can that this is a critical point of communications.<br><br>Now begins the hard part.<br>"
+   }
+  }, 
+  "scenario": "ant00.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Ardennes 23-29 Dec :<br><br>General, the advance was slower than we'd expected, even more...Bastonge isn't in our hands.<br>At this moment allies must already knows the importance of our operation.. so they'll fortify their<br>resistence. Your mission will be capture Bastonge and cross River Meuse.<br>We expect much more from you this time...<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Excellent, we broke the allied front, keeping the flanks safe and we've been crossed the River Meuse.<br>Now our next objetive is Antwerp.<br>Congratulations!.<br><br>"
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Herr General, the high command is very dissapointed with you... we know that conditions weren't<br>the betters... but we expected a little more from you. Now take defensive positions because<br>reports tell us that allies are preparing a counterattack.<br>"
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Excellent, we broke the allied front, keeping the flanks safe and we've been crossed the River Meuse.<br>Now our next objetive is Antwerp.<br>Congratulations!.<br><br>"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Excellent, we broke the allied front, keeping the flanks safe and we've been crossed the River Meuse.<br>Now our next objetive is Antwerp.<br>Congratulations!.<br><br>"
+   }
+  }, 
+  "scenario": "ant01.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Ardennes 30 Dec-16 Jan:<br><br>This is a critical moment... Hitler says that you're guilty of failure of the operation.<br>Even you couldn't cross the River... now allies launched a counterattack upon us from everywhere<br>depends of you resist until the reserve units arrive to resume the offensive.<br><br>Do not fail us again... General<br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "I can't believe what you done!, you have recovered from your last patetic performance and not only <br>you've resist the counterattack, you have crossed the River Meuse too !!.<br>The operation is not over yet...the F\u00fchrer order to advance to Antwerp!<br><br>"
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Hitler himself order directly to relevate you from your charge.<br>Allied counterattack has completely push us and we don't have any more units to <br>attack again in this sector. The plan of enclose the allied army has fail.. and you have been<br>assigned to another sector."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "I can't believe what you done!, you have recovered from your last patetic performance and not only <br>you've resist the counterattack, you have crossed the River Meuse too !!.<br>The operation is not over yet...the F\u00fchrer order to advance to Antwerp!<br><br>"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "I can't believe what you done!, you have recovered from your last patetic performance and not only <br>you've resist the counterattack, you have crossed the River Meuse too !!.<br>The operation is not over yet...the F\u00fchrer order to advance to Antwerp!<br><br>"
+   }
+  }, 
+  "scenario": "ant02.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Antwerp:<br><br>This will be a hard trial for you... your army will confront elements from 21th army of Montgomery<br>regrouped surround to Antwerp. If this operation is successful. Our victory will hit the enemy <br>in their weak points and their armies will be splitted and won't be easy to them to recover quickly.<br><br>Good luck General.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Congratulations Herr General!!, you have surprise us, you have done something that only Hitler <br>though possible. Our lider isn't going crazy after all...<br>Three enemy armies are trapped between the River Rhine and you.<br>Your performance was extraordinary you have return some of the lost glory to Germany.<br>You are assigned to the general command of the east.<br>Congratulations again.<br><br>Note: your score is this campaign was greatly superior than historical.<br>Congratulations to get this point!<br>"
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You did that you coul... we couldn't send you any more reinforcements but we needed to secure <br>our weak zones. The operation has fail but you demostrate your courage, you will be assigned to <br>a new operation.<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Congratulations Herr General!!, you have surprise us, you have done something that only Hitler <br>though possible. Our lider isn't going crazy after all...<br>Three enemy armies are trapped between the River Rhine and you.<br>Your performance was extraordinary you have return some of the lost glory to Germany.<br>You are assigned to the general command of the east.<br>Congratulations again.<br><br>Note: your score is this campaign was greatly superior than historical.<br>Congratulations to get this point!<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "Congratulations Herr General!!, you have surprise us, you have done something that only Hitler <br>though possible. Our lider isn't going crazy after all...<br>Three enemy armies are trapped between the River Rhine and you.<br>Your performance was extraordinary you have return some of the lost glory to Germany.<br>You are assigned to the general command of the east.<br>Congratulations again.<br><br>Note: your score is this campaign was greatly superior than historical.<br>Congratulations to get this point!<br>"
+   }
+  }, 
+  "scenario": "ant03.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Nordwind 24 Jan:<br><br>Due to your excellent performance, Hitler ask you to take the command of this operation.<br>Operation Nordwind isn't going as planned, you may use the 21st Pz Div and 25th PG Div to<br>try to break the front and acomplish the assigned objetives.<br><br>Good luck!<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Herr General! you've acomplished your objetives, I congratulate you, this compensate in part you <br>defeat in Ardennes. Allies still have reason to worry about Germany.<br>Congratulation!<br><br>Note: your performance in this campaign was little higher than the historical<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Herr General, you couldn't break the enemy resistance, due to your failuse, we can't take any more<br>offensives. The only thing we can do now is resist until the end.<br><br>Note: your performance was equivalent to the historical one<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Herr General! you've acomplished your objetives, I congratulate you, this compensate in part you <br>defeat in Ardennes. Allies still have reason to worry about Germany.<br>Congratulation!<br><br>Note: your performance in this campaign was little higher than the historical<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "Herr General! you've acomplished your objetives, I congratulate you, this compensate in part you <br>defeat in Ardennes. Allies still have reason to worry about Germany.<br>Congratulation!<br><br>Note: your performance in this campaign was little higher than the historical<br>"
+   }
+  }, 
+  "scenario": "ant04.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "Colmar Pocket:<br><br>Herr General due to your poor performante in Ardennes you have been assigned to the command<br>of the troops of City of Colmar. An allied attack is expected in almost anytime, the eight<br>division to your command are very covered but you won't have more than one unit of tanks.<br>Only artillery have enough ammunition.<br>Try to keep the terrain as much as you can.<br><br>Good Luck!", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Herr General!, you demostrate that was a mistaked clear you from your charge in Ardennes.<br>The allies will be continue worried about us. This is not over yet.<br><br>Congratulations!<br><br>Note: your performance was sightly better that the historical<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "This is the begining of the end ! we can only defend behind Rhine and our troops can't do anything<br>to the superiority of the enemy in number and equipment. A victory is impossible.<br><br>Note: your performance in this campaign was similar to the historical<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Herr General!, you demostrate that was a mistaked clear you from your charge in Ardennes.<br>The allies will be continue worried about us. This is not over yet.<br><br>Congratulations!<br><br>Note: your performance was sightly better that the historical<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Herr General!, you demostrate that was a mistaked clear you from your charge in Ardennes.<br>The allies will be continue worried about us. This is not over yet.<br><br>Congratulations!<br><br>Note: your performance was sightly better that the historical<br>"
+   }
+  }, 
+  "scenario": "ant05.xml", 
+  "startprestige": 0
+ }
+]

@@ -1,0 +1,706 @@
+[
+ {
+  "id": 0, 
+  "intro": "ORAN (8 NOVEMBER 1942)<br><br>Finally your division will see some action, General!  The Axis armies are still in North Africa but we have plans to get them out of there.  Montgomery is driving them towards Tunisia from Egypt.  We, with British support, will land at the Vichy French North African colonies and create a huge pincer movement to trap Rommel.<br><br>Your division will land near Oran and be supported by elements of 1st Armored Division. Air and naval assets will be brought in by the British.  The landing beaches have been designated west and east of Oran. From these you will advance on Oran and capture the port.  A small British raiding party has been send directly to the naval facilities of Oran but we lost contact with them several hours ago.<br><br>It is uncertain how tenacious the resistance will be from the Vichy French.  But in any case, they do have a considerable amount of war material  at their disposal should they decide to defend themselves.  Do not underestimate them!<br><br>IF PLAYING WITH RULES: Buy 9 INFANTRY 42 with GMC 2.5t as transport, 3 105mm How M2 with GMC 2.t as transport, 1 155mm How M1 with White 6t as transport, 1 recon unit, and 1 AT unit.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Oran has been captured with only light casualties although the French offered stronger resistance than expected.  Your men proudly stood their ground in their first battle of the war.  Currently there are very few American divisions fighting in this war but so far the US Army has shown its potential.<br><br>Prepare to move east into Tunisia.  The French have asked for a cease fire so our only enemy left is Rommel and his veteran Afrika Korps!<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to capture Oran.  You are not up to the task of commanding a division so it seems..."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Oran has been captured with only light casualties although the French offered stronger resistance than expected.  Your men proudly stood their ground in their first battle of the war.  Currently there are very few American divisions fighting in this war but so far the US Army has shown its potential.<br><br>Prepare to move east into Tunisia.  The French have asked for a cease fire so our only enemy left is Rommel and his veteran Afrika Korps!<br>"
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Oran has been captured with only light casualties although the French offered stronger resistance than expected.  Your men proudly stood their ground in their first battle of the war.  Currently there are very few American divisions fighting in this war but so far the US Army has shown its potential.<br><br>Prepare to move east into Tunisia.  The French have asked for a cease fire so our only enemy left is Rommel and his veteran Afrika Korps!<br>"
+   }
+  }, 
+  "scenario": "ocampora.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "EL GUETTAR (21 MARCH 1943)<br><br>What should have been an easy victory has turned into a nightmare.  The Axis have captured the Tunisian ports and brought in plenty of troops, supplies and other war material.  The Tunisian campaign will be a hard fight.  On top of that the pride of the US Army has been damaged by Rommel's attack and victory near Kasserine, but the time has come to strike back and turn the tide!<br><br>Montgomery is keeping the Afrika Korps busy at the Mareth Line, and the French and other British forces are binding Axis forces in central and northern Tunisia.  The US II Corps will attack in southern Tunisia near El Guettar. <br><br>Italian troops have been digging in for weeks so breaching the first positions will be hard. Be wary because El Guettar is close to the Afrika Korps positions at the Mareth Line and it is not unthinkable that Rommel could send Panzers to stop a breakthrough.  However, the pride of the US Army is at stake.  Show the world that we are capable of waging war and that we don't take second place to the British!<br><br>IF PLAYING WITH RULES:  Do not upgrade any units except recon and anti-tank units. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (42 Infantry), 1 RECON, 1 AT. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Victory is ours!  The Big Red One has driven through the enemy positions after hard and bitter fighting but we prevailed!  Do not waste time!  Exploit your breakthrough!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to make this operation a success..."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Victory is ours!  The Big Red One has driven through the enemy positions after hard and bitter fighting but we prevailed!  Do not waste time!  Exploit your breakthrough!"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Victory is ours!  The Big Red One has driven through the enemy positions after hard and bitter fighting but we prevailed!  Do not waste time!  Exploit your breakthrough!"
+   }
+  }, 
+  "scenario": "ocampgue.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "BIZERTE (23 APRIL 1943)<br><br>The Allied armies have driven the enemy into a small pocket around the ports of Tunis and Bizerte.  The outcome of the Tunisian campaign will not be a surprise but the victory still has to be won.<br><br>The Allies will attack along the entire front.  The US divisions will attack towards Bizerte.  But before you reach Bizerte you must take many entrenched enemy positions. There are clear roads towards Bizerte but they are controlled by whoever controls the hills next to them.  These hills must be taken.  What other division than the Big Red One is up to this task?<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (42 Infantry), 1 RECON, 1 AT.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The hills have been taken and armoured forces are driving towards Bizerte.  It will be only a matter of days before the enemy is forced to surrender!  The role of the Big Red One in the North African campaign is one to be proud of.<br><br>This World War is far fromt over.  Hold your division in good shape because I have no doubt that this veteran division will soon be called upon for further glory!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to lead the division in captureing the hills controlling the roads to Bizerte..."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The hills have been taken and armoured forces are driving towards Bizerte.  It will be only a matter of days before the enemy is forced to surrender!  The role of the Big Red One in the North African campaign is one to be proud of.<br><br>This World War is far fromt over.  Hold your division in good shape because I have no doubt that this veteran division will soon be called upon for further glory!"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The hills have been taken and armoured forces are driving towards Bizerte.  It will be only a matter of days before the enemy is forced to surrender!  The role of the Big Red One in the North African campaign is one to be proud of.<br><br>This World War is far fromt over.  Hold your division in good shape because I have no doubt that this veteran division will soon be called upon for further glory!"
+   }
+  }, 
+  "scenario": "ocampbiz.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "GELA (11 JULY 1943)<br><br>The Big Red One will strike the beaches near Gela.  The 3rd Infantry Division will land on your left flank and on the right flank the 45th Infantry Division.  Elements of 2nd Armored and 82nd Airborne Divisions will support the operations.  Sufficient naval and air support will be given and this time by our own Navy and Army Air Force!  Our goal will be to establish a safe and wide enough bridgehead for future operations into the interior of Sicily.<br><br>The enemy garrison of the island is known to include the German XIV Panzerkorps, but the exact dispositions of these units are unknown.  You should expect the worst.  Your division must be getting used to heavy fighting.  No job is too hard.  Duty first!<br><br>IF PLAYING WITH RULES: Upgrade the 42 INFANTRY to 43 INFANTRY, still with GMC 2.5t as transports. Do not upgrade the other units. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (43 Infantry), 1 RECON, 1 AT.", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The bridgehead is safe and secure.  Thanks to the heavy fighting of the Big Red One.  You repulsed more than one enemy counterattack aimed at throwing us back into the sea!  US Seventh Army can now push inland and join up with the British forces to the east."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to make the bridgehead at Gela wide and safe enough for future inland operations."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The bridgehead is safe and secure.  Thanks to the heavy fighting of the Big Red One.  You repulsed more than one enemy counterattack aimed at throwing us back into the sea!  US Seventh Army can now push inland and join up with the British forces to the east."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The bridgehead is safe and secure.  Thanks to the heavy fighting of the Big Red One.  You repulsed more than one enemy counterattack aimed at throwing us back into the sea!  US Seventh Army can now push inland and join up with the British forces to the east."
+   }
+  }, 
+  "scenario": "ocampgel.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "TROINA (31 JULY 1943)<br><br>After a quick initial advance, both the British Eight and the US Seventh Army are bogged down at the so-called Etna Line.  This is a defensive line which makes full use of the excellent defensive terrain.  Even more, German veterans are manning this line.  However, Messina is still our main goal.  The Big Red One will pierce through the Etna Line by taking Troina and opening the inland road to Messina.<br><br>Troina is one of the key points of the Etna Line and is heavily defended by German panzergrenadiers.  Taking such a position seems a typical task for the veteran Big Red One.  You will be supported by Long Tom batteries and a battalion of North African Goums put under your command.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (43 Infantry), 1 RECON, 1 AT. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Troina was captured after much brutal fighting.  In light of the constant action that the division has seen ever since the landings near Gela, the division is being replaced by the 9th Infantry Division and been given time to rest and refit.<br><br>Some weeks later the division is shipped to England to prepare for the invasion of France which is planned in the summer of 1944. <br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to lead the division in the capture of Troina.  You will be replaced by someone who is capable of leading this division!"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Troina was captured after much brutal fighting.  In light of the constant action that the division has seen ever since the landings near Gela, the division is being replaced by the 9th Infantry Division and been given time to rest and refit.<br><br>Some weeks later the division is shipped to England to prepare for the invasion of France which is planned in the summer of 1944. <br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Troina was captured after much brutal fighting.  In light of the constant action that the division has seen ever since the landings near Gela, the division is being replaced by the 9th Infantry Division and been given time to rest and refit.<br><br>Some weeks later the division is shipped to England to prepare for the invasion of France which is planned in the summer of 1944. <br>"
+   }
+  }, 
+  "scenario": "ocamptro.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "D-DAY: OMAHA BEACH (6 JUNE 1944)<br><br>The day that has so long been awaited for by the occupied people of Europe and the Allied armies has begun.  The invasion of France will take place in the Normandy region of France.  On five different beaches British, Canadian and US divisions will land and fight their way inland.  The Big Red One has been assigned to the crucial Omaha Beach landing.<br><br>It is impossible to describe the importance of this operation, Operation Overlord.  Failure is not an option.  This is why the Big Red One is part of the first wave landings.  The enemy has been building coastal fortifications for years so this so-called \"Atlantic Wall\" must be strong.  We expect the beaches to be defended by few troops but we also know that considerable panzer units are nearby for a counterattack.  However, months of deception and the bombing campaign like none the world has ever witnessed before must have gained some advantage.  Good luck.  The eyes of the world are you.<br><br>IF PLAYING WITH RULES: Upgrade your 43 INFANTRY to 44 INFANTRY still with GMC 2.5t transports. Buy a 1-range tank. Do not upgrade the other units except recon and anti-tank units. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "The fighting was brutal.  Over 3,000 casualties were suffered.  That is more than all of the other beaches combined, but you have shown the tenacity of the US Army and that we have come to liberate Europe from Nazi oppression!<br><br>After hard fighting inland, the division holds a static part of the Allied frontline in the middle of the Normandy front.   For several weeks they don't see any heavy action."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The operations on Omaha Beach have turned into a disaster!"
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "The fighting was brutal.  Over 3,000 casualties were suffered.  That is more than all of the other beaches combined, but you have shown the tenacity of the US Army and that we have come to liberate Europe from Nazi oppression!<br><br>After hard fighting inland, the division holds a static part of the Allied frontline in the middle of the Normandy front.   For several weeks they don't see any heavy action."
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "The fighting was brutal.  Over 3,000 casualties were suffered.  That is more than all of the other beaches combined, but you have shown the tenacity of the US Army and that we have come to liberate Europe from Nazi oppression!<br><br>After hard fighting inland, the division holds a static part of the Allied frontline in the middle of the Normandy front.   For several weeks they don't see any heavy action."
+   }
+  }, 
+  "scenario": "ocampoma.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "OPERATION COBRA (25 JULY 1944)<br><br>After weeks and weeks of slow, nerve racking fighting, the Allied armies are still nowhere close to breaking out of the Normandy bridgehead.  Caen, St. Lo and Cherbourg have been captured and the Germans were unable to throw us back into the sea.  Unfortunately the enemy still makes perfect use of the bocage to stop any major breakthrough.<br><br>Operation Cobra will be the major breakout.  The British and Canadian armies near Caen will engage the majority of the enemy panzers to prevent them from intervening with our operations.  Our operation has started with a massive carpet bombing on the highway between St. Lo and Periers and the infantry is preparing a breakout centered on the town of Marigny.  The 2nd, 3rd and 4th Armored Divisions and your very own 1st Infantry Division will pour through and get us the hell out of this landscape!<br><br>The Germans are capable of putting up fanatical defensive stands but weeks of bombing their supply lines should leave them with fewer reserves than they hoped for.  Do not underestimate the German quality of always finding a way to stop the enemy!<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A historical victory! The German collapsed in front of the American assault. But there is no time to waste. Already units have encountered elements of what have identified as being part of panzer divisions. We must exploit our breakthrough now, before the Germans are able to close it!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to breakthrough the German front..."
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A historical victory! The German collapsed in front of the American assault. But there is no time to waste. Already units have encountered elements of what have identified as being part of panzer divisions. We must exploit our breakthrough now, before the Germans are able to close it!"
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A historical victory! The German collapsed in front of the American assault. But there is no time to waste. Already units have encountered elements of what have identified as being part of panzer divisions. We must exploit our breakthrough now, before the Germans are able to close it!"
+   }
+  }, 
+  "scenario": "ocampstl.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "AVRANCHES (1 AUGUST 1944)<br><br>There is no time to lose!  Advance!  The Germans are sending in reserves, including panzer forces into the American sector.  They hope to fill the gap that Operation Cobra has created.<br><br>There is a bottleneck at the small coastal town of Avranches where the Germans could stall the American breakthrough.  Several divisions including the Big Red One are heading for Avranches.  Again, capturing Avranches is vital for the Allied war effort.  From Avranches we can send units into Brittany, and the interior of France to encircle the Germans fighting the British and Canadians near Caen.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "After almost two months of fighting in the bocage, the US Army has achieved a breakout.  A new army, US Third Army under General Patton, has been sent through Avranches and into Brittany.  Soon we will strike deep into France and start liberating Western Europe!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You were not fast enough to capture Avranches before the Germans counterattacked in force. This is a major blow for the Allies."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "After almost two months of fighting in the bocage, the US Army has achieved a breakout.  A new army, US Third Army under General Patton, has been sent through Avranches and into Brittany.  Soon we will strike deep into France and start liberating Western Europe!"
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "After almost two months of fighting in the bocage, the US Army has achieved a breakout.  A new army, US Third Army under General Patton, has been sent through Avranches and into Brittany.  Soon we will strike deep into France and start liberating Western Europe!"
+   }
+  }, 
+  "scenario": "ocampavr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "MONS (3 SEPTEMBER 1944)<br><br>After the victories at Avranches and the destruction of many German divisions at the Falaise pocket, the Allied armies have now liberated most of France with little or no opposition from the German army.  Still a significant number of troops, mostly veterans, have escaped the trap set at Falaise pocket and are making their way back to Germany. Most of these troops have left behind most their heavy equipment and are nowhere as mobile as the Allied armies. We must prevent them from reaching Germany and being able to refit in the Heimat.<br><br>Your division has just crossed the border of France into Belgium.  Elements of the US 3rd Armored Division are close to the Belgian town of Mons where serious resistance has been encountered.  We believe that the Germans are using Mons as an escape route for units fleeing out of France.  Your 1st Infantry Division must join up with 3rd Armored and seal the gap through which the Germans are escaping.  Let us not repeat the errors made at Falaise and again let many Germans escape!<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "We have taken over 25,000 prisoners and effectively destroyed the remnants of the German Seventh Army that escaped from Normandy. The way is cleared for the invasion of Germany itself!  Head east, General! "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to seal of the gap through which the Germans could escape.  Now these veterans will rest and refit in Germany and be able to defend their home land on better terms."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "We have taken over 25,000 prisoners and effectively destroyed the remnants of the German Seventh Army that escaped from Normandy. The way is cleared for the invasion of Germany itself!  Head east, General! "
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "We have taken over 25,000 prisoners and effectively destroyed the remnants of the German Seventh Army that escaped from Normandy. The way is cleared for the invasion of Germany itself!  Head east, General! "
+   }
+  }, 
+  "scenario": "ocampmon.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "AACHEN (8 OCTOBER 1944)<br><br>The lighting advance from Normandy right up to the German border has been stopped at the West wall.  The West wall is a defensive line that protects the western border of Germany.  The major prize for the US First Army, to which the 1st Infantry Division has been assigned, is the capital city of Aachen.  Aachen must be taken before any advance to the Rhine by the US First Army can be accomplished.  Recently Hitler has named Aachen a \"Festung\" which means it must be defended to the last man.<br><br>The plan is to encircle Aachen before eliminating the garrison.  Your 1st Infantry Division will attack from the south.  Someplace about halfway there you should make contact with 29th Infantry Division.  They will be attacking from the north.  Do not waste time and man power to guarding to the west of Aachen.  There the West wall protects Aachen and two Engineer Combat Groups will guard the line.  However watch your right flank.  It is likely that the German Army will send forces to prevent the encirclement of Aachen or relieve Aachen in case your mission is successful.  Also Aachen must be cleared in the process.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "This operation shows the professionalism of the US Army anno 1944.  You encircled Aachen and prevented strong German counterattacks attempting to lift the encirclement.  Aachen is the first large Germany city to be taken.  It is the first of many.  The Big Red One has another battle honor to be proud of!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to encircle and take Aachen before a full German counterattack lifted the encirclement."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "This operation shows the professionalism of the US Army anno 1944.  You encircled Aachen and prevented strong German counterattacks attempting to lift the encirclement.  Aachen is the first large Germany city to be taken.  It is the first of many.  The Big Red One has another battle honor to be proud of!"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "This operation shows the professionalism of the US Army anno 1944.  You encircled Aachen and prevented strong German counterattacks attempting to lift the encirclement.  Aachen is the first large Germany city to be taken.  It is the first of many.  The Big Red One has another battle honor to be proud of!"
+   }
+  }, 
+  "scenario": "ocampaac.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "HUERTGEN FOREST (16 NOVEMBER 1944)<br><br>The supply problems of the last two months are almost over.  Antwerp is again in use and the Allied armies are preparing their advance to the Rhine River.  Now Aachen has been taken, another obstacle is preventing the US First Army from a major offensive towards the Rhine River: the hell of the Huertgen Forest.<br><br>For weeks, division after division has tried to crack the German defenses in this thick, barely passable forest.  The Germans are taking full advantage of the defensive logistics of the terrain.  US First Army will attack on a broad front from Aachen to the Huertgen Forest.  The Big Red One has the task of advancing through the northern end of the Forest through the so-called Stolberg Corridor.  Your objective is to reach the Inde River.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1).", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A hard fought, but clear victory!  Though the Germans in the southern parts of the Huertgen Forest still resist the US Army, the northern parts have been cleared by the Big Red One.  The US First Army is preparing to launch the second phase of the offensive that will lead us to the Rhine River!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to lead the Big Red One through the northern end of the Huertgen Foresst in time."
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A hard fought, but clear victory!  Though the Germans in the southern parts of the Huertgen Forest still resist the US Army, the northern parts have been cleared by the Big Red One.  The US First Army is preparing to launch the second phase of the offensive that will lead us to the Rhine River!"
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "A hard fought, but clear victory!  Though the Germans in the southern parts of the Huertgen Forest still resist the US Army, the northern parts have been cleared by the Big Red One.  The US First Army is preparing to launch the second phase of the offensive that will lead us to the Rhine River!"
+   }
+  }, 
+  "scenario": "ocamphur.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "ARDENNES (20 DECEMBER 1944)<br><br>Four days ago the German Army unleashed a major offensive on the Western Front. Through weakly defended sectors in the Ardennes, the Germans have broken through and are heading west.  Divisions from all over France are being rushed to the Ardennes to stop the Germans in their tracks.<br><br>The 1st Infantry Division will be deployed on the right shoulder of the German advance. Two divisions the 99th and 2nd have already been rushed south to the Elsenborn ridge.  This will prevent the Germans from using this route.  The Big Red One will take position next to the 2nd Infantry Division and prevent the enemy from attacking the US First Army from the north or from behind.<br><br>Your division is still underway and only elements have reached their final positions near the small Belgian town of Butgenbach.  You will defend this village no matter what.  You must hold the line here.  The Germans can not be allowed to advance north!  You can expect seasoned veterans from both the Western and the Eastern Front supplied with the latest firearms, tanks and other war material.  Good luck.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1). ", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "You have lead the Big Red One in stopping the German advance on our flank.  The enemy is now forced to attack due west.  Sadly, that attack has yet to be halted,  but soon we will avenge our retreat in the Ardennes!  You are ordered to let your men dig in and be prepared for any new German strikes against your sector."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to hold the line around Butgenbach.  The German Army has been able to attack the Elsenborn ridge from behind and are now advancing north too."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "You have lead the Big Red One in stopping the German advance on our flank.  The enemy is now forced to attack due west.  Sadly, that attack has yet to be halted,  but soon we will avenge our retreat in the Ardennes!  You are ordered to let your men dig in and be prepared for any new German strikes against your sector."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "You have lead the Big Red One in stopping the German advance on our flank.  The enemy is now forced to attack due west.  Sadly, that attack has yet to be halted,  but soon we will avenge our retreat in the Ardennes!  You are ordered to let your men dig in and be prepared for any new German strikes against your sector."
+   }
+  }, 
+  "scenario": "ocampard.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "ARDENNES COUNTERATTACK (17 JANUARY 1945)<br><br>The tide has turned.  The German offensive did not even reach the Meuse River and Bastogne held out under its siege.  The US Army will strike back and avenge our defeat! The US Third Army is relieving Bastogne in the south and US First Army will strike the German bulge from the north.<br><br>Your 1st Infantry Division is still dug in near Butgenbach but has received orders to advance. You must drive the enemy back to Germany.  The Germans in your sector have had time to prepare defensive positions but the good news is that most of the German panzer divisions seem to be located near Bastogne.  Your sector will most likely be defended by infantry. Panzers or not, the Big Red One will be victorious!<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may be upgraded but it should be a 1-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 1). ", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "After bitter and hard fighting in terrible conditions we have driven the enemy back to his home country.  And this time Hitler has little possibility of holding the Allied armies at the German border.  Once more plans are being made to drive into Germany and reach the Rhine River.  Be prepared for offensive operations at any moment."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed leading the Big Red One to victory in the Ardennes counterattack."
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "After bitter and hard fighting in terrible conditions we have driven the enemy back to his home country.  And this time Hitler has little possibility of holding the Allied armies at the German border.  Once more plans are being made to drive into Germany and reach the Rhine River.  Be prepared for offensive operations at any moment."
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 700, 
+    "text": "After bitter and hard fighting in terrible conditions we have driven the enemy back to his home country.  And this time Hitler has little possibility of holding the Allied armies at the German border.  Once more plans are being made to drive into Germany and reach the Rhine River.  Be prepared for offensive operations at any moment."
+   }
+  }, 
+  "scenario": "ocampar2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "ROER CROSSING (8 February 1945)<br><br>The German Army is in retreat and we will give it no respite.  The counteroffensive against the bulge will be translated in a huge Allied offensive along the entire front to reach the Rhine River.<br><br>Your division will have to break through the West wall for a second time, this time near Schmidt.  The US 2nd Infantry Division is on your right flank.  Together you must break through and force your way over the Roer River.  This is very important because of the many dams here.  If the Germans break the dams, the Roer River valley will be flooded.  US Ninth Army to the north is waiting for you the capture of these dams before crossing the Roer River and advancing towards the Rhine River.<br><br>The German defenses are expected to be in bad shape after the losses suffered during the Ardennes campaign but do not underestime the enemy.  Also you are again advancing through pieces of the dreaded Huertgen Forest.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may now also be upgraded to a 2-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 2).", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The Germans just crumbled under the Allied advance.  Thanks to your victory here and the capture of the Roer dams the US Ninth Army has been able to start its offensive.  Our US First Army is closer to the Rhine then ever before!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to cross the Roer River and capture the dams.  Because of your failure the US Ninth Army is still not on the offensive."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The Germans just crumbled under the Allied advance.  Thanks to your victory here and the capture of the Roer dams the US Ninth Army has been able to start its offensive.  Our US First Army is closer to the Rhine then ever before!"
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The Germans just crumbled under the Allied advance.  Thanks to your victory here and the capture of the Roer dams the US Ninth Army has been able to start its offensive.  Our US First Army is closer to the Rhine then ever before!"
+   }
+  }, 
+  "scenario": "ocamproe.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "PADERBORN (30 MARCH 1945)<br><br>The Rhine River has been crossed at multiple points by several Allied armies.  The US First Army made an easy crossing thanks to the capture of a bridge over the Rhine at Remagen. The first Allied objective is now to encircle the Ruhr industrial area before advancing on Berlin.  The US Ninth Army will make the northern pincer while US First Army will sweep around the Ruhr area from the south.<br><br>In a daring move, US 3rd Armored and 1st Infantry Divisions have been send on a wide flanking maneuver to capture Paderborn where we will wait for Ninth Army to make contact. The Germans must have been alerted and will problaby try to send forces back to recapture Paderborn and force their way out of the pocket. <br><br>Special attention should be paid to the Sennelager Panzer School near Paderborn.  It is holy ground for the German Army.  It is their Fort Knox.  Expect heavy resistance, most likely by instructors and students.  The 3rd Armored will take care of that.  The Big Red One will seal and man the line to the west.  This will prevent the Germans inside the Ruhr pocket from beaking out.  Elements of 2nd Armored Division, part of Ninth Army, are expected to arrive within days.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may now also be upgraded to a 2-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 2).", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "An excellent battle!  The Big Red One has thwarded all German hopes of stopping the US forces in encircling the Ruhr area.  Even more, after a bitter tank battle, Paderborn and the Sennelager Panzer School have also been captured.  Soon we will advance to Berlin and end this war!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to hold back the German forces attacking from the Ruhr area and you did not capture and hold Paderborn."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "An excellent battle!  The Big Red One has thwarded all German hopes of stopping the US forces in encircling the Ruhr area.  Even more, after a bitter tank battle, Paderborn and the Sennelager Panzer School have also been captured.  Soon we will advance to Berlin and end this war!"
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 750, 
+    "text": "An excellent battle!  The Big Red One has thwarded all German hopes of stopping the US forces in encircling the Ruhr area.  Even more, after a bitter tank battle, Paderborn and the Sennelager Panzer School have also been captured.  Soon we will advance to Berlin and end this war!"
+   }
+  }, 
+  "scenario": "ocamppad.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "HARZ MOUNTAINS (12 APRIL 1945)<br><br>The war is almost over.  We have trapped a huge German army in the Ruhr pocket and are advancing across Germany with very little opposition.  Montgomery is near Hamburg and Patton will soon be in Munich.  Sadly, Eisenhower has directed not to advance further than the Elbe River and leave Berlin to the Soviet armies.<br><br>There is one major obstacle in central Germany before reaching the Elbe River and that is the Harz Mountains.  Our plan is to go around these mountains and leave the mopping up of this area to other forces.  However, we must make the roads leading east safe.<br><br>The Big Red One will advance along the southern hills of the Harz.  The Germans have concentrated forces in the Harz to relieve the Ruhr pocket.  That is only an illusion but the forces there and will most likely furiously defend the passes.<br><br>IF PLAYING WITH RULES: Do not upgrade any units except recon and anti-tank units. Your tank may now also be upgraded to a 2-range tank. Your core should be 4 ARTY (1 155m M1, 3 105mm M2), 9 INF (44 Infantry), 1 RECON, 1 AT, 1 TANK (range 2).", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The advance by the US Army to the Elbe River is secured.  The war will soon be over.  Berlin is close to being captured.  Most of Germany and Italy are occupied by the Allied  armies.  It will only be a matter of days before World War 2 in Europe is over.  The Big Red One had a small but vital role in achieving this victory!  Congratulations!"
+   }, 
+   "lose": {
+    "goto": 0, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You failed to make the roads leading east and south of the Harz Mountains safe for the advance to the Elbe River."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The advance by the US Army to the Elbe River is secured.  The war will soon be over.  Berlin is close to being captured.  Most of Germany and Italy are occupied by the Allied  armies.  It will only be a matter of days before World War 2 in Europe is over.  The Big Red One had a small but vital role in achieving this victory!  Congratulations!"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The advance by the US Army to the Elbe River is secured.  The war will soon be over.  Berlin is close to being captured.  Most of Germany and Italy are occupied by the Allied  armies.  It will only be a matter of days before World War 2 in Europe is over.  The Big Red One had a small but vital role in achieving this victory!  Congratulations!"
+   }
+  }, 
+  "scenario": "ocamphar.xml", 
+  "startprestige": 0
+ }
+]

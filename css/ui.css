@@ -1,0 +1,433 @@
+@import url("fonts.css");
+@import url("ui-startmenu.css");
+@import url("ui-unit-info.css");
+@import url("ui-message.css");
+@import url("ui-equipment.css");
+@import url("ui-combat-info.css");
+
+body,html 
+{ 
+	margin:0; 
+	padding:0; 
+	border:0; 
+	height:100%; 
+	/*overflow-y:auto; */
+	overflow: hidden; /* hide the scroll bars that appear when the #game div is as large as the window */
+	background:black;
+	background-image: url('../resources/ui/page/images/mainbg.png');
+}
+#game
+{
+/*
+	margin-right: auto;
+	margin-left: auto;
+*/
+	position: relative;
+	overflow: auto;
+	margin: 0 auto;
+	border: 0px solid black;
+	outline: none; /* don't show the focus outline */
+
+    /* for the strategic map scale */
+    -webkit-transform-origin:0 0;
+    -moz-transform-origin:0 0;
+
+	/* Activate 3D acceleration for WebKit based browsers*/
+	/* Performance regression on iOS. Needs further benchmarking 
+	-webkit-backface-visibility: hidden;
+	-webkit-perspective: 1000;
+	-webkit-transform: translate3d(0, 0, 0);
+	*/
+}
+
+canvas, img
+{
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast;
+
+}
+
+/* Hide the touch highlight for Android/iOS and optimize fonts */
+*
+{
+       -webkit-font-smoothing: antialiased;
+       text-rendering: optimizeLegibility;
+       -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+       -webkit-touch-callout: none;
+       -webkit-user-select: none;
+       -moz-user-select: none;
+}
+
+#statusbar
+{
+	position:fixed; 
+	float:left; 
+	width: 840px;
+	margin-left: -420px;
+	left: 50%;
+	border:0px solid #000;
+	/* to have content with opacity too
+	background-color:black;
+	opacity: 0.6;
+	*/
+	background: rgba(0,0,0,0.7);
+	z-index:3;
+	border-radius: 5px;
+    height: 26px;
+    max-height: 26px;
+    overflow: hidden;
+}
+
+#statusbar-extension
+{
+    position:fixed;
+    float:left;
+    width: 300px;
+    margin-left: -150px;
+    height: 20px;
+    left: 50%;
+    top: 25px; /* Below statusbar */
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    border:0px solid #000;
+    background: rgba(0,0,0,0.7);
+    z-index:202; /* above statusbar & combatlog button*/
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: none;
+}
+
+.statusbar-extension-animation
+{
+    -webkit-animation:statusbar-extension-anim 2s linear;
+    -moz-animation:statusbar-extension-anim 2s linear;
+}
+
+.statusbar-extension-animation-reverse
+{
+    -webkit-animation:statusbar-extension-anim-rev 2s linear;
+    -moz-animation:statusbar-extension-anim-rev 2s linear;
+}
+
+#statusBarButton, #unitsBarButton
+{
+    position:fixed;
+    width: 40px;
+    height: 13px;
+    top: 15px; /* Below statusbar */
+    left: 50%;
+    margin-left: -20px;
+
+    font-family: openpanzer-menu;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 7px;
+/*
+    background: rgba(0, 0, 0, 0.7);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+*/
+    z-index:201; /* above statusbar */
+
+    cursor: pointer;
+
+    display: none;
+}
+
+#unitsBarButton
+{
+    top: 95px;
+}
+
+#menu 
+{
+	position:fixed;
+	float:left; 
+	width: 35px;
+    right: 10px;
+	top: 50%;
+    margin-top: -140px; /* align closer to the top of the screen */
+	border:0px solid #000; 
+	color:white;
+	background-color: transparent;
+	z-index: 200; /* Higher than all other UI elements except the big start menu */
+}
+
+#slidemenu
+{
+	display: none;
+}
+
+#weathermsg
+{
+    font-family: openpanzer;
+    font-size: 20px;
+    width: 4%;
+    min-width: 35px; /*Don't let weather icons get overwritten by following divs if the statusbar is shrank */
+    cursor: help;
+    float: left;
+    color: #33ccff;
+    padding-top: 1px;
+    padding-left: 5px;
+}
+
+#statusmsg
+{
+    width: 48%;
+    height:18px;
+    max-height: 18px;
+    float: left;
+    padding: 5px 0px 0px 1px;
+    overflow: hidden;
+    display: flex;
+}
+
+#locmsg
+{
+    width: 42%;
+    height:18px;
+    max-height: 18px;
+    text-align: right;
+    float: right;
+    padding: 5px 5px 0px 0px;
+    overflow: hidden;
+}
+
+.message
+{
+	color: #f8e064;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: normal;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+a, a:visited
+{
+	color: white;
+}
+
+/*hr
+{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(248, 224, 100, 0.3);
+}*/
+
+hr
+{
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), #f8e064, rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), #f8e064, rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), #f8e064, rgba(0,0,0,0));
+}
+
+.hvcenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.vcenter {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hvcenterparent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexcenterrow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.hcenter {
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.smallButton /* the small rounded buttons for menu actions (ok/close/sort/buy/upgrade)*/
+{
+    min-width: 26px;
+    min-height: 26px;
+    line-height: 26px;
+    border: solid 3px #f90;
+    border-radius: 50%;
+    box-shadow: 1px 2px 3px rgba(0,0,0,.75), inset 0 0 0 5px rgba(0,0,0,.16);
+    margin-right: 10px;
+    margin-left: 10px;
+    font-family: openpanzer-menu;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: none;
+    background-color: #000;
+    background-repeat: no-repeat;
+    color: #f8e064;
+    cursor: pointer;
+}
+
+.smallButtonMenu /* the main menu rounded buttons */
+{
+    min-width: 28px;
+    min-height: 28px;
+    line-height: 28px;
+    border-radius: 50%;
+    border: 2px solid #ffb506;
+    box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,1), -4px 2px 6px 2px rgba(0,0,0,0.6);
+    margin-right: 5px;
+    margin-left: 5px;
+    font-family: openpanzer-menu;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    background-color: #ffb506;
+    background-repeat: no-repeat;
+    color: #000;
+    cursor: pointer;
+    text-shadow: none;
+    float:left;
+}
+
+.smallButtonMenu[selected] /* the main menu rounded buttons when toggled*/
+{
+    background-color: #000;
+    color: #ffb506;
+}
+
+.smallButtonMenu[confirmation] /* the main menu rounded button waiting for confirmation */
+{
+    -webkit-animation:button-confirm-anim 0.5s 6 linear;
+    -moz-animation:button-confirm-anim 0.5s 6 linear;
+}
+
+.smallButtonEndTurn /* Bigger end turn button */
+{
+    min-width: 36px;
+    min-height: 36px;
+    line-height: 36px;
+    font-size: 28px;
+    margin-left: 2px;
+}
+
+.smallButtonSubMenu /* the small rounded buttons for sub selections */
+{
+    min-width: 26px;
+    min-height: 26px;
+    line-height: 26px;
+    border: solid 3px #f90;
+    border-radius: 50%;
+    box-shadow: 1px 2px 3px rgba(0,0,0,.75), inset 0 0 0 5px rgba(0,0,0,.16);
+    margin-right: 7px;
+    margin-left: 5px;
+    font-family: openpanzer-menu;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: none;
+    background-color: #000;
+    background-repeat: no-repeat;
+    color: #f8e064;
+    cursor: pointer;
+    float:left;
+}
+
+.smallButtonSubMenu[selected] /* the small rounded buttons for sub selections when toggled */
+{
+    background-color: #f8e064;
+    color: #000;
+    box-shadow: none;
+}
+
+.smallButtonAlert
+{
+    width: 26px;
+    color: #33ccff;
+    margin-left:4px;
+    animation: colorchange 1000ms ease-in-out infinite;
+}
+
+.blackBoxBorder
+{
+    border-radius: 5px;
+    background-color: #000;
+    border: solid 1px #f90;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: center;
+    letter-spacing: 0px;
+}
+
+/* Simple glowing animation */
+@keyframes colorchange {
+    0% { color: #33ccff; }
+    50% { color: #ffffff; }
+    100% { color: #33ccff; }
+}
+
+/* animation for statusbar-extension */
+@-webkit-keyframes statusbar-extension-anim
+{
+    from {top: -20px; }
+    to { top: 25px; }
+}
+
+@-moz-keyframes statusbar-extension-anim
+{
+    from {top: -20px; }
+    to { top: 25px; }
+}
+
+@-webkit-keyframes statusbar-extension-anim-rev
+{
+    from {top: 25px; }
+    to { top: -20px; }
+}
+
+@-moz-keyframes statusbar-extension-anim-rev
+{
+    from {top: 25px; }
+    to { top: -20px; }
+}
+
+
+/* animation for End Turn confirmation */
+@-webkit-keyframes button-confirm-anim
+{
+    /*
+    from { background-color: #ffb506; }
+    to { background-color: #000; }
+    */
+    from { background-color: #000; color: #ffb506; }
+    to { background-color: #ffb506; color: #000; }
+
+}
+
+@-moz-keyframes button-confirm-anim
+{
+    from { background-color: #ffb506; }
+    to { background-color: #000; }
+}

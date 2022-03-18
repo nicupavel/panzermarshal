@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="ocamphur.scn" name="Huertgen Forest" turns="12, 14, 18" date="November 16, 1944" dayturns="3" ground="0" atmosferic="1" latitude="2" rows="40" cols="45" eqp="eqp-adlerkorps" image="resources/maps/images/map_610.png">
+  <player id="0" country="9" side="1" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200"/>
+  <player id="1" country="7" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="22" col="16">
+      <unit id="468" owner="0" flag="10" face="9" exp="157" str="8"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="22" col="2">
+      <unit id="468" owner="0" flag="10" face="7" exp="254" str="7"/>
+    </at>
+    <at row="22" col="4">
+      <unit id="468" owner="0" flag="10" face="8" exp="157" str="8"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="1" col="16">
+      <unit id="606" owner="1" flag="8" face="15" transport="156" exp="687" str="7"/>
+    </at>
+    <at row="1" col="15">
+      <unit id="151" owner="1" flag="8" face="15" exp="557" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="5">
+    <at row="0" col="15">
+      <unit id="105" owner="1" flag="8" face="15" exp="557" str="5"/>
+    </at>
+    <at row="0" col="13">
+      <unit id="1245" owner="1" flag="8" face="15" exp="457" str="7"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="1" col="14">
+      <unit id="1245" owner="1" flag="8" face="15" exp="457" str="8"/>
+    </at>
+    <at row="0" col="17">
+      <unit id="110" owner="1" flag="8" face="15" transport="156" exp="587" str="5"/>
+    </at>
+  </reinforce>
+  <reinforce turn="8">
+    <at row="1" col="22">
+      <unit id="77" owner="1" flag="8" face="0" exp="454" str="7"/>
+    </at>
+    <at row="0" col="21">
+      <unit id="1245" owner="1" flag="8" face="15" exp="554" str="8"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="6" road="8"/>
+  <hex row="0" col="7" road="136" deploy="1"/>
+  <hex row="0" col="9" road="40" deploy="1"/>
+  <hex row="0" col="11" road="40" deploy="1"/>
+  <hex row="0" col="14" terrain="3"/>
+  <hex row="0" col="15" road="33"/>
+  <hex row="0" col="16" terrain="3"/>
+  <hex row="0" col="17" terrain="3"/>
+  <hex row="0" col="18" terrain="3"/>
+  <hex row="0" col="19" terrain="3"/>
+  <hex row="0" col="20" terrain="3"/>
+  <hex row="0" col="21" terrain="3" road="40"/>
+  <hex row="0" col="22" terrain="10"/>
+  <hex row="0" col="24" road="16"/>
+  <hex row="0" col="25" terrain="10" name="Inde River"/>
+  <hex row="0" col="26" terrain="3"/>
+  <hex row="0" col="27" terrain="3"/>
+  <hex row="1" col="0" terrain="3" road="8"/>
+  <hex row="1" col="1" terrain="3" road="136"/>
+  <hex row="1" col="2" terrain="3"/>
+  <hex row="1" col="3" terrain="3"/>
+  <hex row="1" col="8" road="130" deploy="1"/>
+  <hex row="1" col="9" deploy="1"/>
+  <hex row="1" col="10" road="130" deploy="1"/>
+  <hex row="1" col="11" deploy="1"/>
+  <hex row="1" col="12" road="136" deploy="1"/>
+  <hex row="1" col="13" road="136"/>
+  <hex row="1" col="14" road="18"/>
+  <hex row="1" col="18" terrain="3"/>
+  <hex row="1" col="20" road="18"/>
+  <hex row="1" col="21" terrain="3"/>
+  <hex row="1" col="22" terrain="3" road="136"/>
+  <hex row="1" col="23" road="130"/>
+  <hex row="1" col="24" road="49"/>
+  <hex row="1" col="25" terrain="5" flag="7" owner="1" victory="1">
+    <unit id="334" owner="1" flag="8" face="4" exp="444" ent="21" str="8"/>
+  </hex>
+  <hex row="1" col="26" terrain="10" name="Inde River"/>
+  <hex row="1" col="27" terrain="10" name="Inde River"/>
+  <hex row="2" col="0" terrain="3"/>
+  <hex row="2" col="1" terrain="3" deploy="1"/>
+  <hex row="2" col="2" terrain="3" road="136" deploy="1"/>
+  <hex row="2" col="3" road="136" deploy="1"/>
+  <hex row="2" col="14" road="153"/>
+  <hex row="2" col="15" road="136"/>
+  <hex row="2" col="19" terrain="1" road="18" name="Wilhelmshohe" flag="7" owner="1"/>
+  <hex row="2" col="20" road="33"/>
+  <hex row="2" col="21" terrain="3"/>
+  <hex row="2" col="22" terrain="3"/>
+  <hex row="2" col="23" terrain="3"/>
+  <hex row="2" col="24" road="17"/>
+  <hex row="2" col="25" terrain="10" name="Inde River"/>
+  <hex row="2" col="26" terrain="5"/>
+  <hex row="2" col="27" terrain="10" name="Inde River"/>
+  <hex row="3" col="2" terrain="3" deploy="1"/>
+  <hex row="3" col="3" deploy="1"/>
+  <hex row="3" col="4" road="144" deploy="1"/>
+  <hex row="3" col="5" deploy="1"/>
+  <hex row="3" col="14" road="17"/>
+  <hex row="3" col="16" terrain="1" road="136" name="Hucheln" flag="7" owner="1" victory="1">
+    <unit id="1245" owner="1" flag="8" face="15" transport="2554" exp="454" ent="8" str="7"/>
+  </hex>
+  <hex row="3" col="17" road="136"/>
+  <hex row="3" col="19" road="41"/>
+  <hex row="3" col="21" terrain="3"/>
+  <hex row="3" col="22" terrain="3"/>
+  <hex row="3" col="24" road="17"/>
+  <hex row="3" col="25" terrain="10" name="Inde River"/>
+  <hex row="3" col="26" terrain="10" name="Inde River"/>
+  <hex row="3" col="27" terrain="3"/>
+  <hex row="4" col="3" terrain="16"/>
+  <hex row="4" col="4" road="9" deploy="1"/>
+  <hex row="4" col="5" road="136" deploy="1"/>
+  <hex row="4" col="6" deploy="1"/>
+  <hex row="4" col="9" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="4" col="14" road="17"/>
+  <hex row="4" col="18" road="130"/>
+  <hex row="4" col="20" road="136"/>
+  <hex row="4" col="21" road="136"/>
+  <hex row="4" col="22" terrain="3"/>
+  <hex row="4" col="24" road="17"/>
+  <hex row="4" col="25" terrain="10" name="Inde River"/>
+  <hex row="4" col="26" terrain="3"/>
+  <hex row="4" col="27" terrain="3"/>
+  <hex row="4" col="32" deploy="0"/>
+  <hex row="5" col="4" terrain="16"/>
+  <hex row="5" col="6" road="136" deploy="1"/>
+  <hex row="5" col="7" road="136"/>
+  <hex row="5" col="8" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="5" col="9" terrain="3" name="Hill 232" flag="7" owner="1">
+    <unit id="2388" owner="1" flag="8" face="4" exp="357" ent="11" str="8"/>
+  </hex>
+  <hex row="5" col="13" road="34"/>
+  <hex row="5" col="14" road="33"/>
+  <hex row="5" col="15" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="5" col="22" road="136"/>
+  <hex row="5" col="23" road="136">
+    <unit id="923" owner="1" flag="8" face="4" exp="357" ent="21" str="7"/>
+  </hex>
+  <hex row="5" col="24" terrain="5" road="17"/>
+  <hex row="5" col="25" terrain="5"/>
+  <hex row="5" col="26" terrain="10" name="Inde River"/>
+  <hex row="5" col="27" terrain="10" name="Inde River"/>
+  <hex row="6" col="0" road="8"/>
+  <hex row="6" col="1" road="136"/>
+  <hex row="6" col="3" road="40"/>
+  <hex row="6" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="8" terrain="1" road="144" name="Hamich" flag="7" owner="1" victory="1">
+    <unit id="1251" owner="1" flag="8" face="1" exp="454" ent="8" str="7"/>
+  </hex>
+  <hex row="6" col="9" terrain="3" road="40" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="10" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="11" road="34"/>
+  <hex row="6" col="12" road="50">
+    <unit id="923" owner="1" flag="8" face="4" exp="357" ent="22" str="8"/>
+  </hex>
+  <hex row="6" col="13" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="14" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="6" col="23">
+    <unit id="78" owner="1" flag="8" face="13" transport="601" exp="557" ent="12" str="7"/>
+  </hex>
+  <hex row="6" col="24" terrain="1" road="153" name="Merberich"/>
+  <hex row="6" col="25" terrain="1" road="168" name="Merberich" flag="7" owner="1" victory="1" supply="1">
+    <unit id="1245" owner="1" flag="8" face="12" transport="2554" exp="454" ent="7" str="7"/>
+  </hex>
+  <hex row="6" col="26" terrain="10" name="Inde River"/>
+  <hex row="7" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="2" road="130"/>
+  <hex row="7" col="3" terrain="3"/>
+  <hex row="7" col="4" terrain="3" road="144" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="7" terrain="1" road="34" name="Kottenich" flag="7" owner="1"/>
+  <hex row="7" col="8" road="51"/>
+  <hex row="7" col="9">
+    <unit id="92" owner="1" flag="8" face="1" exp="457" ent="6" str="8"/>
+  </hex>
+  <hex row="7" col="10" road="130"/>
+  <hex row="7" col="11" terrain="3" road="18" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="12" road="33"/>
+  <hex row="7" col="14" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="7" col="21" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="7" col="23" road="34">
+    <unit id="923" owner="1" flag="8" face="4" exp="457" ent="20" str="8"/>
+  </hex>
+  <hex row="7" col="24" terrain="1" road="35" name="Merberich"/>
+  <hex row="7" col="25" terrain="10" name="Inde River"/>
+  <hex row="7" col="26" terrain="10" road="130" name="Inde River"/>
+  <hex row="8" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="8" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="8" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="8" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="8" col="4" road="25"/>
+  <hex row="8" col="5" road="162">
+    <unit id="334" owner="1" flag="8" face="4" exp="454" ent="21" str="8"/>
+  </hex>
+  <hex row="8" col="6" road="34"/>
+  <hex row="8" col="8" road="17"/>
+  <hex row="8" col="9">
+    <unit id="923" owner="1" flag="8" face="4" exp="357" ent="21" str="7"/>
+  </hex>
+  <hex row="8" col="10" terrain="3" name="Eschweiler Woods: FOREST">
+    <unit id="67" owner="1" flag="8" face="1" transport="1942" exp="357" ent="5" str="6"/>
+  </hex>
+  <hex row="8" col="11" road="17">
+    <unit id="93" owner="1" flag="8" face="1" exp="454" ent="8" str="8"/>
+  </hex>
+  <hex row="8" col="15" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="798" owner="1" flag="8" face="15" transport="2554" exp="457" ent="9" str="7"/>
+  </hex>
+  <hex row="8" col="17">
+    <unit id="67" owner="1" flag="8" face="15" transport="1942" exp="354" ent="4" str="5"/>
+  </hex>
+  <hex row="8" col="19" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="8" col="20" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="8" col="21" road="18"/>
+  <hex row="8" col="22" road="34"/>
+  <hex row="8" col="23" terrain="10" name="Inde River"/>
+  <hex row="8" col="24" terrain="10" name="Inde River"/>
+  <hex row="8" col="25" terrain="1" name="Merberich"/>
+  <hex row="8" col="26" terrain="10" name="Inde River"/>
+  <hex row="9" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="9" col="1" terrain="14"/>
+  <hex row="9" col="2" terrain="14"/>
+  <hex row="9" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="9" col="4" terrain="3" road="19" name="Eschweiler Woods: FOREST"/>
+  <hex row="9" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="9" col="7" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="9" col="8" road="9"/>
+  <hex row="9" col="9" road="136"/>
+  <hex row="9" col="11" road="33">
+    <unit id="334" owner="1" flag="8" face="4" exp="587" ent="18" str="8"/>
+  </hex>
+  <hex row="9" col="13" terrain="14"/>
+  <hex row="9" col="14" terrain="14"/>
+  <hex row="9" col="15" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="1245" owner="1" flag="8" face="0" transport="2554" exp="454" ent="8" str="7"/>
+  </hex>
+  <hex row="9" col="21" terrain="3" road="33" name="Huertgen Forest: FOREST"/>
+  <hex row="9" col="23" terrain="1" name="Schonthal" flag="7" owner="1" victory="1">
+    <unit id="2554" owner="1" flag="8" face="14" exp="654" ent="15" str="7"/>
+  </hex>
+  <hex row="9" col="24" terrain="10" name="Inde River"/>
+  <hex row="9" col="25" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="9" col="26" terrain="10" name="Inde River"/>
+  <hex row="9" col="27" terrain="10" name="Inde River"/>
+  <hex row="10" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="10" col="1" terrain="14"/>
+  <hex row="10" col="2" terrain="14"/>
+  <hex row="10" col="3" terrain="3" road="18" name="Eschweiler Woods: FOREST">
+    <unit id="1245" owner="1" flag="8" face="15" transport="2554" exp="357" ent="5" str="7"/>
+  </hex>
+  <hex row="10" col="4" terrain="3" road="33" name="Eschweiler Woods: FOREST"/>
+  <hex row="10" col="5" terrain="14"/>
+  <hex row="10" col="6" terrain="14"/>
+  <hex row="10" col="7" terrain="14"/>
+  <hex row="10" col="8" terrain="3" name="Eschweiler Woods: FOREST">
+    <unit id="1245" owner="1" flag="8" face="15" transport="2554" exp="457" ent="12" str="7"/>
+  </hex>
+  <hex row="10" col="9">
+    <unit id="923" owner="1" flag="8" face="4" exp="458" ent="19" str="8"/>
+  </hex>
+  <hex row="10" col="10" road="146"/>
+  <hex row="10" col="11">
+    <unit id="923" owner="1" flag="8" face="4" exp="457" ent="19" str="8"/>
+  </hex>
+  <hex row="10" col="12">
+    <unit id="923" owner="1" flag="8" face="4" exp="457" ent="20" str="8"/>
+  </hex>
+  <hex row="10" col="14" terrain="14"/>
+  <hex row="10" col="15" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="16" terrain="3" name="Huertgen Forest: FOREST" flag="7" owner="1" victory="1">
+    <unit id="1245" owner="1" flag="8" face="15" transport="2554" exp="357" ent="4" str="8"/>
+  </hex>
+  <hex row="10" col="17" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="18" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="19" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="20" road="18"/>
+  <hex row="10" col="21" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="23" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="24" terrain="10" name="Inde River"/>
+  <hex row="10" col="25" terrain="10" name="Inde River"/>
+  <hex row="10" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="10" col="27" terrain="10" name="Inde River"/>
+  <hex row="11" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="11" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="11" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="11" col="3" road="17"/>
+  <hex row="11" col="4" terrain="14"/>
+  <hex row="11" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="11" col="6">
+    <unit id="1245" owner="1" flag="8" face="1" exp="387" ent="6" str="8"/>
+  </hex>
+  <hex row="11" col="7" terrain="14"/>
+  <hex row="11" col="8" terrain="14"/>
+  <hex row="11" col="9" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="11" col="10" terrain="1" road="25" name="Gressenich" flag="7" owner="1" victory="1">
+    <unit id="1245" owner="1" flag="8" face="0" transport="2554" exp="557" ent="14" str="8" ldr="1"/>
+  </hex>
+  <hex row="11" col="11" road="144"/>
+  <hex row="11" col="16" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="11" col="17" terrain="14"/>
+  <hex row="11" col="18" terrain="14"/>
+  <hex row="11" col="19" road="18">
+    <unit id="923" owner="1" flag="8" face="4" exp="455" ent="20" str="8"/>
+  </hex>
+  <hex row="11" col="20" road="49">
+    <unit id="79" owner="1" flag="8" face="15" exp="455" ent="12" str="8"/>
+  </hex>
+  <hex row="11" col="21" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="923" owner="1" flag="8" face="4" exp="455" ent="21" str="8"/>
+  </hex>
+  <hex row="11" col="22" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="11" col="23" terrain="14"/>
+  <hex row="11" col="24" terrain="14"/>
+  <hex row="11" col="25" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="11" col="26" terrain="10" name="Inde River"/>
+  <hex row="11" col="27" terrain="10" name="Inde River"/>
+  <hex row="12" col="0" terrain="10" name="Omer River"/>
+  <hex row="12" col="1" terrain="10" name="Omer River"/>
+  <hex row="12" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="12" col="3" terrain="3" road="17" name="Eschweiler Woods: FOREST">
+    <unit id="78" owner="1" flag="8" face="15" transport="601" exp="354" ent="6" str="7"/>
+  </hex>
+  <hex row="12" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="12" col="5" terrain="14"/>
+  <hex row="12" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="12" col="7" terrain="3" name="Eschweiler Woods: FOREST">
+    <unit id="567" owner="0" flag="10" face="7" transport="449" exp="357" str="7" ldr="1"/>
+  </hex>
+  <hex row="12" col="8" terrain="3"/>
+  <hex row="12" col="9" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="12" col="10" road="17"/>
+  <hex row="12" col="11" road="9"/>
+  <hex row="12" col="18" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="19" terrain="3" road="33" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="20" terrain="3" road="17" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="21" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="22" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="64" owner="1" flag="8" face="15" transport="1942" exp="354" ent="5" str="7"/>
+  </hex>
+  <hex row="12" col="23" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="92" owner="1" flag="8" face="15" exp="454" ent="8" str="7"/>
+  </hex>
+  <hex row="12" col="24" terrain="14"/>
+  <hex row="12" col="25" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="12" col="27" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="13" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="2" terrain="10" name="Omer River"/>
+  <hex row="13" col="3" terrain="10" road="33" name="Omer River"/>
+  <hex row="13" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="7" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="8" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="13" col="9" road="34">
+    <unit id="567" owner="0" flag="10" face="7" transport="449" exp="357" str="8"/>
+  </hex>
+  <hex row="13" col="10" road="33"/>
+  <hex row="13" col="11">
+    <unit id="567" owner="0" flag="10" face="8" transport="449" exp="357" str="9"/>
+  </hex>
+  <hex row="13" col="12" road="136"/>
+  <hex row="13" col="13" road="136"/>
+  <hex row="13" col="17" road="34"/>
+  <hex row="13" col="18" road="34"/>
+  <hex row="13" col="20" terrain="3" road="9" name="Huertgen Forest: FOREST"/>
+  <hex row="13" col="21" road="144"/>
+  <hex row="13" col="22" terrain="3" name="Huertgen Forest: FOREST">
+    <unit id="923" owner="1" flag="8" face="4" exp="457" ent="20" str="8"/>
+  </hex>
+  <hex row="13" col="23" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="13" col="24" terrain="14"/>
+  <hex row="13" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="13" col="27" terrain="3" road="34" name="Huertgen Forest: FOREST"/>
+  <hex row="14" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="14" col="1" terrain="3" name="Eschweiler Woods: FOREST">
+    <unit id="1989" owner="0" flag="10" face="6" transport="450" exp="354" str="7"/>
+  </hex>
+  <hex row="14" col="2" road="18"/>
+  <hex row="14" col="3" terrain="10" name="Omer River"/>
+  <hex row="14" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="14" col="7" road="18"/>
+  <hex row="14" col="8" road="34"/>
+  <hex row="14" col="11" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="14" col="14" road="136"/>
+  <hex row="14" col="15" road="130"/>
+  <hex row="14" col="16" road="34"/>
+  <hex row="14" col="18" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="14" col="20" terrain="1" name="Heistern" flag="7" owner="1" victory="1">
+    <unit id="1245" owner="1" flag="8" face="15" transport="2554" exp="457" ent="13" str="7"/>
+  </hex>
+  <hex row="14" col="21" road="9"/>
+  <hex row="14" col="25" road="34"/>
+  <hex row="14" col="26" road="34">
+    <unit id="334" owner="1" flag="8" face="4" exp="457" ent="20" str="7"/>
+  </hex>
+  <hex row="14" col="27" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="15" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="15" col="1" road="34">
+    <unit id="445" owner="0" flag="10" face="6" exp="367" str="8"/>
+  </hex>
+  <hex row="15" col="2" road="33">
+    <unit id="445" owner="0" flag="10" face="7" exp="357" str="7"/>
+  </hex>
+  <hex row="15" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="15" col="4" terrain="10" name="Omer River"/>
+  <hex row="15" col="5" terrain="10" name="Omer River"/>
+  <hex row="15" col="6" deploy="0"/>
+  <hex row="15" col="7" road="17" deploy="0"/>
+  <hex row="15" col="8" deploy="0"/>
+  <hex row="15" col="11" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="15" col="12" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="15" col="13" terrain="3" name="Huertgen Forest: FOREST" deploy="0"/>
+  <hex row="15" col="15" terrain="3" name="Huertgen Forest: FOREST" deploy="0"/>
+  <hex row="15" col="17" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="15" col="22" terrain="1" road="136" name="Wenau" flag="7" owner="1">
+    <unit id="334" owner="1" flag="8" face="4" exp="457" ent="20" str="8"/>
+  </hex>
+  <hex row="15" col="23" road="136"/>
+  <hex row="15" col="24" terrain="1" road="18" name="Laufenburg" flag="7" owner="1">
+    <unit id="1245" owner="1" flag="8" face="1" transport="2554" exp="457" ent="12" str="7"/>
+  </hex>
+  <hex row="15" col="27" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="16" col="0" road="2"/>
+  <hex row="16" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="16" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="16" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="16" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="16" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="16" col="6" terrain="10" name="Omer River"/>
+  <hex row="16" col="7" terrain="10" road="9" name="Omer River"/>
+  <hex row="16" col="8" terrain="10" name="Omer River"/>
+  <hex row="16" col="9" terrain="10" name="Omer River"/>
+  <hex row="16" col="10" terrain="10" name="Omer River"/>
+  <hex row="16" col="11" terrain="10" name="Omer River"/>
+  <hex row="16" col="13" terrain="10" name="Omer River" deploy="0"/>
+  <hex row="16" col="14" terrain="10" name="Omer River" deploy="0"/>
+  <hex row="16" col="15" terrain="10" name="Omer River" deploy="0"/>
+  <hex row="16" col="16" terrain="10" name="Omer River"/>
+  <hex row="16" col="17" terrain="10" name="Omer River"/>
+  <hex row="16" col="18" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="16" col="19" terrain="10" name="Omer River"/>
+  <hex row="16" col="24" road="137"/>
+  <hex row="16" col="25" road="136"/>
+  <hex row="16" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="16" col="27" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="17" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="17" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="17" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="17" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="17" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="17" col="5" terrain="10"/>
+  <hex row="17" col="6" terrain="10" name="Omer River"/>
+  <hex row="17" col="7" terrain="1" road="42" name="Mausbach" flag="9" owner="0" victory="1" deploy="0"/>
+  <hex row="17" col="8" road="176" deploy="1"/>
+  <hex row="17" col="12" terrain="10" name="Omer River"/>
+  <hex row="17" col="18" terrain="10" name="Omer River"/>
+  <hex row="17" col="19" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="17" col="20" terrain="10" name="Omer River"/>
+  <hex row="17" col="21" terrain="10" name="Omer River"/>
+  <hex row="17" col="26" road="152"/>
+  <hex row="17" col="27" road="136"/>
+  <hex row="18" col="0" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="18" col="1" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="18" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="18" col="3" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="18" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="18" col="5" terrain="10"/>
+  <hex row="18" col="6" road="18" deploy="0"/>
+  <hex row="18" col="7" deploy="0"/>
+  <hex row="18" col="8" road="137" deploy="0"/>
+  <hex row="18" col="9" road="136"/>
+  <hex row="18" col="13" deploy="0"/>
+  <hex row="18" col="15" deploy="0"/>
+  <hex row="18" col="17" terrain="10" name="Omer River"/>
+  <hex row="18" col="18" terrain="10" name="Omer River"/>
+  <hex row="18" col="19" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="18" col="20" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="18" col="21" terrain="10" name="Omer River"/>
+  <hex row="18" col="25" road="18"/>
+  <hex row="18" col="26" road="33"/>
+  <hex row="19" col="0" terrain="5"/>
+  <hex row="19" col="1" terrain="5"/>
+  <hex row="19" col="2" terrain="5" name="Eschweiler Woods: FOREST"/>
+  <hex row="19" col="4" terrain="5" name="Eschweiler Woods: FOREST"/>
+  <hex row="19" col="5" terrain="10"/>
+  <hex row="19" col="6" road="17" deploy="0"/>
+  <hex row="19" col="9" terrain="2"/>
+  <hex row="19" col="10" road="136"/>
+  <hex row="19" col="11" road="136"/>
+  <hex row="19" col="13" deploy="0"/>
+  <hex row="19" col="14" deploy="0"/>
+  <hex row="19" col="15" deploy="0"/>
+  <hex row="19" col="16" deploy="0"/>
+  <hex row="19" col="18" terrain="10" name="Omer River"/>
+  <hex row="19" col="19" terrain="10" name="Omer River"/>
+  <hex row="19" col="20" terrain="10" name="Omer River"/>
+  <hex row="19" col="21" terrain="10" name="Omer River"/>
+  <hex row="19" col="25" road="33"/>
+  <hex row="20" col="0" terrain="5"/>
+  <hex row="20" col="1" terrain="5"/>
+  <hex row="20" col="2" terrain="5"/>
+  <hex row="20" col="5" terrain="10" road="34"/>
+  <hex row="20" col="6" road="33"/>
+  <hex row="20" col="8" terrain="2"/>
+  <hex row="20" col="9" terrain="2" flag="9" owner="0"/>
+  <hex row="20" col="12" road="136"/>
+  <hex row="20" col="13" road="136"/>
+  <hex row="20" col="19" terrain="8"/>
+  <hex row="20" col="20" terrain="10" name="Omer River"/>
+  <hex row="20" col="21" terrain="10" name="Omer River"/>
+  <hex row="20" col="22" terrain="10" name="Omer River"/>
+  <hex row="20" col="23" terrain="10" road="34" name="Omer River" deploy="0"/>
+  <hex row="20" col="24" road="34" deploy="0"/>
+  <hex row="20" col="25" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="20" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="20" col="27" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="21" col="0" terrain="5" road="8"/>
+  <hex row="21" col="1" road="130" name="To Aachen" flag="9" owner="0" supply="0"/>
+  <hex row="21" col="2" road="40"/>
+  <hex row="21" col="3" road="130"/>
+  <hex row="21" col="4" road="34"/>
+  <hex row="21" col="5" terrain="10"/>
+  <hex row="21" col="9">
+    <unit id="458" owner="0" flag="10" face="7" exp="267" str="7"/>
+  </hex>
+  <hex row="21" col="14" road="136"/>
+  <hex row="21" col="15" road="130"/>
+  <hex row="21" col="16" road="40"/>
+  <hex row="21" col="17" road="136"/>
+  <hex row="21" col="19" terrain="8" road="40" deploy="0"/>
+  <hex row="21" col="20" terrain="10" name="Omer River"/>
+  <hex row="21" col="21" terrain="10" road="34" name="Omer River" deploy="0"/>
+  <hex row="21" col="22" terrain="8" road="34" deploy="0"/>
+  <hex row="21" col="23" terrain="10" name="Omer River"/>
+  <hex row="21" col="24" terrain="10" name="Omer River"/>
+  <hex row="21" col="25" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="21" col="26" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="22" col="0" terrain="10"/>
+  <hex row="22" col="1" terrain="10"/>
+  <hex row="22" col="2" terrain="10"/>
+  <hex row="22" col="3" terrain="10"/>
+  <hex row="22" col="4" terrain="10"/>
+  <hex row="22" col="5" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="22" col="6" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="22" col="8">
+    <unit id="458" owner="0" flag="10" face="8" exp="254" str="7"/>
+  </hex>
+  <hex row="22" col="13" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="22" col="15" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="22" col="18" road="130"/>
+  <hex row="22" col="19" deploy="0"/>
+  <hex row="22" col="20" terrain="1" road="130" name="Schevenhutte" flag="9" owner="0" deploy="0"/>
+  <hex row="22" col="21" terrain="10" name="Omer River"/>
+  <hex row="22" col="22" terrain="8"/>
+  <hex row="22" col="23" terrain="10" name="Omer River"/>
+  <hex row="23" col="0" terrain="3"/>
+  <hex row="23" col="2" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="23" col="4" terrain="3" name="Eschweiler Woods: FOREST"/>
+  <hex row="23" col="12" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="23" col="14" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="23" col="16" terrain="3" name="Huertgen Forest: FOREST"/>
+  <hex row="23" col="22" terrain="8"/>
+</map>

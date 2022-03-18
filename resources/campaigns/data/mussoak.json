@@ -1,0 +1,1366 @@
+[
+ {
+  "id": 0, 
+  "intro": "FRONTIER RAID June12 1940<br><br>Good morning Capitano. Welcome to the Libyan desert. You have been put in command of the Ridotta Capuzo garrison. These local garrison troops are part of the 38th Group Frontier Guards.<br><br>We picked up vague rumours that say Mussolini has declared war on England and France. That is probably exagerated, so make your stay in this sea of sand as comfortable as possible.<br><br>In case the English do decide to cross the 271km frontier wire - Graziani's wall - between Libya and Egypt, your orders are to hold on to your positions and harass their supply columns (Hint). That should force them to retreat back into Egypt. There is no need to rush into Egypt with your garrison forces. Our counterintelligence units report that the English have excellent recon information of your positions.", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "FRONTIER RAID June 1940 BV<br><br>Well done Capitano. You were able to drive the English back into Egypt. A good initiative of yours to call in the help of the 30th Group Frontier Guards from Bardia.<br><br>Comando Supremo is very impressed by your performance. I hear a promotion is on the way."
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "FRONTIER RAID June 1940 L<br><br>We understand your garrison was no match for the hundreds of tanks that attacked your positions. We are glad you escaped captivity Capitano.<br><br>Prepare for your next assignment."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "FRONTIER RAID June 1940 TV<br><br>Well done Capitano. You were able to drive the English back into Egypt. A good initiative of yours to call in the help of the 30th Group Frontier Guards from Bardia.<br><br>Comando Supremo is very impressed by your performance. I hear a promotion is on the way."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "FRONTIER RAID June 1940 V<br><br>Well done Capitano. You were able to drive the English back into Egypt. A good initiative of yours to call in the help of the 30th Group Frontier Guards from Bardia.<br><br>Comando Supremo is very impressed by your performance. I hear a promotion is on the way."
+   }
+  }, 
+  "scenario": "it00outb.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "ON TO SIDI BARRANI September10 1940<br><br>General Graziani told Mussolini that we lack trucks, fuel, ammo, tanks and just about everything else needed to conquer Egypt, but to no avail. We shall put an end to these English raids into Libya and liberate Egypt.<br><br>The Libyan Corps will advance along the coastal road while our XXIII Corps - consisting of the 62nd Marmarican and 63rd Cyrene Divisions - will cross the border South of the Libyan Corps.<br><br>Maggiore, you are put in command of the - largely motorised - 158th infantry regiment of the 63rd division.<br><br>First stop: Sidi Barrani.<br><br>Player's note: This campaign has one optional rule: Don't acquire tank units before you take command of the Ariete armoured division.", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "ON TO SIDI BARRANI September 1940 BV<br><br>This advance is pushing our organisational talents to the limit, but we advanced 60 miles into Egypt with only light casualties. Only 300 miles to go to Alexandria.<br><br>Next stop is Mersah Matruh - 80 miles East of your curent position.<br><br>HISTORY<br>The British retreated to buy time and reinforcements. After 4 days and 60 miles inside Egypt, Graziani stops his attack due to supply logistics. To risk going any farther, Graziani said, would risk being defeated until supplies were available. <br>Promised reinforcements were diverted to Greece and Graziani was forced to change his attack plan and could not penetrate deeper than Sidi Barrani.<br>"
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "ON TO SIDI BARRANI September 1940 L<br><br>This advance is pushing our organisational talents to the limit. We told Mussolini this invasion is doomed to fail, and look what has happened. Our attack has stalled completely. <br><br>HISTORY<br>The British retreated to buy time and reinforcements. After 4 days and 60 miles inside Egypt, Graziani stops his attack due to supply logistics. To risk going any farther, Graziani said, would risk being defeated until supplies were available. Promised reinforcements were diverted to Greece and Graziani was forced to change his attack plan and could not penetrate deeper than Sidi Barrani.<br>"
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "ON TO SIDI BARRANI September 1940 TV<br><br>This advance is pushing our organisational talents to the limit, but we advanced 60 miles into Egypt with only light casualties. Only 300 miles to go to Alexandria.<br><br>Next stop is Mersah Matruh - 80 miles East of your curent position.<br><br>HISTORY<br>The British retreated to buy time and reinforcements. After 4 days and 60 miles inside Egypt, Graziani stops his attack due to supply logistics. To risk going any farther, Graziani said, would risk being defeated until supplies were available. <br>Promised reinforcements were diverted to Greece and Graziani was forced to change his attack plan and could not penetrate deeper than Sidi Barrani.<br>"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "ON TO SIDI BARRANI September 1940 V<br><br>This advance is pushing our organisational talents to the limit, but we advanced 60 miles into Egypt with only light casualties. Only 300 miles to go to Alexandria.<br><br>Next stop is Mersah Matruh - 80 miles East of your curent position.<br><br>HISTORY<br>The British retreated to buy time and reinforcements. After 4 days and 60 miles inside Egypt, Graziani stops his attack due to supply logistics. To risk going any farther, Graziani said, would risk being defeated until supplies were available. <br>Promised reinforcements were diverted to Greece and Graziani was forced to change his attack plan and could not penetrate deeper than Sidi Barrani.<br>"
+   }
+  }, 
+  "scenario": "it01sidi.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "ON TO MERSA MATRUH September14 1940<br><br>The 62nd Marmarican and 63rd Cyrene are the only divisions that have a reasonable number of trucks still running. <br><br>Maggiore, take your regiment and press on to Mersa Matruh. The divisions of the Lybian Corps will follow on foot.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "ON TO MERSA MATRUH September14 1940 BV<br><br>Your forces reached Mersah Matruh, but not without suffering high losses. Our army has come to a virtual standstill with most trucks broken down or without fuel. Alexandria is out of range and the only option is to walk back to Sidi Barrani where the Libyan Corps is preparing defensive positions. <br>"
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "ON TO MERSA MATRUH September14 1940 L<br><br>Our army has come to a virtual standstill with most trucks broken down or without fuel. Alexandria is out of range and the only option is to walk back to Sidi Barrani where the Libyan Corps is preparing defensive positions. <br>"
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "ON TO MERSA MATRUH September14 1940 TV<br><br>Your forces reached Mersah Matruh, but not without suffering high losses. Our army has come to a virtual standstill with most trucks broken down or without fuel. Alexandria is out of range and the only option is to walk back to Sidi Barrani where the Libyan Corps is preparing defensive positions. <br>"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "ON TO MERSA MATRUH September14 1940 V<br><br>Your forces reached Mersah Matruh, but not without suffering high losses. Our army has come to a virtual standstill with most trucks broken down or without fuel. Alexandria is out of range and the only option is to walk back to Sidi Barrani where the Libyan Corps is preparing defensive positions. <br>"
+   }
+  }, 
+  "scenario": "it02mers.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "A DANCE WITH THE QUEEN December12 1940<br><br>You are now in command of the complete 63rd Cyrene Division that is stationed in Camp Sofafi. Main units in the division are the 157 and 158 infantry regiments and the 45th artillery regiment.<br><br>With our fleet crippled by an aerial torpedo attack at Taranto and vital reinforcements and supplies siphoned off to the Greek campaign, there is little more that we could do than sit and wait in our ring of fortresses near Sidi Barrani. <br><br>In the last 3 days, the British 7th Armoured Division and the Indian 4th Division have captured all but our Sofafi and Rabia camps. We have lost the 2 Libica Divisions, the Maletti Group, the fourth Camicie Nere Division and the 64th Catanzaro division.<br><br>Player notes: <br>- All camps need to be in your hands at the end of the scenario to win.<br>- Please do not reassign (sell) the defensive units that you get, but put on the map.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "A DANCE WITH THE QUEEN December1940 BV<br><br>The English took us completely by surprise by sending the 4th Indian and 7th Armored divisions in the gap between Camp Nibeiwa and Camp Rabia. Our fortresses turned out to be too far apart to support each other. <br><br>There is no further use in holding on to the four remaining camps. Take you surviving troops further West to Bardia to strengthen the city parameter defences for an attack that will certainly come."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "A DANCE WITH THE QUEEN December1940 L<br><br>The English took us completely by surprise by sending the 4th Indian and 7th Armored divisions in the gap between Camp Nibeiwa and Camp Rabia. Our fortresses turned out to be too far apart to support each other. <br><br>There is no further use in holding on to the four remaining camps. Take you surviving troops further West to Bardia to strengthen the city parameter defences against an attack that will certainly come."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "A DANCE WITH THE QUEEN December1940 TV<br><br>The English took us completely by surprise by sending the 4th Indian and 7th Armored divisions in the gap between Camp Nibeiwa and Camp Rabia. Our fortresses turned out to be too far apart to support each other. <br><br>There is no further use in holding on to the four remaining camps. Take you surviving troops further West to Bardia to strengthen the city parameter defences against an attack that will certainly come."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "A DANCE WITH THE QUEEN December1940 V<br><br>The English took us completely by surprise by sending the 4th Indian and 7th Armored divisions in the gap between Camp Nibeiwa and Camp Rabia. Our fortresses turned out to be too far apart to support each other. <br><br>There is no further use in holding on to the four remaining camps. Take you surviving troops further West to Bardia to strengthen the city parameter defences against an attack that will certainly come."
+   }
+  }, 
+  "scenario": "it03danc.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "FORTRESS AT BARDIA January03 1941<br><br>Graziani wanted to give up the Cirenaica, but Comando Supremo ordered him to be more optimistic. He split 10th Army in 3 defensive groups: your division and the rest of XXIII Corps in Bardia, XXII Corps in Tobruk and XX Corps holding the Mechili-Derna line.<br><br>Intelligence reports that the 4th Indian division has been redrawn from the front lines and the 6th 'Diggers' Australian division has taken its place.<br><br>The attack on Bardia is imminent, but our 4 divisions should be able to repulse the enemy.  <br><br>Note: Hold on to each of Bardia's defensive positions for as long as possible. A fast enemy advance will demoralize your troops and will lead to a Loss. Do not give up Post 32 and the few houses just NW of it (Hidden VHs) until after the BV turn limit has passed. Do not give up hex(42,8) (Hidden VH) until after the V turn limit has passed.", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "FORTRESS AT BARDIA January1941 BV<br><br>In the chaos after the fall of Bardia some of your troops - accompanied by General Bergonzoli, commander of XXIII Corps - were able to find their way through the English lines and escaped captivity."
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "FORTRESS AT BARDIA January1941 L<br><br>Bardia is lost - and with it the XXIII Corps. You managed to escape to Tobruk after days of walking on foot through the desert, accompanied by General Bergonzoli.<br>"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "FORTRESS AT BARDIA January1941 TV<br><br>In the chaos after the fall of Bardia some of your troops - accompanied by General Bergonzoli, commander of XXIII Corps - were able to find their way through the English lines and escaped captivity.<br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "FORTRESS AT BARDIA January1941 V<br><br>In the chaos after the fall of Bardia some of your troops - accompanied by General Bergonzoli, commander of XXIII Corps - were able to find their way through the English lines and escaped captivity."
+   }
+  }, 
+  "scenario": "it04bard.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "BEDA-FOMM February05 1941<br><br>Disaster - after Bardia also Tobruk has fallen into English hands and XXII Corps has surrendered. <br><br>Your forces are transfered to XX Corps - the remains of 10th Army. General Tellera is in charge of the withdrawal of troops from the Gebel into Sirte. General Babini's armored forces retreated from the El-Mechili area to your area near the coast after they clashed with elements of the 7th Armored Division. They report English columns moving through the desert towards the coast. If we don't move fast, they could cut-off our route of escape.", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BEDA-FOMM February1941 BV<br><br>Congratulations Generale. You broke through the English roadblock and brought your troops safely into Tripolitania.<br><br>The Germans responded to our requests for help and have sent over General Erwin Rommel with what should soon be 2 divisions. The German Fliegerkorps X was moved from Norway to Sicily December last year to patrol the sea lines between Italy and Libya.<br>"
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "BEDA-FOMM February1941 L<br><br>Another disaster. Another Corps lost.<br><br>The Germans responded to our requests for help and have sent over General Erwin Rommel with what should soon be 2 divisions. The German Fliegerkorps X was moved from Norway to Sicily December last year to patrol the sea lines between Italy and Libya.<br><br>But I am afraid that even this might not save Tripoli."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "BEDA-FOMM February1941 TV<br><br>Congratulations Generale. You broke through the English roadblock and brought your troops safely into Tripolitania.<br><br>The Germans responded to our requests for help and have sent over General Erwin Rommel with what should soon be 2 divisions. The German Fliegerkorps X was moved from Norway to Sicily December last year to patrol the sea lines between Italy and Libya.<br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "BEDA-FOMM February1941 V<br><br>Congratulations Generale. You broke through the English roadblock and brought your troops safely into Tripolitania.<br><br>The Germans responded to our requests for help and have sent over General Erwin Rommel with what should soon be 2 divisions. The German Fliegerkorps X was moved from Norway to Sicily December last year to patrol the sea lines between Italy and Libya.<br>"
+   }
+  }, 
+  "scenario": "it05beda.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "A MISSED OPPORTUNITY February12 1941<br><br>Take command of the Ariete Division that - with the Gruppo Sirte - is all that stands between Campo Tripoli with its 4 weak infantry divisions and O'Connor's forces.<br><br>The German Operation Sonnenblume is bringing the 5th Light Division over to North Africa. It's first elements should reach the front a few days from now.<br><br>Historic Note: <br>This scenario is fiction. Churchill stopped O'Connor's offensive after the battle at Beda Fomm so that he could send all available forces to Greece. Only a skeleton force remained in Lybia. It would take more than 2 years before the Allies would get another shot at Tripoli.<br><br>Player's note: If you are playing with the optional 'no tanks for an infantry division' rule, feel free to acquire tank units from here on for your new Ariete armoured division.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "A MISSED OPPORTUNITY February 1941 - BV<br><br>You stopped the British advance. The enemy seems to be shiping a lot of forces to Greece which makes further attacks on our positions unlikely. You can move back to the offensive when the German Afrika Corps arrival is completed.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "A MISSED OPPORTUNITY February 1941 - L<br><br>Disaster. There is nothing that stands between the Allies and Tripoli now. North Africa is lost. <br>"
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "A MISSED OPPORTUNITY February 1941 - TV<br><br>You stopped the British advance. The enemy seems to be shiping a lot of forces to Greece which makes further attacks on our positions unlikely. You can move back to the offensive when the German Afrika Corps arrival is completed.<br>"
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "A MISSED OPPORTUNITY February 1941 - V<br><br>You stopped the British advance. The enemy seems to be shiping a lot of forces to Greece which makes further attacks on our positions unlikely. You can move back to the offensive when the German Afrika Corps arrival is completed.<br>"
+   }
+  }, 
+  "scenario": "it06moppo.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "OPERATION SONNEBLUME March30 1941<br><br>With the 5th Leichte Division in North Africa and trained for desert warfare, Rommel has decided to perform a reconnaissance in force. El Agheila has fallen without much fighting. Next stop is Mersa Brega. Your Ariete division will support the German forces in their reconnaisance. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "OPERATION SONNENBLUME April 1941 - BV<br><br>The 2nd Armoured Division is no match for our forces and has retreated East. The Cyrenaica lies at our feet. Rommel has ordered us to form 3 Kampfgruppes to advance along the coast on the Via Balbia, to Msus and to Mechili.<br>"
+   }, 
+   "lose": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "OPERATION SONNENBLUME April 1941 - L<br><br>The 2nd Armoured Division is too strong for our untrained forces. Train your reinforcements and perform another attack on the British lines."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "OPERATION SONNENBLUME April 1941 - TV<br><br>The 2nd Armoured Division is no match for our forces and has retreated East. The Cyrenaica lies at our feet. Rommel has ordered us to form 3 Kampfgruppes to advance along the coast on the Via Balbia, to Msus and to Mechili.<br>"
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "OPERATION SONNENBLUME April 1941 - V<br><br>The 2nd Armoured Division is no match for our forces and has retreated East. The Cyrenaica lies at our feet. Rommel has ordered us to form 3 Kampfgruppes to advance along the coast on the Via Balbia, to Msus and to Mechili.<br>"
+   }
+  }, 
+  "scenario": "it07sonne.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "THE BENGHAZI HANDICAP April6 1941<br><br>The Western Desert Force is on the run. It was clear soon to the Australians that it was impossible to hold Benghazi. <br><br>Rommel is moving 8MG Btn to Derna to try and cut off the retreating Brits and Australians. They will be joined by half of the Brescia division that is moving East along the coastal road. The remainder of our forces must strengthen the troops surrounding the 3rd Motorized Indian Brigade at Mechili.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "THE BENGHAZI HANDICAP April 1941 - BV<br><br>Most of the 2nd Armored division and the 3rd Motorized Indian Brigade were destroyed or surrendered. But a lot of the corps troops and the 9th Australian Division escaped. Reconnaisance reports indicate that some of these troops are at Tobruk and that others are fleeing further East. <br><br>This is no time to rest. Move your troops East and capture Tobruk.<br><br>Note: Only 5 ground units can be deployed in the next scenario.<br>"
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "THE BENGHAZI HANDICAP April 1941 - L<br><br>Most of the 2nd Armored division and the 3rd Motorized Indian Brigade were destroyed or surrendered. But a lot of the corps troops and the 9th Australian Division escaped. Reconnaisance reports indicate that some of these troops are at Tobruk and that others are fleeing further East. <br><br>This is no time to rest. Correct your mistake: move your troops East and capture Tobruk.<br><br>Note: Only 5 ground units can be deployed in the next scenario."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "THE BENGHAZI HANDICAP April 1941 - TV<br><br>Most of the 2nd Armored division and the 3rd Motorized Indian Brigade were destroyed or surrendered. But a lot of the corps troops and the 9th Australian Division escaped. Reconnaisance reports indicate that some of these troops are at Tobruk and that others are fleeing further East. <br><br>This is no time to rest. Move your troops East and capture Tobruk.<br><br>Note: Only 5 ground units can be deployed in the next scenario."
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "THE BENGHAZI HANDICAP April 1941 - V<br><br>Most of the 2nd Armored division and the 3rd Motorized Indian Brigade were destroyed or surrendered. But a lot of the corps troops and the 9th Australian Division escaped. Reconnaisance reports indicate that some of these troops are at Tobruk and that others are fleeing further East. <br><br>This is no time to rest. Move your troops East and capture Tobruk.<br><br>Note: Only 5 ground units can be deployed in the next scenario."
+   }
+  }, 
+  "scenario": "it08mech.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "TOBRUK - THE EASTERN OFFENSIVE April14 1941<br><br>The 5th Leichte Division's 5th Pz.Rgt. and 8th Mg.Btn. have breached the Tobruk Perimeter this morning. Unfortunately the Panzers got separated from the infantry which got pinned down. <br><br>Several Brescia and Trento division troops are ready for a diversion West of the breach. Support those efforts and send troops to dislodge the German units.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "TOBRUK - THE EASTERN OFFENSIVE April 1941 - BV<br><br>Your attack was so successful that not only the 5th Pz.Rgt. and 8th Mg.Btn. were saved. You also captured Generals Lavarack and Morshead at Fort Pilastrino. <br><br>Unfortunately the Aussies pushed us back out of the perimeter in a swift counterattack. We will attack Tobruk again once the first units of the 15th Panzer Division have arrived.<br><br>Note: Only 6 ground units can be deployed in the next scenario.<br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "lose": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "TOBRUK - THE EASTERN OFFENSIVE April 1941 - L<br><br>Failure! Most of the tanks of the 5th Pz.Rgt. were able to make it back to our lines, but many soldiers of the 8th Mg.Btn. have been captured. <br><br>We will attack Tobruk again once the first units of the 15th Panzer Division have arrived.<br><br>Note: Only 6 ground units can be deployed in the next scenario.<br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TOBRUK - THE EASTERN OFFENSIVE April 1941 - TV<br><br>Thanks to your diversion attack and your aid to the German 5th Light Division, the 5th Pz.Rgt. and 8th Mg.Btn. were saved. <br><br>Unfortunately the Aussies pushed us back out of the perimeter in a swift counterattack. We will attack Tobruk again once the first units of the 15th Panzer Division have arrived.<br><br><br>Note: Only 6 ground units can be deployed in the next scenario.<br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "TOBRUK - THE EASTERN OFFENSIVE April 1941 - V<br><br>Your attack was so successful that not only the 5th Pz.Rgt. and 8th Mg.Btn. were saved. You also captured Generals Lavarack and Morshead at Fort Pilastrino. <br><br>Unfortunately the Aussies pushed us back out of the perimeter in a swift counterattack. We will attack Tobruk again once the first units of the 15th Panzer Division have arrived.<br><br>Note: Only 6 ground units can be deployed in the next scenario.<br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }
+  }, 
+  "scenario": "it09tob1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "TOBRUK - RAS EL MADAUUR April30 1941<br><br>Rommel can't wait for the full 15th Panzer Division to arrive. With von Paulus visiting, he launches a new attack on Tobruk. Your 8th Bersaglieri Regiment supported by the Folgore Guastatori company is in the first line of attack.", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "TOBRUK - RAS EL MADAUUR May 1941 - BV<br><br>Tobruk has fallen! 30,000 Australians, Brits and Indians are marched off in captivity. We have captured enough supplies to start an attack into Egypt soon.<br><br>Note: Only 1 ground unit can be deployed in the next scenario.<br>"
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "TOBRUK - RAS EL MADAUUR May 1941 - L<br><br>Another failed attack on Tobruk. Its garrison remains a thorn in our side. With Tobruk in enemy hands, we cannot launch an offensive into Egypt.<br><br>Note: Only 1 ground unit can be deployed in the next scenario.<br>"
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TOBRUK - RAS EL MADAUUR May 1941 - TV<br><br>Tobruk has fallen! 30,000 Australians, Brits and Indians are marched off in captivity. We have captured enough supplies to start an attack into Egypt soon.<br><br>Note: Only 1 ground unit can be deployed in the next scenario.<br>"
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "TOBRUK - RAS EL MADAUUR May 1941 - V<br><br>Tobruk has fallen! 30,000 Australians, Brits and Indians are marched off in captivity. We have captured enough supplies to start an attack into Egypt soon.<br><br>Note: Only 1 ground unit can be deployed in the next scenario.<br>"
+   }
+  }, 
+  "scenario": "it10tob2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "OPERATION BREVITY May15 1941<br><br>Leutnant Alfred Seeboehm's signals intercept unit reports that the Tiger convoy with over 200 tanks and over 40 Hurricanes has arrived in Alexandria 3 days ago. Wavell will use that equipment in a major offensive soon.<br><br>According Seeboehm, Brigadier WHE 'Strafer' Gott is very likely to launch an attack at our positions at Halfaya and Fort Capuzzo and maybe even as far as Sidi Azeiz or Tobruk, in order to improve the starting positions of the coming British offensive.<br><br>Our mobile reserves consist of 2 Panzer battalions. The German 5th Panzer Regiment has been reduced by the spring fighting and mechanical losses, the 8th Panzer Regiment due to mechanical and shipping losses. Rather than spreading the remaining vehicles thinly to keep all four German Panzer battalions operational, Rommel has chosen to keep two full strength battalions and disband the other two until repaired vehicles become available.<br><br>Notes: Brilliant Victory (BV) can only be achieved in the last turn for BV.", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "OPERATION BREVITY May 1941 - BV<br><br>The British Operation looked initially succesful, but the counterattack of our Panzer Regiments forced Gott to retreat to Halfaya. Gott seemed to have orders to hold Halfaya as a good starting point for the upcoming offensive, but abandoned the pass when our forces threathened to surround him.<br><br>News: German and Italian troops have captured Greece. The attack on Crete will start on the 20th of this month.<br>"
+   }, 
+   "lose": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "OPERATION BREVITY May 1941 - L<br><br>The British Operation is a complete success. Gott has taken posession of Halfaya and Fort Capuzzo. The British forces are in an excellent starting position for an offensive towards Tobruk. Rommel has decided to retreat to Gazala. <br><br>News: German and Italian troops have captured Greece. The attack on Crete will start on the 20th of this month.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "OPERATION BREVITY May 1941 - TV<br><br>The British Operation looked initially succesful, but the counterattack of our Panzer Regiments forced Gott to retreat to Halfaya. Gott seemed to have orders to hold Halfaya as a good starting point for the upcoming offensive, but abandoned the pass when our forces threathened to surround him.<br><br>News: German and Italian troops have captured Greece. The attack on Crete will start on the 20th of this month.<br><br>"
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "OPERATION BREVITY May 1941 - V<br><br>The British Operation looked initially succesful, but the counterattack of our Panzer Regiments forced Gott to retreat to Halfaya. Gott seemed to have orders to hold Halfaya as a good starting point for the upcoming offensive, but abandoned the pass when our forces threathened to surround him.<br><br>News: German and Italian troops have captured Greece. The attack on Crete will start on the 20th of this month.<br><br>"
+   }
+  }, 
+  "scenario": "it11brev.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "OPERATION BATTLEAXE June15 1941<br><br>Operation Brevity showed that our front line defences were quite easily breached. Anticipating this new British attack and using the lessons learned from our attacks on Tobruk, Rommel created a line of fortified positions from Halfaya to Sidi Azeiz.<br><br>A weakness in the British 7 Armored Division's signals security informed us of an enemy attack 9 hours ago. The British attack is performed by elements of the 4th Indian division and the rebuild 7th Armored Division. Our sea and air forces were able to sink a ship with 57 tanks of the Tiger convoy, but the rest slipped though with 238 tanks and 43 Hurricanes. These are now used against us - without any doubt with the goal to reach Tobruk and possible to even push us back further than that point.<br><br>Note: This scenario has no initial deployment of core ground units.<br><br>News: Crete has fallen to our forces.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "OPERATION BATTLEAXE June 1941 - BV<br><br>After some initial British successes, Ariete supported by elements of the 15th Panzer and 5th Leichte Division swept the Brits of the battlefield. <br><br>The British Matildas took a toll on attacking 15th Pz tanks, but their squadron commanders where heard crying on the radio: 'They are tearing my tanks apart' when they met the German 88's.<br><br>Intel reports that Churchill is very disappointed with the failure of Battleaxe and replaced General Wavell with General Sir Claude Auchinleck.<br><br>British losses are 122 killed, 588 wounded and 259 men missing, 27 Cruiser tanks, 45 Crusaders, 64 Matilda's and 36 planes. Our losses are limited to 93 killed, 353 wounded and 253 missing, 10 aircraft and 25 tanks.<br><br>News: The Germans have invaded the USSR! Rommel will never see all the reinforcements he was hoping to get.<br>"
+   }, 
+   "lose": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "OPERATION BATTLEAXE June 1941 - L<br><br>The British attack was a complete success. This leaves us no option but to retreat West. We'll make a stand at Gazala.<br><br>News: The Germans have invaded the USSR! Rommel will never see all the reinforcements he was hoping to get.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "OPERATION BATTLEAXE June 1941 - TV<br><br>After some initial British successes, Ariete supported by elements of the 15th Panzer and 5th Leichte Division swept the Brits of the battlefield. <br><br>The British Matildas took a toll on attacking 15th Pz tanks, but their squadron commanders where heard crying on the radio: 'They are tearing my tanks apart' when they met the German 88's.<br><br>Intel reports that Churchill is very disappointed with the failure of Battleaxe and replaced General Wavell with General Sir Claude Auchinleck.<br><br>British losses are 122 killed, 588 wounded and 259 men missing, 27 Cruiser tanks, 45 Crusaders, 64 Matilda's and 36 planes. Our losses are limited to 93 killed, 353 wounded and 253 missing, 10 aircraft and 25 tanks.<br><br>News: The Germans have invaded the USSR! Rommel will never see all the reinforcements he was hoping to get.<br><br>"
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "OPERATION BATTLEAXE June 1941 - V<br><br>After some initial British successes, Ariete supported by elements of the 15th Panzer and 5th Leichte Division swept the Brits of the battlefield. <br><br>The British Matildas took a toll on attacking 15th Pz tanks, but their squadron commanders where heard crying on the radio: 'They are tearing my tanks apart' when they met the German 88's.<br><br>Intel reports that Churchill is very disappointed with the failure of Battleaxe and replaced General Wavell with General Sir Claude Auchinleck.<br><br>British losses are 122 killed, 588 wounded and 259 men missing, 27 Cruiser tanks, 45 Crusaders, 64 Matilda's and 36 planes. Our losses are limited to 93 killed, 353 wounded and 253 missing, 10 aircraft and 25 tanks.<br><br>News: The Germans have invaded the USSR! Rommel will never see all the reinforcements he was hoping to get.<br><br>"
+   }
+  }, 
+  "scenario": "it12baxe.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "OPERATION CRUSADER November19 1941<br><br>Nothing much happened in the last 5 months, but right when we were ready to start a new attack on Tobruk, British armour has swung around our border garrisons. <br><br>Our division (Ariete) and our Corps (XX) recon forces are stationed around Bir El Gubi to cover the planned attack on Tobruk. The rookie British 22th Armoured Brigade seems to be under the impression that they can whipe us from the battle field. It is your task to prove them wrong.<br><br>Notes: - The initial attack of the rest of the 7th Armoured division and its clashes with the DAK SE of Tobruk are left out of the scenario. All of these units will show up in the scenario a few days later with the strength they had left after the initial tank battles.<br>- The Germans renamed their 5th Leichte Division to 21Panzer Division and have swapped some units between 15Pz and 21Pz.<br>- The assumption is made that Tobruk has not fallen to your forces earlier.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "OPERATION CRUSADER November 1941 BV<br><br>Even though we are still dominating the battlefield, our loses are steadily increasing and new British tanks and troops keep on entering the theatre.<br><br>Comando Supremo wants to keep Tobruk surrounded, but Rommel has started retreating his forces to the Gazala line. That leaves us no choice but to do the same."
+   }, 
+   "lose": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "OPERATION CRUSADER December 1941 L<br><br>Even though Comando Supremo wants to cut off Tobruk again with our remaining forces, Rommel has started retreating his divisions to the Gazala line. That leaves us no choice but to do the same."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "OPERATION CRUSADER December 1941 TV<br><br>Even though we are still dominating the battlefield, our loses are steadily increasing and new British tanks and troops keep on entering the theatre.<br><br>Comando Supremo wants to keep Tobruk surrounded, but Rommel has started retreating his forces to the Gazala line. That leaves us no choice but to do the same."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "OPERATION CRUSADER November 1941 V<br><br>Even though we are still dominating the battlefield, our loses are steadily increasing and new British tanks and troops keep on entering the theatre.<br><br>Comando Supremo wants to keep Tobruk surrounded, but Rommel has started retreating his forces to the Gazala line. That leaves us no choice but to do the same."
+   }
+  }, 
+  "scenario": "it13crus.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "CRUSADER, THE AFTERMATH - GAZALA 41  December11 1941<br><br>After retreating from the Crusader battlefield, we have taken positions at the Gazala line. Until more reinforcements arrive at the front, the British 8th Army is still stronger than we are. In case there are signals that your troops are surrounded, retreat further West.<br><br>News: The last German thrust towards Moscow has been beaten back and the Russians have started counter-attacks at Rostov in the South and at Tula near Moscow.<br>Japan is starting to threaten Australia and New Zealand. Comando Supremo hopes this means some of the Commonwealth troops will leave North Africa soon.<br><br>Notes: <br>- Only 7 gound units can be deployed of which only 2 can be towed units. <br>- The victory hexes East of the Gazala line do not need to be held. <br>- Hold the three starting victory hexes until the end of the scenario when you get permission to fall back on the next defendable position.", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "CRUSADER, THE AFTERMATH - GAZALA 41  December11 1941 BV<br><br>The British sent the 4th Armoured Brigade to encircle your positions, but your were able to escape West. All of this not before giving the New Zealanders a bloody nose and crippling the 4th Indian Division at Alem Hamza. <br><br>Next stop: Aghedabia, where the 90th Leichte Division is preparing strong defensive positions.<br>"
+   }, 
+   "lose": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "CRUSADER, THE AFTERMATH - GAZALA 41  December11 1941 L<br><br>The British sent the 4th Armoured Brigade to encircle your positions. Many of your troops did not make it to Aghedabia, where the 90th Leichte Division is preparing strong defensive positions.<br>"
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "CRUSADER, THE AFTERMATH - GAZALA 41  December11 1941 TV<br><br>The British sent the 4th Armoured Brigade to encircle your positions, but your were able to escape West. All of this not before giving the New Zealanders a bloody nose and crippling the 4th Indian Division at Alem Hamza. <br><br>Next stop: Aghedabia, where the 90th Leichte Division is preparing strong defensive positions.<br>"
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "CRUSADER, THE AFTERMATH - GAZALA 41  December11 1941 V<br><br>The British sent the 4th Armoured Brigade to encircle your positions, but your were able to escape West. All of this not before giving the New Zealanders a bloody nose and crippling the 4th Indian Division at Alem Hamza. <br><br>Next stop: Aghedabia, where the 90th Leichte Division is preparing strong defensive positions.<br>"
+   }
+  }, 
+  "scenario": "it14gaza.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "THE BATTLE OF GAZALA May27 1942<br><br>After giving up the Cyrenaica to the Brits in the aftermath of Crusader last year December, our German allies launched a couteroffensive in January. That offensive brought us back to Gazala where all parties have been preparing for a new offensive.<br><br>The DAK and our XX Corps with Ariete and Trieste started moving South last evening, swinging around the most Southern point of the Allied defensive line: Bir Hacheim. Your Ariete division and Trieste are tasked with taking out the defensive positions at Bir Hacheim. The DAK's objectives are to engage and take out the enemy armor and reach Tobruk - the goal of our offensive. Our X and XXI Corps assisted by the German 15th Schutzen Brigade will launch faint attacks against the Gazala line (N of this map - not covered by this scenario).<br><br>Bad news has just come in from Trieste: they are lost in the desert after a navigation error.<br><br>News: The German 6th Army is preparing for a major offensive on Stalingrad. British and Indian forces are on the retreat in Burma.<br><br>Note: Only the victory hexes visible at the start of the scenario need to be captured.", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "THE BATTLE OF GAZALA June 1942 BV<br><br>The heroic defence of the Bir Hacheim box by the Free French and the initial shock caused by the 100+ new enemy Grant tanks almost cost us the victory. But in the end we succeeded in beating the enemy armor, dislodging the enemy infantry brigades from their isolated boxes and reaching Tobruk. Too bad that the 1st South African Division and the two remaining brigades of the 50th Division broke out and were able to retreat into Egypt. <br><br>Prepare your division to participate in yet another attempt to capture Tobruk.<br>"
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE BATTLE OF GAZALA June 1942 L<br><br>The heroic defence of the Bir Hacheim box by the Free French and the shock caused by the 100+ new enemy Grant tanks has cost us the victory. The enemy counter offensive has thrown us hundreds of miles back - once again we had to give up the Cyrenaica.<br>"
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "THE BATTLE OF GAZALA June 1942 TV<br><br>The heroic defence of the Bir Hacheim box by the Free French and the initial shock caused by the 100+ new enemy Grant tanks almost cost us the victory. But in the end we succeeded in beating the enemy armor, dislodging the enemy infantry brigades from their isolated boxes and reaching Tobruk.  Too bad that the 1st South African Division and the two remaining brigades of the 50th Division broke out and were able to retreat into Egypt. <br><br>Prepare your division to participate in yet another attempt to capture Tobruk.<br>"
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "THE BATTLE OF GAZALA June 1942 V<br><br>The heroic defence of the Bir Hacheim box by the Free French and the initial shock caused by the 100+ new enemy Grant tanks almost cost us the victory. But in the end we succeeded in beating the enemy armor, dislodging the enemy infantry brigades from their isolated boxes and reaching Tobruk. Too bad that the 1st South African Division and the two remaining brigades of the 50th Division broke out and were able to retreat into Egypt.  <br><br>Prepare your division to participate in yet another attempt to capture Tobruk.<br>"
+   }
+  }, 
+  "scenario": "it15hach.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "TOBRUK - GEN. KLOPPER'S DEFENCE June20 1942<br><br>Intelligence reports that the South African 2nd Division has been joined by the 201 Gds Brigade, the 11th Indian Brigade and the 32 Army Tank Brigade before our troops completed the encirclement of Tobruk. The 20th Indian Brigade that tried to break out of the encirclement ran into the German 5th Pz Rgt and was captured almost to the last man.<br><br>Take command of Ariete and Trieste in the upcoming attack on Tobruk. The Germans will throw the non-motorized elements of the 90Le and whatever is left of the 15th and 21Pz Division against the perimeter.<br><br>News: - No more than 2 freighters of the convoys Vigorous and Harpoon made it to Malta. The darkest hour of the Royal Navy in the Med.<br>- Roosevelt and Churchill are discussing the problems of the second front and the atomic bomb. The are considering action in North Africa.<br><br>Note: Make sure that no South African troops escape by boat from Tobruk harbour.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TOBRUK - GEN. KLOPPER'S DEFENCE June 1942 BV<br><br>Congratulations with a stunning victory. The lack of anti-tank guns in Tobruk's garrison, the abscence of the RAF and the fact that the inexperienced South African General Klopper clearly expected an attack from the West lead to an easy push through the perimeter's defences. <br><br>Only the fall of Singapore - earlier this year February - is a bigger humilation for the Brits than the capitulation of Tobruk. Next to 35000 prisoners, we got our hands on much needed supplies.<br>"
+   }, 
+   "lose": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TOBRUK - GEN. KLOPPER'S DEFENCE June 1942 L<br><br>Shame on you. Even the lack of anti-tank guns in Tobruk's garrison, the abscence of the RAF and the fact that the inexperienced South African General Klopper clearly expected an attack from the West did not lead to the fall of Tobruk. <br><br>Move you mobile forces east. The Infantry divisions will launch another attack on the perimeter without your useless help.<br>"
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "TOBRUK - GEN. KLOPPER'S DEFENCE June 1942 TV<br><br>Congratulations with your victory. The lack of anti-tank guns in Tobruk's garrison, the abscence of the RAF and the fact that the inexperienced South African General Klopper clearly expected an attack from the West lead to an easy push through the perimeter's defences. <br><br>Only the fall of Singapore - earlier this year February - is a bigger humilation for the Brits than the capitulation of Tobruk. Next to 35000 prisoners, we got our hands on much needed supplies.<br>"
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "TOBRUK - GEN. KLOPPER'S DEFENCE June 1942 V<br><br>Congratulations with your victory. The lack of anti-tank guns in Tobruk's garrison, the abscence of the RAF and the fact that the inexperienced South African General Klopper clearly expected an attack from the West lead to an easy push through the perimeter's defences. <br><br>Only the fall of Singapore - earlier this year February - is a bigger humilation for the Brits than the capitulation of Tobruk. Next to 35000 prisoners, we got our hands on much needed supplies.<br>"
+   }
+  }, 
+  "scenario": "it16tobr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "MERSA MATHRUH - EXIT Gen.RICHIE June26 1942<br><br>The British troops have fallen back on Mersa Matruh where they are joined by fresh Indian troops and the 2nd NZ Div. You are now in command of Ariete, Trieste, the inexperienced Littorio armoured division and the few mobile troops of X and XXI Corps that have crossed the Lybia-Egypt border. Ariete and Trieste and 15 Pz are positioned on the right flank to keep the 1 Arm Div busy while the rest of DAK assisted by Littorio and the Infantry Divisions cut off the 8th Army forces.<br><br>Only 14 core units can be deployed in this scenario. <br><br>News: - General Auchinleck has decided to take over command of 8th Army from Richie.<br>- Japan starts construction of the Railway of Death to supply its forces in Burma.<br>- German troops drive a wedge in Sevastopol's defenses.<br>- The RAF bombs the Focke Wolf plants with 1,006 bombers.<br>- Roosevelt orders a Sqn of B25's to Egypt instead of China, as well as 40 Hurricanes on route to Russia and 10 B24's stationed in India. He also sends 100 howitzers and 300 tanks.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "MERSA MATHRUH - EXIT Gen.RICHIE August 1942 BV<br><br>Even though 8th Army is larger than our mobile forces, it was clear from the start that the British position could not be held. Their X Corps was positioned North of the Northern Escarpment and the XIII Corps was positioned South of the Southern escarpment with only a few weak demoralized troops positioned in the center. Both Corps were unable to support each other. Too bad most of the 2nd New Zealand Division broke through the encirclement and escaped to El Alamein. <br>"
+   }, 
+   "lose": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "MERSA MATHRUH - EXIT Gen.RICHIE August 1942 L<br><br>Your mobile forces were not big enough to encircle and destroy 8th Army. However, the arrival of our non-motorized infantry and artillery units at the front made Gen. Auchinleck give up Mersa Matruh. He is now taking position at El Alamein.<br>"
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "MERSA MATHRUH - EXIT Gen.RICHIE August 1942 TV<br><br>Even though 8th Army is larger than our mobile forces, it was clear from the start that the British position could not be held. Their X Corps was positioned North of the Northern Escarpment and the XIII Corps was positioned South of the Southern escarpment with only a few weak demoralized troops positioned in the center. Both Corps were unable to support each other. Too bad most of the 2nd New Zealand Division broke through the encirclement and escaped to El Alamein. <br>"
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "MERSA MATHRUH - EXIT Gen.RICHIE August 1942 V<br><br>Even though 8th Army is larger than our mobile forces, it was clear from the start that the British position could not be held. Their X Corps was positioned North of the Northern Escarpment and the XIII Corps was positioned South of the Southern escarpment with only a few weak demoralized troops positioned in the center. Both Corps were unable to support each other. Too bad most of the 2nd New Zealand Division broke through the encirclement and escaped to El Alamein. <br>"
+   }
+  }, 
+  "scenario": "it17mers.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "EGYPT OR MALTA August01 1942<br><br>Planes and ships stationed at Malta are again causing heavy shipping losses on our transport route from Italy to North Africa. At the same time, we have broken through 8th Army's defences at Mersa Matruh and only some weak British units stand in the between us and the Suez Canal. <br><br>It is your choice to either take this unique chance to reach the Suez now or improve your supply situation and make a better prepared dash to the Suez later this month.<br><br>Note: Move the tank unit into Egypt on turn one, or move an infantry unit to Malta (South of Italy) in two or more turns.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EGYPT OR MALTA August01 1942<br><br>Further into Egypt it is."
+   }, 
+   "lose": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EGYPT OR MALTA August01 1942<br><br>Malta it is."
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EGYPT OR MALTA August01 1942<br><br>Malta it is."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EGYPT OR MALTA August01 1942<br><br>Malta it is."
+   }
+  }, 
+  "scenario": "it18maeg.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "C3 - OPERATION THESEUS August15 1942<br><br>With Malta operations at full capacity, the supply situation of our forces in North Africa is  horrible. It is virtually impossible to get supplies to the troops. Before the final drive to the Nile, air and sea basis Malta has to be taken out.<br><br>Our troops have been training for this invasion for nearly a year now. XI Corps under command of Student will attack from the air with the Folgore paratrooper Division, 7th Flieger Division and La Spezia Air landing division (the air transportable units in your core). XXX and XVI Corps with most of the San Marco Regiment, a Camicie Nere Brigade, 10th Armoured Brigade and five infantry divisions will land from the sea.<br><br>The Regio Aeronautica and the Luftwaffe have moved all available planes back from the dessert to regain the necessary air superiority over Malta.<br><br>Note: Deploy your air-transportable (eg infantry, light AA, light guns) and air-mobile (eg paratroopers) units in the bottom right corner. You can load up to 10 of them in planes and fly them to a captured airfield on the island of Malta.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "C3 - OPERATION THESEUS August 1942 BV<br><br>Congratulations. With Malta out of the way, supplies are reaching the front-line troops in the desert again. You will soon be able to start an offensive against Eight Army's positions at El Alamein.<br>"
+   }, 
+   "lose": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "C3 - OPERATION THESEUS August 1942 L<br><br>The invasion of Malta failed. The success of the upcoming offensive against Eight Army's positions at El Alamein is now uncertain.<br>"
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "C3 - OPERATION THESEUS August 1942 TV<br><br>Congratulations. With Malta out of the way, supplies are reaching the front-line troops in the desert again. You will soon be able to start an offensive against Eight Army's positions at El Alamein.<br>"
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "C3 - OPERATION THESEUS August 1942 V<br><br>Congratulations. With Malta out of the way, supplies are reaching the front-line troops in the desert again. You will soon be able to start an offensive against Eight Army's positions at El Alamein.<br>"
+   }
+  }, 
+  "scenario": "it19c3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "FIRST EL ALAMEIN July1 1942<br><br>After 8th Army's defeat at Mersa Matruh, its remnants have fallen back to the last defendable position before the Nile Delta: El Alamein. With the Qattara Depression in the South, there is no way around their defences. But once again they have dug themsleves in in far apart brigade size boxes. You are still in command of all mobile Italian forces that are  in pursuit of 8th Army. Your task is to roll up 8th Army's boxes and move to Cairo and Alexandria as soon as possible.<br><br>The strength of our allies in the DAK is down to 55 tanks, 54 guns and 500 infantry divided between 15Pz and 21Pz. 90Le has 53 guns and 1700 infantry left. <br><br>News from Egypt:<br>- The Med fleet is dispersed to Haifa, Beirut and Port Said.<br>- Embassies of any nation that can offer an escape from Egypt are besieged.<br>- Roads and railways out of Cairo and Alexandria are chocked.<br>- British supply dumps are looted for food.<br>- Egyptian policemen and troops disappear.<br><br>Other news:<br>- Sevastopol surrenders. Von Manstein is promoted to Field Marshal.<br>- The latest joke in Berlin is: \"There is no petrol in Berlin this week. Reichsmarshal Goering has sent all his uniforms to the cleaners.\"<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "FIRST EL ALAMEIN July 1942 BV<br><br>Congratulations, you have broken through the last line of 8th Army's defence before the Nile Delta. Our mobile forces have captured more petrol and are moving on Cairo and Alexandria as we speak.<br>"
+   }, 
+   "lose": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "FIRST EL ALAMEIN July 1942 L<br><br>It was clear from the start that breaking through the line at El Alamein was going to be near imposible. Our absolute last reserves and the first troops of the 164Le division arriving at the front where required to counter the arrival of the 9th Australian Division and its attacks out of the El Alamein box. If it wasn't for the 164Le, we'd be back in the Cyrenaica by now. <br><br>Prepare for a new attack as soon as your troops are rested. We need to break through the enemy lines before big reinforcements reach 8th Army early September.<br> "
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "FIRST EL ALAMEIN July 1942 TV<br><br>Congratulations, you have broken through the last line of 8th Army's defence before the Nile Delta. Our mobile forces have captured more petrol and are moving on Cairo and Alexandria as we speak.<br>"
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "FIRST EL ALAMEIN July 1942 V<br><br>Congratulations, you have broken through the last line of 8th Army's defence before the Nile Delta. Our mobile forces have captured more petrol and are moving on Cairo and Alexandria as we speak.<br>"
+   }
+  }, 
+  "scenario": "it20elal.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "ALAM HALFA August31 1942<br><br>This is it - your final chance to break through 8th Army's lines before they get major reinforcements. We have completely lost air superiority and intelligence reports 100,000 tons of US material and supplies on route for Egypt. Enemy mine fields keep on being extended and their defences deepened - especially in the North.<br><br>Trento, Bologna and 164Le will hold the line in the North while DAK and your Ariete, Trieste and Littorio divisions will break through in the South and swing northwards round the rear of 8th Army's positions. The key to the battle will be the Alam Halfa Ridge.<br><br>Notes: <br>- Please pay attention. Next to the supply hex, there is also a single deployment hex in the extreme South.<br>- Only V and BV lead to a further advance in Egypt. Take a TV or L for the historic path.<br><br>News:<br>- The remainder of 164Le has arrived although they still miss their heavy equiment.<br>- Ramcke's German paratrooper brigade and our Folgore paratrooper division have reached the front. <br>- On August 7th, Churchill accepted the proposal to elevate General Gott, of 13 Corps, to the command of the army. Next day however we intercepted and shot down his Bombay transport.  Gott was amongst those killed.<br>- Churchill then appointed General Sir Harold Alexander for the Middle East command and Lieutenant-General Bernard Montgomery for Eighth Army.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "ALAM HALFA September 1942 BV<br><br>Western Desert Air Force fighters and bombers continue to plague our forces, but your attack was a complete success. Prepare to send mobile forces towards the Suez.<br>"
+   }, 
+   "lose": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "ALAM HALFA September 1942 L<br><br>Enemy fighters and bombers continue to plague our forces. Your offensive has failed. A superior enemy that applied better tactics than before stopped your attack. There is nothing left but to dig in and await 8th Army's inevitable major offensive.<br>"
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "ALAM HALFA September 1942 TV<br><br>Western Desert Air Force fighters and bombers continue to plague our forces. Your offensive was no failure, but new enemy reinforcements stand between you and the Suez. There is nothing left but to dig in and await 8th Army's inevitable major offensive.<br>"
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "ALAM HALFA September 1942 V<br><br>Western Desert Air Force fighters and bombers continue to plague our forces, but your attack was a complete success. Prepare to send mobile forces towards the Suez.<br>"
+   }
+  }, 
+  "scenario": "it21alha.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "EL AlAMEIN OPERATION LIGHTFOOT October23 1942<br><br>Eight Army started its expected offensive. Reports of enemy attacks are coming in from the Northern and the Southern sectors. <br><br>With Rommel in Germany since September 21st, General Stumme is in command of Panzer Armee Afrika. The front line is occupied by the four infantry divsions of our X and XXI Corps, reinforced by the Folgore and Ramcke paratroopers and the 164 Leichte Afrika division.<br><br>Littorio and 15th Panzer are ready to close breakthroughs in the Northern sector and Ariete and 21st Panzer are ready to do the same in the South. Trieste and 90 Leichte Afrika division are in reserve near the coast.<br> <br>Your core units from XX Corps: Ariete, Littorio and Trieste. Your task is to contain and repulse the enemy attacks.<br><br>Notes: <br>- You will not be able to deploy Trieste units from the start, only 5 units for Ariete and 5 units for Littorio.<br>- Contain the enemy forces! You can win a BV by taking all VH, V or TV by holding a second line and retaking a VH.<br><br>News:<br>- Heavy rains on October 9th have taken all our forward air bases out of operation. Continuous Western Desert Airforce attacks since that date have prevented us from recovering.<br>- Submarine launched aircraft of our Japanese allies have bombed Oregon (US) forests with incindiary bombs.<br>- German troops are in the center of Stalingrad but seem to fail to capture the last parts of the city.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EL AlAMEIN OPERATION LIGHTFOOT October 1942 BV<br><br>The attack in the South proved to be nothing more than a diversion and our armored forces succeeded in containing the main attack in the North even before Rommel returned on the 25th. Outstanding job, General! <br><br>Too bad that lack of fuel and ammo prevent us from launching further counter strikes. Let's wait and see what Monty's next move is.<br>"
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "EL AlAMEIN OPERATION LIGHTFOOT October 1942 L<br><br>Disaster - Eight Army has broken through and enemy recon and armored formations are causing havoc behind our lines. Rommel has ordered all units to retreat. This could lead us all the way back to El Agheila.<br>"
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "EL AlAMEIN OPERATION LIGHTFOOT October 1942 TV<br><br>The attack in the South proved to be nothing more than a diversion and once Rommel returned to Egypt, our armored forces succeeded in containing the main attack in the North by throwing our last reserve units in the battle.<br>With low fuel and ammo stocks, all we can do now is to wait and see what Monty's next move is.<br>"
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "EL AlAMEIN OPERATION LIGHTFOOT October 1942 V<br><br>The attack in the South proved to be nothing more than a diversion and once Rommel returned to Egypt, our armored forces succeeded in containing the main attack in the North. <br><br>We are running low on fuel and ammo. And we have commited most of our reserve regiments. All we can do now is to wait and see what Monty's next move is.<br>"
+   }
+  }, 
+  "scenario": "it22ligh.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "EL AlAMEIN OPERATION SUPERCHARGE November1 1942<br><br>A week of attacks on our positions with heavy losses on both sides was followed by three days of relative rest. Our counterattacks in the North against the 9th Australian Division have failed. The enemy seems to have reorganized and has resumed the offensive. Our reserves are most of what is left of 21Pz, the armored units of 15Pz and Ariete - which is still positioned well South of 8th Army's main attack.<br><br>You are still in command of XXI Corps: Ariete at close to full strength and Trieste and Littorio which have suffered heavily in last week's fighting. <br><br>Restriction: If following historic rules, please deploy no more than 1 tank unit at the start of the scenario. Most of the remaining Italian tanks were in Ariete which arrives as reinforcements.<br><br>News:<br>- 125 British Lancaster bombers have bombed our beloved city Genoa in the home country. Many old buildings, including the Ducal Palace, several museums and churches, are destroyed. A few days later Milano is bombed twice. Swiss air defenses claim multiple Lancasters shot down.<br>- German agents in Spain report massive Allied naval and air concentrations in Gibraltar.<br>- Allied convoys are on route to North Africa.<br>- The US loses 2 carriers at Guadalcanal. The Japanese lose most of their experienced airmen and cannot take advantage of this victory.", 
+  "outcome": {
+   "briliant": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "EL AlAMEIN OPERATION SUPERCHARGE November 1942 BV<br><br>Our anti-tank screen holding out at the Rahman track and the heroic performance of Ariete have allowed the DAK remnants to retreat. Unfortunately we had to write off most of the non-motorized X (Brescia, Folgore, Pavia) and XXI (Trento, Bologna) Corps. The remnants of your XX Corps are renamed Battlegroup Ariete. <br><br>With strong Allied mobile forces on our tail, the first really defendable position is El Agheila - more than 1000km to the West.<br>"
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE MERSA BREGA POSITION December 1942 L<br><br>Disaster! Eight Army was succesful in surrounding and capturing the remnants of the DAK and your Ariete Battlegroup. Prepare for a long stay in captivity.<br><br>News: Our troops that landed in Tunisia to oppose the Allied invasion of Morocco, Algeria and Tunisia have been pushed back by French, US and British forces.<br>"
+   }, 
+   "tactical": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE MERSA BREGA POSITION December 1942 TV<br><br>Congratulations. Your troops delayed 8th Army's advance and were able to break through the disorganized New Zealand troops that were close to cutting off most of the DAK and your Ariete Battle Group.<br><br>News: <br>- Hitler declares Stalingrad defeated but Zhukov launches Operation Uranus and encircles 250,000 German troops of the 6th Army in Stalingrad.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>"
+   }, 
+   "victory": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE MERSA BREGA POSITION December 1942 TV<br><br>Congratulations. Your troops delayed 8th Army's advance and were able to break through the disorganized New Zealand troops that were close to cutting off most of the DAK and your Ariete Battle Group.<br><br>News: <br>- Hitler declares Stalingrad defeated but Zhukov launches Operation Uranus and encircles 250,000 German troops of the 6th Army in Stalingrad.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>"
+   }
+  }, 
+  "scenario": "it23supe.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "ALEXANDRIA October 20 1942<br><br>Your mobile XX Corps assisted by the few mobile elements of X and XXI Corps are tasked to follow the coastal road to Alexandria. Whatever forces 15Pz, 21Pz and 90Le can muster will go for Cairo - 150km SE of Alexandria (off map).<br><br>The few regular 8th Army units left are reorganizing behind the front or defending Cairo. Alexandria most likely defended by a hotchpotch of Allied units present in the Middle East: <br>- The Arab Legion - possibly the best trained Arab army unit.<br>- The Sudan Defence Force - a unit that saw little fighting action after its successful participation in the East African campaign.<br>- The reformed 8th Indian Brigade with troops moved in from India.<br>- The First Greek Infantry Brigade - an untested outfit.<br>- The Polish Independent Carpathian Riffle Brigade - a unit that proved itself in Tobruk already, now reinforced by troops of General Wladyslav Anders, evacuated from the USSR.<br>- The second Free French Brigade.<br>- Small Czech and Royalist Yugoslav forces.<br><br>Despite of their high losses, the Western Desert Air Force still holds air superiority. The B25's diverted from China to Egypt by Roosevelt have been spotted by our troops. <br><br>Our spies report that a planned Allied invasion of Vichy French owned Morocco and Algeria has been delayed and that some of the forces that were planned to take part in it have been redirected to the Middle East. <br><br>News:<br>- Mussolini has shipped his white 'victory parade horse' to North Africa.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "ALEXANDRIA November 1942 BV<br><br>With the last strength left in XX Corps, you were able to capture Alexandria. A similar scenario unfolded itself South of here with DAK standing at the captured Cairo Pyramids with no more than a dozen runners and a few 100 PzGrenadiere. <br><br>What our troops need now is a short break to bring more men and material forward for the final dash to the Suez Canal.<br><br>News:<br>- Submarine launched aircraft of our Japanese allies have bombed Oregon (US) forests with incindiary bombs.<br>- German troops are in the center of Stalingrad but seem to fail to capture the last parts of the city.<br><br>Credits: This scenario was created by Adler.<br>"
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "ALEXANDRIA November 1942 L<br><br>Alexandria turned out to be too heavily defended and the Allied air force too strong to continue. The subsequent Allied counterattack does not seem to lose steam. We will try to stop the Allies at Mersa Brega. <br><br>News: <br>- Submarine launched aircraft of our Japanese allies have bombed Oregon (US) forests with incindiary bombs.<br>- German troops are in the center of Stalingrad but seem to fail to capture the last parts of the city.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>- Our troops that landed in Tunisia to oppose the Allied invasion of Morocco, Algeria and Tunisia have been pushed back by French, US and British forces.<br><br>Credits: This scenario was created by Adler."
+   }, 
+   "tactical": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "ALEXANDRIA November 1942 TV<br><br>With the very last strength left in XX Corps, you were able to capture Alexandria. A similar scenario unfolded itself South of here with DAK standing at the captured Cairo Pyramids with no more than a dozen runners and a few 100 PzGrenadiere.<br><br>What our troops need now is a short break to bring more men and material forward for the final dash to the Suez Canal.<br><br>News:<br>- Submarine launched aircraft of our Japanese allies have bombed Oregon (US) forests with incindiary bombs.<br>- German troops are in the center of Stalingrad but seem to fail to capture the last parts of the city.<br><br>Credits: This scenario was created by Adler.<br>"
+   }, 
+   "victory": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "ALEXANDRIA November 1942 V<br><br>With the last strength left in XX Corps, you were able to capture Alexandria. A similar scenario unfolded itself South of here with DAK standing at the captured Cairo Pyramids with no more than a dozen runners and a few 100 PzGrenadiere.<br><br>What our troops need now is a short break to bring more men and material forward for the final dash to the Suez Canal.<br><br>News:<br>- Submarine launched aircraft of our Japanese allies have bombed Oregon (US) forests with incindiary bombs.<br>- German troops are in the center of Stalingrad but seem to fail to capture the last parts of the city.<br><br>Credits: This scenario was created by Adler.<br>"
+   }
+  }, 
+  "scenario": "it24alex.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 25, 
+  "intro": "THE MERSA BREGA POSITION December12 1942<br><br>Not until we reached the well defendable positions at Mersa Brega and El Agheila, we could finally dig in and bring the Allied advance to a stop... for now. Eight Army will soon have enough troops ready at the front to resume the attack. Make sure that when they do so, you don't get surrounded! But do not retreat too fast. Our next line of defense at Buerat is not ready yet.<br><br>Notes: <br>- No more than three ground units can be deployed in this scenario: the Ariete battle group.<br>- Withdraw as many troops as possible to the West but do not give up the Mersa Brega position (most E victory hex) before the BV limit or El Agheila before the V limit. <br><br>News: <br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE MERSA BREGA POSITION December 1942 BV<br><br>Congratulations. Your troops delayed 8th Army's advance and were able to retreat West in good order.<br><br>News: <br>- Hitler declares Stalingrad defeated but Zhukov launches Operation Uranus and encircles 250,000 German troops of the 6th Army in Stalingrad.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "THE MERSA BREGA POSITION December 1942 L<br><br>Disaster! Eight Army was succesful in surrounding and capturing the remnants of the DAK and your Ariete Battlegroup. Prepare for a long stay in captivity.<br><br>News: Our troops that landed in Tunisia to oppose the Allied invasion of Morocco, Algeria and Tunisia have been pushed back by French, US and British forces.<br>"
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "THE MERSA BREGA POSITION December 1942 TV<br><br>Congratulations. Your troops delayed 8th Army's advance and were able to break through the disorganized New Zealand troops that were close to cutting off most of the DAK and your Ariete Battle Group.<br><br>News: <br>- Hitler declares Stalingrad defeated but Zhukov launches Operation Uranus and encircles 250,000 German troops of the 6th Army in Stalingrad.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>"
+   }, 
+   "victory": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "THE MERSA BREGA POSITION December 1942 V<br><br>Congratulations. Your troops delayed 8th Army's advance and were able to retreat West in good order.<br><br>News: <br>- Hitler declares Stalingrad defeated but Zhukov launches Operation Uranus and encircles 250,000 German troops of the 6th Army in Stalingrad.<br>- Vichy Madagascar falls to the Allies.<br>- Allied troops under command of Ike execute Torch - an amphibious landing in Vichy French Marocco and Algeria - opening a second front against our Afrika Korps.<br>Hauser's 2nd SS PzCorps executes Fall Anton, the invasion of southern France. 2nd SS Panzer Division Das Reich captures the port of Toulon in Operation Lila, but most French ships are scuttled by their crews. Our forces occupy the French Riviera and Corsica. <br>- Kesselring orders the 5th FsJgr Rgt and Wehrmacht units to Tunesia - Vichy agrees. French troops withdraw West, towards Algeria and the Allied forces.<br>"
+   }
+  }, 
+  "scenario": "it25mers.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 26, 
+  "intro": "OPERATION EILBOTE I January18 1943<br><br>Heavy rains turned the Tunisian battlefield into a sea of mud and combat actions came to an abrupt halt mid December last year. We received reports that British, French and US forces are preparing for an offensive with the aim of reaching the sea, cutting our forces in half and cutting the supply route to our forces opposing 8th Army. Our plan is to spoil those attacks by capturing all passes leading through the Eastern Endorsal, starting with the pass at Barrage de l'Oued Kebir, the Karachoum Gap and the Kairouan Pass: Operation Eilbote I (this scenario). We will follow up these actions by capturing the Faid and Maknassy passes (next).  <br><br>Info: Max 3 core ground units can be deployed.<br><br>News: <br>- Operation Mars - Zhukov's attempt to eliminate the Rzhev salient and to encircle the German 9th Army near Moscow - has resulted in a complete Russian defeat.<br>- The Soviet Operation Little Saturn has - with the exception of our elite Alpini Corps - virtualy whiped out our VIII Army on the Eastern Front.<br>- The German Fourth Panzer Army's Stalingrad relief attempt gets stuck 16 miles of the city.<br>- The Germans enlist more and more Rusian POW's in their army.<br>- Our Arditi Regiment, in teams of nine to ten men, parachuted in various places in Algeria, Libya and Tunisia for covert warfare duties. Although not as successful as they had hoped to be, they managed to destroy or damage the bridges in Bonira, Beni Mansour and Uadi Bouduvaou.<br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "OPERATION EILBOTE I January 1943 BV<br><br>Congratulations. Your troops and the hotchpotch of German troops that arrived in 1st Division's (Superga) sector were able to take all assigned targets from the French Maroccan and French Algerian Divisions. <br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "OPERATION EILBOTE I January 1943 L<br><br>Your troops and the hotchpotch of German troops that arrived in 1st Division's (Superga) sector were not able to take the assigned targets from the French Maroccan and French Algerian Divisions. The planned Allied offensive will continue. This will undoubtably result in the Axis troops being split. Panzer Armee Afrika cannot keep up the fight without supplies. This is the end of Mussolini's Afrika Corps!<br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "tactical": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "OPERATION EILBOTE I January 1943 TV<br><br>Congratulations. Your troops and the hotchpotch of German troops that arrived in 1st Division's (Superga) sector were able to take all assigned targets from the French Maroccan and French Algerian Divisions. <br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }, 
+   "victory": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "OPERATION EILBOTE I January 1943 V<br><br>Congratulations. Your troops and the hotchpotch of German troops that arrived in 1st Division's (Superga) sector were able to take all assigned targets from the French Maroccan and French Algerian Divisions. <br><br>Credits:<br>A big thank you to Dragdasan for the magnificant map that he made for this scenario.<br>"
+   }
+  }, 
+  "scenario": "it26eilb.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 27, 
+  "intro": "FAID PASS January30 1943<br><br>Operation Eilbote I brought the pass at Barrage de l'Oued Kebir, the Karachoum Gap and the Kairouan Pass in our hands. German forces - supported by our troops - will now follow up with an attack on the Faid pass. At the same time our troops are still involved in skirmishes with US II Corps forces around Sened and Maknassy.  <br><br>Notes: <br>- Only 3 core ground units and all core air units can be deployed from the start. More ground forces (Centauro) can be deployed later.<br><br>News: <br>- Germany extracts its specialist officers from Stalingrad. They get priority over wounded men on flights out.<br>- Tripoli has fallen to 8th Army after our troops continued their retreat towards the Tunisian border.<br>- General Giulio Martinat, chief-of-staff of our Alpini Corps in Russia was killed while personally leading a successful attack to break through Russian blocking positions at Nikolajevka, an attack which opened a path for our encircled troops, Germans and Hungarians to escape and regain Axis lines. A victory against all odds, with no artillery and no air support and on foot.<br><br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "FAID PASS February 1943 BV<br><br>Congratulations. You have captured Faid pass and secured Sened and Maknassy. This gives us solid defensive positions in Central Tunisia and a base for big follow-up attacks on Sbeitla and Kasserine towards Tebessa and maybe even Bone, splitting or even surrounding large Allied forces in Tunisia and Algeria.<br><br>But our next concern is 8th Army, which stands in front of the Mareth line in Southern Tunisia. If 8th Army brakes through there is a risk that they make contact with Allied troops in Northern and Central Tunisia. That would be the beginning of the end of our presence in Africa.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "FAID PASS February 1943 L<br><br>Faid stays in French hands and offers the French XIX Corps and US II Corps and excellent starting point to attack East, reach the sea and split Axis troops in Africa. Panzer Armee Afrika cannot keep up the fight without supplies. This is the end of Mussolini's Afrika Corps!<br>"
+   }, 
+   "tactical": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "FAID PASS February 1943 TV<br><br>Congratulations. You have captured Faid pass and secured Sened and Maknassy. This gives us solid defensive positions in Central Tunisia and a base for big follow-up attacks on Sbeitla and Kasserine towards Tebessa and maybe even Bone, splitting or even surrounding large Allied forces in Tunisia and Algeria.<br><br>But our next concern is 8th Army, which stands in front of the Mareth line in Southern Tunisia. If 8th Army brakes through there is a risk that they make contact with Allied troops in Northern and Central Tunisia. That would be the beginning of the end of our presence in Africa.<br>"
+   }, 
+   "victory": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 25, 
+    "text": "FAID PASS February 1943 V<br><br>Congratulations. You have captured Faid pass and secured Sened and Maknassy. This gives us solid defensive positions in Central Tunisia and a base for big follow-up attacks on Sbeitla and Kasserine towards Tebessa and maybe even Bone, splitting or even surrounding large Allied forces in Tunisia and Algeria.<br><br>But our next concern is 8th Army, which stands in front of the Mareth line in Southern Tunisia. If 8th Army brakes through there is a risk that they make contact with Allied troops in Northern and Central Tunisia. That would be the beginning of the end of our presence in Africa.<br>"
+   }
+  }, 
+  "scenario": "it27faid.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 28, 
+  "intro": "DEFENDING THE MARETH LINE March19 1943<br><br>With the Central and Northern Tunisian front stabalized, it is time to focus on 8th Army's imminent attack on the Mareth line. A mainly German spoiling attack against 8th Army positions failed misserably 2 weeks ago and nothing can stop Monty from launching a new offensive.<br><br>You have the Italian First Army to stop the upcoming attack: Giovani Fascisti, Trieste, 90 Leichte, La Spezia, Pistoia and 164 Leichte. 15Pz is in reserve behind the front. 21Pz is in reserve at Gabes. 10Pz and Centauro are commited against the US II Corps.  <br><br>Notes: <br>- This is the last scenario of the campaign.<br>- Twelve ground units can be deployed in this scenario.<br>- Please do not deploy tank, armoured artillery or armoured recon units - Centauro is commited elsewhere.<br><br><br>News:<br>Fiat Aeronautics plant in Turin goes on strike. This is the first strike since Mussolini entered office in 1922. Mussolini calls on our Fascists troops to stop the strike, but they refuse to make the workers stop protesting. Other strikes erupt, grounding our war making capabilities.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "DEFENDING THE MARETH LINE March 1943 BV<br><br>Congratulations, you stopped the attack of XXX Corps, spearheaded by the 50th (Northumbrian) Division, dead in its tracks. Operation Pugilist is a complete failure and the victory is ours, even with most of our tanks operating against the US II Corps at El Guetar.<br><br>Unfortunately the 2nd New Zealand Division proved that the Mareth line can be bypassed: just a week later they did so in Operation Supercharge II. There was nothing left for us but to hastily retreat to the Akarit line. The Akarit line formes a better defensive position than the Mareth line, but our troops arrived there in great disarray which meant that 24 hours after 8th Army's attack on the position it had to be evacuated. 8th Army has now made contact with the Allied forces in North and Central Tunisia and Mussolini's Afrika Korps faith is doomed.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "DEFENDING THE MARETH LINE March 1943 L<br><br>Disaster! You failed to stop the attack of XXX Corps, spearheaded by the 50th (Northumbrian) Division. There is nothing left for us but to hastily retreat to the Akarit line. <br><br>The Akarit line formes a better defensive position than the Mareth line, but our troops arrived there in great disarray which meant that 24 hours after 8th Army's attack on the position it had to be evacuated. 8th Army has made contact with the Allied forces in North and Central Tunisia and Mussolini's Afrika Korps faith is doomed.<br>"
+   }, 
+   "tactical": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "DEFENDING THE MARETH LINE March 1943 TV<br><br>Congratulations, you stopped the attack of XXX Corps, spearheaded by the 50th (Northumbrian) Division. Operation Pugilist is a failure, even with most of our tanks operating against the US II Corps at El Guetar.<br><br>Unfortunately the 2nd New Zealand Division proved that the Mareth line can be bypassed: just a week later they did so in Operation Supercharge II. There was nothing left for us but to hastily retreat to the Akarit line. The Akarit line formes a better defensive position than the Mareth line, but our troops arrived there in great disarray which meant that 24 hours after 8th Army's attack on the position it had to be evacuated. 8th Army has now made contact with the Allied forces in North and Central Tunisia and Mussolini's Afrika Korps faith is doomed.<br>"
+   }, 
+   "victory": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "DEFENDING THE MARETH LINE March 1943 V<br><br>Congratulations, you stopped the attack of XXX Corps, spearheaded by the 50th (Northumbrian) Division. Operation Pugilist is a failure and the victory is ours, even with most of our tanks operating against the US II Corps at El Guetar.<br><br>Unfortunately the 2nd New Zealand Division proved that the Mareth line can be bypassed: just a week later they did so in Operation Supercharge II. There was nothing left for us but to hastily retreat to the Akarit line. The Akarit line formes a better defensive position than the Mareth line, but our troops arrived there in great disarray which meant that 24 hours after 8th Army's attack on the position it had to be evacuated. 8th Army has now made contact with the Allied forces in North and Central Tunisia and Mussolini's Afrika Korps faith is doomed.<br>"
+   }
+  }, 
+  "scenario": "it28mare.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 29, 
+  "intro": "PORT SAID May11 1943<br><br>After the fall of Alexandria and Cairo, British and American forces lead by Ike opened a second front in North Africa - Operation Torch. It took von Arnim many months to stabilize that front in Algeria and Tunisia using mainly German forces. <br><br>The last few weeks more and more supplies have been diverted to Egypt, allowing our XX Corps to launch an offensive to capture Port Said at one end of the Suez Canal and allowing DAK to attack Suez at the other end. X and XXI Corps are moving South into the Sudan to recapture our lost colonies Ethiopia, Somaliland and Eritrea.<br><br>Notes: <br>- There are 3 deployment hexes in the SW corner of the map.<br><br>News: <br>- Operation Mars - Zhukov's attempt to eliminate the Rzhev salient and to encircle the German 9th Army near Moscow - has resulted in a complete Russian defeat.<br>- The Soviet Operation Little Saturn has - with the exception of our elite Alpini Corps - virtualy whiped out our VIII Army on the Eastern Front.<br>- The German Fourth Panzer Army's Stalingrad relief attempt gets stuck 16 miles of the city.<br>- General Giulio Martinat, chief-of-staff of our Alpini Corps in Russia was killed while personally leading a successful attack to break through Russian blocking positions at Nikolajevka, an attack which opened a path for our encircled troops, Germans and Hungarians to escape and regain Axis lines. A victory against all odds, with no artillery and no air support and on foot.<br><br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 900, 
+    "text": "PORT SAID May 1943 BV<br><br>Congratulations. Alexandria is ours and Eight Army is fleeing into the Sinai. Keep up the pressure and move your XX NE along the Mediterranean coast. DAK will follow a parallel course  through the desert. <br><br>News: <br>- Our Japanese Allies lose most of the forces that were to finish the conquest of New Guinea at the battle of the Bismarck sea when their transports were sunk by US and RAAF bombers.<br>- Radio Berlin announces the discovery by Wehrmacht of mass graves of Poles killed by Soviets in the Katyn massacre.<br><br>Credits:<br>Adler contributed heavily to the storyline and OoB of this and the next (last) scenario.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "PORT SAID May 1943 L<br><br>Your failure to capture Alexandria means that we lose the initiative in North Africa. No help can be expected from the Germans. They are preparing for a major Russian Summer offensive at Kursk. You are dismissed.  <br><br>News: <br>- Our Japanese Allies lose most of the forces that were to finish the conquest of New Guinea at the battle of the Bismarck sea when their transports were sunk by US and RAAF bombers.<br>- Radio Berlin announces the discovery by Wehrmacht of mass graves of Poles killed by Soviets in the Katyn massacre.<br><br>Credits:<br>Adler contributed heavily to the storyline and OoB of this and the next scenario (for which you need to win Port Said in order to play it).<br>"
+   }, 
+   "tactical": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1500, 
+    "text": "PORT SAID May 1943 TV<br><br>Congratulations. Alexandria is ours and Eight Army is fleeing into the Sinai. Keep up the pressure and move your XX NE along the Mediterranean coast. DAK will follow a parallel course  through the desert. <br><br>News: <br>- Our Japanese Allies lose most of the forces that were to finish the conquest of New Guinea at the battle of the Bismarck sea when their transports were sunk by US and RAAF bombers.<br>- Radio Berlin announces the discovery by Wehrmacht of mass graves of Poles killed by Soviets in the Katyn massacre.<br><br>Credits:<br>Adler contributed heavily to the storyline and OoB of this and the next (last) scenario.<br>"
+   }, 
+   "victory": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "PORT SAID May 1943 V<br><br>Congratulations. Alexandria is ours and Eight Army is fleeing into the Sinai. Keep up the pressure and move your XX NE along the Mediterranean coast. DAK will follow a parallel course  through the desert. <br><br>News: <br>- Our Japanese Allies lose most of the forces that were to finish the conquest of New Guinea at the battle of the Bismarck sea when their transports were sunk by US and RAAF bombers.<br>- Radio Berlin announces the discovery by Wehrmacht of mass graves of Poles killed by Soviets in the Katyn massacre.<br><br>Credits:<br>Adler contributed heavily to the storyline and OoB of this and the next (last) scenario.<br>"
+   }
+  }, 
+  "scenario": "it29said.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 30, 
+  "intro": "GAZA July11 1943<br><br>The past months, your troops and DAK have pushed 8th Army accross the Nile and out of Egypt. Your forces are at the gates of Palestine. The Allies are gathering the last forces available in the Middle East to stop our advance. Most of the divisions they are fielding are inexperienced troops who<br>haven't even finished their training.<br><br>Parts of the 5th Alpini Division Pusteria have been flown in from Montenegro and are under your command. DAK will operate to the right of your forces (largely off-map).<br><br>Your upcoming offensive against Palestine and TransJordan comes a week after our German allies started a major offensive on the Eastern Front. This offensive - code named Operation Zitadelle - might turn the tide of the war. Combined with a succesfull offensive against Palestine and<br>TransJordan, it might convince Turkey to join the Axis and turn the tide of the war.<br><br>News:<br>- The Northern attack against the Kursk sallient has come to a halt, the Southern one has resulted in a major clash of forces at Prokhorovka. The outcome of that battle is not known yet.<br>- 5th Panzer Armee in Tunisia/Algeria is holding out against renewed Allied attacks.<br>- The Japanese have lost the Aleutian Islands to the Americans.<br>- The US has started submarine warfare against Japanese shipping.<br>- Our spies in Baghdad report Russian mountain divisions of the Central<br>Asia Military District moving towards TransJordan.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "GAZA July 1943 BV<br><br>Your XX Corps has broken through Allied lines. Trieste and Littorio are on route for Beirut and Ariete is moving on Damascus. DAK has taken Amman and is routing Russian forces on its way to Baghdad. Meanwhile X and XXI Corps continue their drive South along the Nile, have taken Khartoum without much resistance and have started the attack on Adis Abeba.<br><br>Hitler initially wanted to call off Zitadelle after Prokhorovka, butluckily Von Manstein was able to convince him to commit the last mobilereserves so that the captured ground could be held and 5 Guards Tank Army fully destroyed. 2SS Panzer Armee is exploiting the gap in Russian lines. We all hope that they will meet up with Model's forces that have resumed the attack against the North of the Kursk salient.<br><br>You have done a great job leading Mussolini's Afrika Korps in its conquest of the Middle East. Congratulations. This war can still be won!<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "GAZA July 1943 L<br><br>The Allied green forces proved too numerous and our advance has come to a standstill once more.<br><br>With the German attack against the Kursk Salient halted after an inconclusive tank battle at Prokhorovka and the Allies on the offensive at the Solomon Islands against the Japanese, the Axis have lost the initiative in the war. With more and more US forces being shipped into battle, victory seems further away than ever before.<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "GAZA July 1943 TV<br><br>Your XX Corps has broken through Allied lines. Trieste and Littorio are on route for Beirut and Ariete is moving on Damascus. DAK has taken Amman and is routing Russian forces on its way to Baghdad. Meanwhile X and XXI Corps continue their drive South along the Nile, have taken Khartoum without much resistance and have started the attack on Adis Abeba.<br><br>Hitler initially wanted to call off Zitadelle after Prokhorovka, but luckily Von Manstein was able to convince him to commit the last mobile reserves so that the captured ground could be held and 5 Guards Tank Army fully destroyed. 2SS Panzer Armee is exploiting the gap in Russian lines. We all hope that they will meet up with Model's forces that have resumed the attack against the North of the Kursk salient.<br><br>You have done a great job leading Mussolini's Afrika Korps in its conquest of the Middle East. Congratulations. This war can still be won!<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "GAZA July 1943 V<br><br>Your XX Corps has broken through Allied lines. Trieste and Littorio are on route for Beirut and Ariete is moving on Damascus. DAK has taken Amman and is routing Russian forces on its way to Baghdad. Meanwhile X and XXI Corps continue their drive South along the Nile, have taken Khartoum without much resistance and have started the attack on Adis Abeba.<br><br>Hitler initially wanted to call off Zitadelle after Prokhorovka, but luckily Von Manstein was able to convince him to commit the last mobile reserves so that the captured ground could be held and 5 Guards Tank Army fully destroyed. 2SS Panzer Armee is exploiting the gap in Russian lines.<br>We all hope that they will meet up with Model's forces that have resume the attack against the North of the Kursk salient.<br><br>You have done a great job leading Mussolini's Afrika Korps in its conquest of the Middle East. Congratulations. This war can still be won!<br>"
+   }
+  }, 
+  "scenario": "it30gaza.xml", 
+  "startprestige": 0
+ }
+]

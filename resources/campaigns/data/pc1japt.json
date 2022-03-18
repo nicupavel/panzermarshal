@@ -1,0 +1,1672 @@
+[
+ {
+  "id": 0, 
+  "intro": "Shanghai: East Coast China<br>Aug 1937<br><br>We have received a distress call from the Naval commander of the Shanghai garrison requesting immediate assistance in repelling Nationalist attacks on his forces.  The navy is also sending troops to assist, but these have been delayed due to poor weather.  <br><br>Army Intelligence reports that strong Nationalist forces are approaching the city from the west and are committed to throwing us out of the city.       <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1100, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Due to your previous service we will overlook your recent failures!!<br>"
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1100, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1shan.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Central China: Hsuschou<br>May 1938<br><br>Congratulations for your successful advance south of the Hsuschou!!   You have managed to trap a large group of Nationalists retreating though the city.  It appears that they hope to break though your screening forces and continue their withdrawal to the mountains in the west.  <br><br>You must ensure that no enemy forces escape to the west!!   <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1400, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1450, 
+    "text": "Due to your previous service we will overlook your recent failures!!<br>"
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1400, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1400, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1hshc.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Russian, Northern China border: Nomonhan<br>July 1939<br><br>It is time to teach our old foe the Russians another lesson.  The new communist regime appears to have forgotten the previous beating we gave them in 1905.  <br><br>Your mission is to advance in strength and seize all the objectives marked on the map.  Expect strong counter attacks by mobile enemy forces.     <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1600, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1700, 
+    "text": "Due to your previous service we will overlook your recent failures!!<br>"
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1650, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1600, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1nomo.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Northern China<br>Aug 1940<br><br>The Chinese Communists guerrillas have staged a massive up rising and our local puppet forces are having difficulties containing it.  Your mission is to hunt down and destroy every enemy unit before they can disappear into the general population.  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1850, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1900, 
+    "text": "Due to your previous service we will overlook your recent failures!!<br>"
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1900, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1850, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1100r.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Indo China: Near Chinese border<br>Sep 1940<br><br>The arrogance of the colonial French oppressors is amazing!! With mainland France  occupied the colonial administration in Indochina still seeks to restrict the number of our troops permitted to enter the country.<br><br>Your mission is to swiftly liberate all the major towns together with Hanoi, the IJN has promised to provide naval support for the Hanoi assault.     <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2100, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2200, 
+    "text": "Due to your previous service we will overlook your recent failures!!<br>"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2200, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2100, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1long.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "China Coast: Hong Kong<br>Dec 1941<br><br>As you know our invasion timetable for the liberation of South East Asia is very tight.  <br><br>Your mission is to break though the mainland defence line and push onto the ports.  Once you have secured the ports you must immediately board your troops onto troopship and invade the Hong Kong island.   A small contingent of Naval ships will be available to assist in the final push onto the island.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2300, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2300, 
+    "text": "Good effort Commander!!<br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2300, 
+    "text": "Good effort Commander!!<br>"
+   }
+  }, 
+  "scenario": "pc1hong.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "<br><br>General take the Victory Hex on the 2nd turn and go to the Phillipines (average difficulty).<br>Take the Victory hex on the 3th turn you'll go to South East Asia (average difficulty).<br><br>                               Good luck Hot shot!!!", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "lose": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }
+  }, 
+  "scenario": "pc1sel1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "Philippines: Lingayen Gulf <br>Dec 1942<br><br>Your troops are to land at Lingayen Gulf and push inland.  In order to achieve your objectives you should allocate an invasion force to take the airfield on the west coast as it is the only one available in the area of operation.  Resistance is expected to be light so your mobile troops should push pass enemy concentrations to take inland objectives.     <br><br><br><br>  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2700
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2700
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2700
+   }
+  }, 
+  "scenario": "pc1lin4.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "Philippines: Drive to Manila <br>Jan 1942<br><br>The Allied High command has announced that our forces will be thrown off the island.  Expect resistance to stiffen from now on and a possible counter attack is likely.  If you are quick enough you maybe able to bag the whole allied army before it retreats to its fortified positions.<br><br><br><br>  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3000
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3000
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3000
+   }
+  }, 
+  "scenario": "pc1manr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "Philippines:  Battle for Manila 1942<br>Jan 1942<br><br>Your amazing break though has caught the Allied troops before they could complete their withdrawal into their fortified positions.  If you are successful in this battle you will achieve a great victory and hopefully force the surrender of all American forces.<br><br><br><br><br>  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3350
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3350
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3350
+   }
+  }, 
+  "scenario": "pc1mani.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "Philippines: Bataan <br>Early 1942<br><br>Although the American troops are inexperienced they are well dug in and expected to fight hard.<br><br><br><br>  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3150
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3150
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3150
+   }
+  }, 
+  "scenario": "pc1bat2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "Philippines: Bataan <br>Early 1942<br><br>Although the American troops are inexperienced they are well dug in and expected to fight hard.<br><br><br><br>  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }
+  }, 
+  "scenario": "pc1bat3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "Philippians: Corigador 1942<br>May 1942<br><br>This island is the last major concentration of American troops west of Hawaii.  There are several naval guns which may interdict your troop ships.   <br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3650
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3650
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3650
+   }
+  }, 
+  "scenario": "pc1cori.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "Southern Thailand: Patani, near Malaya border<br>Dec 1941<br><br>Our drive on Malaya requires that you secure the Thai airfields around Patani.  We are unsure if the Thai's will offer any resistance to your advance.  Our diplomates are not optimistic of convincing them to stand aside.  If any resistance is encounter crush it completely in order to educated the Thais the error of their ways.  <br><br>Our sources also believe that the British intend to move troops to secure the airfields, even if it means violating Thai neutrality.       <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200
+   }
+  }, 
+  "scenario": "pc1pata.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "Northern Malaya<br>Dec 1942<br><br>The British appear to be having troubles reacting to your rapid advance into Northern Malaya.  They have only been able to deploy weak blocking forces along the major road networks.<br><br>Continue your advance down the coast, move as quickly as you can as supplies are limited. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3500
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3500
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3500
+   }
+  }, 
+  "scenario": "pc1nthm.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "South Malaya<br>Jan 1942<br><br>Resistance is starting to stiffen against our advances south.  Strong forces of Australian troops have been deployed to stop us, this can not be permitted to happen.  After taking the mainland your troops will be given a short rest to permit supplies to be brought up before the final push onto the island. <br><br>British capital ships have been spotted of the east coast of Malaya, you must not miss this opportunity to sink them!!  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3600
+   }
+  }, 
+  "scenario": "pc1sthm.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "Singapore: South Malaya<br>Feb 1942<br><br>Ah, the Gibraltar of the east, Singapore awaits us Commander.  The British expect than this mighty fortress will hold against us for 6 months.  Fortunately, our intelligent sources have discovered that Singapore isnt as powerful as the British would have the world believe.  <br><br>Your troops will invade the fortress by the land side, our reports indicate that the majority of British gun emplacements are located on the sea side of the island.  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }
+  }, 
+  "scenario": "pc1sing.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "Dutch East Indies: Palembang Oil Wells<br>Feb 1942<br><br>Your forces are to land at Palembang in the Dutch East Indies and advance inland immediately to secure the oil wells.  Dont fail, Japan needs these wells if it is to prosecute this war to its successful concussion.   <br><br>Enemy forces are a collection of Dutch, Australian and American troops.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3900
+   }
+  }, 
+  "scenario": "pc1pale.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "<br><br>General take the Victory Hex on the 2nd turn and go to Burma and India (average difficulty).Take the Victory hex on the 3th turn you'll go to New Guinea (very hard difficulty), otherwise you take on the US Marines at Guadalcanal (hard difficulty).<br><br>                               ", 
+  "outcome": {
+   "briliant": {
+    "goto": 32, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "lose": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }, 
+   "victory": {
+    "goto": 32, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0
+   }
+  }, 
+  "scenario": "pc1sel2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "October Counter Attack<br>Oct 1942<br><br>The Americans have shown themselves to be lacking in fighting spirit compared to our troops.  Reports indicate that you will be up against the US Marines.  <br><br>We suggest that your eastern forces advance with caution, the western forces must move quickly as strong US reinforcements are expected.  You will need to capture an airfield before you can deploy your air force.  <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4200
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }
+  }, 
+  "scenario": "pc1guad.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "Battle of Espritu Santo<br>Jan 1943<br><br>For this battle you will need to allocate forces to capture each of the enemy held islands.  Also an air field will need to be captured before you can deploy your air force.<br><br>Enemy naval forces have been sighted, they include invasion troops so we strongly recommend that you dont move the garrison from your northern island. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }
+  }, 
+  "scenario": "pc1espr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "Battle for Fiji<br>March 1943<br><br>Due to the imminent arrive of USA reinforcements you must quickly overcome the USA and New Zealand garrison troops in the region.  The difficult terrain will mean that you will need to move between the different objectives by sea.    <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700
+   }
+  }, 
+  "scenario": "pc1fiji.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "Hell in Paradise: Noumea<br>4th.SNLF<br>1st.bn/132nd.Reg.<br>2nd.Bn/132nd.Reg.<br>3rd.Bn/132nd.Reg.<br>1st.Bn/164th.Reg.<br>2nd.Bn/164th.Reg.<br>3rd.Bn/164th.Reg.<br>1st.Bn/182nd.Reg.<br>2nd.Bn/182nd.Reg.<br>3rd.Bn/182nd.Reg.<br>57th.Engineer Bn.<br>221st.Art.Bn.<br>245th.Art.Bn.<br>246th.Art.Bn.<br>246th.Art.Bn<br>1st.Bn/244th.AA Reg.<br>2nd.Bn/244th.AA Reg.<br>21st.Recon.Sq.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5000
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5000
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5000
+   }
+  }, 
+  "scenario": "pc1noum.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "Auckland: New Zealand<br>Sep 1943<br><br><br>Commander, this promises to be your most difficult battle to date.  The New Zealanders can be expected to fight to the last as they have no where to retreat too.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "victory": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }
+  }, 
+  "scenario": "pc1auck.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "New Guinea: Kokoda Trail, Northern approach  <br>Mid 1942<br><br>Commander, little is known of the terrain but our maps indicate that there is a road leading over the central mountains straight to Port Moresby.  Your troops will only have the food and ammunition  they can carry themselves for the upcoming battles so sweep aside any resistance and march swiftly.  <br> <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "tactical": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "victory": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }
+  }, 
+  "scenario": "pc1kok1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 25, 
+  "intro": "New Guinea: Kokoda Trail, Southern Highlands  <br>Mid 1942<br><br>Our forward scouts have reported that they have sighted lights coming from Port Moresby at night.  The end of the New Guinea campaign is close.  <br><br>Due to the difficult terrain we are unable to send supplies in any qualities to assist in your southern drive.  <br>   <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4200
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4200
+   }, 
+   "victory": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4200
+   }
+  }, 
+  "scenario": "pc1kok2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 26, 
+  "intro": "Last chance New Guinea: Kokoda Trail, Central Highlands  <br>Mid 1942<br><br>Your slow advance on Port Moresby has permitted the Allied forces to mount a strong counter attack which now threatens our whole position in Central New Guinea.    <br><br>You must succeed in forcing a way though to the south immediately.  <br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }, 
+   "victory": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }
+  }, 
+  "scenario": "pc1kok3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 27, 
+  "intro": "New Guinea: Northern coast, Buna-Gona<br>Dec 1942<br><br>You will be on your own for the up coming battle.  All spare troops are being rushed to Guadalcanal to assist in throwing out the US Marines.  Once Guadalcanal is secured we will shift the focus back onto New Guinea, your position will be the spring board for our future offensives.   <br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "victory": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }
+  }, 
+  "scenario": "pc1buna.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 28, 
+  "intro": "New Guinea: Milne Bay<br>August 1942<br><br>Success here will open up Port Moresby to direct assault.   <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }, 
+   "lose": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4300
+   }, 
+   "tactical": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }, 
+   "victory": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4400
+   }
+  }, 
+  "scenario": "pc1miln.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 29, 
+  "intro": "Southern Papuan New Guinea: Kokoda Trail leading to Port Moresby  <br>August/September 1942<br><br>This will be a desperate battle Commander.  Our supply lines are none existent and  battle hardened Australian troops continue to pour into Port Moresby.  Also American troops are starting to appear, while relative green they will be hard to dislodge from entrenched positions.  <br><br>Only by achieving a quick capture of all our objectives can we retain the initiative.     <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 31, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "victory": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }
+  }, 
+  "scenario": "pc1por1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 30, 
+  "intro": "Southern Papuan New Guinea: Kokoda Trail leading to Port Moresby  <br>August/September 1942<br><br>This will be a desperate battle Commander.  Our supply lines are none existent and  battle hardened Australian troops continue to pour into Port Moresby.  Also American troops are starting to appear, while relative green they will be hard to dislodge from entrenched positions.  <br><br>Only by achieving a quick capture of all our objectives can we retain the initiative.     <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 31, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "victory": {
+    "goto": 31, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }
+  }, 
+  "scenario": "pc1por2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 31, 
+  "intro": "Battle of Darwin: Northern Australia<br>October 1942<br><br>The capture of Darwin will secure our positions in the South Pacific.  Expect stiff resistance from the Australians who are expected to fight to the death.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "tactical": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "victory": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }
+  }, 
+  "scenario": "pc1darw.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 32, 
+  "intro": "Battle of Rangoon<br>March 1942<br><br>The British and their subject nation troops are in complete disarray following our victories all over Asia.  Intelligent sources have confirmed that they have belatedly stated to reinforce Rangoon.  At this stage most of their formations are below strength and lacking in support arms.  Accordingly strike hard and give them no let up. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 33, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 33, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }, 
+   "victory": {
+    "goto": 33, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4100
+   }
+  }, 
+  "scenario": "pc1rang.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 33, 
+  "intro": "Breakout though Mandalay: Northern Burma<br>May 1942<br><br>The following battle will be fought over some of the worst terrain you have encountered to date.  We expect that the terrain will slow up your advance more than the enemies troops.   This is the British last chance to stop us before the frontier of India.  <br><br>In return for some minor territories concession in Indochina the Thais have supplied a brigade of their elite royal troops to secure your right flank.   <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 34, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4300
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 34, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4300
+   }, 
+   "victory": {
+    "goto": 34, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4300
+   }
+  }, 
+  "scenario": "pc1mand.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 34, 
+  "intro": "India: Calcutta<br>Sep 1942<br><br>The Marines have secured a foot hold south east of Calcutta, to date they have been unable to exploit it due to heavily fortified enemy troops.  Our High Command has come up with a brilliant plan of by passing the British defences on the India/Burma border by using your troops to reinforce the Marines position.  With the aid of your troops we should be able to break the stalemate.<br><br>Our Navy has promised to supply a strong fleet contingent to assist you.  Beware that a raiding force of British ships has been spotted in the central Indian ocean, its intentions are unknown.    <br><br>We have been reassured by a number of captured Indian troops that the whole sub continent is ripe for revolt.  Don't be surprised if the Indian subject troops mutiny from the British and welcome your force with open arms.  <br><br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 35, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 35, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }, 
+   "victory": {
+    "goto": 35, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4500
+   }
+  }, 
+  "scenario": "pc1calc.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 35, 
+  "intro": "Northern Persia, on the Caspian Sea near the Russian border: Bandar-e Torkeman<br>Nov 1942<br><br>The Russian have been making threatening noises concerning our entry into Persia.   While the Russians are still occupied dealing with the Germans at Stalingrad you are instructed to move north and capture their communication hub at Bandar-e Torkeman before they have a opportunity to being in more reserves.<br>  <br>Success in destroying Russian forces will continue to guarantee their neutrality in our affairs. <br><br>Player's Note: Your Persian forces are shown in the overview map with German flags.            <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 36, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700
+   }, 
+   "lose": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "tactical": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "victory": {
+    "goto": 36, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4700
+   }
+  }, 
+  "scenario": "pc1band.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 36, 
+  "intro": "Baghdad: Iraq <br>Feb 1943<br><br>As our successes continue to accumulate minor powers flock to our cause.  The Iraqi army has taken the opportunity to upraise against the Allied occupation forces in Baghdad.  Unfortunately they should have waited a few more days before revealing their intentions, now your methodical advance will need to become a rescue mission.  <br><br>The Allies are attempting to crush the Iraqi army before your arrival.  Normally we would not concern ourselves with the fate of such a weak country but the diplomatic situation is becoming complicated, the Germans are claiming that Iraq falls within their sphere of interest.  Having the Iraqi people beholden to our side would be a great advantage in our future dealings with the Germans.  <br><br>The Turks have offered to break their neutrality and assist us.  We suspect they are more interested in gaining a claim to north Iraq.  However as they are pro German there is little we can do at this stage to stop them without causing a breakdown in our dealings with the Germans.       <br>           <br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 37, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4900
+   }, 
+   "lose": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4900, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "tactical": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4900, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "victory": {
+    "goto": 37, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 4900
+   }
+  }, 
+  "scenario": "pc1bagh.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 37, 
+  "intro": "Failed diplomacy at Golan<br>March 1943<br><br>Your advances across the middle East completely unhinged the Allied positions in North Africa.  Rather than face both the Germans and us in Egypt the Allies have withdrawn from the whole theatre.<br><br>Now our Axis partners are demanding that we withdraw completely from the Middle East back to the Indian sub continent with strong hints about our fate should we not immediately comply.  These arrogant Germans need a lesson on the superiority of the Imperial Japanese Army.  <br><br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "lose": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5100, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "tactical": {
+    "goto": 38, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5100, 
+    "text": "With your poor showing our new Indian allies have started to become difficult over transit rights though India.     <br>"
+   }, 
+   "victory": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }
+  }, 
+  "scenario": "pc1gola.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 38, 
+  "intro": "Northern India: Dehli<br>April 1943<br><br>Your recent poor efforts has permitted the British to successfully foster a coup detat in the Indian officer corp.   Our whole offensive in the middle east is now threaten.  You must put down the Indian army thrust.    <br><br>Our Afghan allies are rushing a host of tribal levies to the area to support our northern assault.  Units from two enemy armoured divisions have been identified moving towards the area.  Proceed carefully as strong enemy counter assaults are guaranteed.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }, 
+   "lose": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "tactical": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "Unfortunately the war calls for commanders and troops of higher quality than yours!!  You are to be posted back to mainland Japan as home defence troops. <br>"
+   }, 
+   "victory": {
+    "goto": 39, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5900, 
+    "text": "In recognition of your troops efforts they will be posted back to Japan for refit.   I have been informed that you are to be promoted and also posted back to Japan as a region Governor, congratulations General.     <br>"
+   }
+  }, 
+  "scenario": "pc1indi.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 39, 
+  "intro": "Southern Japan<br>Aug 1945<br><br>As you are aware the war may not have gone completely in our favour to date.  An Allied invasion force has landed and must be thrown back into the sea!!  <br><br>The enemy is both numerous and well equipped, they have complete air superiority and paratrooper drops behind our lines is to be expected.  <br><br>You must retake that beach head or die trying!!  High command will endeavour to send you whatever support it can muster.  A number of kamikaze units are being raised as we speak and will shortly also join the fray.   <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Your actions bring everlasting glory to Japan.  Your victory inflicted such high losses on the Allies they no longer have the stomach for a second landing in Japan. <br><br>The Emperor has announced that negotiations for an honourable end of the war with the Allies have commenced.  <br>"
+   }, 
+   "lose": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "With your failure to destroy the Allied beachhead they have taken the opportunity to move in massive reinforcements.  The fate of Japan is now sealed, I expect you and your senior officers will take the honourable course of action....   <br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Your actions bring everlasting glory to Japan.  Your victory inflicted such high losses on the Allies they no longer have the stomach for a second landing in Japan. <br><br>The Emperor has announced that negotiations for an honourable end of the war with the Allies have commenced.  <br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Your actions bring everlasting glory to Japan.  Your victory inflicted such high losses on the Allies they no longer have the stomach for a second landing in Japan. <br><br>The Emperor has announced that negotiations for an honourable end of the war with the Allies have commenced.  <br>"
+   }
+  }, 
+  "scenario": "pc1jap.xml", 
+  "startprestige": 0
+ }
+]

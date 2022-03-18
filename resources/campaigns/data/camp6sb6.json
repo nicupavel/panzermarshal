@@ -1,0 +1,1190 @@
+[
+ {
+  "id": 0, 
+  "intro": "CAGAYAN VALLEY 1 - December 12, 1941<br><br>Strategic Situation:<br>After Pearl Harbor there were massive air attacks against air force and other targets in Luzon and elsewhere in The Philippines.<br><br>Tactical Briefing:<br>On December 10, 1941 the first Japanese forces landed on the north coast of Luzon, near the port of Aparri and part of that force is moving south through the Cagayan valley. Your orders are engage this force and to secure the airfield at Tuguegarao.<br><br>Make sure you keep your exit route open!<br><br>NOTE: You can buy both US and Filipino units in this scenario and others set in the Philippines theater.", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 125, 
+    "text": "BRILLIANT VICTORY<br><br>You have performed well, but it now seems that the troops you have faced are only a small detachment. Hold your positions and await further orders."
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 125, 
+    "text": "LOSS<br><br>You are ordered to stop your offensive. It now seems that the troops you have faced are only a small detachment. Hold your positions and await further orders."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 125, 
+    "text": "TACTTICAL VICTORY<br><br>You have performed well, but it now seems that the troops you have faced are only a small detachment. Hold your positions and await further orders."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 125, 
+    "text": "VICTORY<br><br>You have performed well, but it now seems that the troops you have faced are only a small detachment. Hold your positions and await further orders."
+   }
+  }, 
+  "scenario": "sb6caga.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "LINGAYEN GULF - December 23, 1941<br><br>Strategic Situation:<br>MacArthur's plan of holding out until reinforced by the Pacific Fleet is now in grave jeopardy. <br><br>Tactical Briefing:<br>On Luzon small Japanese forces have landed in the southeast and the north. The Japanese forces in the north are small, so you have been withdrawn from the North to defend against a likely Japanese landing near Lingayen Gulf. On December 22nd the Japanese 14th Army starts landing large formations on the eastern side of Lingayen Gulf and already, by the 23rd, rumors reach you that a withdrawal is being planned. <br><br>Your orders are to command the defensive operations at Lingayen Gulf and specifically along the Agno River. Exposed Filipino troops from the 11th Division need to be pulled back to safety at the same time.<br><br>NOTE: <br>The ONLY way to win this scenario is to hold out for a Tactical Victory and then capture hex 43,31!! Any other result is a Loss. The Japanese units in this scenario are very powerful and need to be attacked or defended against with full support.", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>You lost... please follow the scenario instructions."
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You have lost. Your positions were overrun."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "TACTICAL VICTORY<br><br>Despite your efforts to halt the Japanese advance you recevice orders to withdraw. In fact, the entire army is withdrawing to Bataan."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>You lost... please follow the scenario instructions."
+   }
+  }, 
+  "scenario": "sb6ling.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "WITHDRAWAL TO BATAAN - December 25, 1941<br><br>Strategic Situation:<br>MacArthur has ordered a withdrawal of all units to the Bataan Peninsula and at the same time has declared Manila an \"open city\" - there is hope that if the Army holds out long enough help will arrive.<br><br>Tactical Briefing:<br>Your orders are to hold the roads into Bataan open from the north and from Manila as long as possible.", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 80, 
+    "text": "BRILLIANT VICTORY<br><br>Due in part to you and your men's efforts a large force has been withdrawn to Bataan."
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Unfortunately while your efforts enabled many units to be withdrawn to bataan, your positions were overrun in the final battle..."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 80, 
+    "text": "TACTICAL VICTORY<br><br>Due in part to you and your men's efforts a large force has been withdrawn to Bataan."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 80, 
+    "text": "VICTORY<br><br>Due in part to you and your men's efforts a large force has been withdrawn to Bataan."
+   }
+  }, 
+  "scenario": "sb6with.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "BATAAN 1 - January 15, 1942<br><br>Strategic Situation:<br>Japanese forces have taken most of the Philippines and have made significant gains in Malaya, Borneo, Thailand and elesewhere. The chances of relief are getting worse all the time.<br><br>Tactical Briefing:<br>US forces on Luzon are now confined to the Bataan Peninsula. Your orders are to hold the main defensive line from Mauban (in the west) to Abucay (in the east). ", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>You have held off the initial Japanese attacks, but the line is untenable. You are ordered to withdraw towards Bagac (in the west) and Orion (in the east)."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You have held off the initial Japanese attacks, but the line is untenable. You are ordered to withdraw towards Bagac (in the west) and Orion (in the east)."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>You have held off the initial Japanese attacks, but the line is untenable. You are ordered to withdraw towards Bagac (in the west) and Orion (in the east)."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>You have held off the initial Japanese attacks, but the line is untenable. You are ordered to withdraw towards Bagac (in the west) and Orion (in the east)."
+   }
+  }, 
+  "scenario": "sb6bat1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "BATAAN 2 - January 27, 1942<br><br>Strategic Situation:<br>The situation is going from bad to worse. Unknown to you, there is some talk back home of evacuating MacArthur before it is too late...<br><br>Tactical Briefing:<br>Your orders are to hold the defensive line between Bagac (in the west) and Orion (in the east). Supplies and ammunition are low, but you hold good defensive positions.", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Despite some scares, your masterful defense has stopped the assault along the Bagac-Orion Line. The battle is now a stalemate, with both the Japanese and US forces dug in along the line, but the US & Filipino forces on Bataan are low on supplies and ammunition and it is only a matter of time before the Japanese build up more forces to renew their attacks. <br><br>However, before you have to deal with the situation, on March 9th MacArthur receives orders from the President to leave the Philippines. On March 11th he leaves for Mindanao with his family and some valued staff members (including yourself) by PT boats and finally, on March 17th, you are evacuated with MacArthur by B-17 to Australia. <br><br>Your men have been left behind to face who knows what fate... and you will have a new command.<br><br>NOTE:<br><br>MacArthur left the Philippines on March 12, 1942. The defenders on Bataan surrendered on April 9 and the final surrender, on Corregidor, was on May 6. This is the reason you had to take a victory in this battle to continue."
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You fought bravely..."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Despite some scares, your defense has stopped the assault along the Bagac-Orion Line. The battle is now a stalemate, with both the Japanese and US forces dug in along the line, but the US & Filipino forces on Bataan are low on supplies and ammunition and it is only a matter of time before the Japanese build up more forces to renew their attacks. <br><br>However, before you have to deal with the situation, on March 9th MacArthur receives orders from the President to leave the Philippines. On March 11th he leaves for Mindanao with his family and some valued staff members (including yourself) by PT boats and finally, on March 17th, you are evacuated with MacArthur by B-17 to Australia. <br><br>Your men have been left behind to face who knows what fate... and you will have a new command.<br><br>NOTE:<br><br>MacArthur left the Philippines on March 12, 1942. The defenders on Bataan surrendered on April 9 and the final surrender, on Corregidor, was on May 6. This is the reason you had to take a victory in this battle to continue."
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Despite some scares, your defense has stopped the assault along the Bagac-Orion Line. The battle is now a stalemate, with both the Japanese and US forces dug in along the line, but the US & Filipino forces on Bataan are low on supplies and ammunition and it is only a matter of time before the Japanese build up more forces to renew their attacks. <br><br>However, before you have to deal with the situation, on March 9th MacArthur receives orders from the President to leave the Philippines. On March 11th he leaves for Mindanao with his family and some valued staff members (including yourself) by PT boats and finally, on March 17th, you are evacuated with MacArthur by B-17 to Australia. <br><br>Your men have been left behind to face who knows what fate... and you will have a new command.<br><br>NOTE:<br><br>MacArthur left the Philippines on March 12, 1942. The defenders on Bataan surrendered on April 9 and the final surrender, on Corregidor, was on May 6. This is the reason you had to take a victory in this battle to continue."
+   }
+  }, 
+  "scenario": "sb6bat2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "BOFU - November 8, 1942<br><br>Strategic Situation:<br>After escaping The Philippines with MacArthur's staff you are assigned to command some \"green\" units. In July 1942 the Japanese land near Buna mission and soon they attack over the Owen Stanley mountains, using the Kokoda Trail, with the intention of capturing Port Moresby. However in mid-September, in the face of strong Australian opposition, they start withdrawing back towards Buna. <br><br>Tactical Briefing:<br>Before the Japanese forces receive reinforcements we intend to counterattack. The plan is for the Australians to advance across the Kokoda trail while the US Army forces advance by land and air from the southeast.<br><br>Your inexperienced men, who were expecting a soft posting in Europe, are now in some of the worst terrain on Earth preparing for an assault on the area around Buna - which is known to be heavily defended. Before the attack begins your orders are to capture some of the outlying defenses. Your force is currently operating with almost no artillery or other support and are badly affected by sickness after the arduous journey.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "BRILLIANT VICTORY<br><br>Despite a lack of heavy weapons your men capture some of the outlying defences of Buna, although you have taken losses. The advance has been difficult and movement of supplies have been almost impossible. Your orders are to continue the assault on Buna."
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Clearly your leadership style is not going to work in the Jungle. You will be reassigned."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "TACTICAL VICTORY<br><br>Despite a lack of heavy weapons your men capture some of the outlying defences of Buna, although you have taken losses. The advance has been difficult and movement of supplies have been almost impossible. Your orders are to continue the assault on Buna.<br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "VICTORY<br><br>Despite a lack of heavy weapons your men capture some of the outlying defences of Buna, although you have taken losses. The advance has been difficult and movement of supplies have been almost impossible. Your orders are to continue the assault on Buna.<br>"
+   }
+  }, 
+  "scenario": "sb6bofu.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "BUNA - November 16, 1942<br><br>Strategic Situation:<br>The Japanese have been pushed back to the coast around Buna and Gona. The Australian 7th Division will attack from the mountains towards the coast at Gona, while you are ordered to continue the move up the coast towards Buna. <br><br>Tactical Briefing:<br>You still are extremely short on heavy equipment and supplies, which will be moved forward by sea and air; for now you have to fight with what you have available. The defenses around Buna are known to be strong and the defenders are fanatic, but you must succeed.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "BRILLIANT VICTORY<br><br>You capture Buna, but at loss of many lives. After the battle your men are withdrawn to Australia for rest, but the battle continues."
+   }, 
+   "lose": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "LOSS<br><br>You have performed particularly poorly here.... luckily your ass was saved by the Australians"
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "TACTICAL VICTORY<br><br>You capture Buna, but at loss of many lives. After the battle your men are withdrawn to Australia for rest, but the battle continues."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "VICTORY<br><br>You capture Buna, but at loss of many lives. After the battle your men are withdrawn to Australia for rest, but the battle continues."
+   }
+  }, 
+  "scenario": "sb6buna.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "SALAMAUA 1 - June 29, 1943<br><br>Strategic Situation:<br>The next main objective is the Lae and Nadzab areas, however preparations for that offensive will take some time since the overland adavance from Wau area will be very slow.<br><br>Tactical Briefing:<br>After an extended period of rest and retraining your men are thrown into the battle for Lae. Part of this campaign is to put the small Japanese base at Salamaua under pressure until the Lae operation begins. <br><br>The Australians will advance overland from Wau while you will be landed at Nassau Bay, south of Salamaua; your initial orders are to move up the coast and attack Japanese positions south of Salamaua and also meet up with the Australian 17th Brigade - for now you must keep pressure on the Japs but not actually capture Salamaua. The terrain south of Salamaua is equally bad as Buna and you are still short on supplies, although the supply situation is improving all the time.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "BRILLIANT VICTORY<br><br>You have successfully linked with the Australian Army. Your orders are to delay the assault on Salamaua until the attack on Lae can begin.<br>"
+   }, 
+   "lose": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "LOSS<br><br>You have not linked with the Australian Army, but thankfully your position is tenable. You will have to perform better in the future.<br>"
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "TACTICAL VICTORY<br><br>You have successfully linked with the Australian Army. Your orders are to delay the assault on Salamaua until the attack on Lae can begin.<br>"
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 115, 
+    "text": "VICTORY<br><br>You have successfully linked with the Australian Army. Your orders are to delay the assault on Salamaua until the attack on Lae can begin.<br>"
+   }
+  }, 
+  "scenario": "sb6sal1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "SALAMAUA 2 - August 16, 1943<br><br>Strategic Situation:<br>The assault on Salamaua has served the purpose of hiding the real objective of the Allied advance, the Lae and Nadzab operations. The Japanese have been forced to send troops south to defend Salamaua and weaken their positions around Lae.<br><br>Tactical Briefing:<br>Now is the time to capture Salamaua - the Australians will continue their advance from Wau, with the objective of capturing Salamaua and cutting the road to Lae. You will advance up the coast and assist in the assault on Salamaua.", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 175, 
+    "text": "BRILLIANT VICTORY<br><br>Your victory is notable, although it is overshadowed by the offensive further north at Lae. Your green troops are now becoming veterans but are badly in need of rest, so you are again pulled off the line to Australia for retraining. Part of your training will be for amphibious landings and you have more equipment available."
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 175, 
+    "text": "LOSS<br><br>Your performance here was way below par, but luckily the battle was saved by Australian reinforcements. "
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 175, 
+    "text": "TACTICAL VICTORY<br><br>Your victory is notable, although it is overshadowed by the offensive further north at Lae. Your green troops are now becoming veterans but are badly in need of rest, so you are again pulled off the line to Australia for retraining. Part of your training will be for amphibious landings and you have more equipment available."
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 175, 
+    "text": "VICTORY<br><br>Your victory is notable, although it is overshadowed by the offensive further north at Lae. Your green troops are now becoming veterans but are badly in need of rest, so you are again pulled off the line to Australia for retraining. Part of your training will be for amphibious landings and you have more equipment available."
+   }
+  }, 
+  "scenario": "sb6sal2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "ARAWE 1 - December 15, 1943<br><br>Strategic Situation:<br>After the capture of Lae the next major objectives are Finschhafen and Madang, both of which will be assaulted mainly by Australian ground forces supported by Allied naval units. Amphibious support for these operations has to cross the Dampier and Vitiaz Straits that separate New Guinea from the island of New Britain. A major landing (Operation Dexterity) by the US Marines on Cape Gloucester (near the western end of New Britain) is planned for late December. A diversion from this landing (Operation Director) is planned for mid-December; a small US Army force will assault the Arawe Peninsula on southern part of New Britain. <br><br>Tactical Briefing:<br>You will command Operation Director. Your orders are to occupy the peninsula and some nearby islands. The objective of the landings is to divert Japanese Army troops away from Cape Gloucester (which is approximately 50 miles to the north west on the northern coast); a secondary objective is a Japanese seaplane base on the peninsula. Despite the fact that this is a small diversionary operation you will have significant naval support and the Japanese opposition is sure to be as tough as anywhere else. Your landing force is in the range of the Japanese air force at Rabaul, so expect the worst. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>The landings go surprisingly well and you manage to gain control of Arawe peninsula. "
+   }, 
+   "lose": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Despite your loss, we at least have a small beachhead. You will have to do better in the future or you will threaten the Cape Gloucester landings."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>The landings go surprisingly well and you manage to gain control of Arawe peninsula. "
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>The landings go surprisingly well and you manage to gain control of Arawe peninsula. "
+   }
+  }, 
+  "scenario": "sb6ara1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "ARAWE 2 - January 1, 1944<br><br>Strategic Situation:<br>Both Operation Dexterity and Operation Director have gone as planned, although the Marines at Cape Gloucester are still fighting and are taking the brunt of the Japanese attacks. On New Guinea, the Australians have captured Finschhafen and are advancing towards their next objective; Madang.<br><br>Tactical Briefing:<br>You will remain on the Arawe Peninsula. After the initial beachhead was established most of your Naval support withdrew to help with the Marine landings, you must now hold the peninsula without their assistance. Despite the fact that a lot of Japanese are concentrating on Cape Gloucester a significant force has dug in at the edge of the peninsula and must be dealt with. Your orders are to break this force; a secondary objective is to expand the beachhead east and west. Once your operations are complete your men will be replaced.<br><br>You will receive reinforcements from the 158th Infantry and some Marine tanks; air support will be provided if it can be spared. The Japanese are not expected to reduce their air activity - so prepare your air defences.", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "BRILLIANT VICTORY<br><br>Your men will be replaced by a garrison and moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "LOSS<br><br>Loss is not an option, you must regroup and continue the battle."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "TACTICAL VICTORY<br><br>Your men will be replaced by a garrison and moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 75, 
+    "text": "VICTORY<br><br>Your men will be replaced by a garrison and moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }
+  }, 
+  "scenario": "sb6ara2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "ARAWE 3 - January 20, 1944<br><br>Strategic Situation:<br>Fighting continues on the approaches to Madang.<br><br>Tactical Briefing:<br>You must continue the battle. HQ is not happy with your performance.", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 20, 
+    "text": "BRILLIANT VICTORY<br><br>Your men will be replaced by a garrison and will be moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }, 
+   "lose": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Loss is not an option, you have been replaced. A nice posting in Northern Alaska awaits you."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 20, 
+    "text": "TACTICAL VICTORY<br><br>Your men will be replaced by a garrison and will be moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 20, 
+    "text": "VICTORY<br><br>Your men will be replaced by a garrison and will be moved back to New Guinea. Despite the fact the the Arawe operation is considered only a small diversion, the experience gained has not gone unnoticed at HQ."
+   }
+  }, 
+  "scenario": "sb6ara3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "SAIDOR - March 1, 1944<br><br>Strategic Situation:<br>After the capture of Finschhafen, Australian troops are moving towards Madang both up the coast and via the Markham and Ramu River valleys. On January 2nd an amphibious US Army force captured Saidor (midway between Finschhafen and Madang) to block the Japanese coastal link between the two towns. <br><br>Tactical Briefing:<br>After the Arawe operation your men are moved to Saidor to rest and prepare for further operations. Your current orders are to patrol in the Saidor area; the main objectives are to search out remaining Japanese units to the south, and secure the mountain passes. You are also ordered to send an amphibious group to the west. The Australians are close to linking up to your east but the south and west are your main concerns.<br><br>NOTE: <br>You will have to embark units from the \"port\" of Saidor but you will only be able to embark 1 unit at a time.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 135, 
+    "text": "BRILLIANT VICTORY<br><br>By the end of the battle you have already been ordered to take part in a large amphibious operation; report to HQ as soon as possible."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>We expected much better from you in such a simple operation. "
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 135, 
+    "text": "TACTICAL VICTORY<br><br>By the end of the battle you have already been ordered to take part in a large amphibious operation; report to HQ as soon as possible."
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 135, 
+    "text": "VICTORY<br><br>By the end of the battle you have already been ordered to take part in a large amphibious operation; report to HQ as soon as possible."
+   }
+  }, 
+  "scenario": "sb6said.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "HOLLANDIA - April 22, 1944<br><br>Strategic Situation:<br>A decision has been made to stage two amphibious operations, at Aitape and Hollandia - both operations will bypass a major Japanese base at Wewak, which will be isolated.<br><br>Tactical Briefing:<br>You will command Operation Reckless, the landing at Hollandia. Your forces will be landed at Tanamerah and Humboldt Bays and must push inland to capture the airfields around Lake Sentani - control of these airfields is necessary to support future operations. The operation has been preceeded by large air strikes, but the quality of the remaining defenders is unknown.", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>After all the preparation you have an easy victory. Your next battle will be another amphibious operation..."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Your performance at Hollandia is completely unacceptable, you will be replaced."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>After all the preparation you have an easy victory. Your next battle will be another amphibious operation..."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>After all the preparation you have an easy victory. Your next battle will be another amphibious operation..."
+   }
+  }, 
+  "scenario": "sb6holl.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "WAKDE ISLAND - May 17, 1944<br><br>Strategic Situation:<br>Japanese forces around Wewak have been effectively isolated, although there is still a lot of fighting in the Aitape area (between Hollandia amd Wewak) - but the campaign will continue. The next operations are intended to isolate remaining Japanese units in the western part of New Guinea and capture bases needed for the advance on the Philippines. In late May 1944 the two planned operations are Operation Straightline (the area around Sarmi, on the coast west of Hollandia), and Operation Horlicks (Biak Island, even further to the west).<br><br>Tactical Briefing:<br>You command the land portion of Operation Straightline. The landings are in the area around the villages of Arare and Toem; the initial landings are unopposed. Your orders are to capture the port facilities at Maffin and assault the island of Wakde, which is a particularly important objective because the airfield is suitable as a bomber base. The Japanese 36th Division, veterans of fighting in China, are stationed in this area, so you should prepare a defensive perimeter in expectation of a counterattack.<br><br>NOTE:<br>You can embark units by sea from the \"Port\" of Maffin. You own the hex at the start but can only deploy in the ocean once you have moved the unit to the hex - no matter what flag is shown. You cannot deploy units from this hex like a regular port.", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Despite vicious fighting on Wakde Island the airfield has been captured intact and is already in use. However, the area is not clear of enemy forces."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>General MacArthur's displeasure at your poor performance in such a simple operation is great; you are ordered to return to HQ for reassignment."
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Despite vicious fighting on Wakde Island the airfield has been captured intact and is already in use. However, the area is not clear of enemy forces."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Despite vicious fighting on Wakde Island the airfield has been captured intact and is already in use. However, the area is not clear of enemy forces."
+   }
+  }, 
+  "scenario": "sb6wakd.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "SARMI - June 7, 1944<br><br>Strategic Situation:<br>To your west, the Biak invasion is moving slowly, and for that reason a landing is planned on the nearby island of Noemfoor to capture the airfield. To your east, Japanese forces are still squeezed between US troops moving east from Aitape and Australians moving west from Madang. Further to the north US forces will soon be landing on the island of Saipan.<br><br>Tactical Briefing:<br>Your mission has been expanded. In addition to securing the area around Maffin Bay you have been ordered to capture the town of Sarmi, and secure the high ground south of Maffin and Maffin airfield. Large groups of Japanese troops are moving west from Hollandia so you should prepare for a counterattack. You have limited supplies and Naval support has been withdrawn, although reinforcements have been promised.", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 170, 
+    "text": "BRILLIANT VICTORY<br><br>After a vicious battle the Japanese attacks finally die down. Your men now control the Sarmi area, the airfields are in operation and Maffin is being prepared for use as a base for further operations."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>The Japanese overwhelm your position..."
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 170, 
+    "text": "TACTICAL VICTORY<br><br>After a vicious battle the Japanese attacks finally die down. Your men now control the Sarmi area, the airfields are in operation and Maffin is being prepared for use as a base for further operations."
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 170, 
+    "text": "VICTORY<br><br>After a vicious battle the Japanese attacks finally die down. Your men now control the Sarmi area, the airfields are in operation and Maffin is being prepared for use as a base for further operations."
+   }
+  }, 
+  "scenario": "sb6sarm.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "AITAPE 1 - July 9, 1944<br><br>Strategic Situation:<br>Most of the Japanese on New Guinea have been bypassed or defeated, but there are still pockets of resistance. The largest group is centered on Wewak; to the east Australians are slowly advancing from Madang, to the west the US Army is slowly moving from Aitape. The Japanese air force at Wewak has been largely neutralized by Allied bombing, but there are plenty of ground troops.<br><br>Tactical Briefing:<br>Aitape was captured in April 1944, at the same time as the Hollandia operation. Since then the Army has been advancing slowly east and have reached the Driniumor River, where elements of the Japanese 20th, 41st and 51st Divisions (of the 18th Army) have held up the advance. Your men have been transported east to Aitape, where you have been ordered to take over the Driniumor River line, from the coast south to Afua. Even as you take your positions there are signs that an attack is imminent...<br><br>(IMPORTANT NOTE! The only way to \"win\" this scenario is to take a Loss. If you do not play through all 20 turns you will lose the campaign.)", 
+  "outcome": {
+   "briliant": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>This result should not be possible"
+   }, 
+   "lose": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 40, 
+    "text": "You have successfully held off the initial attacks, hold your positions and await further orders."
+   }, 
+   "tactical": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>This result should not be possible"
+   }, 
+   "victory": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>This result should not be possible"
+   }
+  }, 
+  "scenario": "sb6ait1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "AITAPE 2 - July 18, 1944<br><br>Strategic Situation:<br>General MacArthur is preparing to present his plan for the invasion of the Philippines to the President and, for that reason, pressure is being put on the commanders of the Aitape operation to finish the campaign as soon as possible; to demonstrate that MacArthur's concepts are working...<br><br>Tactical Briefing:<br>You have successfully halted the initial Japanese attacks and plugged the gaps in the Driniumor River line, although some of your men are under attack in the area of Afua and are in danger of being encircled from the south. After the initial Japanese offensive your men are scattered but you are ordered to take the offensive, relieve Afua and wipe out all Japanese troops west of the Driniumor.", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 110, 
+    "text": "BRILLIANT VICTORY<br><br>You have held the wave of attacks; however Afua is in danger of being encircled again. The battle is far from over."
+   }, 
+   "lose": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 110, 
+    "text": "LOSS<br><br>The Japanese overran your command post at night... the battle is lost."
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 110, 
+    "text": "TACTICAL VICTORY<br><br>You have held the wave of attacks; however Afua is in danger of being encircled again. The battle is far from over."
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 110, 
+    "text": "VICTORY<br><br>You have held the wave of attacks; however Afua is in danger of being encircled again. The battle is far from over."
+   }
+  }, 
+  "scenario": "sb6ait2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "AITAPE 3 - August 1, 1944<br><br>Tactical Briefing:<br>Despite successes west of the Driniumor your men are still besieged around Afua - and fresh Japanese troops are moving into the area. After weeks of weeks of constant fighting there is no time to rest; you have received orders to cross the river near the coast and attempt to envelop the Japanese from the north. Afua is still just barely holding, so the sooner the defenders can be relieved the better...<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>After weeks of fighting and wave after wave of attacks you have finally broken the enemy! Thousands of Japanese troops are dead or retreating, but your men have also suffered large losses. There remain significant Japanese concentrations, east towards Wewak which will be the job for the Australian Army to deal with; all that remains in the Aitape area is to hold the Driniumor line until Australian troops take over (which is scheduled for October). Your men will immediately be pulled off the line to prepare for the invasion of the Philippines. The New Guinea campaign is over! "
+   }, 
+   "lose": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>After weeks of fighting and wave after wave of attacks you have finally broken the enemy! Thousands of Japanese troops are dead or retreating, but your men have also suffered large losses. There remain significant Japanese concentrations, east towards Wewak which will be the job for the Australian Army to deal with; all that remains in the Aitape area is to hold the Driniumor line until Australian troops take over (which is scheduled for October). Your men will immediately be pulled off the line to prepare for the invasion of the Philippines. The New Guinea campaign is over! "
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>After weeks of fighting and wave after wave of attacks you have finally broken the enemy! Thousands of Japanese troops are dead or retreating, but your men have also suffered large losses. There remain significant Japanese concentrations, east towards Wewak which will be the job for the Australian Army to deal with; all that remains in the Aitape area is to hold the Driniumor line until Australian troops take over (which is scheduled for October). Your men will immediately be pulled off the line to prepare for the invasion of the Philippines. The New Guinea campaign is over! "
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>After weeks of fighting and wave after wave of attacks you have finally broken the enemy! Thousands of Japanese troops are dead or retreating, but your men have also suffered large losses. There remain significant Japanese concentrations, east towards Wewak which will be the job for the Australian Army to deal with; all that remains in the Aitape area is to hold the Driniumor line until Australian troops take over (which is scheduled for October). Your men will immediately be pulled off the line to prepare for the invasion of the Philippines. The New Guinea campaign is over! "
+   }
+  }, 
+  "scenario": "sb6ait3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "BIAK 1 - May 27, 1944<br><br>Strategic Situation:<br>Japanese forces around Wewak have been effectively isolated, although there is still a lot of fighting in the Aitape area (between Hollandia amd Wewak) - but the campaign will continue. The next operations are intended to isolate remaining Japanese units in the western part of New Guinea and capture bases needed for the advance on the Philippines. In late May 1944 the two planned operations are Operation Straightline (the area around Sarmi, on the coast west of Hollandia), and Operation Horlicks (Biak Island, even further to the west).<br><br>Tactical Briefing:<br>You command the land portion of Operation Horlicks. The initial landings are in the area around Bosnik and are unopposed. Your orders are to move west and capture the three main airfields. The terrain of Biak is rough, with a long coastal escarpment that will limit movement, but control of the airfields is vital so you will have to move fast. Elements of the experienced Japanese 36th Division are present, although their strength and disposition are unknown at this time.<br><br>YOU HAVE RECEIVED ORDERS:<br>You should land on the cleared beaches around the villages of Bosnik and Soriari (in the east).", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>You have performed adequately so far, but the battle is not over."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You have performed barely adequately so far, you are being relieved of your command."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>You have performed adequately so far, but the battle is not over."
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>You have performed adequately so far, but the battle is not over."
+   }
+  }, 
+  "scenario": "sb6bia1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "BIAK 2 - June 19, 1944<br><br>Strategic Situation:<br>To your east, the Sarmi landings are progressing slowly and to your west a landing is planned on the nearby small island of Noemfoor to capture the airfield - specifically due to the fact that the Biak operation has bogged down. Further to the east, Japanese forces are still squeezed between US troops moving east from Aitape and Australians moving west from Madang.<br><br>Tactical Briefing:<br>Over the period between the initial invasion and today the Japanese Navy attempted to resupply Biak, with little success - clearly Biak is important to them. General MacArthur was displeased with the Biak operation and ordered the Noemfoor operation, at the cost of some lives, just to gain an airfield. The Biak airfields, while under your nominal control, are still under threat from the remnants of the Japanese garrison - who have retreated to caves in the hills. Your orders are to eliminate the Japanese threat once and for all, and gain full control of the airfields. Your men are needed for further operations and cannot be spared just to mop up. Rooting the Japs out of their caves will no doubt be hard, but you have your orders.", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "BRILLIANT VICTORY<br><br>After a vicious battle you now are in full control of the airfields. There is still a lot of mopping up to do, but for now your men are pulled off the line in preparation for future offensives."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     255
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>The Japanese overwhelm your position..."
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "TACTICAL VICTORY<br><br>After a vicious battle you now are in full control of the airfields. There is still a lot of mopping up to do, but for now your men are pulled off the line in preparation for future offensives."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 150, 
+    "text": "VICTORY<br><br>After a vicious battle you now are in full control of the airfields. There is still a lot of mopping up to do, but for now your men are pulled off the line in preparation for future offensives."
+   }
+  }, 
+  "scenario": "sb6bia2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "MOROTAI 1 - October 1, 1944<br><br>Strategic Situation:<br>Preparations are being made for the return to the Philippines.<br><br>Tactical Briefing:<br>The capture of Japanese bases on the western end of New Guinea has weakened and isolated their large base on the island of Halmahera, that is located between New Guinea and the Philippines. A decision has been made to bypass Halmahera, but airfields are needed to support the Philippines operations - so the small airfield on the island of Morotai, that is located off the north-eastern tip of Halmahera, was captured on September 15 (with few casualties). Since the end of the Aitape operations your men have been moved to Morotai to prepare for the invasion of the Philippines. <br><br>The Japanese are aware that the airfield on Morotai is important to any operation against the Philippines so they have been infiltrating troops by boat and barge from Halmahera. Your orders are to deal with these infiltrators and at the same time hold the airfield and establish control over the rest of island. <br><br>Note 1: <br>You can embark units at the \"port\" of Doroeba but you will be unable to deploy in the ocean at the start of the scenario.<br><br>Note 2:<br>The Morotai operation was a long one (if not as famous as other operations). Events have been compressed in this and the next scenario.", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "BRILLIANT VICTORY<br><br>Morotai's airfields are already being used for operations against Japanese bases in the Philippines. You already have orders that will take most of your men to the Philippines, although Morotai must still be defended."
+   }, 
+   "lose": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Your failure to defind such a small island against half-starved stragglers is unacceptable. You are being assigned to defend a radar station in northern Alaska."
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "TACTICAL VICTORY<br><br>Morotai's airfields are already being used for operations against Japanese bases in the Philippines. You already have orders that will take most of your men to the Philippines, although Morotai must still be defended."
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 130, 
+    "text": "VICTORY<br><br>Morotai's airfields are already being used for operations against Japanese bases in the Philippines. You already have orders that will take most of your men to the Philippines, although Morotai must still be defended."
+   }
+  }, 
+  "scenario": "sb6mor1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "MOROTAI 2 - December 24, 1944<br><br>Strategic Situation:<br>The invasion of the Philippines continues.<br><br>Tactical Briefing:<br>The airfields on Morotai have become vital to the ongoing operations in the Philippines and must be defended. The Japanese strength on Morotai has been greatly reduced but they have been reinforced from Halmahera and could be a threat.<br><br>Your orders are to take the battle to the Japanese and wipe them out.<br><br>Most of your men are preparing for the invasion of Luzon so you will have a minimal force available to you.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent. As far as we can tell you have wiped out the Japanese troops on Morotai. You will now join the Phillipines operation that is already in progress."
+   }, 
+   "lose": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "LOSS<br><br>Your failure to defeat this rabble of half-starved defenders is completely unacceptable. Lucky for you we need experienced commanders right now. You will now join the Phillipines operation that is already in progress."
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Excellent. As far as we can tell you have wiped out the Japanese troops on Morotai. You will now join the Phillipines operation that is already in progress."
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Excellent. As far as we can tell you have wiped out the Japanese troops on Morotai. You will now join the Phillipines operation that is already in progress."
+   }
+  }, 
+  "scenario": "sb6mor2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "BATAAN 3 - January 30, 1944<br><br>Strategic Situation:<br>The invasion of the Philippines continues. In the course of the last 2 weeks US forces landed and moved inland from Lingayen Gulf, advancing towards Manila. <br><br>Tactical Briefing:<br>In advance of the assault on Manila a number of secondary landings will take place to help secure Manila Bay. On January 29th a force landed at San Narciso (which is on the west cost of Luzon north of Bataan) with the objective of cutting across the base of the Bataan Peninsula and linking with units moving inland from Lingayen Gulf - this will have the effect of isolating the Japanese defenders on the Bataan peninsula. As part of this offensive you have orders to lead a small amphibious force and capture Japanese naval facilities in Subic Bay. <br><br>You only have some of your units available to you, since many of your men are still being shipped from Morotai.<br><br>Your secondary orders are to attack over the mountainous area north of Bataan if the force from San Narciso has not reached the area, but by now you should be familiar with this sort of terrain...", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Despite hard fighting over Zig Zag Pass, you have managed to isolate Bataan. You should prepare for more fighting while the rest of your men catch up with you."
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "LOSS<br><br>Unfortunately you have failed to completely cut off Bataan, but luckily the mission will be finished by troops moving in from the east. You will need some rest before partcipating in more combat."
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Despite hard fighting over Zig Zag Pass, you have managed to isolate Bataan. You should prepare for more fighting while the rest of your men catch up with you."
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Despite hard fighting over Zig Zag Pass, you have managed to isolate Bataan. You should prepare for more fighting while the rest of your men catch up with you."
+   }
+  }, 
+  "scenario": "sb6bat3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "CORREGIDOR - February 16, 1945<br><br>Strategic Situation:<br>The invasion of the Philippines continues.<br><br>Tactical Briefing:<br>Corregidor Island covers the entrance to Manila Bay and although the current defenders are weak, the island will be taken by a combined airborne/amphibious assault for both tactical and sentimental reasons. <br><br>On February 15th the southern port on the Bataan Peninsula (Mariveles) was taken by an amphibious assault. On February 16th the 503rd Parachute Regiment will be dropped on Corregidor and, later that day, elements of your group will perform an amphibious assault from the south side of the island. You still have limited availabilty of your units due to participation elsewhere on Bataan.<br><br>You have also been warned to be on the lookout for Japanese suicide boats, which have damaged and sunk a number of ships nearby.<br><br>YOU HAVE RECEIVED ORDERS:<br>Your orders are to land on the SOUTH side of the island, near San Jose and the South Dock. YOU WILL NOT BE ABLE TO LAND ANYWHERE ELSE!", 
+  "outcome": {
+   "briliant": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "BRILLIANT VICTORY<br><br>Your mission succeeded better than expected. Your scattered units will now meet up and prepare for the next battle."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Your failure to capture Corregidor is an extreme embarrassment that will not be forgotten."
+   }, 
+   "tactical": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "TACTICAL VICTORY<br><br>Your mission succeeded better than expected. Your scattered units will now meet up and prepare for the next battle."
+   }, 
+   "victory": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "VICTORY<br><br>Your mission succeeded better than expected. Your scattered units will now meet up and prepare for the next battle."
+   }
+  }, 
+  "scenario": "sb6corr.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 25, 
+  "intro": "ZAMBOANGA - March 10, 1945<br><br>Strategic Situation:<br>Manila, and in fact Luzon, are more or less under control (although there is still a lot of fighting). The Japanese still control a number of bases in the southern Philippines that potentially threaten future operations.<br><br>Tactical Briefing:<br>In the far south of the Philippines a large Japanese detachment is based on the island of Mindanao. Your objective is the Japanese base at Zamboanga, which is at the southwest tip of Mindanao. Control of the Zamboanga area is considered to be of importance to future operations and its location is important for control of the sea lanes. Your orders are the are capture of Zamboanga and surrounding airfields plus control of high ground to the north.<br><br>YOU HAVE RECEIVED ORDERS:<br>You should establish a beachhead around the town of San Mateo and push inland from there. YOU WILL NOT BE ABLE TO LAND ANYWHERE ELSE!", 
+  "outcome": {
+   "briliant": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 225, 
+    "text": "BRILLIANT VICTORY<br><br>You have done well. The defenders around Zamboanga collasped under the onslaught, but before you reach your objectives you are relieved by the 163rd infantry. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>At this stage of the war you should have enough experience to face such a pathetic defense. You are being relieved."
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 225, 
+    "text": "TACTICAL VICTORY<br><br>You have done well. The defenders around Zamboanga collasped under the onslaught, but before you reach your objectives you are relieved by the 163rd infantry. "
+   }, 
+   "victory": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 225, 
+    "text": "VICTORY<br><br>You have done well. The defenders around Zamboanga collasped under the onslaught, but before you reach your objectives you are relieved by the 163rd infantry. "
+   }
+  }, 
+  "scenario": "sb6zamb.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 26, 
+  "intro": "DAVAO - May 1, 1945<br><br>Strategic Situation:<br>Manila, and in fact Luzon, are more or less under control (although there is still a lot of fighting). Meanwhile, the Mindanao operation (and other southern Philippines operations) continues.<br><br>Tactical Briefing:<br>Recently a number of landings have been made in the south and west of Mindanao and most of the defenders have been pushed inland. A large Japanese detachment remains in control of the port of Davao on the eastern side of the island. Your orders are to capture Davao and then attack west to help surround the Japanese defenders in the center of the island. Meanwhile, you should link with Filipino guerilla forces that are moving in from the north.", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Your men are performing better than ever but will now be pulled off the line to prepare for the invasion of the Japanese homeland. It should please you to know that your experienced troops will be among the spearheads of this operaion - unless something totally unexpected happens in the meantime..."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Unfortunately you were killed in a surprise banzai attack on your command post..."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Your men are performing better than ever but will now be pulled off the line to prepare for the invasion of the Japanese homeland. It should please you to know that your experienced troops will be among the spearheads of this operaion - unless something totally unexpected happens in the meantime..."
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Your men are performing better than ever but will now be pulled off the line to prepare for the invasion of the Japanese homeland. It should please you to know that your experienced troops will be among the spearheads of this operaion - unless something totally unexpected happens in the meantime..."
+   }
+  }, 
+  "scenario": "sb6dava.xml", 
+  "startprestige": 0
+ }
+]

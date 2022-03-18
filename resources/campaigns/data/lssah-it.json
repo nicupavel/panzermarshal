@@ -1,0 +1,1146 @@
+[
+ {
+  "id": 0, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Weiss. <br>1st September, 1939. <br>Prosna River Crossing.<br><br>LSSAH had been preparing for the Polish campaign since June, and in August had recieved orders to move from their Lichterfelde Barracks to an assembly area in East Berlin. LSSAH infantry regiment comprises 3 infantry batallions, artillery batallion, reconnaissance and motor-cycle companies.<br><br>The OKH remained sceptical of SS combat abilities, yet had little option but to accept Hitler's wish that the SS be involved in invasion to Poland. LSSAH is attached to XIII Corps, 8th Armee, Army Group South, with the task of defending the left flank of the 10th Armee.  In the initial advance it is put under the control of the 17th Infantry Division and is assigned the task of forward reconnaissance and the defence of slower moving units.<br><br>The first objective for the LSSAH is to cross the Prosna River and assault anti-tank guns across the bridge.  We need to move quickly to seize the heights and move into the village of Boleslawez.  Expect counter-attacks by Polish infantry divisions and cavalry elements.<br><br>(If playing with rules do not buy any new units, except to replace any core losses)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Now, the bulk of the LSSAH regiment is across the river and is ready to link up with the 17th Infantry Division.  Our next order is to advance towards Burzenin where we will have to cross the Warta River.HISTORICAL: XIII Armeekorps was critical of the performance of LSSAH in Poland and in a report following its departure wrote.The Leibstandarte Adolf Hitler was only partially capable of fulfilling its mission. It did capture the bridge at Gola in a surprise attack, but then fell into an ambush on the main road on the southern edge of Boleslawez. There the unit suffered its first casualties and let itself get embroiled in frontal house-to-house combat with weak enemy forces but to which the Leibstandarte was not equal in regard to infantry combat training.Several civilians were killed in Boleslawez by LSSAH. 34 civilians were killed in Torzeniec by soldiers from the Pionierzug under command of SS-Obersturmfuhrer Christian Hansen. Soldiers from the 17th Infanterie Division and LSSAH killed close to 200 civilians in Zloczew, the reason for this massacre is not known."
+   }, 
+   "lose": {
+    "goto": 0, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Now, the bulk of the LSSAH regiment is across the river and is ready to link up with the 17th Infantry Division.  Our next order is to advance towards Burzenin where we will have to cross the Warta River.HISTORICAL: XIII Armeekorps was critical of the performance of LSSAH in Poland and in a report following its departure wrote.The Leibstandarte Adolf Hitler was only partially capable of fulfilling its mission. It did capture the bridge at Gola in a surprise attack, but then fell into an ambush on the main road on the southern edge of Boleslawez. There the unit suffered its first casualties and let itself get embroiled in frontal house-to-house combat with weak enemy forces but to which the Leibstandarte was not equal in regard to infantry combat training.Several civilians were killed in Boleslawez by LSSAH. 34 civilians were killed in Torzeniec by soldiers from the Pionierzug under command of SS-Obersturmfuhrer Christian Hansen. Soldiers from the 17th Infanterie Division and LSSAH killed close to 200 civilians in Zloczew, the reason for this massacre is not known."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Now, the bulk of the LSSAH regiment is across the river and is ready to link up with the 17th Infantry Division.  Our next order is to advance towards Burzenin where we will have to cross the Warta River.HISTORICAL: XIII Armeekorps was critical of the performance of LSSAH in Poland and in a report following its departure wrote.The Leibstandarte Adolf Hitler was only partially capable of fulfilling its mission. It did capture the bridge at Gola in a surprise attack, but then fell into an ambush on the main road on the southern edge of Boleslawez. There the unit suffered its first casualties and let itself get embroiled in frontal house-to-house combat with weak enemy forces but to which the Leibstandarte was not equal in regard to infantry combat training.Several civilians were killed in Boleslawez by LSSAH. 34 civilians were killed in Torzeniec by soldiers from the Pionierzug under command of SS-Obersturmfuhrer Christian Hansen. Soldiers from the 17th Infanterie Division and LSSAH killed close to 200 civilians in Zloczew, the reason for this massacre is not known."
+   }
+  }, 
+  "scenario": "lah_it_01.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Weiss. <br>4th September, 1939. <br>Warta Crossing.<br><br>The invasion of Poland is in its fourth day. While German panzer divisions are spearheading toward Warsaw, the German 8th Army has reached the river Warta. <br>The LSSAH was given the order to cross the river in the south and to advance on Burzenin.<br>However, the Poles have set up a strong defensive line and await the German assault.<br><br>(If playing with rules do not buy any new units, except to replace any core losses)<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The objective is achieved despite heavy resistance and casaulties, which caused a certain delay in our advance. The rest of the attack towards Lodz was characterised by brutal fighting, stubborn defence, fierce counter-attacks and bloodshed all round.<br><br>With the route to Warsaw now wide open, the 10th Army turned its axis of advance north and advanced toward the capital from the south-west, while the 4th Army closed from the north.  Guderian's armoured corps linked up with von Kleist's armoured corps at Brest-Litovsk on the 14th, effectively cutting off any potential escape route.<br><br>On the Western approaches the 1st Battalion of the Leibstandarte fought bitterly to wrest Oltarzev from its stubborn defenders.  The Pole's although battered, were far from beaten and had declared Warsaw a fortress city.  Instead of withdrawing east, they began a retreat south-east and struck at the 8th Army.  The attacks temporarily threw the Germans off balance and the Leibstandarte was forced onto the defensive.<br>"
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The objective is achieved despite heavy resistance and casaulties, which caused a certain delay in our advance. The rest of the attack towards Lodz was characterised by brutal fighting, stubborn defence, fierce counter-attacks and bloodshed all round.<br><br>With the route to Warsaw now wide open, the 10th Army turned its axis of advance north and advanced toward the capital from the south-west, while the 4th Army closed from the north.  Guderian's armoured corps linked up with von Kleist's armoured corps at Brest-Litovsk on the 14th, effectively cutting off any potential escape route.<br><br>On the Western approaches the 1st Battalion of the Leibstandarte fought bitterly to wrest Oltarzev from its stubborn defenders.  The Pole's although battered, were far from beaten and had declared Warsaw a fortress city.  Instead of withdrawing east, they began a retreat south-east and struck at the 8th Army.  The attacks temporarily threw the Germans off balance and the Leibstandarte was forced onto the defensive.<br>"
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "The objective is achieved despite heavy resistance and casaulties, which caused a certain delay in our advance. The rest of the attack towards Lodz was characterised by brutal fighting, stubborn defence, fierce counter-attacks and bloodshed all round.<br><br>With the route to Warsaw now wide open, the 10th Army turned its axis of advance north and advanced toward the capital from the south-west, while the 4th Army closed from the north.  Guderian's armoured corps linked up with von Kleist's armoured corps at Brest-Litovsk on the 14th, effectively cutting off any potential escape route.<br><br>On the Western approaches the 1st Battalion of the Leibstandarte fought bitterly to wrest Oltarzev from its stubborn defenders.  The Pole's although battered, were far from beaten and had declared Warsaw a fortress city.  Instead of withdrawing east, they began a retreat south-east and struck at the 8th Army.  The attacks temporarily threw the Germans off balance and the Leibstandarte was forced onto the defensive.<br>"
+   }
+  }, 
+  "scenario": "lah_it_02.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Weiss. <br>15th September, 1939. <br>Bzura Pocket.<br><br>After the Polish attacks, the Leibstandarte was withdrawn to the west, where it was attached to the forces attempting to encircle the Polish forces on the Bzura.  Under XVI Corps, the Leibstandarte played a major part in this operation, which was the largest battle of the Polish campaign.  Some of the heaviest fighting took place in the streets of Sochaczev, where strong resistance was encoutered.<br><br>The Battle of Bzura was distinguished by the great bravery of the trapped Polish forces, who by now facing annihilation, put up a spirited defence.  By the 19th however, the jaws closed around them.<br><br>(If playing according to the rules, do not buy additional units)<br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 324, 
+    "text": "On 30th September as the remaining Polish units were being mopped up, the Leibstandarte was awarded a special standard in light of the heavy casaulties it had suffered during the campaign.  The regiment suffered more than 400 killed, wounded or missing.  This was proof, the army believed that the SS was poorly trained and led, and reckless in attack.  The SS countered that the OKW had consistently given the SS the most dangerous tasks, and that the practice of dividing SS units amongst the army formations was detrimental to their effectiveness in battle.<br><br>Overall, with their ability to redeploy rapidly from one sector of fighting to another, the Leibstandarte had proved the effectiveness of motorised units in battle."
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 324, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 324, 
+    "text": "On 30th September as the remaining Polish units were being mopped up, the Leibstandarte was awarded a special standard in light of the heavy casaulties it had suffered during the campaign.  The regiment suffered more than 400 killed, wounded or missing.  This was proof, the army believed that the SS was poorly trained and led, and reckless in attack.  The SS countered that the OKW had consistently given the SS the most dangerous tasks, and that the practice of dividing SS units amongst the army formations was detrimental to their effectiveness in battle.<br><br>Overall, with their ability to redeploy rapidly from one sector of fighting to another, the Leibstandarte had proved the effectiveness of motorised units in battle."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 324, 
+    "text": "On 30th September as the remaining Polish units were being mopped up, the Leibstandarte was awarded a special standard in light of the heavy casaulties it had suffered during the campaign.  The regiment suffered more than 400 killed, wounded or missing.  This was proof, the army believed that the SS was poorly trained and led, and reckless in attack.  The SS countered that the OKW had consistently given the SS the most dangerous tasks, and that the practice of dividing SS units amongst the army formations was detrimental to their effectiveness in battle.<br><br>Overall, with their ability to redeploy rapidly from one sector of fighting to another, the Leibstandarte had proved the effectiveness of motorised units in battle."
+   }
+  }, 
+  "scenario": "lah_it_21.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Gelb. <br>9th May, 1940. <br>Attack into Holland.<br><br>In early 1940, Leibstandarte was expanded into a full independent motorized infantry regiment comprising: 3 infantry battalions; 1 pioneer battalion; 1 artillery regiment (2 battalions); 1 reconnaissance battalion. <br><br>(NOTE: If playing with rules, you should purchase one '10.5mm leFH18' artillery unit)<br><br>The regiment was shifted to the Dutch border for the launch of Fall Gelb. The German assault in the west finally began before daylight on May 9th with extensive air attacks on Dutch and Belgian airfields and the seizure of vital river crossings by paratroops.  When dawn came, the Leibstandarte, as part of 18th Army, Army Group B, drove into Holland, with its main column striking towards the southern Netherlands to envelop the southern flank of the 'Vesting Holland' region.<br><br>This time the Leibstandarte is attached to the 227th Infantry Division and has been given the role of penetrating the enemy defences and securing the road and river bridges. Our first target is the Ijssel river and city Arnhem. <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Despite heavy resistance from Dutch forces, we were able to cross the Ijssel defense line taking the important Arnhem city. <br><br>While 227th Infantry division and some of the SS troops continue fighting at the Grebbe line, we are ordered to rush to the south to link up with the 9th Panzerdivision to assault Rotterdam.<br><br>"
+   }, 
+   "lose": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Despite heavy resistance from Dutch forces, we were able to cross the Ijssel defense line taking the important Arnhem city. <br><br>While 227th Infantry division and some of the SS troops continue fighting at the Grebbe line, we are ordered to rush to the south to link up with the 9th Panzerdivision to assault Rotterdam.<br><br>"
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Despite heavy resistance from Dutch forces, we were able to cross the Ijssel defense line taking the important Arnhem city. <br><br>While 227th Infantry division and some of the SS troops continue fighting at the Grebbe line, we are ordered to rush to the south to link up with the 9th Panzerdivision to assault Rotterdam.<br><br>"
+   }
+  }, 
+  "scenario": "lah_it_03.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Gelb. <br>12th May, 1940. <br>Rotterdam.<br><br>After successful penetration of Dutch defenses at Arnhem, we are ordered to leave the Grebbe defensive line and shift our focus on the Rotterdam area.  Generalleutnant Student has landed his FliegerKorps XI Fliegerdivision 7 and Luftlandedivision 22 near The Hague, Rotterdam and the bridges at Dordrecht and Moerdijk. Unfortunately, our forces were able to capture only one big airfield at Waalhaven near Rotterdam. Airfield at Yepenburg is captured but the airstrip is blocked by wrecks and the airstrip at Valkenburg is still under construction, so those airfields are not capable of receiving substantial reinforcements.<br><br>Our task is to link up with Generalleutnant Schmidt's 9th Panzerdivision coming from Tilburg at the South of the Netherlands. Once our forces arrive at Moerdijk, turn North to Rotterdam following the path secured by Student's troops. <br><br>(If playing according to the rules, do not buy additional units)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Leibstandarte was able to link up with the 9th Panzer Division in the drive to Rotterdam.  Despite the fact that German airborne troops held the vital Maas bridge at Moerdijk, the tenacious Dutch defence in the north of the city had thus far prevented a crossing.  Hitler issued an ultimatum to the Dutch - capitulate or Rotterdam would be bombed.  Despite ongoing negotiations, the Luftwaffe attacked the city, citing a breakdown in communications.Following the air raid, on the 13th of May, the Leibstandarte advanced through Rotterdam and was involved in an incident which drew heavy criticism from the army.  After spotting Dutch soldiers loitering outside a building, soldiers of the LSSAH opened fire.  Inside that building Dutch and German officers were negotiating a surrender.  One of the German officers inside was Airborne Commander Karl Student, who was severely wounded by the assault.For the army, it was proof again of the indiscipline of the Waffen SS."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Leibstandarte was able to link up with the 9th Panzer Division in the drive to Rotterdam.  Despite the fact that German airborne troops held the vital Maas bridge at Moerdijk, the tenacious Dutch defence in the north of the city had thus far prevented a crossing.  Hitler issued an ultimatum to the Dutch - capitulate or Rotterdam would be bombed.  Despite ongoing negotiations, the Luftwaffe attacked the city, citing a breakdown in communications.Following the air raid, on the 13th of May, the Leibstandarte advanced through Rotterdam and was involved in an incident which drew heavy criticism from the army.  After spotting Dutch soldiers loitering outside a building, soldiers of the LSSAH opened fire.  Inside that building Dutch and German officers were negotiating a surrender.  One of the German officers inside was Airborne Commander Karl Student, who was severely wounded by the assault.For the army, it was proof again of the indiscipline of the Waffen SS."
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Leibstandarte was able to link up with the 9th Panzer Division in the drive to Rotterdam.  Despite the fact that German airborne troops held the vital Maas bridge at Moerdijk, the tenacious Dutch defence in the north of the city had thus far prevented a crossing.  Hitler issued an ultimatum to the Dutch - capitulate or Rotterdam would be bombed.  Despite ongoing negotiations, the Luftwaffe attacked the city, citing a breakdown in communications.Following the air raid, on the 13th of May, the Leibstandarte advanced through Rotterdam and was involved in an incident which drew heavy criticism from the army.  After spotting Dutch soldiers loitering outside a building, soldiers of the LSSAH opened fire.  Inside that building Dutch and German officers were negotiating a surrender.  One of the German officers inside was Airborne Commander Karl Student, who was severely wounded by the assault.For the army, it was proof again of the indiscipline of the Waffen SS."
+   }
+  }, 
+  "scenario": "lah_it_22.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "Infanterie Regiment (mot) LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Fall Gelb. <br>25th May, 1940. <br>Advance on Dunkirk.<br><br>After the fighting in Holland, the Leibstandarte was offered a brief rest, during which it remained under the command of the 18th Army.  Shortly after it was transported south and crossed into France on the 20th of May. The regiment soon found itself under the new command of the XXXXIV Corps, 6th Army, Army Group B.  <br><br>The SS Leibstandarte and Verfugungs divisions were moved to positions along the Aa canal, which formed part of the defensive perimeter of the trapped BEF. The LSSAH took up a position 15 miles south-west from Dunkirk along the line of Aa Canal facing the Allied defensive line near Watten.<br><br>On 25th May, against the Hitler's \"Halt\" order, Dietrich ordered an assault across the canal to eliminate the artillery positions on the Wattenberg heights that commanded the surrounding flatlands. Suitably appraised of the situation and encouraged by the early success of the advance, Guderian immediately approved the decision taken by Dietrich and ordered the 2nd Panzer Division to move up in support. On 26th May, the whole German army advance resumed...<br><br>(If playing with rules do not buy any new units, except to replace any core losses.) <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1896, 
+    "text": "After heavy fights during 25-28th May, British forces had to retreat towards Dunkirk establishing a new defense line at Dunkirk perimeter to allow evacuate as many troops as possible. Only on 4th June, the Germans hoisted the swastika over the docks from which the British and French troops had evacuated.<br><br>After the seizure of the Wattenberg heights, the Leibstandarte was tasked with capturing the town of Wormhoudt where it encountered stiff resistance from men of the British 48th Infantry Division. As the fighting continued, a number of the 4th Chesire Regiment were taken prisoner and led to a barn, which was then raked with machine gun fire.  Grenades were then tossed inside, and by the time an officer had halted the slaughter, 65 of the 80 POW's were dead.  Those who survived this incident have since implicated Wilhelm Mohnke as the officer who gave the execution order.<br><br>The Leibstandarte briefly rested after the fall of Dunkirk, and then moved south with Von Kleist's armoured group where it took part in some minor actions.  The campaign in France cost the Leibstandarte some 500 casaulties.  The unit was amply rewarded for their performance and in August was upgraded to Brigade status and began training for Operation Sealion - the proposed invasion of Britain.<br>"
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1896, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1896, 
+    "text": "After heavy fights during 25-28th May, British forces had to retreat towards Dunkirk establishing a new defense line at Dunkirk perimeter to allow evacuate as many troops as possible. Only on 4th June, the Germans hoisted the swastika over the docks from which the British and French troops had evacuated.<br><br>After the seizure of the Wattenberg heights, the Leibstandarte was tasked with capturing the town of Wormhoudt where it encountered stiff resistance from men of the British 48th Infantry Division. As the fighting continued, a number of the 4th Chesire Regiment were taken prisoner and led to a barn, which was then raked with machine gun fire.  Grenades were then tossed inside, and by the time an officer had halted the slaughter, 65 of the 80 POW's were dead.  Those who survived this incident have since implicated Wilhelm Mohnke as the officer who gave the execution order.<br><br>The Leibstandarte briefly rested after the fall of Dunkirk, and then moved south with Von Kleist's armoured group where it took part in some minor actions.  The campaign in France cost the Leibstandarte some 500 casaulties.  The unit was amply rewarded for their performance and in August was upgraded to Brigade status and began training for Operation Sealion - the proposed invasion of Britain.<br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1896, 
+    "text": "After heavy fights during 25-28th May, British forces had to retreat towards Dunkirk establishing a new defense line at Dunkirk perimeter to allow evacuate as many troops as possible. Only on 4th June, the Germans hoisted the swastika over the docks from which the British and French troops had evacuated.<br><br>After the seizure of the Wattenberg heights, the Leibstandarte was tasked with capturing the town of Wormhoudt where it encountered stiff resistance from men of the British 48th Infantry Division. As the fighting continued, a number of the 4th Chesire Regiment were taken prisoner and led to a barn, which was then raked with machine gun fire.  Grenades were then tossed inside, and by the time an officer had halted the slaughter, 65 of the 80 POW's were dead.  Those who survived this incident have since implicated Wilhelm Mohnke as the officer who gave the execution order.<br><br>The Leibstandarte briefly rested after the fall of Dunkirk, and then moved south with Von Kleist's armoured group where it took part in some minor actions.  The campaign in France cost the Leibstandarte some 500 casaulties.  The unit was amply rewarded for their performance and in August was upgraded to Brigade status and began training for Operation Sealion - the proposed invasion of Britain.<br>"
+   }
+  }, 
+  "scenario": "lah_it_04.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "Motorisierte Brigade LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Strafe. <br>6th April, 1941. <br>Invasion of Yugoslavia. <br><br>After the conclusion of the Western campaign on 22 June 1940, the LSSAH spent six months in Metz (Moselle) and was expanded to brigade size (6,500 men). It comprises now: 4 infantry battalions, 1 pioneer battalion, 1 artillery regiment (2 battalions), 1 assault battalion, 1 reconnaissance battalion, and 1 flak battalion.<br><br>(Note: Your unit has been reorganised, you should purchase one 'SS infantry', one Air Defence/Flak, one StuG and one PzJager) <br><br>During the later months of 1940, the regiment trained in amphibious assaults on the Moselle River in preparation for Operation Sealion, the invasion of England. After the Luftwaffe's failure in the Battle of Britain and the cancellation of the planned invasion, the LSSAH was shifted to Bulgaria in February 1941 in preparation for the planned invasion of Greece and Yugoslavia.<br><br>Following a pro-Allied coup de'etat in Yugoslavia, however, access to the Greek border was blocked.  In response Hitler ordered 'Operation Strafe', another campaign against Yugoslavia to run concurrent with Marita. The LSSAH brigade was placed under the command of XIV Corps, 12th Army. The Leibstandarte advanced into Yugoslavia alongside the 9th Panzer Division starting from the border town of Kustendil and heading towards Skopje.  <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After taking Skopje, the Leibstandarte turned south, and headed for the strategically important Monastir Gap - the gateway to Greece.  The reconnaissance battalion of the Leibstandarte that had been sent ahead did not encounter any strong opposition until it reached the area east of Florina. Against all expectations, the enemy had left open the Monastir Gap. The Germans did not hesitate to exploit their advantage and continued the advance in the direction of Kozani."
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After taking Skopje, the Leibstandarte turned south, and headed for the strategically important Monastir Gap - the gateway to Greece.  The reconnaissance battalion of the Leibstandarte that had been sent ahead did not encounter any strong opposition until it reached the area east of Florina. Against all expectations, the enemy had left open the Monastir Gap. The Germans did not hesitate to exploit their advantage and continued the advance in the direction of Kozani."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After taking Skopje, the Leibstandarte turned south, and headed for the strategically important Monastir Gap - the gateway to Greece.  The reconnaissance battalion of the Leibstandarte that had been sent ahead did not encounter any strong opposition until it reached the area east of Florina. Against all expectations, the enemy had left open the Monastir Gap. The Germans did not hesitate to exploit their advantage and continued the advance in the direction of Kozani."
+   }
+  }, 
+  "scenario": "lah_it_05.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "Motorisierte Brigade LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Marita. <br>10th April, 1941.<br>Invasion of Greece.<br><br>First contact with British troops was made north of Vevi at 11:00 on 10 April. An intercepted radio message indicated that the British command was surprised by the swiftness of the Leibstandarte's thrust and gave orders for immediate withdrawal from the Vermion Position. The SS troops seized Vevi on 11 April, but were stopped a short distance south of that town, where combined Australian, British, and New Zealand forces held the dominating heights overlooking the pass road towards Kleidi. <br><br>LSSAH task is to open the pass towards Kleidi. After that, 9th Panzer division \"advanced guard formation\" would move towards Aetos and Xino Nero.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You can only deploy 6 units for this scenario.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "After a heavy fighting the Leibstandarte seized the Klidi Pass.  <br>LSSAH platoon commander, whose men captured the highest point, was subsequently awarded the Knight's Cross of the Iron Cross, the highest German award for bravery on the battlefield. <br><br>Although the British 1st Armoured Brigade fought delaying battles at Sotir and Proastio during 13 April, 9th Panzer Division rushed into the open pass<br>threatening the whole left flank of the Allied army. The British immediately began to withdraw to a defensive line west of Mount Olympus and the Greek 1st Army began to pull out of Albania.<br><br>Our next goal is to move to Metsovon pass in Pindus mountains to cut off Greek Epirus army. <br><br>"
+   }, 
+   "lose": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "After a heavy fighting the Leibstandarte seized the Klidi Pass.  <br>LSSAH platoon commander, whose men captured the highest point, was subsequently awarded the Knight's Cross of the Iron Cross, the highest German award for bravery on the battlefield. <br><br>Although the British 1st Armoured Brigade fought delaying battles at Sotir and Proastio during 13 April, 9th Panzer Division rushed into the open pass<br>threatening the whole left flank of the Allied army. The British immediately began to withdraw to a defensive line west of Mount Olympus and the Greek 1st Army began to pull out of Albania.<br><br>Our next goal is to move to Metsovon pass in Pindus mountains to cut off Greek Epirus army. <br><br>"
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "After a heavy fighting the Leibstandarte seized the Klidi Pass.  <br>LSSAH platoon commander, whose men captured the highest point, was subsequently awarded the Knight's Cross of the Iron Cross, the highest German award for bravery on the battlefield. <br><br>Although the British 1st Armoured Brigade fought delaying battles at Sotir and Proastio during 13 April, 9th Panzer Division rushed into the open pass<br>threatening the whole left flank of the Allied army. The British immediately began to withdraw to a defensive line west of Mount Olympus and the Greek 1st Army began to pull out of Albania.<br><br>Our next goal is to move to Metsovon pass in Pindus mountains to cut off Greek Epirus army. <br><br>"
+   }
+  }, 
+  "scenario": "lah_it_06.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "Motorisierte Brigade LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Marita. <br>19th April, 1941.<br>Metsovon Pass.<br><br>The position of the Greek First Army, still fighting in Albania, was seriously jeopardized by the rapid advance of the XL Panzer Corps via Florina and by the British withdrawal to positions behind the Aliakmon. The Greek command therefore had to come to grips with the necessity of withdrawing southward from Albania. However, it was not until 13 April that the first Greek elements began to withdraw toward the Pindus Mountains. On the next day an advance detachment of the 73d Infantry Division encountered Greek troops withdrawing from Albania across the Pindus Mountains into the area west of Kastoria. Heavy fighting took place on that and the following day, especially at Kastoria Pass, where the Germans blocked the Greek withdrawal, which by then extended to the entire Albanian front, with the Italians in hesitant pursuit.<br><br>On 19 April the Leibstandarte which had meanwhile reached Grevena was ordered to advance southeastward in the direction of Yannina to cut off the Greeks' route of withdrawal to the south and complete their encirclement. <br><br>(If playing with rules do not buy any new units, except to replace any core losses.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "The cutting off of the Greek withdrawal to the south was accomplished by 20th April, following a pitched battle in the 5,000 foot high Metsovon Pass in the Pindus Mountains. Realizing the hopelessness of the situation, the Greek commander offered to surrender his army, which then consisted of fourteen divisions. After brief negotiations, which on strict orders from Hitler were kept secret from the Italians, the surrender was accepted with honorable terms for the defeated. In recognition of the valor with which the Greek troops had fought, their officers were permitted to retain their side arms. The soldiers were not treated as prisoners of war and were allowed to go home after the demobilization of their units.<br><br>On the 28th April the remaining British forces in Greece surrendered.  <br>"
+   }, 
+   "lose": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "The cutting off of the Greek withdrawal to the south was accomplished by 20th April, following a pitched battle in the 5,000 foot high Metsovon Pass in the Pindus Mountains. Realizing the hopelessness of the situation, the Greek commander offered to surrender his army, which then consisted of fourteen divisions. After brief negotiations, which on strict orders from Hitler were kept secret from the Italians, the surrender was accepted with honorable terms for the defeated. In recognition of the valor with which the Greek troops had fought, their officers were permitted to retain their side arms. The soldiers were not treated as prisoners of war and were allowed to go home after the demobilization of their units.<br><br>On the 28th April the remaining British forces in Greece surrendered.  <br>"
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "The cutting off of the Greek withdrawal to the south was accomplished by 20th April, following a pitched battle in the 5,000 foot high Metsovon Pass in the Pindus Mountains. Realizing the hopelessness of the situation, the Greek commander offered to surrender his army, which then consisted of fourteen divisions. After brief negotiations, which on strict orders from Hitler were kept secret from the Italians, the surrender was accepted with honorable terms for the defeated. In recognition of the valor with which the Greek troops had fought, their officers were permitted to retain their side arms. The soldiers were not treated as prisoners of war and were allowed to go home after the demobilization of their units.<br><br>On the 28th April the remaining British forces in Greece surrendered.  <br>"
+   }
+  }, 
+  "scenario": "lah_it_19.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>1st July, 1941. <br>Dubno.<br><br>After the Balkans campaign, the Leibstandarte was given divisional status and reinforced with a new motorised infantry battalion. Its structure comprises: 5 infantry battalions, 1 Sturmpionere battalion, 1 artillery regiment (2 battalions), 1 assault battalions with StuGIII, 1 Recon battalion, 1 Anti-tank battalion, and 1 anti-aircraft battalion.<br><br>(If playing with rules please, you should purchase one 'SS Infanterie').  <br><br>On 22nd June 1941 we crossed the Soviet Union border and headed into Western Ukraine as part of III Panzer Corps, 1st Panzer Army. Between 23th and 27th June, 1st Panzer Army fought several tank battles with Soviet 5th and 6th armies in a triangle formed by Dubno, Lutsk and Brody, in which our panzer divisons inflicted heavy losses on the Soviet mechanized corps. After capturing Lutsk, we faced heavy resistance from the Soviet forces on the Lutsk-Rovno highway. 13th Panzer divsion outmanoeuvred them attacking towards Rovno and Novohrad-Volinsky, while 11th Panzer division captured Dubno and continued its advance. However, on 27th June elements of the Soviet 8th mechanized corps surprised and defeated the rear of the 11th Panzer division cutting off its supply lines. At the same time, Soviet 22th mechanised corps attacked from the north towards Dubno. The situation is considered as very serious by German high command. LSSAH, which was held in reserve, is commanded to gather at Lutsk with the separate 670th Panzerjager battalion and attack the Soviet 22th mechanised corps at its right flank finally clearing the Lutsk-Rovno highway.<br>The 298th infantry division will defend Lutsk direction. At the Dubno area, 16th Panzer division and 75th Infantry divison will have to recapture Dubno restoring our supply lines. <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "1st Panzer Group took a severe battering in the battles around Dubno, losing many of its tanks, but it survived the battle still capable of operations. The Soviet forces took severe casualties, rendering most of its forces non-operational. The Leibstandarte was able to defeat the Soviet counter-attack and prevent them from cutting the lengthening line of communications. This defensive success enabled the Germans to continue our offensive. <br><br>Following the battle, von Kleist and his armoured group were able to breakthrough the Stalin Line east of Zhitomir, driving a wedge between two Soviet armies.  Moving in behind this breakthrough, the LSSAH division quickly sped along the road to Kiev, where it soon found itself thrown onto the backfoot thanks to a wide-ranging Soviet attack on the Southwest front. When the Soviet attacks halted, Hitler's gaze fixed onto Uman, a major transport hub for the Crimea, which had the added attraction of encircling the Soviet forces holding up the 17th and 18th armies.<br>"
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "1st Panzer Group took a severe battering in the battles around Dubno, losing many of its tanks, but it survived the battle still capable of operations. The Soviet forces took severe casualties, rendering most of its forces non-operational. The Leibstandarte was able to defeat the Soviet counter-attack and prevent them from cutting the lengthening line of communications. This defensive success enabled the Germans to continue our offensive. <br><br>Following the battle, von Kleist and his armoured group were able to breakthrough the Stalin Line east of Zhitomir, driving a wedge between two Soviet armies.  Moving in behind this breakthrough, the LSSAH division quickly sped along the road to Kiev, where it soon found itself thrown onto the backfoot thanks to a wide-ranging Soviet attack on the Southwest front. When the Soviet attacks halted, Hitler's gaze fixed onto Uman, a major transport hub for the Crimea, which had the added attraction of encircling the Soviet forces holding up the 17th and 18th armies.<br>"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "1st Panzer Group took a severe battering in the battles around Dubno, losing many of its tanks, but it survived the battle still capable of operations. The Soviet forces took severe casualties, rendering most of its forces non-operational. The Leibstandarte was able to defeat the Soviet counter-attack and prevent them from cutting the lengthening line of communications. This defensive success enabled the Germans to continue our offensive. <br><br>Following the battle, von Kleist and his armoured group were able to breakthrough the Stalin Line east of Zhitomir, driving a wedge between two Soviet armies.  Moving in behind this breakthrough, the LSSAH division quickly sped along the road to Kiev, where it soon found itself thrown onto the backfoot thanks to a wide-ranging Soviet attack on the Southwest front. When the Soviet attacks halted, Hitler's gaze fixed onto Uman, a major transport hub for the Crimea, which had the added attraction of encircling the Soviet forces holding up the 17th and 18th armies.<br>"
+   }
+  }, 
+  "scenario": "lah_it_07.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>30th July, 1941. <br>Uman Encirclement. <br><br>Soviet commander Budenny, who commanded the whole south-western direction, began moving a section of his forces towards Odessa leaving the remainder around city Uman. While German command of Army Group South intended to capture Kiev, Hitler and OKH insisted on strike in the southern direction to encircle Soviet armies around Uman. OKH orders the 6th Army to move south-east to link with the 17th Army and trapping Soviet forces. By 30th July, two Soviet armies were outlfanked from almost all the directions leaving just the south-east section unoccupied by German forces.<br><br>According to OKH orders, fresh 125th Infantry division will launch attack from the west of Uman, and 24th Infantry division should hold its position to the north from the salient. 1st and 4th Mountain divisions must advance east aiming to capture Golovanevsk, while Leibstandarte order is to parry any Soviet counter-attacks around Novoarkhangelsk and link with Mountain divisions south-east. According to our intelligence reports, in addition to 6th and 12th army, Soviets also have 2nd Mechanised Corps that is in much better condition compared to other mechanised divisions. 11th Panzer division is on its way from the north to parry KV and T-34 tanks against which our 3.6cm PAK guns from infantry divisions have little effect.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  <br>For this scenario you should deploy 4 'SS Infanterie', 1 'Sturmpionere', 1 Air Defence/Flak, 1 StuG, 1 Anti-tank, 1 Recon and 3 Artillery.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "On August 2nd, the units of the 1st Mountain Division reached the Sinyuha River where they joined the 9th Panzer Division completing the encirclement of two Soviet armies. The Leibstandarte prevented any Soviet breakout's during the encirclement as the Soviets threw armour, cavalry and scores of infantry in their direction. On the afternoon of August 7th, remains of Soviet troops in the forests near the villages Podvysokoye and Kopenkovatoye began to surrender. Beside the commanders of both the 6th and 12th armies, four corps commanders and 11 division commanders were taken prisoners. <br><br>HISTORICAL: Soviet prisoners from the 6th and 12th armies were put into an improvised concentration camp, clay quarry known as \"Uman pit\". In this gigantic camp under the open sky, Soviet prisoners of war were kept on bare ground where weak and wounded were routinely executed. Information about the exact number of people passing through the camp and registration of the dead is not known.<br><br>Now, the focus of the Leibstandarte's advance is shifted towards the industrial centre of Cherson.<br>"
+   }, 
+   "lose": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "On August 2nd, the units of the 1st Mountain Division reached the Sinyuha River where they joined the 9th Panzer Division completing the encirclement of two Soviet armies. The Leibstandarte prevented any Soviet breakout's during the encirclement as the Soviets threw armour, cavalry and scores of infantry in their direction. On the afternoon of August 7th, remains of Soviet troops in the forests near the villages Podvysokoye and Kopenkovatoye began to surrender. Beside the commanders of both the 6th and 12th armies, four corps commanders and 11 division commanders were taken prisoners. <br><br>HISTORICAL: Soviet prisoners from the 6th and 12th armies were put into an improvised concentration camp, clay quarry known as \"Uman pit\". In this gigantic camp under the open sky, Soviet prisoners of war were kept on bare ground where weak and wounded were routinely executed. Information about the exact number of people passing through the camp and registration of the dead is not known.<br><br>Now, the focus of the Leibstandarte's advance is shifted towards the industrial centre of Cherson.<br>"
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "On August 2nd, the units of the 1st Mountain Division reached the Sinyuha River where they joined the 9th Panzer Division completing the encirclement of two Soviet armies. The Leibstandarte prevented any Soviet breakout's during the encirclement as the Soviets threw armour, cavalry and scores of infantry in their direction. On the afternoon of August 7th, remains of Soviet troops in the forests near the villages Podvysokoye and Kopenkovatoye began to surrender. Beside the commanders of both the 6th and 12th armies, four corps commanders and 11 division commanders were taken prisoners. <br><br>HISTORICAL: Soviet prisoners from the 6th and 12th armies were put into an improvised concentration camp, clay quarry known as \"Uman pit\". In this gigantic camp under the open sky, Soviet prisoners of war were kept on bare ground where weak and wounded were routinely executed. Information about the exact number of people passing through the camp and registration of the dead is not known.<br><br>Now, the focus of the Leibstandarte's advance is shifted towards the industrial centre of Cherson.<br>"
+   }
+  }, 
+  "scenario": "lah_it_08.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>10th August, 1941. <br>Cherson. <br><br>With victory at Uman secured, the Leibstandarte was moved south to finish collapsing Red Army defense on the Dnepr River. On 13th August, Soviet 9th army defending Nikolaev was encircled near the city, which however required efforts of all the infantry divisions to prevent Soviets from breaking through. LSSAH is the only motorized division in that sector and thus is tasked to make a speedy advance to another vital city on the Dnepr river, Cherson.   <br><br>(If playing with rules do not buy any new units, except to replace any core losses.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Only after bitter and bloody fighting were the Leibstandarte able to capture Bubry and the road junction at Sasselje.  Arriving at Cherson on the 17th of August, the division fought yet another bitter battle through the streets for three days before the defenders finally fled the city.During the battle for Cherson another attrocity is alleged to have taken place.  According to a postwar account of a Waffen-SS journalist serving with the 4th Battalion, east of Gejgova, men from the battalion found the mutilated bodies of six fellow SS soldiers who had been captured and executed at the town's NKVD headquarters.  In reprisal, Dietrich ordered the Leibstandarte to shoot all surrendering Soviet troops for three days, and in the ensuing slaughter an estimated 4,000 were killed. The allegations remain unproven.In early September, the division was shifted to LIV Army Corps, as part of the 11th Army during the advance east after the fall of Kiev. Hoping to capitalize on the collapse of the Red Army defense on the Dnepr River the reconnaissance battalion of LSSAH was tasked with making a speedy advance to capture the strategically vital choke point of the Perekop Isthmus. "
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Only after bitter and bloody fighting were the Leibstandarte able to capture Bubry and the road junction at Sasselje.  Arriving at Cherson on the 17th of August, the division fought yet another bitter battle through the streets for three days before the defenders finally fled the city.During the battle for Cherson another attrocity is alleged to have taken place.  According to a postwar account of a Waffen-SS journalist serving with the 4th Battalion, east of Gejgova, men from the battalion found the mutilated bodies of six fellow SS soldiers who had been captured and executed at the town's NKVD headquarters.  In reprisal, Dietrich ordered the Leibstandarte to shoot all surrendering Soviet troops for three days, and in the ensuing slaughter an estimated 4,000 were killed. The allegations remain unproven.In early September, the division was shifted to LIV Army Corps, as part of the 11th Army during the advance east after the fall of Kiev. Hoping to capitalize on the collapse of the Red Army defense on the Dnepr River the reconnaissance battalion of LSSAH was tasked with making a speedy advance to capture the strategically vital choke point of the Perekop Isthmus. "
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Only after bitter and bloody fighting were the Leibstandarte able to capture Bubry and the road junction at Sasselje.  Arriving at Cherson on the 17th of August, the division fought yet another bitter battle through the streets for three days before the defenders finally fled the city.During the battle for Cherson another attrocity is alleged to have taken place.  According to a postwar account of a Waffen-SS journalist serving with the 4th Battalion, east of Gejgova, men from the battalion found the mutilated bodies of six fellow SS soldiers who had been captured and executed at the town's NKVD headquarters.  In reprisal, Dietrich ordered the Leibstandarte to shoot all surrendering Soviet troops for three days, and in the ensuing slaughter an estimated 4,000 were killed. The allegations remain unproven.In early September, the division was shifted to LIV Army Corps, as part of the 11th Army during the advance east after the fall of Kiev. Hoping to capitalize on the collapse of the Red Army defense on the Dnepr River the reconnaissance battalion of LSSAH was tasked with making a speedy advance to capture the strategically vital choke point of the Perekop Isthmus. "
+   }
+  }, 
+  "scenario": "lah_it_09.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>28th September, 1941. <br>Melitopol Counter Attack. <br><br>On 17th of September, general Manstein deployed LSSAH, which was the only motorized division division in 11th Army, to the Perekop Isthmus intending to create diversions while preparing for the main assault. In the face of a furious Soviet counterattacks, LSSAH did not break the Soviet defense for ten days. At the same time, on the 27th of September, the Soviet 9th and 18th Armies launched a counter offensive aimed at the German southern flank near Melitopol.  It was a strong attack which breached the 3rd Romanian Army and Germany's XXX Armeekorps sector of the front and threatened an envelopment. General Manstein has no option but to send the LSSAH and elite German mountain divisions into the line to halt the attack and then to force them back.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "It took XXX Armeekorps three days to defeat the Soviet counter attacks and to restore the front line.  Subsequently with support from Kleist's 1st Panzer Army, the 11th Army was able to complete the encirclement of the Soviet 9th and 18th Armies, in which the LSSAH played a crucial role by advancing along the Sea of Azov shore. More than 100,000 Soviet soldiers were taken prisoners. Soviet 18th Army general Smirnov refused from evacuation and stayed with his army till the end; he died on 8th of October trying to break through.      <br><br>The Leibstandarte is now transfered to the command of 1st Panzer Army, which is heading in the direction of Taganrog and Rostov.<br>"
+   }, 
+   "lose": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "It took XXX Armeekorps three days to defeat the Soviet counter attacks and to restore the front line.  Subsequently with support from Kleist's 1st Panzer Army, the 11th Army was able to complete the encirclement of the Soviet 9th and 18th Armies, in which the LSSAH played a crucial role by advancing along the Sea of Azov shore. More than 100,000 Soviet soldiers were taken prisoners. Soviet 18th Army general Smirnov refused from evacuation and stayed with his army till the end; he died on 8th of October trying to break through.      <br><br>The Leibstandarte is now transfered to the command of 1st Panzer Army, which is heading in the direction of Taganrog and Rostov.<br>"
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "It took XXX Armeekorps three days to defeat the Soviet counter attacks and to restore the front line.  Subsequently with support from Kleist's 1st Panzer Army, the 11th Army was able to complete the encirclement of the Soviet 9th and 18th Armies, in which the LSSAH played a crucial role by advancing along the Sea of Azov shore. More than 100,000 Soviet soldiers were taken prisoners. Soviet 18th Army general Smirnov refused from evacuation and stayed with his army till the end; he died on 8th of October trying to break through.      <br><br>The Leibstandarte is now transfered to the command of 1st Panzer Army, which is heading in the direction of Taganrog and Rostov.<br>"
+   }
+  }, 
+  "scenario": "lah_it_23.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>17th November, 1941. <br>Attack on Rostov. <br><br>On 15th November, Army Group South had reached the Don River, the last natural obstacle before Stalingrad.  A penetration of some 600 miles into Soviet territory had been accomplished, in five months of bitter fighting.  The Leibstandarte was now transferred to the command of III Corps, 1st Panzer Army, and on the 17th began the attack on Rostov from the Black Sea coast.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  For this scenario you should deploy 4 'SS Infanterie', 1 'Sturmpionere', 1 Air Defence/Flak, 2 Anti-tank, 1 Recon and 2 Artillery.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Rostov was fully taken on the 21st November.  In its part in the attack the Leibstandarte had captured the main railway bridge intact, earning SS-Haupsturmfuhrer Heinrich Springer the Knights Cross.  Von Kleist's armour was able to pour over this vital crossing point and play a pivotal role in the victory.  For the division came the reward of 10,000 prisoners, 159 artillery pieces, 56 tanks and 2 armoured trains."
+   }, 
+   "lose": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Rostov was fully taken on the 21st November.  In its part in the attack the Leibstandarte had captured the main railway bridge intact, earning SS-Haupsturmfuhrer Heinrich Springer the Knights Cross.  Von Kleist's armour was able to pour over this vital crossing point and play a pivotal role in the victory.  For the division came the reward of 10,000 prisoners, 159 artillery pieces, 56 tanks and 2 armoured trains."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Rostov was fully taken on the 21st November.  In its part in the attack the Leibstandarte had captured the main railway bridge intact, earning SS-Haupsturmfuhrer Heinrich Springer the Knights Cross.  Von Kleist's armour was able to pour over this vital crossing point and play a pivotal role in the victory.  For the division came the reward of 10,000 prisoners, 159 artillery pieces, 56 tanks and 2 armoured trains."
+   }
+  }, 
+  "scenario": "lah_it_10.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "1st SS-Motorisierte Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich. <br><br>Unternehmen Barbarossa. <br>22nd November, 1941. <br>Rostov Defence. <br><br>The victory in capturing Rostov was a brief one.  Both Soviet and German high commands realized importance of the city: Soviet Stavka demanded to put all the efforts to re-take the city, while Hitler issued \"no retreat\" order. During the following week the 1st Panzer Army, racked by sickness, badly overstreched and plagued by shortages, was battered by a fierce offensive by Tiimoshenko's 9th and 39th Armies. On 27th November, Soviet 56th Army launched the massive attack on the city defended by the LSSAH units.  <br><br>(Only a TV or a L is possible here.  You must hold out until the last turn and then take the russian hex with the reinforcement that shows up to get a TV.)<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  For this scenario you should deploy 4 'SS Infanterie', 1 'Sturmpionere', 1 Air Defence/Flak, 2 Anti-tank, 1 Recon and 2 Artillery.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Although retreat was the only viable option given the situation, Hitler refused to allow such a move. In response to Hitler's 'no retreat' order, Von Rundstedt issued an ultimatum - either the order be rescinded or he be relieved of his command.  He was soon replaced by Walther von Reichenau who re-issued the same order. After three days of street fighting, the Leibstandarte and the rest of the 1st Panzer Army were forced from Rostov under pressure from heavy Soviet attacks. This was the first big LSSAH defeat. <br><br>The defeat badly exposed how overstretched the German forces were. The fighting had left the Leibstandarte decimated: almost all the heavy units were lost and it was severely understrength. At the end of November it was pulled out and spent December in defensive positions outside Rostov behind the River Mius.  It was engaged in defensive actions, in temperatures that sank as low as -40 degrees, with deep carpets of snow and partisan actions in the rear.<br><br>Even with the troubles of the first Russian winter, the Leibstandarte earned plaudits from several army commanders.  In a comminque with Himmler, 3rd Panzer Cops commander Mackensen wrote \"Every unit wants to have the Leibstandarte as its adjacent unit.  The units internal discipline, its refreshing eagerness, its cheerful enthusiasm, its unshakable calmness in a crisis and its toughness are examples to us all.  This truly is an elite unit.\"<br>"
+   }, 
+   "lose": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2200, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2200, 
+    "text": "Although retreat was the only viable option given the situation, Hitler refused to allow such a move. In response to Hitler's 'no retreat' order, Von Rundstedt issued an ultimatum - either the order be rescinded or he be relieved of his command.  He was soon replaced by Walther von Reichenau who re-issued the same order. After three days of street fighting, the Leibstandarte and the rest of the 1st Panzer Army were forced from Rostov under pressure from heavy Soviet attacks. This was the first big LSSAH defeat. <br><br>The defeat badly exposed how overstretched the German forces were. The fighting had left the Leibstandarte decimated: almost all the heavy units were lost and it was severely understrength. At the end of November it was pulled out and spent December in defensive positions outside Rostov behind the River Mius.  It was engaged in defensive actions, in temperatures that sank as low as -40 degrees, with deep carpets of snow and partisan actions in the rear.<br><br>Even with the troubles of the first Russian winter, the Leibstandarte earned plaudits from several army commanders.  In a comminque with Himmler, 3rd Panzer Cops commander Mackensen wrote \"Every unit wants to have the Leibstandarte as its adjacent unit.  The units internal discipline, its refreshing eagerness, its cheerful enthusiasm, its unshakable calmness in a crisis and its toughness are examples to us all.  This truly is an elite unit.\"<br>"
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Although retreat was the only viable option given the situation, Hitler refused to allow such a move. In response to Hitler's 'no retreat' order, Von Rundstedt issued an ultimatum - either the order be rescinded or he be relieved of his command.  He was soon replaced by Walther von Reichenau who re-issued the same order. After three days of street fighting, the Leibstandarte and the rest of the 1st Panzer Army were forced from Rostov under pressure from heavy Soviet attacks. This was the first big LSSAH defeat. <br><br>The defeat badly exposed how overstretched the German forces were. The fighting had left the Leibstandarte decimated: almost all the heavy units were lost and it was severely understrength. At the end of November it was pulled out and spent December in defensive positions outside Rostov behind the River Mius.  It was engaged in defensive actions, in temperatures that sank as low as -40 degrees, with deep carpets of snow and partisan actions in the rear.<br><br>Even with the troubles of the first Russian winter, the Leibstandarte earned plaudits from several army commanders.  In a comminque with Himmler, 3rd Panzer Cops commander Mackensen wrote \"Every unit wants to have the Leibstandarte as its adjacent unit.  The units internal discipline, its refreshing eagerness, its cheerful enthusiasm, its unshakable calmness in a crisis and its toughness are examples to us all.  This truly is an elite unit.\"<br>"
+   }
+  }, 
+  "scenario": "lah_it_20.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Obergruppenfuhrer Joseff Dietrich.<br><br>Unternehmen Barbarossa. <br>2nd March, 1943. <br>Kharkov. <br><br>In October 1942, the LSSAH was transfered to Southern France for a spell of occupation duty.  During this time, the unit was given a refit and was re-designated a Panzergrenadier Division. Its new structure comprises: a tank regiment (2 battalions), two infantry regiments (each 3 battalions), a pioneer battalion, an artillery regiment (3 battalions), an assault battalion, a recon battalion, anti-tank battalion, Flak battalion.  <br><br>(If playing with rules, LSSAH has been upgraded to a Panzer Division. Purchase 1 'SS Infanterie', 2 Tanks, 1 Artillery).<br><br>In January 1943, the division was transfered back to the Eastern Front, with the situation of Army Group South verging on the collapse.  The encirclement of the 6th Army at Stalingrad was a disaster of the worst kind for Germany.  A vast gap was formed in the line, through which Soviet troops stormed forward, towards Rostov, Kursk and Kharkov.  As Kursk fell on the 8th February, the right flank of Army Group B was forced onto Kharkov. Hitler, remembering the way the Waffen-SS units defended themselves during the winter of 1941 ordered the SS-Panzer Corps to hold Kharkov.  SS-Panzer Corps commander  Paul Hausser disobeyed orders and pulled out of the city.  There they held firm and halted the Soviet attack.  Von Manstein now prepared an assault to destroy the Soviet troops around Kharkov.<br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "After five days of bitter fighting, the SS-Panzer Corps reached the city of Kharkov.  Three more days of viscious fighting throughout the city followed, and the city was secured on the 14th March.  On the 18th, Byelgorod was retaken, thus regaining the defensive line of the Donets to Byelgorod, and correcting the tactical situation brought about by the Stalingrad disaster.<br><br>The battle of Kharkov cost the Leibstandarte 167 officers, 4,373 NCOs and soldiers - 44 percent of its fighting strength.  The main square in Kharkov was renamed 'Leibstandarteplatz' in the division's honour, and on March 21st, Hitler awarded Dietrich the Swords to his Knights Cross. <br><br>While in Kharkov, troops of the LSSAH engaged in the murder of wounded Soviet soldiers that were located in the city's military hospital; several hundred were killed, burnt or buried alive. Additionally, captured Soviet officers and commissars were routinely executed. During the fighting around Kharkov, a unit under the command of Joachim Peiper gained a nickname \"Blowtorch Battalion\", after the inhabitants of two Soviet villages were shot or burned. Ukrainian sources described the killings at the villages of Yefremovka and Semyonovka on 17 February 1943. On 12 February Waffen-SS troops of the LSSAH occupied the two villages, where retreating Soviet forces had wounded two SS officers. In retaliation, five days later LSSAH troops killed 872 men, women and children. Some 240 of these were burned alive in the church of Yefremovka.<br><br>The late spring on the Eastern Front was quiet, a respite that afforded the division vital needed time for rest and refitting.<br>"
+   }, 
+   "lose": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "After five days of bitter fighting, the SS-Panzer Corps reached the city of Kharkov.  Three more days of viscious fighting throughout the city followed, and the city was secured on the 14th March.  On the 18th, Byelgorod was retaken, thus regaining the defensive line of the Donets to Byelgorod, and correcting the tactical situation brought about by the Stalingrad disaster.<br><br>The battle of Kharkov cost the Leibstandarte 167 officers, 4,373 NCOs and soldiers - 44 percent of its fighting strength.  The main square in Kharkov was renamed 'Leibstandarteplatz' in the division's honour, and on March 21st, Hitler awarded Dietrich the Swords to his Knights Cross. <br><br>While in Kharkov, troops of the LSSAH engaged in the murder of wounded Soviet soldiers that were located in the city's military hospital; several hundred were killed, burnt or buried alive. Additionally, captured Soviet officers and commissars were routinely executed. During the fighting around Kharkov, a unit under the command of Joachim Peiper gained a nickname \"Blowtorch Battalion\", after the inhabitants of two Soviet villages were shot or burned. Ukrainian sources described the killings at the villages of Yefremovka and Semyonovka on 17 February 1943. On 12 February Waffen-SS troops of the LSSAH occupied the two villages, where retreating Soviet forces had wounded two SS officers. In retaliation, five days later LSSAH troops killed 872 men, women and children. Some 240 of these were burned alive in the church of Yefremovka.<br><br>The late spring on the Eastern Front was quiet, a respite that afforded the division vital needed time for rest and refitting.<br>"
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "After five days of bitter fighting, the SS-Panzer Corps reached the city of Kharkov.  Three more days of viscious fighting throughout the city followed, and the city was secured on the 14th March.  On the 18th, Byelgorod was retaken, thus regaining the defensive line of the Donets to Byelgorod, and correcting the tactical situation brought about by the Stalingrad disaster.<br><br>The battle of Kharkov cost the Leibstandarte 167 officers, 4,373 NCOs and soldiers - 44 percent of its fighting strength.  The main square in Kharkov was renamed 'Leibstandarteplatz' in the division's honour, and on March 21st, Hitler awarded Dietrich the Swords to his Knights Cross. <br><br>While in Kharkov, troops of the LSSAH engaged in the murder of wounded Soviet soldiers that were located in the city's military hospital; several hundred were killed, burnt or buried alive. Additionally, captured Soviet officers and commissars were routinely executed. During the fighting around Kharkov, a unit under the command of Joachim Peiper gained a nickname \"Blowtorch Battalion\", after the inhabitants of two Soviet villages were shot or burned. Ukrainian sources described the killings at the villages of Yefremovka and Semyonovka on 17 February 1943. On 12 February Waffen-SS troops of the LSSAH occupied the two villages, where retreating Soviet forces had wounded two SS officers. In retaliation, five days later LSSAH troops killed 872 men, women and children. Some 240 of these were burned alive in the church of Yefremovka.<br><br>The late spring on the Eastern Front was quiet, a respite that afforded the division vital needed time for rest and refitting.<br>"
+   }
+  }, 
+  "scenario": "lah_it_11.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>Operation Zitadelle. <br>5th July, 1943. <br>Prochorovka.<br><br>In 1943 there were sharp divisions among the German high command on whether an offensive on the Eastern Front should be launched that year.  Heinz Guderian, recently called back to active duty was of the opinion that Germany would only be able to go on the offensive again in 1944, as the divisions were much too weak presently to go on the attack.  Von Manstein on the other hand, believed it essential to deal the Red Army a series of powerful blows and to remove the threat to the Ukraine and Crimea.  After months of deliberation, Hitler decided to chase one more big victory in Russia, 'that will shine like a beacon around the world'.  This would be known as 'Operation Zitadelle'.<br><br>The plan called for a converging strike by the 9th Army in the north and 4th Panzer Army to the south in the aim of enveloping the Kursk salient.  The Leibstandarte now with a new commander - Theodor Wisch, because of Dietrich's promotion - would operate in the south with 4th Panzer Army.  They were given the task of driving through the defences of the Voronezh Front before moving North-East to take Prokhorovka.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The attack was launched at 03:30hrs on the 5th of July.  The three SS divisions moved on three parallel lines of advance.  Fighting through thick minefields north of Byelgorod, Leibstandarte was by 19:30hrs on the southern outskirts of Jakovleva, a village within the second defensive line some 14 miles into Soviet territory, and had taken 97 killed and 522 wounded.<br><br>After a night marked by continuous infantry battles in puring rain, by dawn the Leibstandarte assaulted bunkers and fortified positions in the second line of defensive works.  In a day of heavy fighting, the panzers of the Leibstandarte engaged the 1st Guards Armoured Brigade and destroyed a large part of it.  The advanced carried the front line to Pokrovka, south-west of Prokharovka."
+   }, 
+   "lose": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The attack was launched at 03:30hrs on the 5th of July.  The three SS divisions moved on three parallel lines of advance.  Fighting through thick minefields north of Byelgorod, Leibstandarte was by 19:30hrs on the southern outskirts of Jakovleva, a village within the second defensive line some 14 miles into Soviet territory, and had taken 97 killed and 522 wounded.<br><br>After a night marked by continuous infantry battles in puring rain, by dawn the Leibstandarte assaulted bunkers and fortified positions in the second line of defensive works.  In a day of heavy fighting, the panzers of the Leibstandarte engaged the 1st Guards Armoured Brigade and destroyed a large part of it.  The advanced carried the front line to Pokrovka, south-west of Prokharovka."
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The attack was launched at 03:30hrs on the 5th of July.  The three SS divisions moved on three parallel lines of advance.  Fighting through thick minefields north of Byelgorod, Leibstandarte was by 19:30hrs on the southern outskirts of Jakovleva, a village within the second defensive line some 14 miles into Soviet territory, and had taken 97 killed and 522 wounded.<br><br>After a night marked by continuous infantry battles in puring rain, by dawn the Leibstandarte assaulted bunkers and fortified positions in the second line of defensive works.  In a day of heavy fighting, the panzers of the Leibstandarte engaged the 1st Guards Armoured Brigade and destroyed a large part of it.  The advanced carried the front line to Pokrovka, south-west of Prokharovka."
+   }
+  }, 
+  "scenario": "lah_it_12.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>Operation Zitadelle. <br>11th July, 1943. <br>Prokhorovka.<br><br>On the 10th the SS-Panzer Corps regrouped for the assault on Prokhorovka.  Fighting through a sea of mud to the banks of the Psel River, to the west of the town and the last natural obstacle before Kursk, the SS formations had by late afternoon crossed the river and were in position to attack the rear of the Soviet concentration.  To the south 3rd Panzer Corps began battling toward Prokharovka, attempting to link up with the SS-Panzer Corps before Soviet reserves could be brought up.<br><br>On the plain outside the small town scene the forces massed for the largest tank battle yet seen, and the final decisive encounter on the Eastern Front.  For the battle the Germans could muster some 600 tanks while the Soviets sent around 850 into battle.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On the 12th, the Soviet Guards Tank Army launched a series of unco-ordinated strikes with the intention of seperating the SS divisions.  In an area of only a few square miles, firing at almost point-blank range across the dust-choked plain, the superior German tank guns counted for nothing against suicidal attacks by Soviet tank crews.  In the heavy fighting that ensued the heavy company of the Leibstandarte's tank regiment engaged and destroyed the Soviet 181st Tank Regiment, without loss.  On both sides however, losses were high.  At the end of the day a thick pall of smoke hung over the battlefield.<br><br>The Soviet attack had been driven off, but at a heavy price, and the SS-Panzer Corps now held the area around Prokharovka and the railroad.  In the north however, the Soviets had launched a strong counter-attack behind the 9th Army, threatining them with encirclement - forcing General Model to halt his advance, and pull back his forces.  With the situation in the north becoming increasingly precarious, Hitler called 'Zitadelle' off on the 13th July.<br><br>At Kursk the Leibstandarte paid heavily - 2,753 casaulties, including 474 dead, and 19 tanks lost.  Following the Kursk campaign, the Leibstandarte was sent to Italy for occupation duty."
+   }, 
+   "lose": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On the 12th, the Soviet Guards Tank Army launched a series of unco-ordinated strikes with the intention of seperating the SS divisions.  In an area of only a few square miles, firing at almost point-blank range across the dust-choked plain, the superior German tank guns counted for nothing against suicidal attacks by Soviet tank crews.  In the heavy fighting that ensued the heavy company of the Leibstandarte's tank regiment engaged and destroyed the Soviet 181st Tank Regiment, without loss.  On both sides however, losses were high.  At the end of the day a thick pall of smoke hung over the battlefield.<br><br>The Soviet attack had been driven off, but at a heavy price, and the SS-Panzer Corps now held the area around Prokharovka and the railroad.  In the north however, the Soviets had launched a strong counter-attack behind the 9th Army, threatining them with encirclement - forcing General Model to halt his advance, and pull back his forces.  With the situation in the north becoming increasingly precarious, Hitler called 'Zitadelle' off on the 13th July.<br><br>At Kursk the Leibstandarte paid heavily - 2,753 casaulties, including 474 dead, and 19 tanks lost.  Following the Kursk campaign, the Leibstandarte was sent to Italy for occupation duty."
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On the 12th, the Soviet Guards Tank Army launched a series of unco-ordinated strikes with the intention of seperating the SS divisions.  In an area of only a few square miles, firing at almost point-blank range across the dust-choked plain, the superior German tank guns counted for nothing against suicidal attacks by Soviet tank crews.  In the heavy fighting that ensued the heavy company of the Leibstandarte's tank regiment engaged and destroyed the Soviet 181st Tank Regiment, without loss.  On both sides however, losses were high.  At the end of the day a thick pall of smoke hung over the battlefield.<br><br>The Soviet attack had been driven off, but at a heavy price, and the SS-Panzer Corps now held the area around Prokharovka and the railroad.  In the north however, the Soviets had launched a strong counter-attack behind the 9th Army, threatining them with encirclement - forcing General Model to halt his advance, and pull back his forces.  With the situation in the north becoming increasingly precarious, Hitler called 'Zitadelle' off on the 13th July.<br><br>At Kursk the Leibstandarte paid heavily - 2,753 casaulties, including 474 dead, and 19 tanks lost.  Following the Kursk campaign, the Leibstandarte was sent to Italy for occupation duty."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "On the 12th, the Soviet Guards Tank Army launched a series of unco-ordinated strikes with the intention of seperating the SS divisions.  In an area of only a few square miles, firing at almost point-blank range across the dust-choked plain, the superior German tank guns counted for nothing against suicidal attacks by Soviet tank crews.  In the heavy fighting that ensued the heavy company of the Leibstandarte's tank regiment engaged and destroyed the Soviet 181st Tank Regiment, without loss.  On both sides however, losses were high.  At the end of the day a thick pall of smoke hung over the battlefield.<br><br>The Soviet attack had been driven off, but at a heavy price, and the SS-Panzer Corps now held the area around Prokharovka and the railroad.  In the north however, the Soviets had launched a strong counter-attack behind the 9th Army, threatining them with encirclement - forcing General Model to halt his advance, and pull back his forces.  With the situation in the north becoming increasingly precarious, Hitler called 'Zitadelle' off on the 13th July.<br><br>At Kursk the Leibstandarte paid heavily - 2,753 casaulties, including 474 dead, and 19 tanks lost.  Following the Kursk campaign, the Leibstandarte was sent to Italy for occupation duty."
+   }
+  }, 
+  "scenario": "lah_it_13.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>Defence on the Dnieper. <br>November 19th, 1943. <br>Zhitomir.<br><br>The Dnieper River offers the strongest natural defensive line in western European Russia, but the losses incurred in battles to the east of the river denied Hitler the resources adequately to man and fortify the line and, coupled with the fact that the Red Army had established five bridgeheads over the river, the positions the Wehrmacht held was at best tenuous.  The stark reality of the situation was that in just two and a half months Army Group Centre and South had been forced back for an average of 150 miles on a front 650 miles long, and in so doing, had the lost the most valuable territory taken during the advances of 1941-42.<br><br>In November the Leibstandarte was ordered back to the Eastern Front.  It travelled via Lvov to Ternopol as part of 48th Corps of the 4th Panzer Army, and was rushed east into positions on the southern flank of the Kiev salient for a counter-attack that aimed at Zhitomir, and the Soviet bridgehead on the Dnieper.<br><br>(You should upgrade your SS Infanterie to SS Panzergrenadiere.  You should deploy 6 'SS Infanterie/SS Panzergrenadiere', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Zhitomir was taken, and although it would soon have to be relinquished, Soviet supply routes between the city and Kiev were cut.  The Leibstandarte moved on Brusilov, where it met a strong concentration of 5th and 8th Guards Armoured Corps, and 1st Guard Cavalry Corps.  With the 1st and 9th Panzer Divisions attacking the northern and southern flanks, and Leibstandarte from the west, on 24th November the concentration was encircled and destroyed.  On 16th December amid biting cold and blinding snowstorms the division advanced east with the 1st and 7th Panzer divisions from Korosten, aiming at encircling the Soviet armies around Meleni.  This was achieved, but with so few troops that the positions could not be held and soon attack turned to retreat.<br><br>As the year drew to a close, the 4th Panzer Army was pushed back west and south of the city by a fresh offensive launched on Christmas Eve by the combined forces of four Soviet armies plus two independent corps against the southern rim of Kiev.  The next day it developed a second thrust west, which threatened to destroy the entire left flank of Army Group South, and succeeded in recapturing Zhitomir and the road linking it to Kiev.  While recognising that this thrust could be employed to drive the two army groups back against the Black Sea and Carpathian Mountains, Hitler saw that the southern attack posed the danger of an envelopment of Army Group South and A between the Dnieper and Dniester Rivers, and considered it the greatest danger."
+   }, 
+   "lose": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Zhitomir was taken, and although it would soon have to be relinquished, Soviet supply routes between the city and Kiev were cut.  The Leibstandarte moved on Brusilov, where it met a strong concentration of 5th and 8th Guards Armoured Corps, and 1st Guard Cavalry Corps.  With the 1st and 9th Panzer Divisions attacking the northern and southern flanks, and Leibstandarte from the west, on 24th November the concentration was encircled and destroyed.  On 16th December amid biting cold and blinding snowstorms the division advanced east with the 1st and 7th Panzer divisions from Korosten, aiming at encircling the Soviet armies around Meleni.  This was achieved, but with so few troops that the positions could not be held and soon attack turned to retreat.<br><br>As the year drew to a close, the 4th Panzer Army was pushed back west and south of the city by a fresh offensive launched on Christmas Eve by the combined forces of four Soviet armies plus two independent corps against the southern rim of Kiev.  The next day it developed a second thrust west, which threatened to destroy the entire left flank of Army Group South, and succeeded in recapturing Zhitomir and the road linking it to Kiev.  While recognising that this thrust could be employed to drive the two army groups back against the Black Sea and Carpathian Mountains, Hitler saw that the southern attack posed the danger of an envelopment of Army Group South and A between the Dnieper and Dniester Rivers, and considered it the greatest danger."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Zhitomir was taken, and although it would soon have to be relinquished, Soviet supply routes between the city and Kiev were cut.  The Leibstandarte moved on Brusilov, where it met a strong concentration of 5th and 8th Guards Armoured Corps, and 1st Guard Cavalry Corps.  With the 1st and 9th Panzer Divisions attacking the northern and southern flanks, and Leibstandarte from the west, on 24th November the concentration was encircled and destroyed.  On 16th December amid biting cold and blinding snowstorms the division advanced east with the 1st and 7th Panzer divisions from Korosten, aiming at encircling the Soviet armies around Meleni.  This was achieved, but with so few troops that the positions could not be held and soon attack turned to retreat.<br><br>As the year drew to a close, the 4th Panzer Army was pushed back west and south of the city by a fresh offensive launched on Christmas Eve by the combined forces of four Soviet armies plus two independent corps against the southern rim of Kiev.  The next day it developed a second thrust west, which threatened to destroy the entire left flank of Army Group South, and succeeded in recapturing Zhitomir and the road linking it to Kiev.  While recognising that this thrust could be employed to drive the two army groups back against the Black Sea and Carpathian Mountains, Hitler saw that the southern attack posed the danger of an envelopment of Army Group South and A between the Dnieper and Dniester Rivers, and considered it the greatest danger."
+   }
+  }, 
+  "scenario": "lah_it_14.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>Defence on the Dnieper. <br>February 11th, 1944. <br>Korsun Pocket.<br><br>As the war in the east entered its fourth year, Zhukov's 1st Ukrainian Front moved across the Dnieper against Kirovgrad, taking advantage of the now severely weakened Army Group South right flank.  Two days later Kirovgrad was in Soviet hands, despite spirited defence by 11 German divisions.  Fighting a continuing series of defensive engagements in the area around Zhitomir, Korosten and Beredichev, the Leibstandarte at Beredichev was able to temporarily check the Soviet advance.  By mid-January the Soviet 1st Tank Army, spearheading 1st Ukrainian Front's southern advance, had gained 65 miles and was approaching Uman.  In knee-deep mud, sleet and blizzards, Army Group South fought desperately to prevent it's front from collapsing.<br><br>A new attack, begun on 25th January by Konev's 2nd Ukrainian Front, in four days linked up with Vatunin's 1st Ukrainian Front and encircled 6 German divisions at Korsun-Shevchenkovsky, north-west of Cherkassy.  Hitler refused to countenance any breakout attempt, insisting that von Manstein instead link up with the trapped forces and thus re-eastablish the Dnieper Line.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Panzergrenadiere/Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "For the rescue attempt von Manstein concentrated most of his tank strength in the 46th and 3rd Panzer Corps, and attached Leibstandarte to the latter.  On 11th February the breakout began, with Leibstandarte attacking on the northern flank with the 1st, 17th and 16th Panzrt Divisions assaulting to the south.  Conditions could not have been worse with thick fog and hevaily bogged roads rendering rapid movement impossible.  Zhukov threw in the 5th Guards Tank Army to counter the German thrust and halted the Northern flank when it was barely eight miles from the trapped pocket.  Realising that the link-up he envisaged had failed, Hitler consented to a break-out attempt on 16th February, and that night a slow-moving column formed.  Leaving behind the wounded and most of their equipment, 35,000 men began moving toward 3rd Panzer Corps positions.  Men, of the Leibstandarte, covering the retreat, showed considerable bravery.  In one documentated incident, two NCO's of the 2nd Panzergrenadier Regiment held off two companies of Soviet troops before they could be relived.  In all 32,000 troops had escaped, half of the forces that had been initially trapped.<br><br>In early March, the weakened divisions of von Manstein were smashed by a mighty assault by the 1st, 2nd and 3rd Ukrainian Fronts between the Carpathian mountains and the Pripet marshes.  The Leibstandarte, fighting as part of the 24th Panzer Corps, was unable to stem the tide and by the 15th was all but annihilated - less than 1,250 men remained.  In the last week of the month, together with 4th Panzer Army it was encircled at Kamenets-Podolski.  The remains of the Leibstandarte fought out of the pocket and by mid-April had reached German lines."
+   }, 
+   "lose": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "For the rescue attempt von Manstein concentrated most of his tank strength in the 46th and 3rd Panzer Corps, and attached Leibstandarte to the latter.  On 11th February the breakout began, with Leibstandarte attacking on the northern flank with the 1st, 17th and 16th Panzrt Divisions assaulting to the south.  Conditions could not have been worse with thick fog and hevaily bogged roads rendering rapid movement impossible.  Zhukov threw in the 5th Guards Tank Army to counter the German thrust and halted the Northern flank when it was barely eight miles from the trapped pocket.  Realising that the link-up he envisaged had failed, Hitler consented to a break-out attempt on 16th February, and that night a slow-moving column formed.  Leaving behind the wounded and most of their equipment, 35,000 men began moving toward 3rd Panzer Corps positions.  Men, of the Leibstandarte, covering the retreat, showed considerable bravery.  In one documentated incident, two NCO's of the 2nd Panzergrenadier Regiment held off two companies of Soviet troops before they could be relived.  In all 32,000 troops had escaped, half of the forces that had been initially trapped.<br><br>In early March, the weakened divisions of von Manstein were smashed by a mighty assault by the 1st, 2nd and 3rd Ukrainian Fronts between the Carpathian mountains and the Pripet marshes.  The Leibstandarte, fighting as part of the 24th Panzer Corps, was unable to stem the tide and by the 15th was all but annihilated - less than 1,250 men remained.  In the last week of the month, together with 4th Panzer Army it was encircled at Kamenets-Podolski.  The remains of the Leibstandarte fought out of the pocket and by mid-April had reached German lines."
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "For the rescue attempt von Manstein concentrated most of his tank strength in the 46th and 3rd Panzer Corps, and attached Leibstandarte to the latter.  On 11th February the breakout began, with Leibstandarte attacking on the northern flank with the 1st, 17th and 16th Panzrt Divisions assaulting to the south.  Conditions could not have been worse with thick fog and hevaily bogged roads rendering rapid movement impossible.  Zhukov threw in the 5th Guards Tank Army to counter the German thrust and halted the Northern flank when it was barely eight miles from the trapped pocket.  Realising that the link-up he envisaged had failed, Hitler consented to a break-out attempt on 16th February, and that night a slow-moving column formed.  Leaving behind the wounded and most of their equipment, 35,000 men began moving toward 3rd Panzer Corps positions.  Men, of the Leibstandarte, covering the retreat, showed considerable bravery.  In one documentated incident, two NCO's of the 2nd Panzergrenadier Regiment held off two companies of Soviet troops before they could be relived.  In all 32,000 troops had escaped, half of the forces that had been initially trapped.<br><br>In early March, the weakened divisions of von Manstein were smashed by a mighty assault by the 1st, 2nd and 3rd Ukrainian Fronts between the Carpathian mountains and the Pripet marshes.  The Leibstandarte, fighting as part of the 24th Panzer Corps, was unable to stem the tide and by the 15th was all but annihilated - less than 1,250 men remained.  In the last week of the month, together with 4th Panzer Army it was encircled at Kamenets-Podolski.  The remains of the Leibstandarte fought out of the pocket and by mid-April had reached German lines."
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "For the rescue attempt von Manstein concentrated most of his tank strength in the 46th and 3rd Panzer Corps, and attached Leibstandarte to the latter.  On 11th February the breakout began, with Leibstandarte attacking on the northern flank with the 1st, 17th and 16th Panzrt Divisions assaulting to the south.  Conditions could not have been worse with thick fog and hevaily bogged roads rendering rapid movement impossible.  Zhukov threw in the 5th Guards Tank Army to counter the German thrust and halted the Northern flank when it was barely eight miles from the trapped pocket.  Realising that the link-up he envisaged had failed, Hitler consented to a break-out attempt on 16th February, and that night a slow-moving column formed.  Leaving behind the wounded and most of their equipment, 35,000 men began moving toward 3rd Panzer Corps positions.  Men, of the Leibstandarte, covering the retreat, showed considerable bravery.  In one documentated incident, two NCO's of the 2nd Panzergrenadier Regiment held off two companies of Soviet troops before they could be relived.  In all 32,000 troops had escaped, half of the forces that had been initially trapped.<br><br>In early March, the weakened divisions of von Manstein were smashed by a mighty assault by the 1st, 2nd and 3rd Ukrainian Fronts between the Carpathian mountains and the Pripet marshes.  The Leibstandarte, fighting as part of the 24th Panzer Corps, was unable to stem the tide and by the 15th was all but annihilated - less than 1,250 men remained.  In the last week of the month, together with 4th Panzer Army it was encircled at Kamenets-Podolski.  The remains of the Leibstandarte fought out of the pocket and by mid-April had reached German lines."
+   }
+  }, 
+  "scenario": "lah_it_18.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>The Battle of Caen. <br>June 28th, 1944. <br>Epsom Defence.<br><br>On 18th April the division was sent to France for rest and refitting, to counter the expected summer invasion of north-west Europe.  From the 25th it was headquartered at Turnhout, Belgium, as one of the elements of Dietrichs newly created I SS-Panzer Corps which was given the title Leibstandarte Adolf Hitler.  Here over 2,000 troops were transferred into the division from the 12th SS Division, and on the 3rd May Hitler decreed new equipment for the division, much of it to come straight from the factory.  With these and other replacements, by June 1944 the Leibstandarte had been rebuilt to a strength of 20,000.<br><br>Thanks to the movement sanctions imposed by Hitler on the German forces on the Western Front, the Leibstandarte was not immediately able to respond to the Allied landings on June 6th.  This left the 21st Panzer, Panzer Lehr and 12th SS Panzer Divisions to bear the brunt of the Allied assaults in the early stages of the battle for Caen.  Not until 28th of June were elements of the Leibstandarte - the 1st Panzergrenadier Regiment - able to arrive at Caen.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  There is limited deployment in this scenario, as the bulk of the division had not yet reached the front.)<br><br>(Only a TV or a L is possible here.  You must hold out until the last turn and then take the roadblock hex with the reinforcement that shows up to get a TV.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "By throwing in our last reserves, we were able to achieve a defensive success by containing the British offensive. More than 4,000 casualties were inflicted upon the British. However, the effort cost was more than 3,000 men lost and over 120 German tanks destroyed reducing much our offensive power. <br>Even with few infantry divisions coming in, our panzer divisions are forced to remain in the front line rather than pulling back into reserve to recover.<br><br>Having had to commit last reserves to contain the British offensive, a permission from Hitler was requested to begin a fighting withdrawal. <br>Now, our troops are digging in along the Odon river with larger numbers of new weapon positions.<br><br><br><br> <br>"
+   }, 
+   "lose": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "By throwing in our last reserves, we were able to achieve a defensive success by containing the British offensive. More than 4,000 casualties were inflicted upon the British. However, the effort cost was more than 3,000 men lost and over 120 German tanks destroyed reducing much our offensive power. <br>Even with few infantry divisions coming in, our panzer divisions are forced to remain in the front line rather than pulling back into reserve to recover.<br><br>Having had to commit last reserves to contain the British offensive, a permission from Hitler was requested to begin a fighting withdrawal. <br>Now, our troops are digging in along the Odon river with larger numbers of new weapon positions.<br><br><br><br> <br>"
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "By throwing in our last reserves, we were able to achieve a defensive success by containing the British offensive. More than 4,000 casualties were inflicted upon the British. However, the effort cost was more than 3,000 men lost and over 120 German tanks destroyed reducing much our offensive power. <br>Even with few infantry divisions coming in, our panzer divisions are forced to remain in the front line rather than pulling back into reserve to recover.<br><br>Having had to commit last reserves to contain the British offensive, a permission from Hitler was requested to begin a fighting withdrawal. <br>Now, our troops are digging in along the Odon river with larger numbers of new weapon positions.<br><br><br><br> <br>"
+   }
+  }, 
+  "scenario": "lah_it_epsom.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>The Battle of Caen. <br>July 8th, 1944. <br>Operation Charnwood.<br><br>On the 8th July the Allies launched Operation Charnwood, an operation to secure the city of Caen.  The Leibstandarte, along with other German units was rushed to the British sector and until the 9th was engaged in repulsing the attack, which cost the life of former Leibstandarte regimental commander and current Hitlerjugend commander Fritz Witt, killed in his HQ by naval gunfire.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  There is limited deployment in this scenario, as the bulk of the division had not yet reached the front.)<br><br>(Only a TV or a L is possible here.  You must hold out until the last turn and then take the roadblock hex with the reinforcement that shows up to get a TV.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After several days of heavy fighting, we were forced to withdraw from the north of the Orne, but the Allied forces were unable to push beyond the Orne as<br>we dug-in on the opposite bank in position to block a move south. <br>Although much of Caen was taken, we are still holding our defense lines in southern suburbs with with well established defensive positions <br>on the high ground blocking the route to the Falaise plain.<br>"
+   }, 
+   "lose": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have failed to do your duty.....but we will give you another chance."
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After several days of heavy fighting, we were forced to withdraw from the north of the Orne, but the Allied forces were unable to push beyond the Orne as<br>we dug-in on the opposite bank in position to block a move south. <br>Although much of Caen was taken, we are still holding our defense lines in southern suburbs with with well established defensive positions <br>on the high ground blocking the route to the Falaise plain.<br>"
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "After several days of heavy fighting, we were forced to withdraw from the north of the Orne, but the Allied forces were unable to push beyond the Orne as<br>we dug-in on the opposite bank in position to block a move south. <br>Although much of Caen was taken, we are still holding our defense lines in southern suburbs with with well established defensive positions <br>on the high ground blocking the route to the Falaise plain.<br>"
+   }
+  }, 
+  "scenario": "lah_it_charn.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Theodor Wisch.<br><br>The Battle of Caen. <br>July 17th, 1944. <br>Operation Goodwood. <br><br>On 11th July, Leibstandarte took over the Caen sector from the seriously depleted Hitlerjugend.  Here, over the coming week it played its most crucial role in the Normandy battles.  Beginning on 17th July, three British armoured divisions attempted to break through the gap between Caen and the eastern heights, across a small bridgehead over the Orne River and through the four lines of man-made and natural defences, then across the hills of Bourgebus and to the open ground beyond.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Panzergrenadiere/Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br><br>(HINT:  This is supposed to be difficult.  Run for the hills.  Literally.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Caen had been lost, and the Leibstandarte had fallen back to the Bourgebus ridge, where they held the line and inflicted heavy casaulties upon the British 7th and 11th Armoured Divisions.  However, the weakened German defences began to lose the battle of attrition, with few re-inforcements arriving, and roaming Allied bombers destroying supplies before the could reach the lines.  The division now helped to hold the Caen-Falaise highway until the end of July against repeated British attacks.<br><br>In the last week of July, the US forces had launched a breakout attempt which pulled them out of the bocage country and into the open countryside.  Hitler ordered a counter-attack, of which the Leibstandarte was to be part of, aimed at Avranches and St. Lo which failed.  Subsequently a Canadian attack which thrust south-west threatened to envelop the German forces, and the LSSAH was pulled back into defensive positions."
+   }, 
+   "lose": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Caen had been lost, and the Leibstandarte had fallen back to the Bourgebus ridge, where they held the line and inflicted heavy casaulties upon the British 7th and 11th Armoured Divisions.  However, the weakened German defences began to lose the battle of attrition, with few re-inforcements arriving, and roaming Allied bombers destroying supplies before the could reach the lines.  The division now helped to hold the Caen-Falaise highway until the end of July against repeated British attacks.<br><br>In the last week of July, the US forces had launched a breakout attempt which pulled them out of the bocage country and into the open countryside.  Hitler ordered a counter-attack, of which the Leibstandarte was to be part of, aimed at Avranches and St. Lo which failed.  Subsequently a Canadian attack which thrust south-west threatened to envelop the German forces, and the LSSAH was pulled back into defensive positions."
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Caen had been lost, and the Leibstandarte had fallen back to the Bourgebus ridge, where they held the line and inflicted heavy casaulties upon the British 7th and 11th Armoured Divisions.  However, the weakened German defences began to lose the battle of attrition, with few re-inforcements arriving, and roaming Allied bombers destroying supplies before the could reach the lines.  The division now helped to hold the Caen-Falaise highway until the end of July against repeated British attacks.<br><br>In the last week of July, the US forces had launched a breakout attempt which pulled them out of the bocage country and into the open countryside.  Hitler ordered a counter-attack, of which the Leibstandarte was to be part of, aimed at Avranches and St. Lo which failed.  Subsequently a Canadian attack which thrust south-west threatened to envelop the German forces, and the LSSAH was pulled back into defensive positions."
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Caen had been lost, and the Leibstandarte had fallen back to the Bourgebus ridge, where they held the line and inflicted heavy casaulties upon the British 7th and 11th Armoured Divisions.  However, the weakened German defences began to lose the battle of attrition, with few re-inforcements arriving, and roaming Allied bombers destroying supplies before the could reach the lines.  The division now helped to hold the Caen-Falaise highway until the end of July against repeated British attacks.<br><br>In the last week of July, the US forces had launched a breakout attempt which pulled them out of the bocage country and into the open countryside.  Hitler ordered a counter-attack, of which the Leibstandarte was to be part of, aimed at Avranches and St. Lo which failed.  Subsequently a Canadian attack which thrust south-west threatened to envelop the German forces, and the LSSAH was pulled back into defensive positions."
+   }
+  }, 
+  "scenario": "lah_it_15.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Wilhelm Mohnke.<br><br>Wacht Am Rhein. <br>December 16th, 1944. <br>Operation Herbstnebel. <br><br>During late October and early November, the LSSAH as part of 7th Army, refitted itself with new equipment, though munitions and fuel were becoming scarce.  3,500 new recruits were also drafted in, with only the bare minimum level of training.  Towards the end of November the division was assigned to the Sixth Panzer Army, and on December 14th moved into positions to launch the coming winter offensive.<br><br>The attack began at first light on the 16th December against the American lines, which were thinly held by six divisions of resting and newly arrived troops.  The LSSAH attack came after the intial defences had been breached by the 12th Volksgrenadier Division, and the division - split into Kampfgruppe - made it's way through the heavy snow and narrow roads towards their objectives.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Panzergrenadiere/Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Leibstandarte attack was eventually thwarted by blown bridges and a stubborn defence by the American troops.  By December 23rd, the division was being pushed back following its intial success.  Kampfgruppe Peiper, isolated and under heavy attacks at Stoumont, was given permission to break out to the east while the rest of the division provided cover.  Leaving behind 150 U.S. prisoners and some wounded to destroy his remaining tanks, Peiper led his battered and weary troops back to German lines.<br><br>KG Peiper started the attack with 5,800 men, and left with just 800 survivors."
+   }, 
+   "lose": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Leibstandarte attack was eventually thwarted by blown bridges and a stubborn defence by the American troops.  By December 23rd, the division was being pushed back following its intial success.  Kampfgruppe Peiper, isolated and under heavy attacks at Stoumont, was given permission to break out to the east while the rest of the division provided cover.  Leaving behind 150 U.S. prisoners and some wounded to destroy his remaining tanks, Peiper led his battered and weary troops back to German lines.<br><br>KG Peiper started the attack with 5,800 men, and left with just 800 survivors."
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Leibstandarte attack was eventually thwarted by blown bridges and a stubborn defence by the American troops.  By December 23rd, the division was being pushed back following its intial success.  Kampfgruppe Peiper, isolated and under heavy attacks at Stoumont, was given permission to break out to the east while the rest of the division provided cover.  Leaving behind 150 U.S. prisoners and some wounded to destroy his remaining tanks, Peiper led his battered and weary troops back to German lines.<br><br>KG Peiper started the attack with 5,800 men, and left with just 800 survivors."
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "The Leibstandarte attack was eventually thwarted by blown bridges and a stubborn defence by the American troops.  By December 23rd, the division was being pushed back following its intial success.  Kampfgruppe Peiper, isolated and under heavy attacks at Stoumont, was given permission to break out to the east while the rest of the division provided cover.  Leaving behind 150 U.S. prisoners and some wounded to destroy his remaining tanks, Peiper led his battered and weary troops back to German lines.<br><br>KG Peiper started the attack with 5,800 men, and left with just 800 survivors."
+   }
+  }, 
+  "scenario": "lah_it_16.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Otto Kumm.<br><br>Lake Balaton Offensive. <br>February 17th, 1945. <br>Operation Sudwind.<br><br>By 1945 the Leibstandarte had been successfully moved east by train to Vienna, and the difficult task of rebuilding the division began.  The situation for Germany was critical - Budapest had fallen after a 51 day seige; Warsaw, Lodz and Krakow had fallen; a Soviet Army was in East Prussia; the Red Army was now a mere 200km from Prague, and worst of all, it had crossed the river Oder, and was only 70km from Berlin.  The I SS Panzer Corps was to be used to rectify this critical situation.<br><br>The Soviets held a considerable bridgehead over the Gran river, north of Eztergom.  This position was seen as a potential assembly area for a possible thrust towards Vienna and as such it had to be elminated before the main offensive - aimed at elimating the Soviet units from the area west of the Danube and north of the Drava rivers and to secure the Nagykanizsa oil deposits - could begin.  This peliminary operation was given the code-name South Wind.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  There is limited deployment in this scenario, as the bulk of the division had not yet reached the front.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Despite widespread flooding and poor road conditions caused by an early thaw, Sudwind began at 0500 hours on the 17th of Feburary.  Leaving high ground on their right flank and with the Gran river on their left, the Germans attacked across open, rolling, agricultural land with few villages and no serious obstacles.<br><br>By the first day, the Leibstandarte and the attahced 46th Infantry Division had broken through the Soviet defences, advancing 10km.  On both the right and left flanks however, the 44th and 211th Infantry Divisions ran into strong resistance.  By the 21st, the I SS Panzer Corps had cleared the Gran bridgehead, sending the Soviets into a retreat across the Gran river.  Hitler quickly ordered that the Leibstandarte be freed as soon as possible for his next offensive, in the Lake Balaton area."
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Despite widespread flooding and poor road conditions caused by an early thaw, Sudwind began at 0500 hours on the 17th of Feburary.  Leaving high ground on their right flank and with the Gran river on their left, the Germans attacked across open, rolling, agricultural land with few villages and no serious obstacles.<br><br>By the first day, the Leibstandarte and the attahced 46th Infantry Division had broken through the Soviet defences, advancing 10km.  On both the right and left flanks however, the 44th and 211th Infantry Divisions ran into strong resistance.  By the 21st, the I SS Panzer Corps had cleared the Gran bridgehead, sending the Soviets into a retreat across the Gran river.  Hitler quickly ordered that the Leibstandarte be freed as soon as possible for his next offensive, in the Lake Balaton area."
+   }, 
+   "tactical": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Despite widespread flooding and poor road conditions caused by an early thaw, Sudwind began at 0500 hours on the 17th of Feburary.  Leaving high ground on their right flank and with the Gran river on their left, the Germans attacked across open, rolling, agricultural land with few villages and no serious obstacles.<br><br>By the first day, the Leibstandarte and the attahced 46th Infantry Division had broken through the Soviet defences, advancing 10km.  On both the right and left flanks however, the 44th and 211th Infantry Divisions ran into strong resistance.  By the 21st, the I SS Panzer Corps had cleared the Gran bridgehead, sending the Soviets into a retreat across the Gran river.  Hitler quickly ordered that the Leibstandarte be freed as soon as possible for his next offensive, in the Lake Balaton area."
+   }, 
+   "victory": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Despite widespread flooding and poor road conditions caused by an early thaw, Sudwind began at 0500 hours on the 17th of Feburary.  Leaving high ground on their right flank and with the Gran river on their left, the Germans attacked across open, rolling, agricultural land with few villages and no serious obstacles.<br><br>By the first day, the Leibstandarte and the attahced 46th Infantry Division had broken through the Soviet defences, advancing 10km.  On both the right and left flanks however, the 44th and 211th Infantry Divisions ran into strong resistance.  By the 21st, the I SS Panzer Corps had cleared the Gran bridgehead, sending the Soviets into a retreat across the Gran river.  Hitler quickly ordered that the Leibstandarte be freed as soon as possible for his next offensive, in the Lake Balaton area."
+   }
+  }, 
+  "scenario": "lah_it_gran.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 25, 
+  "intro": "1st SS-Panzer Division LSSAH, <br>SS-Brigadefuhrer Otto Kumm.<br><br>Lake Balaton Offensive. <br>March 6th, 1945. <br>Operation Fruhlingserwachen. <br><br>The aims of Operation Spring Awakening were as wildly ambitious as those laid out for the Ardennes offensive three months previously.  They were: to destroy the Soviet forces in the region bounded by Lake Balaton and the Danube and Drava rivers, secure the Hungarian oil deposits, and establish bridgeheads over the Danube with a view to further offensive operations.<br><br>Whilst the Germans prepared Fruhlingerwachen, the Soviets had their own plans - an attack aimed toward Vienna, to begin on 15th March.  Following the Gran bridgehead fighting however, the Soviets became aware of German intentions and were able to adapt their positions to meet it.  The Third Ukranian Front commander - where the Leibstandarte attack was positioned - reasoned that the Germans could be sufficiently weakened by the depth of the Soviet defences, for them to be able to launch their own attack.<br><br>(If playing with rules do not buy any new units, except to replace any core losses.  You should deploy 6 'SS Panzergrenadiere/Infanterie', 2 Tanks, 4 Artillery, 1 Recon, 1 Air Defence/Flak, 1 'Sturmpioniere' and 2 anti-tank units.)<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "On the day of the German offensive snow was falling from low cloud and the temperature hovered on either side of zero degrees celcius.  The Leibstandarte began its attack at 0430 hours with an artillery barrage against the 68th Guards Rifle Division positions.  The Soviet defences were strong and well prepared, and the Leibstandarte lost a number of tanks to mines and flame-throwers.  Despite the shock of finding the Soviets well prepared, the Leibstandarte broke through, and by March 14th had reached Simontoya, securing a bridgehead over the Sio Canal by the 15th.  By this point however, the corps left flank was badly exposed, prompting Dietrich to recommend a retreat to defensive posiitons, as further advance was impossible, owing to the hilly, broken and wooded terrain.<br><br>Soviet attacks across the Sarvis and Sio Canals were seen as an ominous sign of things to come.  It was clear from intelligence reports that the Soviets were attempting to cut off the Sixth Panzer Army.  On the 16th two Soviet armies launched a major attack between Szekesfehervar and the Vertes hills to the north.  By the 18th, the LSSAH was given orders to withdraw from Simontoya, thus ending the divisions last offensive action of the war."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "On the day of the German offensive snow was falling from low cloud and the temperature hovered on either side of zero degrees celcius.  The Leibstandarte began its attack at 0430 hours with an artillery barrage against the 68th Guards Rifle Division positions.  The Soviet defences were strong and well prepared, and the Leibstandarte lost a number of tanks to mines and flame-throwers.  Despite the shock of finding the Soviets well prepared, the Leibstandarte broke through, and by March 14th had reached Simontoya, securing a bridgehead over the Sio Canal by the 15th.  By this point however, the corps left flank was badly exposed, prompting Dietrich to recommend a retreat to defensive posiitons, as further advance was impossible, owing to the hilly, broken and wooded terrain.<br><br>Soviet attacks across the Sarvis and Sio Canals were seen as an ominous sign of things to come.  It was clear from intelligence reports that the Soviets were attempting to cut off the Sixth Panzer Army.  On the 16th two Soviet armies launched a major attack between Szekesfehervar and the Vertes hills to the north.  By the 18th, the LSSAH was given orders to withdraw from Simontoya, thus ending the divisions last offensive action of the war."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "On the day of the German offensive snow was falling from low cloud and the temperature hovered on either side of zero degrees celcius.  The Leibstandarte began its attack at 0430 hours with an artillery barrage against the 68th Guards Rifle Division positions.  The Soviet defences were strong and well prepared, and the Leibstandarte lost a number of tanks to mines and flame-throwers.  Despite the shock of finding the Soviets well prepared, the Leibstandarte broke through, and by March 14th had reached Simontoya, securing a bridgehead over the Sio Canal by the 15th.  By this point however, the corps left flank was badly exposed, prompting Dietrich to recommend a retreat to defensive posiitons, as further advance was impossible, owing to the hilly, broken and wooded terrain.<br><br>Soviet attacks across the Sarvis and Sio Canals were seen as an ominous sign of things to come.  It was clear from intelligence reports that the Soviets were attempting to cut off the Sixth Panzer Army.  On the 16th two Soviet armies launched a major attack between Szekesfehervar and the Vertes hills to the north.  By the 18th, the LSSAH was given orders to withdraw from Simontoya, thus ending the divisions last offensive action of the war."
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "On the day of the German offensive snow was falling from low cloud and the temperature hovered on either side of zero degrees celcius.  The Leibstandarte began its attack at 0430 hours with an artillery barrage against the 68th Guards Rifle Division positions.  The Soviet defences were strong and well prepared, and the Leibstandarte lost a number of tanks to mines and flame-throwers.  Despite the shock of finding the Soviets well prepared, the Leibstandarte broke through, and by March 14th had reached Simontoya, securing a bridgehead over the Sio Canal by the 15th.  By this point however, the corps left flank was badly exposed, prompting Dietrich to recommend a retreat to defensive posiitons, as further advance was impossible, owing to the hilly, broken and wooded terrain.<br><br>Soviet attacks across the Sarvis and Sio Canals were seen as an ominous sign of things to come.  It was clear from intelligence reports that the Soviets were attempting to cut off the Sixth Panzer Army.  On the 16th two Soviet armies launched a major attack between Szekesfehervar and the Vertes hills to the north.  By the 18th, the LSSAH was given orders to withdraw from Simontoya, thus ending the divisions last offensive action of the war."
+   }
+  }, 
+  "scenario": "lah_it_17.xml", 
+  "startprestige": 0
+ }
+]

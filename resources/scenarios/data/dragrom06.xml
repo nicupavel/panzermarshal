@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom06.scn" name="Taman Bridgehead :Krymskaya" turns="12, 14, 16" date="April 19, 1943" dayturns="1" ground="0" atmosferic="0" latitude="3" rows="18" cols="19" eqp="eqp-adlerkorps" image="resources/maps/images/map_577.png">
+  <player id="0" country="17" side="0" airtrans="1" navaltrans="0" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 180"/>
+  <player id="1" country="19" side="1" airtrans="1" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 150"/>
+  <reinforce turn="8">
+    <at row="8" col="19">
+      <unit id="524" owner="1" flag="20" face="13" exp="320"/>
+    </at>
+    <at row="7" col="19">
+      <unit id="482" owner="1" flag="20" face="13" exp="250"/>
+    </at>
+    <at row="0" col="17">
+      <unit id="1848" owner="1" flag="20" face="13" exp="310"/>
+    </at>
+    <at row="1" col="18">
+      <unit id="543" owner="1" flag="20" face="14" exp="300" ldr="1"/>
+    </at>
+  </reinforce>
+  <reinforce turn="2">
+    <at row="0" col="3">
+      <unit id="174" owner="0" flag="8" face="1" exp="200"/>
+    </at>
+    <at row="1" col="4">
+      <unit id="1272" owner="0" flag="8" face="1" exp="300"/>
+    </at>
+    <at row="0" col="5">
+      <unit id="619" owner="0" flag="8" face="2" exp="200"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="2" col="19">
+      <unit id="542" owner="1" flag="20" face="13" exp="310"/>
+    </at>
+    <at row="2" col="18">
+      <unit id="531" owner="1" flag="20" face="13" exp="320"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="5" col="18">
+      <unit id="501" owner="1" flag="20" face="14" exp="300" str="15"/>
+    </at>
+    <at row="6" col="18">
+      <unit id="639" owner="1" flag="20" face="13" exp="300"/>
+    </at>
+    <at row="6" col="19">
+      <unit id="497" owner="1" flag="20" face="13" exp="300" str="5"/>
+    </at>
+    <at row="5" col="19">
+      <unit id="501" owner="1" flag="20" face="14" exp="350" str="15"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" road="136"/>
+  <hex row="0" col="3" road="40"/>
+  <hex row="0" col="7" terrain="10" name="Adagum"/>
+  <hex row="0" col="8" terrain="10" name="Adagum"/>
+  <hex row="0" col="9" terrain="10" name="Adagum"/>
+  <hex row="0" col="11" terrain="8"/>
+  <hex row="0" col="18" road="16"/>
+  <hex row="1" col="1" owner="1"/>
+  <hex row="1" col="2" road="130" name="CLEAR"/>
+  <hex row="1" col="4" road="136" name="Adagum"/>
+  <hex row="1" col="5" road="136"/>
+  <hex row="1" col="10" terrain="10" name="Adagum"/>
+  <hex row="1" col="11" terrain="10" name="Adagum"/>
+  <hex row="1" col="12" terrain="8">
+    <unit id="504" owner="1" flag="20" face="15" exp="210" ent="3" str="15"/>
+  </hex>
+  <hex row="1" col="13" terrain="8"/>
+  <hex row="1" col="14" terrain="8">
+    <unit id="497" owner="1" flag="20" face="15" exp="320" str="5"/>
+  </hex>
+  <hex row="1" col="15" terrain="8">
+    <unit id="484" owner="1" flag="20" face="13" transport="529" exp="250"/>
+  </hex>
+  <hex row="1" col="16">
+    <unit id="474" owner="1" flag="20" face="14" exp="250"/>
+  </hex>
+  <hex row="1" col="17" terrain="10" name="Aushed"/>
+  <hex row="1" col="18" terrain="1" road="17" name="Kuvichinskiy" flag="19" owner="1"/>
+  <hex row="2" col="6" terrain="1" road="136" name="Kiyevskoye" flag="7" owner="0" deploy="0"/>
+  <hex row="2" col="7" road="136"/>
+  <hex row="2" col="10">
+    <unit id="722" owner="0" flag="8" face="4" exp="350" ent="5"/>
+  </hex>
+  <hex row="2" col="12" terrain="10" name="Adagum"/>
+  <hex row="2" col="13" terrain="10" name="Adagum"/>
+  <hex row="2" col="14" terrain="8" name="Kuvichinskiy">
+    <unit id="504" owner="1" flag="20" face="15" exp="300" ent="3" str="15" ldr="1"/>
+  </hex>
+  <hex row="2" col="15" terrain="10" name="Aushed"/>
+  <hex row="2" col="16" terrain="10" name="Aushed"/>
+  <hex row="2" col="18" terrain="8" road="9"/>
+  <hex row="3" col="8" road="144" name="Aushed"/>
+  <hex row="3" col="10">
+    <unit id="92" owner="0" flag="8" face="4" transport="157" exp="350" ent="4"/>
+  </hex>
+  <hex row="3" col="12">
+    <unit id="722" owner="0" flag="8" face="4" exp="370" ent="6" ldr="1"/>
+  </hex>
+  <hex row="3" col="13" terrain="10" name="Adagum"/>
+  <hex row="3" col="14" terrain="10" name="Aushed"/>
+  <hex row="3" col="15" terrain="3" name="Kuvichinskiy">
+    <unit id="920" owner="1" flag="20" face="12" exp="250" ent="3" str="15"/>
+  </hex>
+  <hex row="3" col="16" terrain="3">
+    <unit id="920" owner="1" flag="20" face="13" exp="250"/>
+  </hex>
+  <hex row="3" col="17">
+    <unit id="1813" owner="1" flag="20" face="13" transport="2587" exp="250"/>
+  </hex>
+  <hex row="3" col="18" terrain="3"/>
+  <hex row="4" col="8" terrain="1" road="9" name="Ekonomicheskoye" flag="7" owner="0"/>
+  <hex row="4" col="9" road="144"/>
+  <hex row="4" col="11">
+    <unit id="117" owner="0" flag="8" face="4" exp="350" ent="2" str="5"/>
+  </hex>
+  <hex row="4" col="12">
+    <unit id="78" owner="0" flag="8" face="4" transport="157" exp="380" ent="6" str="5"/>
+  </hex>
+  <hex row="4" col="13" terrain="1" flag="7" owner="0">
+    <unit id="722" owner="0" flag="8" face="4" exp="350" ent="8"/>
+  </hex>
+  <hex row="4" col="15" terrain="3">
+    <unit id="920" owner="1" flag="20" face="12" exp="200" ent="3" str="15"/>
+  </hex>
+  <hex row="4" col="16" terrain="3" name="Moldavanskoye"/>
+  <hex row="5" col="9" road="9"/>
+  <hex row="5" col="10" name="Abinsk">
+    <unit id="798" owner="0" flag="8" face="3" transport="2398" exp="350" ent="4"/>
+  </hex>
+  <hex row="5" col="11">
+    <unit id="722" owner="0" flag="8" face="4" exp="330" ent="5"/>
+  </hex>
+  <hex row="5" col="13" terrain="10" name="Adagum"/>
+  <hex row="5" col="14" terrain="10" name="Abin"/>
+  <hex row="5" col="15">
+    <unit id="501" owner="1" flag="20" face="12" exp="250" ent="4" str="15"/>
+  </hex>
+  <hex row="5" col="16" name="Kuvichinskiy">
+    <unit id="501" owner="1" flag="20" face="12" exp="250" str="15"/>
+  </hex>
+  <hex row="5" col="17">
+    <unit id="484" owner="1" flag="20" face="12" transport="529" exp="220" ent="8"/>
+  </hex>
+  <hex row="6" col="1" terrain="3"/>
+  <hex row="6" col="5" terrain="1" name="Moldavanskoye" flag="7" owner="0" victory="1">
+    <unit id="118" owner="0" flag="8" face="3" exp="390" ent="3" str="5"/>
+  </hex>
+  <hex row="6" col="8">
+    <unit id="1271" owner="0" flag="8" face="4" exp="280"/>
+  </hex>
+  <hex row="6" col="9" terrain="2" flag="7" owner="0"/>
+  <hex row="6" col="10" road="144"/>
+  <hex row="6" col="11" terrain="10" name="Adagum"/>
+  <hex row="6" col="12" terrain="10" name="Adagum"/>
+  <hex row="6" col="14" terrain="10" name="Abin"/>
+  <hex row="6" col="15" terrain="10" name="Abin">
+    <unit id="501" owner="1" flag="20" face="12" exp="300" ent="3" str="15"/>
+  </hex>
+  <hex row="6" col="16" name="Kuvichinskiy">
+    <unit id="501" owner="1" flag="20" face="12" exp="300" str="15"/>
+  </hex>
+  <hex row="7" col="1" terrain="3" name="Nizhnebakanskiy"/>
+  <hex row="7" col="3" terrain="3"/>
+  <hex row="7" col="10" terrain="1" road="25" name="Krymsk" flag="7" owner="0" victory="1" deploy="0"/>
+  <hex row="7" col="11" terrain="1" road="176" name="Krymsk" flag="7" owner="0" deploy="0"/>
+  <hex row="7" col="14">
+    <unit id="504" owner="1" flag="20" face="11" exp="270" ent="3" str="15"/>
+  </hex>
+  <hex row="7" col="15" terrain="10" name="Abin"/>
+  <hex row="7" col="17" name="Kuvichinskiy">
+    <unit id="1816" owner="1" flag="20" face="12" transport="2586" exp="50" ent="8" ldr="1"/>
+  </hex>
+  <hex row="7" col="18" road="18"/>
+  <hex row="8" col="2" terrain="3"/>
+  <hex row="8" col="4" terrain="3"/>
+  <hex row="8" col="5" terrain="3"/>
+  <hex row="8" col="6">
+    <unit id="704" owner="0" flag="8" face="3" exp="380" ent="3" ldr="1"/>
+  </hex>
+  <hex row="8" col="7">
+    <unit id="150" owner="0" flag="8" face="3" exp="390" ent="4" ldr="1"/>
+  </hex>
+  <hex row="8" col="8" name="Neberdzhayevskaya">
+    <unit id="91" owner="0" flag="8" face="3" exp="370" ent="3"/>
+  </hex>
+  <hex row="8" col="9" terrain="10" name="Adagum"/>
+  <hex row="8" col="10" terrain="1" road="27" name="Krymsk" flag="7" owner="0" deploy="0"/>
+  <hex row="8" col="11" road="169"/>
+  <hex row="8" col="13">
+    <unit id="920" owner="1" flag="20" face="11" exp="290" ent="3" str="15"/>
+  </hex>
+  <hex row="8" col="14">
+    <unit id="504" owner="1" flag="20" face="11" exp="270" ent="4" str="15"/>
+  </hex>
+  <hex row="8" col="15">
+    <unit id="486" owner="1" flag="20" face="12" exp="220" ent="8"/>
+  </hex>
+  <hex row="8" col="16" terrain="10" name="Abin"/>
+  <hex row="8" col="18" road="17"/>
+  <hex row="9" col="1" terrain="3" name="Aushed"/>
+  <hex row="9" col="3" terrain="3"/>
+  <hex row="9" col="4" terrain="3"/>
+  <hex row="9" col="5" terrain="3"/>
+  <hex row="9" col="6" terrain="3">
+    <unit id="74" owner="0" flag="8" face="3" exp="300" ent="2"/>
+  </hex>
+  <hex row="9" col="7" terrain="10" name="Adagum"/>
+  <hex row="9" col="8" terrain="10" name="Adagum"/>
+  <hex row="9" col="9" terrain="10" road="34" name="Adagum">
+    <unit id="2928" owner="0" flag="8" face="4" transport="157" exp="380" ent="6"/>
+  </hex>
+  <hex row="9" col="10" road="35"/>
+  <hex row="9" col="12" road="136"/>
+  <hex row="9" col="13" terrain="1" road="130" flag="19" owner="1">
+    <unit id="920" owner="1" flag="20" face="10" exp="220" ent="4" str="15"/>
+  </hex>
+  <hex row="9" col="14" road="40">
+    <unit id="920" owner="1" flag="20" face="11" exp="220"/>
+  </hex>
+  <hex row="9" col="15" road="136">
+    <unit id="1813" owner="1" flag="20" face="11" exp="310"/>
+  </hex>
+  <hex row="9" col="16" terrain="10" name="Abin"/>
+  <hex row="9" col="17" terrain="1" road="58" name="Abinsk" flag="19" owner="1"/>
+  <hex row="9" col="18" road="49"/>
+  <hex row="10" col="1" terrain="10" road="40" name="Adagum"/>
+  <hex row="10" col="2" terrain="10" name="Adagum"/>
+  <hex row="10" col="3" terrain="10" road="40" name="Adagum"/>
+  <hex row="10" col="4" terrain="10" name="Adagum"/>
+  <hex row="10" col="5" terrain="1" road="40" name="Nizhnebakanskiy" flag="7" owner="0">
+    <unit id="110" owner="0" flag="8" face="4" transport="157" exp="400" ent="2" str="5"/>
+  </hex>
+  <hex row="10" col="6" terrain="10" name="Adagum"/>
+  <hex row="10" col="7" terrain="3" road="58"/>
+  <hex row="10" col="8" road="50">
+    <unit id="2928" owner="0" flag="8" face="4" transport="157" exp="370" ent="7"/>
+  </hex>
+  <hex row="10" col="9" terrain="3"/>
+  <hex row="10" col="11">
+    <unit id="501" owner="1" flag="20" face="11" exp="250" ent="3"/>
+  </hex>
+  <hex row="10" col="12">
+    <unit id="504" owner="1" flag="20" face="11" exp="200" ent="3" str="15" ldr="1"/>
+  </hex>
+  <hex row="10" col="13" terrain="3">
+    <unit id="504" owner="1" flag="20" face="11" exp="270" str="15"/>
+  </hex>
+  <hex row="10" col="15">
+    <unit id="477" owner="1" flag="20" face="11" transport="2579" exp="200" str="5"/>
+  </hex>
+  <hex row="10" col="16" road="138"/>
+  <hex row="10" col="17" terrain="1" road="139" name="Abinsk" flag="19" owner="1" victory="1">
+    <unit id="501" owner="1" flag="20" face="11" exp="300" ent="9" str="15" ldr="1"/>
+  </hex>
+  <hex row="10" col="18" road="185">
+    <unit id="489" owner="1" flag="20" face="12" exp="310" ldr="1"/>
+  </hex>
+  <hex row="11" col="1" terrain="3" deploy="0"/>
+  <hex row="11" col="2" terrain="3" road="130"/>
+  <hex row="11" col="3" terrain="3"/>
+  <hex row="11" col="4" terrain="3" road="130"/>
+  <hex row="11" col="5" terrain="3">
+    <unit id="67" owner="0" flag="8" face="4" transport="2406" exp="360" ent="3"/>
+  </hex>
+  <hex row="11" col="6" terrain="3" road="138">
+    <unit id="92" owner="0" flag="8" face="3" transport="157" exp="250" ent="4"/>
+  </hex>
+  <hex row="11" col="7" terrain="3" road="147" name="Erivanskaya">
+    <unit id="115" owner="0" flag="8" face="4" exp="350" ent="7"/>
+  </hex>
+  <hex row="11" col="8" terrain="3" road="161"/>
+  <hex row="11" col="9" terrain="3"/>
+  <hex row="11" col="10" terrain="3"/>
+  <hex row="11" col="11">
+    <unit id="501" owner="1" flag="20" face="11" exp="250" ent="3"/>
+  </hex>
+  <hex row="11" col="12" terrain="3">
+    <unit id="501" owner="1" flag="20" face="10" exp="250"/>
+  </hex>
+  <hex row="11" col="13" terrain="3"/>
+  <hex row="11" col="14" terrain="3">
+    <unit id="484" owner="1" flag="20" face="11" transport="529" exp="220"/>
+  </hex>
+  <hex row="11" col="15" terrain="3"/>
+  <hex row="11" col="17" terrain="10" name="Abin"/>
+  <hex row="11" col="18" terrain="1" road="131" name="Abinsk" flag="19" owner="1">
+    <unit id="1802" owner="1" flag="20" face="12" exp="300"/>
+  </hex>
+  <hex row="12" col="2" terrain="3"/>
+  <hex row="12" col="4" terrain="3">
+    <unit id="94" owner="0" flag="8" face="3" transport="2404" exp="380" ent="2" str="5"/>
+  </hex>
+  <hex row="12" col="6" terrain="3"/>
+  <hex row="12" col="7" terrain="3" road="33">
+    <unit id="115" owner="0" flag="8" face="4" exp="390" ent="7"/>
+  </hex>
+  <hex row="12" col="8" terrain="3"/>
+  <hex row="12" col="9" terrain="3">
+    <unit id="920" owner="1" flag="20" face="11" exp="250" ent="3" str="15"/>
+  </hex>
+  <hex row="12" col="10" terrain="3">
+    <unit id="504" owner="1" flag="20" face="11" exp="200" ent="4" str="15"/>
+  </hex>
+  <hex row="12" col="11" terrain="3">
+    <unit id="504" owner="1" flag="20" face="10" exp="200" str="15"/>
+  </hex>
+  <hex row="12" col="12">
+    <unit id="501" owner="1" flag="20" face="10" exp="250"/>
+  </hex>
+  <hex row="12" col="13" terrain="3"/>
+  <hex row="12" col="14" terrain="3"/>
+  <hex row="12" col="15" terrain="3"/>
+  <hex row="12" col="16" terrain="3"/>
+  <hex row="12" col="17" terrain="10" name="Abin"/>
+  <hex row="13" col="1" terrain="6"/>
+  <hex row="13" col="2" terrain="3"/>
+  <hex row="13" col="3" terrain="3"/>
+  <hex row="13" col="4">
+    <unit id="1577" owner="0" flag="18" face="3" transport="2571" exp="300" ent="4"/>
+  </hex>
+  <hex row="13" col="5" terrain="3" road="34" deploy="0"/>
+  <hex row="13" col="6" terrain="1" road="34" name="Neberdzhayevskaya" flag="7">
+    <unit id="115" owner="0" flag="8" face="4" exp="360" ent="8"/>
+  </hex>
+  <hex row="13" col="7" terrain="3"/>
+  <hex row="13" col="8" terrain="3"/>
+  <hex row="13" col="9" terrain="3">
+    <unit id="920" owner="1" flag="20" face="10" exp="250" ent="4" str="15" ldr="1"/>
+  </hex>
+  <hex row="13" col="10" terrain="3">
+    <unit id="920" owner="1" flag="20" face="10" exp="250" str="15"/>
+  </hex>
+  <hex row="13" col="11">
+    <unit id="1813" owner="1" flag="20" face="11" transport="2587" exp="250"/>
+  </hex>
+  <hex row="13" col="12" terrain="3">
+    <unit id="486" owner="1" flag="20" face="11" transport="529" exp="310"/>
+  </hex>
+  <hex row="13" col="13" terrain="3"/>
+  <hex row="13" col="14" terrain="3"/>
+  <hex row="13" col="15" terrain="3"/>
+  <hex row="13" col="16" terrain="10" name="Abin"/>
+  <hex row="13" col="17" terrain="3">
+    <unit id="504" owner="1" flag="20" face="10" exp="200" str="15"/>
+  </hex>
+  <hex row="13" col="18" terrain="3"/>
+  <hex row="14" col="1" terrain="5"/>
+  <hex row="14" col="2" terrain="5">
+    <unit id="798" owner="0" flag="8" face="3" transport="2398" exp="375" ent="4" ldr="1"/>
+  </hex>
+  <hex row="14" col="3" terrain="5" road="18"/>
+  <hex row="14" col="4" road="34"/>
+  <hex row="14" col="5" terrain="5" deploy="0"/>
+  <hex row="14" col="6" terrain="3"/>
+  <hex row="14" col="7" terrain="3">
+    <unit id="504" owner="1" flag="20" face="10" exp="250" ent="3"/>
+  </hex>
+  <hex row="14" col="8" terrain="3">
+    <unit id="920" owner="1" flag="20" face="10" exp="250" ent="4" str="15"/>
+  </hex>
+  <hex row="14" col="9" terrain="3">
+    <unit id="920" owner="1" flag="20" face="11" exp="250"/>
+  </hex>
+  <hex row="14" col="10" terrain="3">
+    <unit id="920" owner="1" flag="20" face="11" exp="220"/>
+  </hex>
+  <hex row="14" col="11" terrain="3"/>
+  <hex row="14" col="12" terrain="3"/>
+  <hex row="14" col="13" terrain="3"/>
+  <hex row="14" col="14" terrain="3"/>
+  <hex row="14" col="15" terrain="10" name="Abin"/>
+  <hex row="14" col="16" terrain="10" name="Abin"/>
+  <hex row="14" col="17">
+    <unit id="639" owner="1" flag="20" face="12" transport="2579" exp="250"/>
+  </hex>
+  <hex row="14" col="18">
+    <unit id="497" owner="1" flag="20" face="10" exp="320" str="5"/>
+  </hex>
+  <hex row="15" col="0" terrain="5"/>
+  <hex row="15" col="1" terrain="6">
+    <unit id="93" owner="0" flag="8" face="2" transport="2404" exp="370" ent="4" str="5"/>
+  </hex>
+  <hex row="15" col="3" road="33">
+    <unit id="110" owner="0" flag="8" face="4" transport="157" exp="300" ent="7" str="5"/>
+  </hex>
+  <hex row="15" col="4" terrain="5">
+    <unit id="115" owner="0" flag="8" face="3" exp="340" ent="7"/>
+  </hex>
+  <hex row="15" col="5" terrain="5"/>
+  <hex row="15" col="6" terrain="5"/>
+  <hex row="15" col="7" terrain="5">
+    <unit id="504" owner="1" flag="20" face="9" exp="250" ent="3" str="15"/>
+  </hex>
+  <hex row="15" col="8" terrain="3">
+    <unit id="504" owner="1" flag="20" face="9" exp="200"/>
+  </hex>
+  <hex row="15" col="10" terrain="3">
+    <unit id="1813" owner="1" flag="20" face="11" transport="2587" exp="300"/>
+  </hex>
+  <hex row="15" col="11" terrain="3"/>
+  <hex row="15" col="12" terrain="3"/>
+  <hex row="15" col="13" terrain="3"/>
+  <hex row="15" col="14" terrain="3"/>
+  <hex row="15" col="15" terrain="10" name="Abin"/>
+  <hex row="15" col="16">
+    <unit id="504" owner="1" flag="20" face="10" exp="200" str="15"/>
+  </hex>
+  <hex row="15" col="17" terrain="3">
+    <unit id="477" owner="1" flag="20" face="10" transport="2579" exp="200" str="5"/>
+  </hex>
+  <hex row="15" col="18" terrain="3"/>
+  <hex row="16" col="1" terrain="1" road="58" name="Novorossiysk"/>
+  <hex row="16" col="2" terrain="5" road="50"/>
+  <hex row="16" col="3" terrain="5">
+    <unit id="115" owner="0" flag="8" face="4" exp="380" ent="7"/>
+  </hex>
+  <hex row="16" col="4" terrain="5">
+    <unit id="78" owner="0" flag="8" face="3" transport="157" exp="380" ent="7" str="5"/>
+  </hex>
+  <hex row="16" col="5" terrain="5"/>
+  <hex row="16" col="6" terrain="5"/>
+  <hex row="16" col="7" terrain="6">
+    <unit id="504" owner="1" flag="20" face="10" exp="150" str="15"/>
+  </hex>
+  <hex row="16" col="8" terrain="6">
+    <unit id="474" owner="1" flag="20" face="15" exp="220"/>
+  </hex>
+  <hex row="16" col="9" terrain="6"/>
+  <hex row="16" col="11" terrain="3"/>
+  <hex row="16" col="12" terrain="3"/>
+  <hex row="16" col="13" terrain="1" name="Shapsugskaya" flag="19" owner="1"/>
+  <hex row="16" col="14" terrain="10" name="Abin"/>
+  <hex row="16" col="15" terrain="5"/>
+  <hex row="16" col="16" terrain="5"/>
+  <hex row="16" col="17" terrain="5"/>
+  <hex row="16" col="18" terrain="3">
+    <unit id="1847" owner="1" flag="20" face="11" exp="250" ldr="1"/>
+  </hex>
+  <hex row="17" col="0" road="10"/>
+  <hex row="17" col="1" terrain="1" road="131" name="Novorossiysk" flag="7" owner="0" deploy="0"/>
+  <hex row="17" col="2" terrain="1" road="161" name="Novorossiysk">
+    <unit id="115" owner="0" flag="8" face="4" exp="350" ent="8"/>
+  </hex>
+  <hex row="17" col="3" terrain="6"/>
+  <hex row="17" col="4" terrain="6"/>
+  <hex row="17" col="5" terrain="6">
+    <unit id="504" owner="1" flag="20" face="10" exp="150" ent="3" str="15"/>
+  </hex>
+  <hex row="17" col="6" terrain="5">
+    <unit id="504" owner="1" flag="20" face="9" exp="200" ent="4" str="15" ldr="1"/>
+  </hex>
+  <hex row="17" col="7" terrain="5">
+    <unit id="484" owner="1" flag="20" face="11" transport="529" exp="250"/>
+  </hex>
+  <hex row="17" col="8" terrain="6">
+    <unit id="486" owner="1" flag="20" face="11" transport="529" exp="250" ent="5" ldr="1"/>
+  </hex>
+  <hex row="17" col="9" terrain="5"/>
+  <hex row="17" col="10" terrain="6"/>
+  <hex row="17" col="11" terrain="6"/>
+  <hex row="17" col="12" terrain="3"/>
+  <hex row="17" col="13" terrain="3"/>
+  <hex row="17" col="14" terrain="10" name="Abin"/>
+  <hex row="17" col="15" terrain="10" name="Abin"/>
+  <hex row="17" col="16" terrain="5"/>
+  <hex row="17" col="17" terrain="10" name="Abin"/>
+  <hex row="17" col="18" terrain="5"/>
+</map>

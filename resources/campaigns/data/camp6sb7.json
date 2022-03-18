@@ -1,0 +1,618 @@
+[
+ {
+  "id": 0, 
+  "intro": "00. GUADALCANAL 1, 08/18/1942<br><br>Despite heavy fighting on the nearby islands of Tulagi and Gavutu/Tanambogo the initial landings on Guadalcanal went smoothly, with little evidence of the enemy except some laborers. However, after a major naval engagement to the NW (Battle of Savo Island) and threats of Japanese air attacks your naval support and transports (some still loaded with men and equipment) sailed for Noumea on the 9th.<br><br>Despite small engagements a defensive perimeter has been set up. Your orders are to hold the perimeter and protect the airfield, which is being prepared for the first air units. In addition you have orders to send a small force to the west to clear the villages of Matanikau and Kokumbona. Part of that force will be by landing craft.<br><br>HINT:<br>You must defend the perimeter with adequate forces to repel an attack from any flank! You are strongly recommended to check the map each turn.<br><br>IMPORTANT NOTE: YOU HAVE TO PURCHASE YOUR CORE UNITS AT HQ!! <br>You should initially concentrate on infantry (on foot, my recommendation is try to build up at least 4 units) and some artillery and AD. Once you have that you can buy tanks or other units.<br><br>Note: Dates are all in the US format, MM/DD/YYYY", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 770, 
+    "text": "BRILLIANT VICTORY<br><br>Despite some hard fighting you have acheived your initial objectives. The villages of Matanikau and Kokumbona have been cleared and a nasty attack across the Tenaru has been stopped. The outlying villages will not be held permanently, so pull your men back to the defense perimeter."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Well... you lost."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 770, 
+    "text": "TACTICAL VICTORY<br><br>Despite some hard fighting you have acheived your initial objectives. The villages of Matanikau and Kokumbona have been cleared and a nasty attack across the Tenaru has been stopped. The outlying villages will not be held permanently, so pull your men back to the defense perimeter."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 770, 
+    "text": "VICTORY<br><br>Despite some hard fighting you have acheived your initial objectives. The villages of Matanikau and Kokumbona have been cleared and a nasty attack across the Tenaru has been stopped. The outlying villages will not be held permanently, so pull your men back to the defense perimeter."
+   }
+  }, 
+  "scenario": "sb7gua1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "01. GUADALCANAL 2, 09/11/1942<br><br>At sea there has been a major battle (Battle of the Eastern Solomons) that has stopped some Japanese reinforcements. On land your men are under constant air and naval attack, but you are getting resupplied regularly and your air strength is being built up. Your current orders are to defend the perimeter around Henderson Field; in particular you should send troops to hold the ridge south of the airfield.<br><br>NOTE: YOU HAVE TO TAKE A LOSS IN THIS SCENARIO. THE ONLY WAY TO CONTINUE IS TO PLAY THROUGH ALL THE TURNS.", 
+  "outcome": {
+   "briliant": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "BRILLIANT VICTORY<br><br>This result should not be possible... anyway, you lose"
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "LOSS (NOT REALLY A LOSS)<br><br>The fighting in the south of the perimeter, around 'Bloody Ridge', was extremely tough - but you held out. The battle is far from over..."
+   }, 
+   "tactical": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "TACTICAL VICTORY<br><br>This result should not be possible... anyway, you lose"
+   }, 
+   "victory": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "VICTORY<br><br>This result should not be possible... anyway, you lose"
+   }
+  }, 
+  "scenario": "sb7gua2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "02. GUADALCANAL 3, 09/24/1942<br><br>Larger and larger concentrations of Japanese troops are appearing all around the perimeter; you are ordered to mount an attack to the west and engage Japanese units around the village of Matanikau and south along the Matanikau River.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "BRILLIANT VICTORY<br><br>Much damage has been done to the Japanese line on your west flank, however not all your gains can be held. You are ordered to pull back to the Matanikau."
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1068, 
+    "text": "LOSS<br><br>Continue the battle. A loss is not acceptable."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "TACTICAL VICTORY<br><br>Much damage has been done to the Japanese line on your west flank, however not all your gains can be held. You are ordered to pull back to the Matanikau."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "VICTORY<br><br>Much damage has been done to the Japanese line on your west flank, however not all your gains can be held. You are ordered to pull back to the Matanikau."
+   }
+  }, 
+  "scenario": "sb7gua3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "03. GUADALCANAL 4, 10/23/1942<br><br>After your victory on the Matanikau your men have been subjected to intense bombardment from the sea, air and by land-based artillery. The Japanese have managed to land more men and equipment on Guadalcanal despite attempts to stop them, including a major naval battle (Battle of Cape Esperance), and it is only a matter of time before they start an offensive to capture the airfields. <br><br>US Army reinforcements have recently been landed, however your position is precarious and your aircraft strength is low. You must prepare your defenses and hold the Japanese back at any cost.", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1225, 
+    "text": "BRILLIANT VICTORY<br><br>Despite some hard fighting, the Japanese offensive has failed. Now, we will go on the offensive."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You were pushed into the ocean... the airfield is lost and you have been relieved of your command."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1225, 
+    "text": "TACTICAL VICTORY<br><br>Despite some hard fighting, the Japanese offensive has failed. Now, we will go on the offensive."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1225, 
+    "text": "VICTORY<br><br>Despite some hard fighting, the Japanese offensive has failed. Now, we will go on the offensive."
+   }
+  }, 
+  "scenario": "sb7gua4.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "04. GUADALCANAL 5, 10/31/1942<br><br>The Japanese have been decisively defeated and should not be able to counterattack without reinforcements, so now is the time to mount an offensive. You will attack west out of the perimeter, cross the Matanikau, with your objective being Kokumbona. Meanwhile, to the east you will advance towards Koli Point, where Japanese reinforcements are expected. Soon your men will be replaced by fresh troops, but not before you finish here.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 970, 
+    "text": "BRILLIANT VICTORY<br><br>Your men have performed way beyond expectations, however you will now be withdrawn; other units will finish the battle. You will be resupplied and reequipped in preparation for the next battle."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "LOSS<br><br>Loss is not an option. Finish the battle."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 970, 
+    "text": "TACTICAL VICTORY<br><br>Your men have performed as expected, however you will now be withdrawn; other units will finish the battle. You will be resupplied and reequipped in preparation for the next battle."
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 970, 
+    "text": "VICTORY<br><br>Your men have performed beyond expectations, however you will now be withdrawn; other units will finish the battle. You will be resupplied and reequipped in preparation for the next battle."
+   }
+  }, 
+  "scenario": "sb7gua5.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "05. NEW GEORGIA 1, 06/30/1943<br><br>The last Japanese units withdrew from Guadalcanal in February, however you are already training for the next operation. After the successful defense of Guadalcanal we will go on the offensive and your men will play important parts in our plans. <br><br>Operation Toenails, the invasion of the island of New Georgia, is planned for July. Starting in late June three landings will be made on the eastern part of the island and later, at the start of July, the western part of the island will be occupied. You will participate in the western landings. The objective of these landings is the capture of the airfield on Rendova island and, most importantly, the airfield at Munda Point. A small force will capture Rendova while the rest of the operation will be split into two parts, the Northern and Southern Groups, on the main island. These will be largely Army operations, but your men will be used in important capacities in the western landings.<br><br>NOTE: <br>You will not be able to deploy all your units in this scenario.<br><br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "BRILLIANT VICTORY<br><br>The offensive has stalled. Once the Army units are replaced the offensive will continue."
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 300, 
+    "text": "LOSS<br><br>A loss is not an option. The battle will continue."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "TACTICAL VICTORY<br><br>The offensive has stalled. Once the Army units are replaced the offensive will continue."
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "VICTORY<br><br>The offensive has stalled. Once the Army units are replaced the offensive will continue."
+   }
+  }, 
+  "scenario": "sb7geo1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "06. NEW GEORGIA 2, 07/17/1943<br><br>The assaults on Munda airfield and Bairoko have stalled. Two major naval battles recently were fought to the NW of New Georgia, the Battles of Kula Gulf and Kolombangara, and have successfully deterred Japanese reinforcements. Once Army reinforcements arrive, your orders are to capture Munda airfield, regain Bairoko and clear Arundel Island of enemy troops. The island of Kolombangara (at the NW of the map) will be bypassed. Again, your troops will be used to support Army operations.<br><br>You have just received news that Japanese units have launched an assault on the southern beachhead...<br><br>NOTE: <br>You will not be able to deploy all your units in this scenario.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1550, 
+    "text": "BRILLIANT VICTORY<br><br>Your men performed excellently. Your orders are to pull your men off the line to prepare for future offensives; the mopping up of New Georgia will be performed by new Army units."
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "LOSS<br><br>You must redouble your efforts and capture Munda Point..."
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1550, 
+    "text": "TACTICAL VICTORY<br><br>Your men performed excellently. Your orders are to pull your men off the line to prepare for future offensives; the mopping up of New Georgia will be performed by new Army units."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1550, 
+    "text": "VICTORY<br><br>Your men performed excellently. Your orders are to pull your men off the line to prepare for future offensives; the mopping up of New Georgia will be performed by new Army units."
+   }
+  }, 
+  "scenario": "sb7geo2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "07. BOUGAINVILLE 1, 10/31/1943<br><br>The last objective in the Solomons is Bougainville, which has large Japanese concentrations at the north and south, including airfields, around Buin and Buka. In addition to being a major base any airfield on Bougainville is within easy striking distance of Rabaul. The plan is not to attack either of the Japanese bases, rather to land on the island in the center and build an airfield.<br><br>Your orders are to land on Cape Torokina and secure a beachhead. You should expect the Japanese to react strongly to this attack, although we hope to catch their ground troops off guard. Japanese naval forces are known to be in the area.", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "BRILLIANT VICTORY<br><br>Despite some fighting the beachhead has been established. Your next campaign, the landing on New Britain, already is being planned - however you are to remain on Bougainville and hold the perimeter until replaced by the Army."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Your performance here has been an embarrassment - a posting awaits you in Northern Alaska."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "TACTICAL VICTORY<br><br>Despite some fighting the beachhead has been established. Your next campaign, the landing on New Britain, already is being planned - however you are to remain on Bougainville and hold the perimeter until replaced by the Army."
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 350, 
+    "text": "VICTORY<br><br>Despite some fighting the beachhead has been established. Your next campaign, the landing on New Britain, already is being planned - however you are to remain on Bougainville and hold the perimeter until replaced by the Army."
+   }
+  }, 
+  "scenario": "sb7bou1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "08. BOUGAINVILLE 2, 11/18/1943<br><br>Before the landings were complete many transports were ordered to depart the area (due to a threat of Japanese naval forces). Later, in a major sea battle (The Battle of Empress Augusta Bay) a Japanese task force was routed, and further landings of Japanese troops were thwarted. You have been ordered to guard and expand the Cape Torokina perimeter, but only until you are replaced by the Army's 37th Division. There has been a build up of Japanese forces to the north and east of the perimeter, particularly on the high ground to the north, so you should prepare for an attack. You will have limited support, since a lot of resources have been allocated to an air offensive against Rabaul and an amphibious assault on Tarawa (which is scheduled for 2 days time).<br><br>NOTE: <br>The airfield is still not ready, so you have to refuel and resupply at an airfield off the island.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "BRILLIANT VICTORY<br><br>As army units are moved forward you should pull your men off the line; already you have another mission."
+   }, 
+   "lose": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>A loss is not acceptable. Keep fighting."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "TACTICAL VICTORY<br><br>As army units are moved forward you should pull your men off the line; already you have another mission."
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "VICTORY<br><br>As army units are moved forward you should pull your men off the line; already you have another mission."
+   }
+  }, 
+  "scenario": "sb7bou2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "09. CAPE GLOUCESTER 1, 12/26/1943<br><br>Now the Solomons campaign is all but ended you will be transferred to Macarthur's Southwest Pacific command. An operation is being planned for December to occupy Cape Gloucester, on the western tip of the island of New Britain. This will have the double advantage of tightening the noose around Rabaul (which is at the eastern end of New Britain) and gaining complete control of the Vitiaz Strait, between Cape Gloucester and New Guinea (which is a vital shipping route).<br><br>This operation will have a number of phases. On December 15th Army units will be landed on the Arawe peninsula as a diversion (see my US Army New Guinea Campaign, Arawe is just SE of this battle) and on December 26th your force will be landed on the shore of Borgen Bay - your initial objective is to capture Tuluvu Airfield and to stabilize the beachhead. A small force is also ordered to be landed on the west coast to stop Japanese withdrawal from the northeast. You should expect strong Japanese counterattacks on the ground and strong air attacks, since you will be within easy striking distance of Rabaul, however you will have adequate USAAF support.<br><br>NOTE: <br>You cannot land towed AA, artillery or anti-tank units on \"Swamp\" hexes, they must land at \"Natamo\" or some other non-swamp hex<br><br>NOTE: <br>A loss in this scenario requires you to play it again.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "BRILLIANT VICTORY<br><br>You have successfully attained your initial objectives, but you still have to clear the enemy from Cape Gloucester."
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "LOSS<br><br>A loss is not acceptable. Continue the battle."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "TACTICAL VICTORY<br><br>You have successfully attained your initial objectives, but you still have to clear the enemy from Cape Gloucester."
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "VICTORY<br><br>You have successfully attained your initial objectives, but you still have to clear the enemy from Cape Gloucester."
+   }
+  }, 
+  "scenario": "sb7glo1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "10. CAPE GLOUCESTER 2, 01/20/1944<br><br>You have captured your initial objectives and now control of the airfield and surrounding terrain. Your orders are to clear remaining opposition from the inland parts of Cape Gloucester (or at least drive them to the east), while sending patrols to the southwest and along the eastern coast. The enemy is withdrawing remaining forces to the east towards Talasea and ultimately Rabaul, but before we deal with them you must finish your mission here.<br><br>NOTE: <br>You can embark units at the \"Port\" of Natamo if you wish to send units along the coast by sea.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Excellent. Your final mission on New Britain is to capture Talasea."
+   }, 
+   "lose": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>A loss is not acceptable..."
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Excellent. Your final mission on New Britain is to capture Talasea."
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Excellent. Your final mission on New Britain is to capture Talasea."
+   }
+  }, 
+  "scenario": "sb7glo2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "11. TALASEA, 03/05/1944<br><br>The last objective on New Britain is Talasea; located on the Willaumez Peninsula over 100 miles east from Cape Gloucester. The extent of the defenses around Talasea are unknown, but are not expected to be heavy; a bold move by sea should enable us to intercept Japanese troops withdrawing from Cape Gloucester. Once captured, Talasea will be developed as a PT boat base to cover Japanese shipping routes to Rabaul and their nearby base at Cape Hoskins.<br> <br>This will be our most easterly move, after which we will be replaced by Army 40th Division troops. Your orders are to land near Volupai, capture Talasea and send patrols along the coast in the direction of Cape Hoskins.<br><br>ORDERS: <br>You must embark your units by Ocean from Linga Linga Plantation, since there is no land route to the peninsula. Your orders are to land on the beaches around Volupai on the west side of the peninsula. You should not try to land south of Volupai because of uncleared coastal minefields. Port facilities at Talasea and San Remo Plantation can be used to speed your advance.<br><br>NOTE: <br>The USS Nies may sustain some damage on its way to the battle.<br><br>NOTE: <br>A loss in this scenario requires you to play it again.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "BRILLIANT VICTORY<br><br>Pull your men back to Talasea and await your replacements. The Army will take over the mopping up of New Britain; your men will prepare for the next mission."
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>A loss is not acceptable - you must finish your mission."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "TACTICAL VICTORY<br><br>Pull your men back to Talasea and await your replacements. The Army will take over the mopping up of New Britain; your men will prepare for the next mission."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "VICTORY<br><br>Pull your men back to Talasea and await your replacements. The Army will take over the mopping up of New Britain; your men will prepare for the next mission."
+   }
+  }, 
+  "scenario": "sb7tala.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "12. TINIAN, 07/24/1944<br><br>After the successful handover of command on New Britain you are transferred to the Central Pacific forces and have been assigned as part of the operation to capture the Marianas; specifically the islands of Guam, Saipan and Tinian. These islands are not only a major part of Japan's outer defenses, their capture will provide airfields for the new B-29 bomber squadrons to reach the Japanese mainland. The first part of this operation, the capture of Saipan, started on June 15 and after almost a month of vicious fighting the battle has ended. The landing on Guam began a few days ago and Tinian is next.<br><br>You have been assigned to land on Tinian, which is only a few miles from Saipan - the island has been softened up by air, sea and artillery (firing from Saipan). The exact disposition of the defenders is unknown, but Tinian is much flatter and less mountainous than Saipan so your task should be easier.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "BRILLIANT VICTORY<br><br>You had a much easier task than your colleagues on Saipan, yet your victory was not as easy as we expected. After continuous fighting for 2 years you will be pulled off the line for extensive rest and re-equipping. The war will not end any time soon, so no doubt we will need you in the future."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>You had a much easier task than your colleagues on Saipan, yet your victory was not as easy as we expected. After continuous fighting for 2 years you will be pulled off the line for extensive rest and re-equipping. I doubt we will need you in the future."
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "TACTICAL VICTORY<br><br>You had a much easier task than your colleagues on Saipan, yet your victory was not as easy as we expected. After continuous fighting for 2 years you will be pulled off the line for extensive rest and re-equipping. The war will not end any time soon, so no doubt we will need you in the future."
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "VICTORY<br><br>You had a much easier task than your colleagues on Saipan, yet your victory was not as easy as we expected. After continuous fighting for 2 years you will be pulled off the line for extensive rest and re-equipping. The war will not end any time soon, so no doubt we will need you in the future."
+   }
+  }, 
+  "scenario": "sb7tini.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "13. IWO JIMA, 02/19/1945<br><br>With Tinian in our grasp we are able to start B-29 bombing raids on the Japanese mainland. However we need a forward air base in which to place fighter escort squadrens and maitanence facilities for damaged aircraft. That's where Iwo Jima comes in. This will be the first time we have attacked the Japanese on what is considered traditional Japanese territory. The Japs know we're coming and have have ample time to dig in. We've asked the Navy for eight days of shelling they've been able to give us four.<br><br>You will join the 4th Marine division in assaulting Iwo Jima on BLUE Beach on the right flank of the 3rd Marines who are landing in the center on YELLOW Beach and the 5th Marines will be landing on the left flank taking Mt Suribachi. Your first objective is the Quarry and the coastal artillery that has been placed there.  Then swing north east and take Higashi linking with the 3rd Marines at Motoyama Airfield.<br><br>Secure a beachhead and air support, artilery and armor are right behind you. Good luck.<br><br>(note: this scenario made by Chris \"PFC Lobo\" Nies for this campaign)<br><br><br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "BRILLIANT VICTORY<br><br>Despite terrible losses you have succeeded impressively - your Medal of Honor for your personal bravery will be well-earned."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "LOSS<br><br>Despite the failure of the operation you will be posthumously rewarded for your bravery..."
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "TACTICAL VICTORY<br><br>Despite terrible losses you have succeeded impressively - your Medal of Honor for your personal bravery will be well-earned."
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "VICTORY<br><br>Despite terrible losses you have succeeded impressively - your Medal of Honor for your personal bravery will be well-earned."
+   }
+  }, 
+  "scenario": "sb7iwoj.xml", 
+  "startprestige": 0
+ }
+]

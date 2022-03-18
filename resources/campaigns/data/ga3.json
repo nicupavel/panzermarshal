@@ -1,0 +1,530 @@
+[
+ {
+  "id": 0, 
+  "intro": "November 30 1939<br><br>Good Morning Major. The situation with the Soviet Union has rapidly deteriorated. As you know, they have been demanding 2700 square kilometers of our territory in the Karelian Isthmus, as well as some of our islands in the Gulf of Finland and the town of Hanko in the south coast. Stalin has offered in exchange the Porajarvi and Repola districts in East Karelia. After the last negotiations on Nov 13, Molotov was overheard to say, \"Since we civilians can't achieve anything, the matter has to be left to the militairy personnel\". Then, on Nov 26, after falsely accusing us of shelling their militairy base at Mainila, Stalin has demanded that we should apologize for the incident and  move our forces 20-25 kilometers from the border! The Soviet Union is looking for any little reason to attack us, and we will not give in to their demands, so Major, be on your guard!<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Excellent work Major! As you know, the Soviet Union has attacked us all along our front, but you managed to delay the Soviet attack in this sector just enough to allow us to begin the set up our defensive positions behind the Mannerheim line. Do not worry about the puppet government installed by Stalin in Terijoki, it does not and will not have the support of our people! Anyway, You and your men will now move North towards Tolvajarvi, where a counter offensive is being planned...."
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "As you know, the Soviet Union has attacked us all along our front, but you managed to delay the Soviet attack in this sector just enough to allow us to begin the set up our defensive positions behind the Mannerheim line. Do not worry about the puppet government installed by Stalin in Terijoki, it does not and will not have the support of our people! Anyway, You and your men will now move North towards Tolvajarvi, where a counter offensive is being planned...."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Good work Major! As you know, the Soviet Union has attacked us all along our front, but you managed to delay the Soviet attack in this sector just enough to allow us to begin the set up our defensive positions behind the Mannerheim line. Do not worry about the puppet government installed by Stalin in Terijoki, it does not and will not have the support of our people! Anyway, You and your men will now move North towards Tolvajarvi, where a counter offensive is being planned...."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Good work Major! As you know, the Soviet Union has attacked us all along our front, but you managed to delay the Soviet attack in this sector just enough to allow us to begin the set up our defensive positions behind the Mannerheim line. Do not worry about the puppet government installed by Stalin in Terijoki, it does not and will not have the support of our people! Anyway, You and your men will now move North towards Tolvajarvi, where a counter offensive is being planned..."
+   }
+  }, 
+  "scenario": "ga3_0.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Good Morning Major. The situation here around Tolvajarvi has been somewhat stabilized, but is still critical. We have decided to boost dwindling morale and gain the initiative by launching a counter attack aimed at encircling and destroying as many units of the Soviet 139th division as possible. Show them what Finnish resolve can acheive!<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Excellent work Major! This is our first \"big\" victory against the Invaders. The importance of this Victory as a morale booster cannot be under estimated! The threat of a Soviet division getting behind our lines has been neutralized, and the 139th division has been hit very hard. Now your skills are again needed, even further North, where we are planning to retake Suomussalmi....<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help...."
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Despite fierce enemy resistance, you have succeeded! This is our first \"big\" victory against the Invaders. The importance of this Victory as a morale booster cannot be under estimated! The threat of a Soviet division getting behind our lines has been neutralized, and the 139th division has been hit very hard. Now your skills are again needed, even further North, where we are planning to retake Suomussalmi....."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Good work Major. This is our first \"big\" victory against the Invaders. The importance of this Victory as a morale booster cannot be under estimated! The threat of a Soviet division getting behind our lines has been neutralized, and the 139th division has been hit very hard. Now your skills are again needed, even further North, where we are planning to retake Suomussalmi...."
+   }
+  }, 
+  "scenario": "ga3_1.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Good Morning Major, here is the situation at Suomussalmi: On December 20, a strong Soviet counter attack prevented our advance towards the village center, and  forced the withdrawl of our attacking forces after we sustained heavy casualties. Then, on December 24, preceded by a 3 hour preliminary bombardment, the Soviets launched a powerful attack, but with hard efforts, Soviet gains were limited to some forward strongpoints. Now, after repulsing yet another Soviet attack, we are going onto the offensive again...<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Excellent work Major! You have helped to acheive yet another victory against the Invaders! 2 Soviet divisions have been nearly wiped out, and the remainder are on the run, and we have collected quite a war booty! Now, your men, along with the 9th division, will move back south towards Kuhmo...."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Colonel, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Despite fierce resistance, you have helped to acheive yet another victory against the Invaders! 2 Soviet divisions have been nearly wiped out, and the remainder are on the run, and we have collected quite a war booty! Now, your men, along with the 9th division, will move back south towards Kuhmo...."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Good work Major. You have helped to acheive yet another victory against the Invaders! 2 Soviet divisions have been nearly wiped out, and the remainder are on the run, and we have collected quite a war booty! Now, your men, along with the 9th division, will move back south towards Kuhmo...."
+   }
+  }, 
+  "scenario": "ga3_2.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Good Morning Major. Latest intelligence suggests that the Soviets are about to renew their drive on Kuhmo. So your men, along with the 9th division, have been moved here in order to destroy the Soviet 54th division before their attack gathers momentum. Good luck Major...<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Excellent work Major! Although you were unable to completely destroy the Soviet 54th division, you did manage to halt their attack and route parts of the division. Furthermore, the remainder of the 54th division, after losing their forward bases, are now encircled in a great \"Motti\" near the Soviet-Finnish border. Now you will make your way back to the Karelian Isthmus, where some dark clouds are gathering..."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Despite fierce resistance, you did manage to halt the Soviet attack and route parts of the 54th division. Furthermore, the remainder of the 54th division, after losing their forward bases, are now encircled in a great \"Motti\" near the Soviet-Finnish border. Now you will make your way back to the Karelian Isthmus, where some dark clouds are gathering..."
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Good workMajor. Although you were unable to completely destroy the Soviet 54th division, you did manage to halt their attack and route parts of the division. Furthermore, the remainder of the 54th division, after losing their forward bases, are now encircled in a great \"Motti\" near the Soviet-Finnish border. Now you will make your way back to the Karelian Isthmus, where some dark clouds are gathering..."
+   }
+  }, 
+  "scenario": "ga3_3.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Welcome back to the Karelian Isthmus, Major. As you already know, the situation here is not going well for us. The Soviets are pressing hard to cut the road from Helsinki to Viipuri, and they have launched a massive offensive across the whole Karelian Isthmus. We need to buy some time. Stalin has reputedly abandoned his support for the puppet government in Terijoki, and we are now in direct peace negotiations with Moscow, yet the Soviet offensive continues. We must hold Viipuri until a negotiated settlement can be reached, or else Stalin will surely push on to Helsinki, meaning the end of Finland as we know it! <br><br>Note:<br>A brilliant or normal victory here will end the campaign, tactical victory or a lose here will continue campaign on a different path prolonging the war.", 
+  "outcome": {
+   "briliant": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "No Dice!"
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Well Major, it is done. We had no choice but to accept the Soviet offer. It is a hard peace, but a small price to pay for our continued independance. Your service in this war has not been in vain, the Soviets have paid a heavy toll in both men and materiel, and one day, we will retake what is rightfully ours...."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Well Major, it is done. We had no choice but to accept the Soviet offer. It is a hard peace, but a small price to pay for our continued independance. Your service in this war has not been in vain, the Soviets have paid a heavy toll in both men and materiel, and one day, we will retake what is rightfully ours...."
+   }, 
+   "victory": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "No Dice!"
+   }
+  }, 
+  "scenario": "ga3_4.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "August 28 1941<br><br>Good Morning Major. How things have changed! Hitler has attacked the Soviet Union, and the arms deliveries from Germany, stopped during the Winter war, have now resumed. But, on June 25, the Soviet Union unleashed a major air offensive against 18 of our cities, causing serious damage to our civilian infrastructure. The Soviet Union tried to justify the attack as being directed against German targets in Finland, but the heaviest damage was done in the south where there were no Germans. So much for peace! We are once again at war with the Soviet Union, but we also have a chance to reverse our losses under the Moscow Peace treaty! <br><br>An obvious word of advice Major: Make sure your men swap their ski transport for something else! <br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Excellent work Major! We are close to re-conquering the Karelian Isthmus. Soon we will push into East Karelia, towards Leningrad, which should result in giving us a comfortable buffer zone against any Soviet attempts at re-entering Finnish territory..."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Despite fierce enemy resistance, we are close to re-conquering the Karelian Isthmus. Soon we will push into East Karelia, towards Leningrad, which should result in giving us a comfortable buffer zone against any Soviet attempts at re-entering Finnish territory..."
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Good work Major. We are close to re-conquering the Karelian Isthmus. Soon we will push into East Karelia, towards Leningrad, which should result in giving us a comfortable buffer zone against any Soviet attempts at re-entering Finnish territory..."
+   }
+  }, 
+  "scenario": "ga3_5.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "Good Morning Major. Now that the Soviets are reeling, and we have finally regained what was lost in the Winter war, it is time to push ahead into Soviet territory. As well as acting as a buffer zone, whatever we are able to gain and hold should improve our leverage in any possible future peace negotiations with Stalin...", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 50, 
+    "text": "Excellent work Major! Thanx to your militairy prowess, we have been able to set up a strong line of defence on the Soviet side of the Svir river! We are now going to continue to press north from Petrozavodsk, towards Medvezhegorsk. Your forces will enjoy some well earned R&R manning the line of defence here...."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Despite fierce enemy resistance, we have been able to set up a strong line of defence on the Soviet side of the Svir river! We are now going to continue to press north from Petrozavodsk, towards Medvezhegorsk. Your forces will enjoy some well earned R&R manning the line of defence here...."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Good work Major. Thanx to your militairy prowess, we have been able to set up a strong line of defence on the Soviet side of the Svir river! We are now going to continue to press north from Petrozavodsk, towards Medvezhegorsk. Your forces will enjoy some well earned R&R manning the line of defence here...."
+   }
+  }, 
+  "scenario": "ga3_6.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "Good Morning Major. Sorry to interrupt your \"vacation\", but we have a special assignment for you and some of your men! Your fighter wing is being temporarily transferred north to the LLv.24 air base at Tiiksjarvi. There have been too many Soviet recon attempts around here lately, and the enemy is likely being informed about take-offs and landings by the partisans hiding in the forests around the base. This leads us to believe an attack is probably imminent. Your mission is to root out the partisans and repel any possible attacks. Good luck, Major...<br><br>Note: To win this scenario you must destroy all enemy units.", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Excellent work Major! The Soviet attackers have been repelled, and the partisan spies destroyed. Thanx to your help, our airbase at Tiiksjarvi should continue to be a thorn in the side of the Soviet juggernaut for some time yet. Now, back to business. After a well deserved night's rest, you and your men will immediately set out to rejoin our forces at the Svir river. Judging by the latest recon reports, it appears the Soviets might be up to something there...."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed in the skies, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Despite fierce resistance, the Soviet attackers have been repelled, and the partisan spies destroyed. Thanx to your help, our airbase at Tiiksjarvi should continue to be a thorn in the side of the Soviet juggernaut for some time yet. Now, back to business. After a well deserved night's rest, you and your men will immediately set out to rejoin our forces at the Svir river. Judging by the latest recon reports, it appears the Soviets might be up to something there..."
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Good work Major. The Soviet attackers have been repelled, and the partisan spies destroyed. Thanx to your help, our airbase at Tiiksjarvi should continue to be a thorn in the side of the Soviet juggernaut for some time yet. Now, back to business. After a well deserved night's rest, you and your men will immediately set out to rejoin our forces at the Svir river. Judging by the latest recon reports, it appears the Soviets might be up to something there..."
+   }
+  }, 
+  "scenario": "ga3_7.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "Good Morning Major. As you have probably guessed, the Soviet build up here in the Svir sector was no feint. A large scale attack has been launched against us, and the Soviets have had some success in pushing us from the Svir river line. You must contain the attack, and then drive them back...<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Excellent work Major! The Soviet attempt to drive us out of the Svir sector has been repulsed, and they have suffered heavy casualties as a result. I have a feeling that they will think twice before attacking us in this area again. Now, I should pass this interesting information on to you: Since Marshal Mannerheim is not so sure anymore that Germany will be able to win the war, he is contemplating how to make peace with the Allies, and he may soon start by not ordering anymore offensive operations. If this happens, take care that your men's morale stays high, just in case....<br><br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Despite fierce resistance, the Soviet attempt to drive us out of the Svir sector has been repulsed, and they have suffered heavy casualties as a result. I have a feeling that they will think twice before attacking us in this area again. Now, I should pass this interesting information on to you: Since Marshal Mannerheim is not so sure anymore that Germany will be able to win the war, he is contemplating how to make peace with the Allies, and he may soon start by not ordering anymore offensive operations. If this happens, take care that your men's morale stays high, just in case...."
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Good work Major. The Soviet attempt to drive us out of the Svir sector has been repulsed, and they have suffered heavy casualties as a result. I have a feeling that they will think twice before attacking us in this area again. Now, I should pass this interesting information on to you: Since Marshal Mannerheim is not so sure anymore that Germany will be able to win the war, he is contemplating how to make peace with the Allies, and he may soon start by not ordering anymore offensive operations. If this happens, take care that your men's morale stays high, just in case...."
+   }
+  }, 
+  "scenario": "ga3_8.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "Good Morning Major. Many things have happened in the two years since we last spoke, but what concerns us most is this: As you have no doubt heard, on June 10th, the Soviets unleashed a vicious full scale attack on the Karelian Isthmus, forcing our retreat in several sectors. Then on June 20th, they captured Viipuri, but we did manage to halt their further advances in this area. We then contacted the Soviet Union, via Sweden, to ask for peace terms, but Stalin replied that only unconditional surrender would be acceptable, but of course, that was unacceptable to us. Then, they proceeded to attack us in the Tali sector, forcing our retreat north to Ihantala. That brings us to the present situation. The Soviets are resuming their offensive against us at Ihantala, but this time, there will be no retreat!  Not only will you repulse the Soviet onslaught, you will also destroy their forward base of operations. Failure is not an option, Major....", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Excellent work Major, excuse me, I mean Colonel! The Soviet attack has been defeated!, and after the loss of their base of operations against Ihantala, they are now transferring their best troops to Estonia, to fight the Germans there. It appears the Soviets are coming to the conclusion that conquering Finland will be extremely difficult, and not worth the cost. We have received word from our Swedish friends that Stalin is now willing to discuss peace terms with us. Nevertheless, we now need you to begin immediately making your way further north, towards Ilomantsi, where, based on the latest recon reports, an as yet indeterminant number of Soviet troops appear to be moving in an aggressive fashion towards us..."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Major, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Despite fierce resistance, the Soviet attack has been defeated!, and after the loss of their base of operations against Ihantala, they are now transferring their best troops to Estonia, to fight the Germans there. It appears the Soviets are coming to the conclusion that conquering Finland will be extremely difficult, and not worth the cost. We have received word from our Swedish friends that Stalin is now willing to discuss peace terms with us. Nevertheless, we now need you to begin immediately making your way further north, towards Ilomantsi, where, based on the latest recon reports, an as yet indeterminant number of Soviet troops appear to be moving in an aggressive fashion towards us. Oh yes, I nearly forgot, you have been promoted to Colonel!<br>"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "Good work Major, excuse me, I mean Colonel! The Soviet attack has been defeated!, and after the loss of their base of operations against Ihantala, they are now transferring their best troops to Estonia, to fight the Germans there. It appears the Soviets are coming to the conclusion that conquering Finland will be extremely difficult, and not worth the cost. We have received word from our Swedish friends that Stalin is now willing to discuss peace terms with us. Nevertheless, we now need you to begin immediately making your way further north, towards Ilomantsi, where, based on the latest recon reports, an as yet indeterminant number of Soviet troops appear to be moving in an aggressive fashion towards us..."
+   }
+  }, 
+  "scenario": "ga3_9.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "Good Morning Colonel. Despite the peace feelers sent out by Stalin earlier this month, and the withdrawl of some of his troops, two Soviet divisions, the 176th and 289th, have been steadily advancing towards us here in the Ilomantsi area. Marshal Mannerheim has decided to give a last lesson to the Soviet leadership about the futility of continuing this war. We have therefore organized an attack with the goal of encircling and destroying these divisions. Give them no quarter!....", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Excellent work Colonel! Even though the remnants of the encircled Soviet divisions managed to escape destruction by fleeing into the forests, we managed to capture most of their heavy equipment! All fronts are now stabilized and......Excuse me a moment......Colonel!, I have just now been informed that Stalin will accept Marshal Mannerheim's proposal for an armistice if we cut all diplomatic ties with Germany, and German troops are given a deadline of September 15 to withdraw from Finnish soil or be interned and handed over to the Soviet Union as POWs. This war of continuation is as good as over!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well Colonel, excuse me, I mean Captain, since you failed on the battlefield, maybe the Field Kitchen detachment could use your help..."
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Despite fierce resistance, and the fact that remnants of the encircled Soviet divisions managed to escape destruction by fleeing into the forests, we managed to capture most of their heavy equipment! All fronts are now stabilized and......Excuse me a moment.....Colonel!, I have just now been informed that Stalin will accept Marshal Mannerheim's proposal for an armistice if we cut all diplomatic ties with Germany, and German troops are given a deadline of September 15 to withdraw from Finnish soil or be interned and handed over to the Soviet Union as POWs. This war of continuation is as good as over!"
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 600, 
+    "text": "Good work Colonel. Even though the remnants of the encircled Soviet divisions managed to escape destruction by fleeing into the forests, we managed to capture most of their heavy equipment! All fronts are now stabilized and......Excuse me a moment......Colonel!, I have just now been informed that Stalin will accept Marshal Mannerheim's proposal for an armistice if we cut all diplomatic ties with Germany, and German troops are given a deadline of September 15 to withdraw from Finnish soil or be interned and handed over to the Soviet Union as POWs. This war of continuation is as good as over!"
+   }
+  }, 
+  "scenario": "ga3_10.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "October 2 1944<br><br>Good Morning Colonel. As you probably know, a few days after the failed German attempt to seize Suursaari island, we signed an interm peace agreement with the Soviet Union. Ever since then, they have been demanding a more active war from us against the Germans. The Allied control commission in Helsinki, responsible for supervising the truce, is also pressing us to start forcefully removing the German troops from the Lapland. Therefore, we have no choice, we must now pro-actively confront our former ally.....", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Historical Note: Although some Wehrmacht and Finnish army officers tried to organize a relatively peaceful withdrawal, the fighting became real when the Finns sought to comply with the Soviet demand that all German troops be expelled from Finland. The Finns' task was complicated by the Soviet demand that the major part of Finnish armed forces must be demobilized at the same time, even during the campaign against the Germans. The Finns struck first at Tornio, and in October-November 1944, drove them out of the greater part of northern Finland. The German forces retaliated by using scorched earth tactics, devastating large areas of northern Finland. More than a third of the dwellings in this area were destroyed, and the provincial capital of Rovaniemi was burned to the ground. The last German troops were expelled from Finland in April 1945. <br><br>Hope you enjoyed playing \"Arctic Storms: The Finnish Ordeal 1939-44\". Any feedback can be directed to me at sdkfz_173@yahoo.ca<br><br>Thanx for playing!<br>George <br>AKA MG43<br><br>"
+   }, 
+   "lose": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Historical Note: Although some Wehrmacht and Finnish army officers tried to organize a relatively peaceful withdrawal, the fighting became real when the Finns sought to comply with the Soviet demand that all German troops be expelled from Finland. The Finns' task was complicated by the Soviet demand that the major part of Finnish armed forces must be demobilized at the same time, even during the campaign against the Germans. The Finns struck first at Tornio, and in October-November 1944, drove them out of the greater part of northern Finland. The German forces retaliated by using scorched earth tactics, devastating large areas of northern Finland. More than a third of the dwellings in this area were destroyed, and the provincial capital of Rovaniemi was burned to the ground. The last German troops were expelled from Finland in April 1945. <br><br>Hope you enjoyed playing \"Arctic Storms: The Finnish Ordeal 1939-44\". Any feedback can be directed to me at sdkfz_173@yahoo.ca<br><br>Thanx for playing!<br>George <br>AKA MG43.<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Historical Note: Although some Wehrmacht and Finnish army officers tried to organize a relatively peaceful withdrawal, the fighting became real when the Finns sought to comply with the Soviet demand that all German troops be expelled from Finland. The Finns' task was complicated by the Soviet demand that the major part of Finnish armed forces must be demobilized at the same time, even during the campaign against the Germans. The Finns struck first at Tornio, and in October-November 1944, drove them out of the greater part of northern Finland. The German forces retaliated by using scorched earth tactics, devastating large areas of northern Finland. More than a third of the dwellings in this area were destroyed, and the provincial capital of Rovaniemi was burned to the ground. The last German troops were expelled from Finland in April 1945. <br><br>Hope you enjoyed playing \"Arctic Storms: The Finnish Ordeal 1939-44\". Any feedback can be directed to me at sdkfz_173@yahoo.ca<br><br>Thanx for playing!<br>George <br>AKA MG43<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Historical Note: Although some Wehrmacht and Finnish army officers tried to organize a relatively peaceful withdrawal, the fighting became real when the Finns sought to comply with the Soviet demand that all German troops be expelled from Finland. The Finns' task was complicated by the Soviet demand that the major part of Finnish armed forces must be demobilized at the same time, even during the campaign against the Germans. The Finns struck first at Tornio, and in October-November 1944, drove them out of the greater part of northern Finland. The German forces retaliated by using scorched earth tactics, devastating large areas of northern Finland. More than a third of the dwellings in this area were destroyed, and the provincial capital of Rovaniemi was burned to the ground. The last German troops were expelled from Finland in April 1945. <br><br>Hope you enjoyed playing \"Arctic Storms: The Finnish Ordeal 1939-44\". Any feedback can be directed to me at sdkfz_173@yahoo.ca<br><br>Thanx for playing!<br>George <br>AKA MG43"
+   }
+  }, 
+  "scenario": "ga3_11.xml", 
+  "startprestige": 0
+ }
+]

@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="dragrom03.scn" name="Operation Trappenjagd" turns="16, 18, 20" date="May 08, 1942" dayturns="2" ground="0" atmosferic="0" latitude="1" rows="35" cols="43" eqp="eqp-adlerkorps" image="resources/maps/images/map_544.png">
+  <player id="0" country="17" side="0" airtrans="1" navaltrans="22" support="8, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100"/>
+  <player id="1" country="19" side="1" airtrans="0" navaltrans="1" support="0, 0, 0, 0" turnprestige="10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 20, 20, 20, 20, 20, 20, 100, 30, 150, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85"/>
+  <reinforce turn="7">
+    <at row="3" col="38">
+      <unit id="537" owner="1" flag="20" face="13" exp="190" str="7" ldr="1"/>
+    </at>
+    <at row="2" col="37">
+      <unit id="995" owner="1" flag="20" face="13"/>
+    </at>
+    <at row="3" col="37">
+      <unit id="542" owner="1" flag="20" face="13" exp="100"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="0" terrain="9"/>
+  <hex row="0" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="0" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="0" terrain="9"/>
+  <hex row="1" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="1" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="0" terrain="9"/>
+  <hex row="2" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="2" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="0" terrain="9"/>
+  <hex row="3" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="3" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="0" terrain="9"/>
+  <hex row="4" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="4" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="0" terrain="9"/>
+  <hex row="5" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="33" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="35" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="5" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="0" terrain="9"/>
+  <hex row="6" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="29" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="30" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="31" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="32" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="34" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="35" terrain="1" name="Kurortne" flag="19" owner="1"/>
+  <hex row="6" col="36" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="37" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="39" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="6" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="0" terrain="9"/>
+  <hex row="7" col="1" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="19" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="20" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="27" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="28" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="34" terrain="15" name="Chokrats'ke"/>
+  <hex row="7" col="38" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="40" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="41" terrain="9" name="Sea Of Azov"/>
+  <hex row="7" col="42" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="0" terrain="9"/>
+  <hex row="8" col="2" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="20" terrain="5"/>
+  <hex row="8" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="8" col="27" terrain="1" road="16" name="Zolote" flag="19" owner="1"/>
+  <hex row="8" col="33" terrain="3"/>
+  <hex row="9" col="0" terrain="9"/>
+  <hex row="9" col="1" terrain="9" name="Sivash"/>
+  <hex row="9" col="3" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="18" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="19" terrain="1" road="33" name="Scholkine" flag="19" owner="1"/>
+  <hex row="9" col="21" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="9" col="27" road="9"/>
+  <hex row="9" col="40" terrain="2" flag="19" owner="1">
+    <unit id="475" owner="1" flag="20" face="14"/>
+    <unit id="535" owner="1" flag="20" face="12"/>
+  </hex>
+  <hex row="10" col="0" terrain="9"/>
+  <hex row="10" col="1" terrain="9" name="Sivash"/>
+  <hex row="10" col="2" terrain="9" name="Sivash"/>
+  <hex row="10" col="4" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="18" road="18"/>
+  <hex row="10" col="20" terrain="10" name="Akmashs'ke"/>
+  <hex row="10" col="21" terrain="15" name="Akmashs'ke"/>
+  <hex row="10" col="22" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="23" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="24" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="25" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="26" terrain="9" name="Sea Of Azov"/>
+  <hex row="10" col="28" road="136"/>
+  <hex row="10" col="29" road="136">
+    <unit id="504" owner="1" flag="20" face="12" exp="18" str="8"/>
+  </hex>
+  <hex row="10" col="31" road="34"/>
+  <hex row="10" col="32" road="40"/>
+  <hex row="10" col="33" road="130"/>
+  <hex row="10" col="34" terrain="1" road="40" name="Baherove" flag="19" owner="1" victory="1"/>
+  <hex row="10" col="35" road="136"/>
+  <hex row="10" col="37" road="34"/>
+  <hex row="10" col="38" road="40"/>
+  <hex row="10" col="39" terrain="1" road="146" name="Kerch" flag="19" owner="1">
+    <unit id="498" owner="1" flag="20" face="0" ent="7"/>
+  </hex>
+  <hex row="10" col="40" terrain="1" road="32" name="Kerch" flag="19" owner="1" victory="1">
+    <unit id="1823" owner="1" flag="20" face="13" exp="135" ent="7"/>
+  </hex>
+  <hex row="11" col="0" terrain="9"/>
+  <hex row="11" col="1" terrain="9" name="Sivash"/>
+  <hex row="11" col="2" terrain="9" name="Sivash"/>
+  <hex row="11" col="3" terrain="9" name="Sivash"/>
+  <hex row="11" col="5" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="17" terrain="9" name="Sea Of Azov"/>
+  <hex row="11" col="18" road="17"/>
+  <hex row="11" col="19" terrain="15" name="Akmashs'ke"/>
+  <hex row="11" col="20" terrain="15" name="Akmashs'ke"/>
+  <hex row="11" col="27">
+    <unit id="601" owner="1" flag="20" face="13" exp="110" ent="12"/>
+  </hex>
+  <hex row="11" col="28">
+    <unit id="504" owner="1" flag="20" face="12" exp="19" str="8"/>
+  </hex>
+  <hex row="11" col="29">
+    <unit id="504" owner="1" flag="20" face="12" exp="33" str="8"/>
+  </hex>
+  <hex row="11" col="30" road="130"/>
+  <hex row="11" col="36" road="130"/>
+  <hex row="11" col="39" road="49"/>
+  <hex row="11" col="40" terrain="12" name="Kerch [PORT]" flag="19" owner="1" supply="1"/>
+  <hex row="11" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="12" col="0" terrain="9"/>
+  <hex row="12" col="1" terrain="9" name="Sivash"/>
+  <hex row="12" col="2" terrain="9" name="Sivash"/>
+  <hex row="12" col="3" terrain="9" name="Sivash"/>
+  <hex row="12" col="6" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="7" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="15" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="16" terrain="9" name="Sea Of Azov"/>
+  <hex row="12" col="18" road="17"/>
+  <hex row="12" col="19">
+    <unit id="484" owner="1" flag="20" face="13" transport="528" exp="200" str="8"/>
+  </hex>
+  <hex row="12" col="23" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="12" col="37" road="34"/>
+  <hex row="12" col="38" road="34"/>
+  <hex row="12" col="39" road="33"/>
+  <hex row="12" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="12" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="12" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="13" col="0" terrain="9"/>
+  <hex row="13" col="1" terrain="9" name="Sivash"/>
+  <hex row="13" col="2" terrain="9" name="Sivash"/>
+  <hex row="13" col="3" terrain="9" name="Sivash"/>
+  <hex row="13" col="4" terrain="9" name="Sivash"/>
+  <hex row="13" col="5" terrain="9" name="Sivash"/>
+  <hex row="13" col="8" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="13" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="14" terrain="9" name="Sea Of Azov"/>
+  <hex row="13" col="18" road="17"/>
+  <hex row="13" col="21" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="13" col="22" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="13" col="24" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="13" col="26" terrain="3"/>
+  <hex row="13" col="27" terrain="3"/>
+  <hex row="13" col="33" road="34"/>
+  <hex row="13" col="34" road="40"/>
+  <hex row="13" col="35" road="130"/>
+  <hex row="13" col="36" road="34"/>
+  <hex row="13" col="38" road="18"/>
+  <hex row="13" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="13" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="14" col="1">
+    <unit id="174" owner="0" flag="8" face="3" exp="124"/>
+  </hex>
+  <hex row="14" col="2" terrain="9" name="Sivash"/>
+  <hex row="14" col="3" terrain="9" name="Sivash"/>
+  <hex row="14" col="4" terrain="9" name="Sivash"/>
+  <hex row="14" col="5" terrain="9" name="Sivash"/>
+  <hex row="14" col="6" terrain="9" name="Sivash"/>
+  <hex row="14" col="7" terrain="9" name="Sivash"/>
+  <hex row="14" col="9" terrain="9" name="Sea Of Azov"/>
+  <hex row="14" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="14" col="11" terrain="9" name="Sea Of Azov"/>
+  <hex row="14" col="12" terrain="9" name="Sea Of Azov"/>
+  <hex row="14" col="18" terrain="1" road="17" name="Lenine" flag="19" owner="1" victory="1">
+    <unit id="3288" owner="1" flag="20" face="12" transport="2581" exp="200" str="12" ldr="1"/>
+  </hex>
+  <hex row="14" col="19" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="14" col="20" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="14" col="23">
+    <unit id="1802" owner="1" flag="20" face="13" exp="150" str="7"/>
+  </hex>
+  <hex row="14" col="28">
+    <unit id="601" owner="1" flag="20" face="14" exp="100" ent="12"/>
+  </hex>
+  <hex row="14" col="29" road="40"/>
+  <hex row="14" col="31" terrain="1" road="34" name="Hornostaivka" flag="19" owner="1" victory="1">
+    <unit id="504" owner="1" flag="20" face="12" transport="528" exp="40"/>
+  </hex>
+  <hex row="14" col="32" road="34"/>
+  <hex row="14" col="38" terrain="1" road="17" name="Arshintsevo" flag="19" owner="1"/>
+  <hex row="14" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="14" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="14" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="15" col="1">
+    <unit id="169" owner="0" flag="8" face="3" exp="56"/>
+    <unit id="304" owner="0" flag="18" face="4" transport="2563" exp="100" str="8"/>
+  </hex>
+  <hex row="15" col="2">
+    <unit id="618" owner="0" flag="8" face="3" exp="200" str="7"/>
+    <unit id="307" owner="0" flag="18" face="4" exp="100"/>
+  </hex>
+  <hex row="15" col="4" terrain="9" name="Sivash"/>
+  <hex row="15" col="5" terrain="9" name="Sivash"/>
+  <hex row="15" col="6" terrain="9" name="Sivash"/>
+  <hex row="15" col="7" terrain="9" name="Sivash"/>
+  <hex row="15" col="9">
+    <unit id="504" owner="1" flag="20" face="13" exp="170" ent="12" str="8"/>
+  </hex>
+  <hex row="15" col="10" terrain="9" name="Sea Of Azov"/>
+  <hex row="15" col="11">
+    <unit id="504" owner="1" flag="20" face="13" exp="1" ent="12" str="5"/>
+  </hex>
+  <hex row="15" col="13">
+    <unit id="504" owner="1" flag="20" face="13" exp="46" str="7"/>
+  </hex>
+  <hex row="15" col="17" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="504" owner="1" flag="20" face="13" exp="9" str="9"/>
+  </hex>
+  <hex row="15" col="18" terrain="10" road="9" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="15" col="19" road="144"/>
+  <hex row="15" col="21" road="40">
+    <unit id="504" owner="1" flag="20" face="12" exp="10" str="7"/>
+  </hex>
+  <hex row="15" col="22">
+    <unit id="489" owner="1" flag="20" face="12" exp="267" str="7" ldr="1"/>
+  </hex>
+  <hex row="15" col="23" road="34"/>
+  <hex row="15" col="24" road="40"/>
+  <hex row="15" col="25" road="130"/>
+  <hex row="15" col="26" road="40"/>
+  <hex row="15" col="27" road="130"/>
+  <hex row="15" col="28" road="34"/>
+  <hex row="15" col="29" terrain="5">
+    <unit id="504" owner="1" flag="20" face="12" transport="528" exp="120" ent="5"/>
+  </hex>
+  <hex row="15" col="30" road="130"/>
+  <hex row="15" col="35" terrain="3"/>
+  <hex row="15" col="37" road="18"/>
+  <hex row="15" col="38" road="33"/>
+  <hex row="15" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="15" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="15" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="15" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="16" col="1">
+    <unit id="307" owner="0" flag="18" face="4" exp="100"/>
+  </hex>
+  <hex row="16" col="2">
+    <unit id="307" owner="0" flag="18" face="4" exp="100"/>
+  </hex>
+  <hex row="16" col="3" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4" exp="141" ldr="1"/>
+  </hex>
+  <hex row="16" col="4" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4" exp="135"/>
+  </hex>
+  <hex row="16" col="5" terrain="9" name="Sivash"/>
+  <hex row="16" col="6" terrain="9" name="Sivash"/>
+  <hex row="16" col="7">
+    <unit id="504" owner="1" flag="20" face="13" exp="140" ent="8" str="7"/>
+  </hex>
+  <hex row="16" col="8">
+    <unit id="920" owner="1" flag="20" face="13" exp="190" ent="8" str="7"/>
+  </hex>
+  <hex row="16" col="10" terrain="1" name="Semysotka" flag="19" owner="1" victory="1">
+    <unit id="920" owner="1" flag="20" face="13" exp="220" ent="8" str="8" ldr="1"/>
+  </hex>
+  <hex row="16" col="11">
+    <unit id="516" owner="1" flag="20" face="13" exp="195" str="7" ldr="1"/>
+  </hex>
+  <hex row="16" col="12">
+    <unit id="504" owner="1" flag="20" face="13" exp="21" ent="12" str="5"/>
+  </hex>
+  <hex row="16" col="13">
+    <unit id="504" owner="1" flag="20" face="13" exp="46" str="7"/>
+  </hex>
+  <hex row="16" col="14">
+    <unit id="504" owner="1" flag="20" face="13" exp="37" str="7"/>
+  </hex>
+  <hex row="16" col="15" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="16" col="16" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="504" owner="1" flag="20" face="13" exp="18" str="9"/>
+  </hex>
+  <hex row="16" col="17" road="34">
+    <unit id="504" owner="1" flag="20" face="13" exp="22" str="9"/>
+  </hex>
+  <hex row="16" col="18" road="40"/>
+  <hex row="16" col="19" road="131"/>
+  <hex row="16" col="20" road="34"/>
+  <hex row="16" col="22" terrain="1" road="130" name="Lenins'ke" flag="19" owner="1" victory="1">
+    <unit id="504" owner="1" flag="20" face="12" exp="14" str="7"/>
+  </hex>
+  <hex row="16" col="28">
+    <unit id="494" owner="1" flag="20" face="13" exp="100" ent="12"/>
+  </hex>
+  <hex row="16" col="29" terrain="5"/>
+  <hex row="16" col="36" terrain="3"/>
+  <hex row="16" col="37" terrain="3" road="17"/>
+  <hex row="16" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="16" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="16" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="16" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="17" col="1">
+    <unit id="669" owner="0" flag="18" face="4" transport="2566" exp="100" str="5"/>
+  </hex>
+  <hex row="17" col="2" deploy="0">
+    <unit id="304" owner="0" flag="18" face="5" transport="2571" exp="142" str="8"/>
+  </hex>
+  <hex row="17" col="3" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4" exp="142"/>
+  </hex>
+  <hex row="17" col="5">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="195" ent="8" str="6"/>
+  </hex>
+  <hex row="17" col="6">
+    <unit id="504" owner="1" flag="20" face="13" exp="4" ent="8" str="7"/>
+  </hex>
+  <hex row="17" col="7">
+    <unit id="504" owner="1" flag="20" face="13" exp="120" ent="6" str="7"/>
+  </hex>
+  <hex row="17" col="8">
+    <unit id="920" owner="1" flag="20" face="13" exp="160" ent="8" str="7"/>
+  </hex>
+  <hex row="17" col="9">
+    <unit id="504" owner="1" flag="20" face="13" exp="150" ent="8" str="9"/>
+  </hex>
+  <hex row="17" col="10">
+    <unit id="526" owner="1" flag="20" face="13" exp="135" str="6"/>
+  </hex>
+  <hex row="17" col="11">
+    <unit id="504" owner="1" flag="20" face="13" exp="80" ent="5" str="7"/>
+  </hex>
+  <hex row="17" col="12">
+    <unit id="504" owner="1" flag="20" face="13" exp="90" str="7"/>
+  </hex>
+  <hex row="17" col="13" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="17" col="14" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="17" col="15" road="34">
+    <unit id="504" owner="1" flag="20" face="14" exp="20"/>
+  </hex>
+  <hex row="17" col="16" terrain="1" road="34" name=" Luhove" flag="19" owner="1">
+    <unit id="504" owner="1" flag="20" face="13" exp="32"/>
+  </hex>
+  <hex row="17" col="17" terrain="3">
+    <unit id="680" owner="1" flag="20" face="13" exp="149" str="9"/>
+  </hex>
+  <hex row="17" col="18">
+    <unit id="484" owner="1" flag="20" face="13" transport="528" exp="141" str="7"/>
+  </hex>
+  <hex row="17" col="19" terrain="3"/>
+  <hex row="17" col="22" terrain="3"/>
+  <hex row="17" col="23" terrain="3"/>
+  <hex row="17" col="26" terrain="3"/>
+  <hex row="17" col="29" terrain="5"/>
+  <hex row="17" col="37" road="9"/>
+  <hex row="17" col="38" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="17" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="17" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="17" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="17" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="18" col="1" terrain="1" road="16" name="Kirovs'ke" flag="7" owner="0" victory="1" deploy="0">
+    <unit id="308" owner="0" flag="18" face="4" transport="313" exp="180" str="5"/>
+  </hex>
+  <hex row="18" col="2" deploy="0">
+    <unit id="2577" owner="0" flag="18" face="5" transport="314" exp="128" str="9"/>
+  </hex>
+  <hex row="18" col="3">
+    <unit id="115" owner="0" flag="8" face="4" exp="167"/>
+  </hex>
+  <hex row="18" col="5">
+    <unit id="504" owner="1" flag="20" face="11" carrier="2555" exp="145" ent="6" str="6"/>
+  </hex>
+  <hex row="18" col="6">
+    <unit id="504" owner="1" flag="20" face="13" exp="130" ent="8" str="6"/>
+  </hex>
+  <hex row="18" col="7">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="130" ent="8" str="7"/>
+  </hex>
+  <hex row="18" col="9">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="145" ent="8" str="9"/>
+  </hex>
+  <hex row="18" col="10">
+    <unit id="504" owner="1" flag="20" face="13" exp="3" ent="5" str="9"/>
+  </hex>
+  <hex row="18" col="11" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="504" owner="1" flag="20" face="13" exp="63" str="9"/>
+  </hex>
+  <hex row="18" col="12" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="504" owner="1" flag="20" face="13" exp="60" str="7"/>
+  </hex>
+  <hex row="18" col="13" road="18">
+    <unit id="680" owner="1" flag="20" face="13" exp="141" str="5"/>
+  </hex>
+  <hex row="18" col="14" road="34"/>
+  <hex row="18" col="16" terrain="3">
+    <unit id="504" owner="1" flag="20" face="13" exp="61"/>
+  </hex>
+  <hex row="18" col="17">
+    <unit id="1812" owner="1" flag="20" face="13" transport="529" exp="78"/>
+  </hex>
+  <hex row="18" col="18" terrain="3">
+    <unit id="474" owner="1" flag="20" face="4" transport="529" exp="90"/>
+  </hex>
+  <hex row="18" col="26">
+    <unit id="496" owner="1" flag="20" face="12" exp="90" str="8"/>
+  </hex>
+  <hex row="18" col="27">
+    <unit id="496" owner="1" flag="20" face="12" exp="90" str="8"/>
+  </hex>
+  <hex row="18" col="28" terrain="1" name="Marfovka" flag="19" owner="1">
+    <unit id="601" owner="1" flag="20" face="14" exp="110" ent="12"/>
+  </hex>
+  <hex row="18" col="29" terrain="3">
+    <unit id="486" owner="1" flag="20" face="13" transport="529" exp="99"/>
+  </hex>
+  <hex row="18" col="30" terrain="5"/>
+  <hex row="18" col="35" terrain="15" name="Tobechyts'ke"/>
+  <hex row="18" col="36" terrain="15" name="Tobechyts'ke"/>
+  <hex row="18" col="37" terrain="15" name="Tobechyts'ke"/>
+  <hex row="18" col="38" road="144"/>
+  <hex row="18" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="18" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="18" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="18" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="19" col="1" terrain="10" road="17" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="19" col="3">
+    <unit id="115" owner="0" flag="8" face="4" exp="156"/>
+  </hex>
+  <hex row="19" col="5" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="19" col="6">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="150" ent="6" str="7"/>
+  </hex>
+  <hex row="19" col="7" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="19" col="8">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="120" ent="8" str="7"/>
+  </hex>
+  <hex row="19" col="9" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="19" col="10" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="504" owner="1" flag="20" face="13" exp="40" str="9"/>
+  </hex>
+  <hex row="19" col="11">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="76" ent="2" str="9"/>
+  </hex>
+  <hex row="19" col="12">
+    <unit id="504" owner="1" flag="20" face="13" exp="79" str="8"/>
+  </hex>
+  <hex row="19" col="13" terrain="1" road="49" name="Batal'ne" flag="19" owner="1" victory="1">
+    <unit id="504" owner="1" flag="20" face="13" exp="1" str="8"/>
+  </hex>
+  <hex row="19" col="15">
+    <unit id="504" owner="1" flag="20" face="13" exp="28"/>
+  </hex>
+  <hex row="19" col="22" terrain="3"/>
+  <hex row="19" col="23" terrain="3"/>
+  <hex row="19" col="27">
+    <unit id="496" owner="1" flag="20" face="12" exp="90" str="8"/>
+  </hex>
+  <hex row="19" col="29" terrain="5"/>
+  <hex row="19" col="30" terrain="5"/>
+  <hex row="19" col="38" road="17"/>
+  <hex row="19" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="19" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="19" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="19" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="20" col="0" terrain="10"/>
+  <hex row="20" col="1" road="9">
+    <unit id="615" owner="0" flag="8" face="4" exp="124" str="4"/>
+  </hex>
+  <hex row="20" col="2" terrain="10" name="Pivnichno-Krymskyi Kanal">
+    <unit id="92" owner="0" flag="8" face="4" transport="158" exp="124"/>
+  </hex>
+  <hex row="20" col="3" terrain="10" road="34" name="Pivnichno-Krymskyi Kanal">
+    <unit id="77" owner="0" flag="8" face="4" transport="2398" exp="345" str="5"/>
+  </hex>
+  <hex row="20" col="4" terrain="10" road="40" name="Pivnichno-Krymskyi Kanal">
+    <unit id="115" owner="0" flag="8" face="4" exp="124"/>
+  </hex>
+  <hex row="20" col="5" road="136">
+    <unit id="115" owner="0" flag="8" face="4" exp="174"/>
+  </hex>
+  <hex row="20" col="6" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="20" col="7">
+    <unit id="110" owner="0" flag="8" face="4" exp="283" str="5"/>
+  </hex>
+  <hex row="20" col="8" terrain="10" name="Pivnichno-Krymskyi Kanal"/>
+  <hex row="20" col="9">
+    <unit id="115" owner="0" flag="8" face="4" exp="180" ent="2"/>
+  </hex>
+  <hex row="20" col="11" road="34"/>
+  <hex row="20" col="12" road="42">
+    <unit id="504" owner="1" flag="20" face="13" carrier="2555" exp="38" ent="2" str="8"/>
+  </hex>
+  <hex row="20" col="13" road="137">
+    <unit id="920" owner="1" flag="20" face="13" exp="143" str="8"/>
+  </hex>
+  <hex row="20" col="14">
+    <unit id="504" owner="1" flag="20" face="13" exp="51"/>
+  </hex>
+  <hex row="20" col="15">
+    <unit id="504" owner="1" flag="20" face="14" exp="67"/>
+  </hex>
+  <hex row="20" col="17" road="40"/>
+  <hex row="20" col="18">
+    <unit id="520" owner="1" flag="20" face="13" exp="100" str="6"/>
+  </hex>
+  <hex row="20" col="19" road="40"/>
+  <hex row="20" col="22" terrain="8"/>
+  <hex row="20" col="24" terrain="3"/>
+  <hex row="20" col="28">
+    <unit id="494" owner="1" flag="20" face="13" exp="110" ent="12"/>
+  </hex>
+  <hex row="20" col="37" road="42"/>
+  <hex row="20" col="38" road="49"/>
+  <hex row="20" col="39" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="20" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="20" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="20" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="21" col="2" road="130">
+    <unit id="110" owner="0" flag="8" face="4" exp="255" str="7" ldr="1"/>
+  </hex>
+  <hex row="21" col="5">
+    <unit id="92" owner="0" flag="8" face="4" transport="157" exp="196"/>
+  </hex>
+  <hex row="21" col="6" terrain="1" road="144" name="Vladyslavivka" flag="7" owner="0">
+    <unit id="115" owner="0" flag="8" face="4" exp="187"/>
+  </hex>
+  <hex row="21" col="7">
+    <unit id="115" owner="0" flag="8" face="4" exp="191"/>
+  </hex>
+  <hex row="21" col="8">
+    <unit id="115" owner="0" flag="8" face="4" exp="200" ent="2"/>
+  </hex>
+  <hex row="21" col="9">
+    <unit id="110" owner="0" flag="8" face="4" exp="230" ent="2" str="5"/>
+  </hex>
+  <hex row="21" col="10" road="18"/>
+  <hex row="21" col="12">
+    <unit id="920" owner="1" flag="20" face="13" carrier="2555" exp="128" ent="4" str="8"/>
+  </hex>
+  <hex row="21" col="13">
+    <unit id="920" owner="1" flag="20" face="13" exp="131" str="8"/>
+  </hex>
+  <hex row="21" col="14" road="136"/>
+  <hex row="21" col="15" road="130"/>
+  <hex row="21" col="16" road="34"/>
+  <hex row="21" col="17">
+    <unit id="520" owner="1" flag="20" face="12" exp="104" str="6"/>
+  </hex>
+  <hex row="21" col="18" road="130"/>
+  <hex row="21" col="19">
+    <unit id="504" owner="1" flag="20" face="12" exp="69"/>
+  </hex>
+  <hex row="21" col="20" road="136"/>
+  <hex row="21" col="21" road="136"/>
+  <hex row="21" col="29" terrain="8"/>
+  <hex row="21" col="33" terrain="1" road="2" name="Marivka" flag="19" owner="1"/>
+  <hex row="21" col="34" terrain="5" road="40"/>
+  <hex row="21" col="35" terrain="5" road="130"/>
+  <hex row="21" col="36" road="34"/>
+  <hex row="21" col="37" terrain="5"/>
+  <hex row="21" col="38" terrain="1" road="129" name="Zavitne" flag="19" owner="1" victory="1"/>
+  <hex row="21" col="39" terrain="5"/>
+  <hex row="21" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="21" col="41" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="21" col="42" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="22" col="2">
+    <unit id="1223" owner="0" flag="8" face="4" transport="158" exp="100" str="5"/>
+  </hex>
+  <hex row="22" col="3">
+    <unit id="115" owner="0" flag="8" face="6" exp="191"/>
+  </hex>
+  <hex row="22" col="4">
+    <unit id="110" owner="0" flag="8" face="6" exp="300" str="5"/>
+  </hex>
+  <hex row="22" col="6" road="17">
+    <unit id="597" owner="0" flag="8" face="4" transport="2398" exp="144" str="8"/>
+  </hex>
+  <hex row="22" col="8">
+    <unit id="92" owner="0" flag="8" face="4" transport="157" exp="130"/>
+  </hex>
+  <hex row="22" col="9" terrain="1" road="34" name="Prymorskyi" flag="7" owner="0">
+    <unit id="115" owner="0" flag="8" face="4" exp="180" ent="2"/>
+  </hex>
+  <hex row="22" col="10" road="33">
+    <unit id="77" owner="0" flag="8" face="4" transport="2398" exp="200" ent="2" str="5"/>
+  </hex>
+  <hex row="22" col="11" terrain="9" name="Black Sea"/>
+  <hex row="22" col="12" terrain="9" name="Black Sea"/>
+  <hex row="22" col="13" terrain="9" name="Black Sea"/>
+  <hex row="22" col="14" terrain="9" name="Black Sea"/>
+  <hex row="22" col="15" terrain="9" name="Black Sea"/>
+  <hex row="22" col="18">
+    <unit id="504" owner="1" flag="20" face="12" exp="26"/>
+  </hex>
+  <hex row="22" col="19">
+    <unit id="522" owner="1" flag="20" face="11" exp="150" str="6"/>
+  </hex>
+  <hex row="22" col="20">
+    <unit id="489" owner="1" flag="20" face="11" exp="149" str="5"/>
+  </hex>
+  <hex row="22" col="22" road="144"/>
+  <hex row="22" col="27" terrain="5"/>
+  <hex row="22" col="28" terrain="15" name="Uzunlars'ke"/>
+  <hex row="22" col="29" terrain="15" name="Uzunlars'ke"/>
+  <hex row="22" col="34" terrain="5"/>
+  <hex row="22" col="36" terrain="5"/>
+  <hex row="22" col="38" terrain="5"/>
+  <hex row="22" col="39" terrain="9" name="Black Sea"/>
+  <hex row="22" col="40" terrain="9" name="Kerchens'ka Protoka"/>
+  <hex row="22" col="41" terrain="9" name="Black Sea"/>
+  <hex row="22" col="42" terrain="9" name="Black Sea"/>
+  <hex row="23" col="2">
+    <unit id="77" owner="0" flag="8" face="6" transport="2398" exp="146" str="6"/>
+  </hex>
+  <hex row="23" col="3">
+    <unit id="115" owner="0" flag="8" face="6" exp="183"/>
+  </hex>
+  <hex row="23" col="4">
+    <unit id="115" owner="0" flag="8" face="6" exp="182"/>
+  </hex>
+  <hex row="23" col="6" road="25">
+    <unit id="115" owner="0" flag="8" face="7" transport="157" exp="172"/>
+  </hex>
+  <hex row="23" col="7" road="178">
+    <unit id="77" owner="0" flag="8" face="6" transport="2406" exp="255" str="6"/>
+  </hex>
+  <hex row="23" col="8" road="34"/>
+  <hex row="23" col="9" terrain="9" name="Black Sea"/>
+  <hex row="23" col="10" terrain="9" name="Black Sea"/>
+  <hex row="23" col="11" terrain="9" name="Black Sea"/>
+  <hex row="23" col="12" terrain="9" name="Black Sea"/>
+  <hex row="23" col="13" terrain="9" name="Black Sea"/>
+  <hex row="23" col="14" terrain="9" name="Black Sea"/>
+  <hex row="23" col="15" terrain="9" name="Black Sea"/>
+  <hex row="23" col="16" terrain="9" name="Black Sea"/>
+  <hex row="23" col="17" terrain="9" name="Black Sea"/>
+  <hex row="23" col="18">
+    <unit id="504" owner="1" flag="20" face="12" exp="46"/>
+  </hex>
+  <hex row="23" col="22" road="9"/>
+  <hex row="23" col="23" road="136"/>
+  <hex row="23" col="29" terrain="15" name="Uzunlars'ke"/>
+  <hex row="23" col="30" terrain="15" name="Uzunlars'ke"/>
+  <hex row="23" col="33" terrain="5"/>
+  <hex row="23" col="37" terrain="9" name="Black Sea"/>
+  <hex row="23" col="38" terrain="9" name="Black Sea"/>
+  <hex row="23" col="39" terrain="9" name="Black Sea"/>
+  <hex row="23" col="40" terrain="9" name="Black Sea"/>
+  <hex row="23" col="41" terrain="9" name="Black Sea"/>
+  <hex row="23" col="42" terrain="9" name="Black Sea"/>
+  <hex row="24" col="1" road="40">
+    <unit id="103" owner="0" flag="8" face="5" exp="290" str="8"/>
+  </hex>
+  <hex row="24" col="2">
+    <unit id="117" owner="0" flag="8" face="4" exp="290" str="7"/>
+  </hex>
+  <hex row="24" col="3">
+    <unit id="92" owner="0" flag="8" face="6" transport="157" exp="156"/>
+  </hex>
+  <hex row="24" col="6" road="19">
+    <unit id="117" owner="0" flag="8" face="5" exp="250" str="7"/>
+  </hex>
+  <hex row="24" col="7" road="33">
+    <unit id="110" owner="0" flag="8" face="5" transport="157" exp="292" str="7"/>
+  </hex>
+  <hex row="24" col="8" terrain="9" name="Black Sea"/>
+  <hex row="24" col="9" terrain="9" name="Black Sea"/>
+  <hex row="24" col="10" terrain="9" name="Black Sea"/>
+  <hex row="24" col="11" terrain="9" name="Black Sea"/>
+  <hex row="24" col="12" terrain="9" name="Black Sea"/>
+  <hex row="24" col="13" terrain="9" name="Black Sea"/>
+  <hex row="24" col="14" terrain="9" name="Black Sea"/>
+  <hex row="24" col="15" terrain="9" name="Black Sea"/>
+  <hex row="24" col="16" terrain="9" name="Black Sea"/>
+  <hex row="24" col="17" terrain="9" name="Black Sea"/>
+  <hex row="24" col="18" terrain="9" name="Black Sea"/>
+  <hex row="24" col="19" terrain="9" name="Black Sea"/>
+  <hex row="24" col="23" terrain="10" name="Katchyk"/>
+  <hex row="24" col="24" road="136"/>
+  <hex row="24" col="25" terrain="1" road="128" name="Chyernomorskye" flag="19" owner="1"/>
+  <hex row="24" col="27" terrain="9" name="Black Sea"/>
+  <hex row="24" col="32" terrain="5"/>
+  <hex row="24" col="33" terrain="5"/>
+  <hex row="24" col="34" terrain="9" name="Black Sea"/>
+  <hex row="24" col="35" terrain="9" name="Black Sea"/>
+  <hex row="24" col="36" terrain="9" name="Black Sea"/>
+  <hex row="24" col="37" terrain="9" name="Black Sea"/>
+  <hex row="24" col="38" terrain="9" name="Black Sea"/>
+  <hex row="24" col="39" terrain="9" name="Black Sea"/>
+  <hex row="24" col="40" terrain="9" name="Black Sea"/>
+  <hex row="24" col="41" terrain="9" name="Black Sea"/>
+  <hex row="24" col="42" terrain="9" name="Black Sea"/>
+  <hex row="25" col="0" road="2"/>
+  <hex row="25" col="1">
+    <unit id="102" owner="0" flag="8" face="5" exp="200" ldr="1"/>
+  </hex>
+  <hex row="25" col="2" road="136">
+    <unit id="137" owner="0" flag="8" face="4" exp="250" ldr="1"/>
+  </hex>
+  <hex row="25" col="3" road="146">
+    <unit id="3268" owner="0" flag="8" face="4" transport="157" exp="290"/>
+  </hex>
+  <hex row="25" col="4" road="40"/>
+  <hex row="25" col="5" terrain="2" road="130" flag="7" owner="0">
+    <unit id="1223" owner="0" flag="8" face="4" transport="157" exp="100" str="5"/>
+  </hex>
+  <hex row="25" col="6" terrain="1" road="35" name="Feodosiya" flag="7" owner="0" victory="1">
+    <unit id="92" owner="0" flag="8" face="5" transport="157" exp="152" str="9"/>
+  </hex>
+  <hex row="25" col="7" terrain="12" name="Feodosiya [PORT]">
+    <unit id="115" owner="0" flag="8" face="6" transport="157" exp="210"/>
+  </hex>
+  <hex row="25" col="8" terrain="9" name="Black Sea"/>
+  <hex row="25" col="9" terrain="9" name="Black Sea"/>
+  <hex row="25" col="10" terrain="9" name="Black Sea"/>
+  <hex row="25" col="11" terrain="9" name="Black Sea"/>
+  <hex row="25" col="12" terrain="9" name="Black Sea"/>
+  <hex row="25" col="13" terrain="9" name="Black Sea"/>
+  <hex row="25" col="14" terrain="9" name="Black Sea"/>
+  <hex row="25" col="15" terrain="9" name="Black Sea"/>
+  <hex row="25" col="16" terrain="9" name="Black Sea"/>
+  <hex row="25" col="17" terrain="9" name="Black Sea"/>
+  <hex row="25" col="18" terrain="9" name="Black Sea"/>
+  <hex row="25" col="19" terrain="9" name="Black Sea"/>
+  <hex row="25" col="21" terrain="3"/>
+  <hex row="25" col="26" terrain="9" name="Black Sea"/>
+  <hex row="25" col="27" terrain="9" name="Black Sea"/>
+  <hex row="25" col="28" terrain="9" name="Black Sea"/>
+  <hex row="25" col="29" terrain="9" name="Black Sea"/>
+  <hex row="25" col="30" terrain="9" name="Black Sea"/>
+  <hex row="25" col="31" terrain="9" name="Black Sea"/>
+  <hex row="25" col="32" terrain="9" name="Black Sea"/>
+  <hex row="25" col="33" terrain="9" name="Black Sea"/>
+  <hex row="25" col="34" terrain="9" name="Black Sea"/>
+  <hex row="25" col="35" terrain="9" name="Black Sea"/>
+  <hex row="25" col="36" terrain="9" name="Black Sea"/>
+  <hex row="25" col="37" terrain="9" name="Black Sea"/>
+  <hex row="25" col="38" terrain="9" name="Black Sea"/>
+  <hex row="25" col="39" terrain="9" name="Black Sea"/>
+  <hex row="25" col="40" terrain="9" name="Black Sea"/>
+  <hex row="25" col="41" terrain="9" name="Black Sea"/>
+  <hex row="25" col="42" terrain="9" name="Black Sea"/>
+  <hex row="26" col="1">
+    <unit id="110" owner="0" flag="8" face="5" transport="156" exp="294" str="5" ldr="1"/>
+  </hex>
+  <hex row="26" col="2" terrain="5">
+    <unit id="3268" owner="0" flag="8" face="5" transport="157" exp="290"/>
+  </hex>
+  <hex row="26" col="3" road="17"/>
+  <hex row="26" col="6" terrain="5"/>
+  <hex row="26" col="7" terrain="5"/>
+  <hex row="26" col="8" terrain="9" name="Black Sea"/>
+  <hex row="26" col="9" terrain="9" name="Black Sea"/>
+  <hex row="26" col="10" terrain="9" name="Black Sea"/>
+  <hex row="26" col="11" terrain="9" name="Black Sea"/>
+  <hex row="26" col="12" terrain="9" name="Black Sea"/>
+  <hex row="26" col="13" terrain="9" name="Black Sea"/>
+  <hex row="26" col="14" terrain="9" name="Black Sea"/>
+  <hex row="26" col="15" terrain="9" name="Black Sea"/>
+  <hex row="26" col="16" terrain="9" name="Black Sea"/>
+  <hex row="26" col="17" terrain="9" name="Black Sea"/>
+  <hex row="26" col="18" terrain="9" name="Black Sea"/>
+  <hex row="26" col="19" terrain="9" name="Black Sea"/>
+  <hex row="26" col="23" terrain="9" name="Black Sea"/>
+  <hex row="26" col="24" terrain="9" name="Black Sea"/>
+  <hex row="26" col="25" terrain="9" name="Black Sea"/>
+  <hex row="26" col="26" terrain="9" name="Black Sea"/>
+  <hex row="26" col="27" terrain="9" name="Black Sea"/>
+  <hex row="26" col="28" terrain="9" name="Black Sea"/>
+  <hex row="26" col="29" terrain="9" name="Black Sea"/>
+  <hex row="26" col="30" terrain="9" name="Black Sea"/>
+  <hex row="26" col="31" terrain="9" name="Black Sea"/>
+  <hex row="26" col="32" terrain="9" name="Black Sea"/>
+  <hex row="26" col="33" terrain="9" name="Black Sea"/>
+  <hex row="26" col="34" terrain="9" name="Black Sea"/>
+  <hex row="26" col="35" terrain="9" name="Black Sea"/>
+  <hex row="26" col="36" terrain="9" name="Black Sea"/>
+  <hex row="26" col="37" terrain="9" name="Black Sea"/>
+  <hex row="26" col="38" terrain="9" name="Black Sea"/>
+  <hex row="26" col="39" terrain="9" name="Black Sea"/>
+  <hex row="26" col="40" terrain="9" name="Black Sea"/>
+  <hex row="26" col="41" terrain="9" name="Black Sea"/>
+  <hex row="26" col="42" terrain="9" name="Black Sea"/>
+  <hex row="27" col="1" terrain="5"/>
+  <hex row="27" col="2" terrain="5"/>
+  <hex row="27" col="3" terrain="1" road="1" name="Koktebel" flag="7" owner="0"/>
+  <hex row="27" col="4" terrain="5"/>
+  <hex row="27" col="5" terrain="5"/>
+  <hex row="27" col="7" terrain="9" name="Black Sea"/>
+  <hex row="27" col="8" terrain="9" name="Black Sea"/>
+  <hex row="27" col="9" terrain="9" name="Black Sea"/>
+  <hex row="27" col="10" terrain="9" name="Black Sea"/>
+  <hex row="27" col="11" terrain="9" name="Black Sea"/>
+  <hex row="27" col="12" terrain="9" name="Black Sea"/>
+  <hex row="27" col="13" terrain="9" name="Black Sea"/>
+  <hex row="27" col="14" terrain="9" name="Black Sea"/>
+  <hex row="27" col="15" terrain="9" name="Black Sea"/>
+  <hex row="27" col="16" terrain="9" name="Black Sea"/>
+  <hex row="27" col="17" terrain="9" name="Black Sea"/>
+  <hex row="27" col="18" terrain="9" name="Black Sea"/>
+  <hex row="27" col="19" terrain="9" name="Black Sea"/>
+  <hex row="27" col="20" terrain="9" name="Black Sea"/>
+  <hex row="27" col="21" terrain="9" name="Black Sea"/>
+  <hex row="27" col="22" terrain="9" name="Black Sea"/>
+  <hex row="27" col="23" terrain="9" name="Black Sea"/>
+  <hex row="27" col="24" terrain="9" name="Black Sea"/>
+  <hex row="27" col="25" terrain="9" name="Black Sea"/>
+  <hex row="27" col="26" terrain="9" name="Black Sea"/>
+  <hex row="27" col="27" terrain="9" name="Black Sea"/>
+  <hex row="27" col="28" terrain="9" name="Black Sea"/>
+  <hex row="27" col="29" terrain="9" name="Black Sea"/>
+  <hex row="27" col="30" terrain="9" name="Black Sea"/>
+  <hex row="27" col="31" terrain="9" name="Black Sea"/>
+  <hex row="27" col="32" terrain="9" name="Black Sea"/>
+  <hex row="27" col="33" terrain="9" name="Black Sea"/>
+  <hex row="27" col="34" terrain="9" name="Black Sea"/>
+  <hex row="27" col="35" terrain="9" name="Black Sea"/>
+  <hex row="27" col="36" terrain="9" name="Black Sea"/>
+  <hex row="27" col="37" terrain="9" name="Black Sea"/>
+  <hex row="27" col="38" terrain="9" name="Black Sea"/>
+  <hex row="27" col="39" terrain="9" name="Black Sea"/>
+  <hex row="27" col="40" terrain="9" name="Black Sea"/>
+  <hex row="27" col="41" terrain="9" name="Black Sea"/>
+  <hex row="27" col="42" terrain="9" name="Black Sea"/>
+  <hex row="28" col="1" terrain="5"/>
+  <hex row="28" col="2" terrain="5"/>
+  <hex row="28" col="6" terrain="5"/>
+  <hex row="28" col="7" terrain="9" name="Black Sea"/>
+  <hex row="28" col="8" terrain="9" name="Black Sea"/>
+  <hex row="28" col="9" terrain="9" name="Black Sea"/>
+  <hex row="28" col="10" terrain="9" name="Black Sea"/>
+  <hex row="28" col="11" terrain="9" name="Black Sea"/>
+  <hex row="28" col="12" terrain="9" name="Black Sea"/>
+  <hex row="28" col="13" terrain="9" name="Black Sea"/>
+  <hex row="28" col="14" terrain="9" name="Black Sea"/>
+  <hex row="28" col="15" terrain="9" name="Black Sea"/>
+  <hex row="28" col="16" terrain="9" name="Black Sea"/>
+  <hex row="28" col="17" terrain="9" name="Black Sea"/>
+  <hex row="28" col="18" terrain="9" name="Black Sea"/>
+  <hex row="28" col="19" terrain="9" name="Black Sea"/>
+  <hex row="28" col="20" terrain="9" name="Black Sea"/>
+  <hex row="28" col="21" terrain="9" name="Black Sea"/>
+  <hex row="28" col="22" terrain="9" name="Black Sea"/>
+  <hex row="28" col="23" terrain="9" name="Black Sea"/>
+  <hex row="28" col="24" terrain="9" name="Black Sea"/>
+  <hex row="28" col="25" terrain="9" name="Black Sea"/>
+  <hex row="28" col="26" terrain="9" name="Black Sea"/>
+  <hex row="28" col="27" terrain="9" name="Black Sea"/>
+  <hex row="28" col="28" terrain="9" name="Black Sea"/>
+  <hex row="28" col="29" terrain="9" name="Black Sea"/>
+  <hex row="28" col="30" terrain="9" name="Black Sea"/>
+  <hex row="28" col="31" terrain="9" name="Black Sea"/>
+  <hex row="28" col="32" terrain="9" name="Black Sea"/>
+  <hex row="28" col="33" terrain="9" name="Black Sea"/>
+  <hex row="28" col="34" terrain="9" name="Black Sea"/>
+  <hex row="28" col="35" terrain="9" name="Black Sea"/>
+  <hex row="28" col="36" terrain="9" name="Black Sea"/>
+  <hex row="28" col="37" terrain="9" name="Black Sea"/>
+  <hex row="28" col="38" terrain="9" name="Black Sea"/>
+  <hex row="28" col="39" terrain="9" name="Black Sea"/>
+  <hex row="28" col="40" terrain="9" name="Black Sea"/>
+  <hex row="28" col="41" terrain="9" name="Black Sea"/>
+  <hex row="28" col="42" terrain="9" name="Black Sea"/>
+  <hex row="29" col="1" terrain="5"/>
+  <hex row="29" col="2" terrain="5"/>
+  <hex row="29" col="3" terrain="9" name="Black Sea"/>
+  <hex row="29" col="4" terrain="9" name="Black Sea"/>
+  <hex row="29" col="5" terrain="9" name="Black Sea"/>
+  <hex row="29" col="6" terrain="5"/>
+  <hex row="29" col="7" terrain="9" name="Black Sea"/>
+  <hex row="29" col="8" terrain="9" name="Black Sea"/>
+  <hex row="29" col="9" terrain="9" name="Black Sea"/>
+  <hex row="29" col="10" terrain="9" name="Black Sea"/>
+  <hex row="29" col="11" terrain="9" name="Black Sea"/>
+  <hex row="29" col="12" terrain="9" name="Black Sea"/>
+  <hex row="29" col="13" terrain="9" name="Black Sea"/>
+  <hex row="29" col="14" terrain="9" name="Black Sea"/>
+  <hex row="29" col="15" terrain="9" name="Black Sea"/>
+  <hex row="29" col="16" terrain="9" name="Black Sea"/>
+  <hex row="29" col="17" terrain="9" name="Black Sea"/>
+  <hex row="29" col="18" terrain="9" name="Black Sea"/>
+  <hex row="29" col="19" terrain="9" name="Black Sea"/>
+  <hex row="29" col="20" terrain="9" name="Black Sea"/>
+  <hex row="29" col="21" terrain="9" name="Black Sea"/>
+  <hex row="29" col="22" terrain="9" name="Black Sea"/>
+  <hex row="29" col="23" terrain="9" name="Black Sea"/>
+  <hex row="29" col="24" terrain="9" name="Black Sea"/>
+  <hex row="29" col="25" terrain="9" name="Black Sea"/>
+  <hex row="29" col="26" terrain="9" name="Black Sea"/>
+  <hex row="29" col="27" terrain="9" name="Black Sea"/>
+  <hex row="29" col="28" terrain="9" name="Black Sea"/>
+  <hex row="29" col="29" terrain="9" name="Black Sea"/>
+  <hex row="29" col="30" terrain="9" name="Black Sea"/>
+  <hex row="29" col="31" terrain="9" name="Black Sea"/>
+  <hex row="29" col="32" terrain="9" name="Black Sea"/>
+  <hex row="29" col="33" terrain="9" name="Black Sea"/>
+  <hex row="29" col="34" terrain="9" name="Black Sea"/>
+  <hex row="29" col="35" terrain="9" name="Black Sea"/>
+  <hex row="29" col="36" terrain="9" name="Black Sea"/>
+  <hex row="29" col="37" terrain="9" name="Black Sea"/>
+  <hex row="29" col="38" terrain="9" name="Black Sea"/>
+  <hex row="29" col="39" terrain="9" name="Black Sea"/>
+  <hex row="29" col="40" terrain="9" name="Black Sea"/>
+  <hex row="29" col="41" terrain="9" name="Black Sea"/>
+  <hex row="29" col="42" terrain="9" name="Black Sea"/>
+  <hex row="30" col="1" terrain="5"/>
+  <hex row="30" col="2" terrain="9" name="Black Sea"/>
+  <hex row="30" col="3" terrain="9" name="Black Sea"/>
+  <hex row="30" col="4" terrain="9" name="Black Sea"/>
+  <hex row="30" col="5" terrain="9" name="Black Sea"/>
+  <hex row="30" col="6" terrain="9" name="Black Sea"/>
+  <hex row="30" col="7" terrain="9" name="Black Sea"/>
+  <hex row="30" col="8" terrain="9" name="Black Sea"/>
+  <hex row="30" col="9" terrain="9" name="Black Sea"/>
+  <hex row="30" col="10" terrain="9" name="Black Sea"/>
+  <hex row="30" col="11" terrain="9" name="Black Sea"/>
+  <hex row="30" col="12" terrain="9" name="Black Sea"/>
+  <hex row="30" col="13" terrain="9" name="Black Sea"/>
+  <hex row="30" col="14" terrain="9" name="Black Sea"/>
+  <hex row="30" col="15" terrain="9" name="Black Sea"/>
+  <hex row="30" col="16" terrain="9" name="Black Sea"/>
+  <hex row="30" col="17" terrain="9" name="Black Sea"/>
+  <hex row="30" col="18" terrain="9" name="Black Sea"/>
+  <hex row="30" col="19" terrain="9" name="Black Sea"/>
+  <hex row="30" col="20" terrain="9" name="Black Sea"/>
+  <hex row="30" col="21" terrain="9" name="Black Sea"/>
+  <hex row="30" col="22" terrain="9" name="Black Sea"/>
+  <hex row="30" col="23" terrain="9" name="Black Sea"/>
+  <hex row="30" col="24" terrain="9" name="Black Sea"/>
+  <hex row="30" col="25" terrain="9" name="Black Sea"/>
+  <hex row="30" col="26" terrain="9" name="Black Sea"/>
+  <hex row="30" col="27" terrain="9" name="Black Sea"/>
+  <hex row="30" col="28" terrain="9" name="Black Sea"/>
+  <hex row="30" col="29" terrain="9" name="Black Sea"/>
+  <hex row="30" col="30" terrain="9" name="Black Sea"/>
+  <hex row="30" col="31" terrain="9" name="Black Sea"/>
+  <hex row="30" col="32" terrain="9" name="Black Sea"/>
+  <hex row="30" col="33" terrain="9" name="Black Sea"/>
+  <hex row="30" col="34" terrain="9" name="Black Sea"/>
+  <hex row="30" col="35" terrain="9" name="Black Sea"/>
+  <hex row="30" col="36" terrain="9" name="Black Sea"/>
+  <hex row="30" col="37" terrain="9" name="Black Sea"/>
+  <hex row="30" col="38" terrain="9" name="Black Sea"/>
+  <hex row="30" col="39" terrain="9" name="Black Sea"/>
+  <hex row="30" col="40" terrain="9" name="Black Sea"/>
+  <hex row="30" col="41" terrain="9" name="Black Sea"/>
+  <hex row="30" col="42" terrain="9" name="Black Sea"/>
+  <hex row="31" col="1" terrain="9" name="Black Sea"/>
+  <hex row="31" col="2" terrain="9" name="Black Sea"/>
+  <hex row="31" col="3" terrain="9" name="Black Sea"/>
+  <hex row="31" col="4" terrain="9" name="Black Sea"/>
+  <hex row="31" col="5" terrain="9" name="Koktebel"/>
+  <hex row="31" col="6" terrain="9" name="Black Sea"/>
+  <hex row="31" col="7" terrain="9" name="Black Sea"/>
+  <hex row="31" col="8" terrain="9" name="Black Sea"/>
+  <hex row="31" col="9" terrain="9" name="Black Sea"/>
+  <hex row="31" col="10" terrain="9" name="Black Sea"/>
+  <hex row="31" col="11" terrain="9" name="Black Sea"/>
+  <hex row="31" col="12" terrain="9" name="Black Sea"/>
+  <hex row="31" col="13" terrain="9" name="Black Sea"/>
+  <hex row="31" col="14" terrain="9" name="Black Sea"/>
+  <hex row="31" col="15" terrain="9" name="Black Sea"/>
+  <hex row="31" col="16" terrain="9" name="Black Sea"/>
+  <hex row="31" col="17" terrain="9" name="Black Sea"/>
+  <hex row="31" col="18" terrain="9" name="Black Sea"/>
+  <hex row="31" col="19" terrain="9" name="Black Sea"/>
+  <hex row="31" col="20" terrain="9" name="Black Sea"/>
+  <hex row="31" col="21" terrain="9" name="Black Sea"/>
+  <hex row="31" col="22" terrain="9" name="Black Sea"/>
+  <hex row="31" col="23" terrain="9" name="Black Sea"/>
+  <hex row="31" col="24" terrain="9" name="Black Sea"/>
+  <hex row="31" col="25" terrain="9" name="Black Sea"/>
+  <hex row="31" col="26" terrain="9" name="Black Sea"/>
+  <hex row="31" col="27" terrain="9" name="Black Sea"/>
+  <hex row="31" col="28" terrain="9" name="Black Sea"/>
+  <hex row="31" col="29" terrain="9" name="Black Sea"/>
+  <hex row="31" col="30" terrain="9" name="Black Sea"/>
+  <hex row="31" col="31" terrain="9" name="Black Sea"/>
+  <hex row="31" col="32" terrain="9" name="Black Sea"/>
+  <hex row="31" col="33" terrain="9" name="Black Sea"/>
+  <hex row="31" col="34" terrain="9" name="Black Sea"/>
+  <hex row="31" col="35" terrain="9" name="Black Sea"/>
+  <hex row="31" col="36" terrain="9" name="Black Sea"/>
+  <hex row="31" col="37" terrain="9" name="Black Sea"/>
+  <hex row="31" col="38" terrain="9" name="Black Sea"/>
+  <hex row="31" col="39" terrain="9" name="Black Sea"/>
+  <hex row="31" col="40" terrain="9" name="Black Sea"/>
+  <hex row="31" col="41" terrain="9" name="Black Sea"/>
+  <hex row="31" col="42" terrain="9" name="Black Sea"/>
+  <hex row="32" col="1" terrain="9" name="Black Sea"/>
+  <hex row="32" col="2" terrain="9" name="Black Sea"/>
+  <hex row="32" col="3" terrain="9" name="Black Sea"/>
+  <hex row="32" col="4" terrain="9" name="Black Sea"/>
+  <hex row="32" col="5" terrain="9" name="Black Sea"/>
+  <hex row="32" col="6" terrain="9" name="Black Sea"/>
+  <hex row="32" col="7" terrain="9" name="Black Sea"/>
+  <hex row="32" col="8" terrain="9" name="Black Sea"/>
+  <hex row="32" col="9" terrain="9" name="Black Sea"/>
+  <hex row="32" col="10" terrain="9" name="Black Sea"/>
+  <hex row="32" col="11" terrain="9" name="Black Sea"/>
+  <hex row="32" col="12" terrain="9" name="Black Sea"/>
+  <hex row="32" col="13" terrain="9" name="Black Sea"/>
+  <hex row="32" col="14" terrain="9" name="Black Sea"/>
+  <hex row="32" col="15" terrain="9" name="Black Sea"/>
+  <hex row="32" col="16" terrain="9" name="Black Sea"/>
+  <hex row="32" col="17" terrain="9" name="Black Sea"/>
+  <hex row="32" col="18" terrain="9" name="Black Sea"/>
+  <hex row="32" col="19" terrain="9" name="Black Sea"/>
+  <hex row="32" col="20" terrain="9" name="Black Sea"/>
+  <hex row="32" col="21" terrain="9" name="Black Sea"/>
+  <hex row="32" col="22" terrain="9" name="Black Sea"/>
+  <hex row="32" col="23" terrain="9" name="Black Sea"/>
+  <hex row="32" col="24" terrain="9" name="Black Sea"/>
+  <hex row="32" col="25" terrain="9" name="Black Sea"/>
+  <hex row="32" col="26" terrain="9" name="Black Sea"/>
+  <hex row="32" col="27" terrain="9" name="Black Sea"/>
+  <hex row="32" col="28" terrain="9" name="Black Sea"/>
+  <hex row="32" col="29" terrain="9" name="Black Sea"/>
+  <hex row="32" col="30" terrain="9" name="Black Sea"/>
+  <hex row="32" col="31" terrain="9" name="Black Sea"/>
+  <hex row="32" col="32" terrain="9" name="Black Sea"/>
+  <hex row="32" col="33" terrain="9" name="Black Sea"/>
+  <hex row="32" col="34" terrain="9" name="Black Sea"/>
+  <hex row="32" col="35" terrain="9" name="Black Sea"/>
+  <hex row="32" col="36" terrain="9" name="Black Sea"/>
+  <hex row="32" col="37" terrain="9" name="Black Sea"/>
+  <hex row="32" col="38" terrain="9" name="Black Sea"/>
+  <hex row="32" col="39" terrain="9" name="Black Sea"/>
+  <hex row="32" col="40" terrain="9" name="Black Sea"/>
+  <hex row="32" col="41" terrain="9" name="Black Sea"/>
+  <hex row="32" col="42" terrain="9" name="Black Sea"/>
+  <hex row="33" col="1" terrain="9" name="Black Sea"/>
+  <hex row="33" col="2" terrain="9" name="Black Sea"/>
+  <hex row="33" col="3" terrain="9" name="Black Sea"/>
+  <hex row="33" col="4" terrain="9" name="Black Sea"/>
+  <hex row="33" col="5" terrain="9" name="Black Sea"/>
+  <hex row="33" col="6" terrain="9" name="Black Sea"/>
+  <hex row="33" col="7" terrain="9" name="Black Sea"/>
+  <hex row="33" col="8" terrain="9" name="Black Sea"/>
+  <hex row="33" col="9" terrain="9" name="Black Sea"/>
+  <hex row="33" col="10" terrain="9" name="Black Sea"/>
+  <hex row="33" col="11" terrain="9" name="Black Sea"/>
+  <hex row="33" col="12" terrain="9" name="Black Sea"/>
+  <hex row="33" col="13" terrain="9" name="Black Sea"/>
+  <hex row="33" col="14" terrain="9" name="Black Sea"/>
+  <hex row="33" col="15" terrain="9" name="Black Sea"/>
+  <hex row="33" col="16" terrain="9" name="Black Sea"/>
+  <hex row="33" col="17" terrain="9" name="Black Sea"/>
+  <hex row="33" col="18" terrain="9" name="Black Sea"/>
+  <hex row="33" col="19" terrain="9" name="Black Sea"/>
+  <hex row="33" col="20" terrain="9" name="Black Sea"/>
+  <hex row="33" col="21" terrain="9" name="Black Sea"/>
+  <hex row="33" col="22" terrain="9" name="Black Sea"/>
+  <hex row="33" col="23" terrain="9" name="Black Sea"/>
+  <hex row="33" col="24" terrain="9" name="Black Sea"/>
+  <hex row="33" col="25" terrain="9" name="Black Sea"/>
+  <hex row="33" col="26" terrain="9" name="Black Sea"/>
+  <hex row="33" col="27" terrain="9" name="Black Sea"/>
+  <hex row="33" col="28" terrain="9" name="Black Sea"/>
+  <hex row="33" col="29" terrain="9" name="Black Sea"/>
+  <hex row="33" col="30" terrain="9" name="Black Sea"/>
+  <hex row="33" col="31" terrain="9" name="Black Sea"/>
+  <hex row="33" col="32" terrain="9" name="Black Sea"/>
+  <hex row="33" col="33" terrain="9" name="Black Sea"/>
+  <hex row="33" col="34" terrain="9" name="Black Sea"/>
+  <hex row="33" col="35" terrain="9" name="Black Sea"/>
+  <hex row="33" col="36" terrain="9" name="Black Sea"/>
+  <hex row="33" col="37" terrain="9" name="Black Sea"/>
+  <hex row="33" col="38" terrain="9" name="Black Sea"/>
+  <hex row="33" col="39" terrain="9" name="Black Sea"/>
+  <hex row="33" col="40" terrain="9" name="Black Sea"/>
+  <hex row="33" col="41" terrain="9" name="Black Sea"/>
+  <hex row="33" col="42" terrain="9" name="Black Sea"/>
+  <hex row="34" col="0" terrain="9"/>
+  <hex row="34" col="1" terrain="9" name="Black Sea"/>
+  <hex row="34" col="2" terrain="9" name="Black Sea"/>
+  <hex row="34" col="3" terrain="9" name="Black Sea"/>
+  <hex row="34" col="4" terrain="9" name="Black Sea"/>
+  <hex row="34" col="5" terrain="9" name="Black Sea"/>
+  <hex row="34" col="6" terrain="9" name="Black Sea"/>
+  <hex row="34" col="7" terrain="9" name="Black Sea"/>
+  <hex row="34" col="8" terrain="9" name="Black Sea"/>
+  <hex row="34" col="9" terrain="9" name="Black Sea"/>
+  <hex row="34" col="10" terrain="9" name="Black Sea"/>
+  <hex row="34" col="11" terrain="9" name="Black Sea"/>
+  <hex row="34" col="12" terrain="9" name="Black Sea"/>
+  <hex row="34" col="13" terrain="9" name="Black Sea"/>
+  <hex row="34" col="14" terrain="9" name="Black Sea"/>
+  <hex row="34" col="15" terrain="9" name="Black Sea"/>
+  <hex row="34" col="16" terrain="9" name="Black Sea"/>
+  <hex row="34" col="17" terrain="9" name="Black Sea"/>
+  <hex row="34" col="18" terrain="9" name="Black Sea"/>
+  <hex row="34" col="19" terrain="9" name="Black Sea"/>
+  <hex row="34" col="20" terrain="9" name="Black Sea"/>
+  <hex row="34" col="21" terrain="9" name="Black Sea"/>
+  <hex row="34" col="22" terrain="9" name="Black Sea"/>
+  <hex row="34" col="23" terrain="9" name="Black Sea"/>
+  <hex row="34" col="24" terrain="9" name="Black Sea"/>
+  <hex row="34" col="25" terrain="9" name="Black Sea"/>
+  <hex row="34" col="26" terrain="9" name="Black Sea"/>
+  <hex row="34" col="27" terrain="9" name="Black Sea"/>
+  <hex row="34" col="28" terrain="9" name="Black Sea"/>
+  <hex row="34" col="29" terrain="9" name="Black Sea"/>
+  <hex row="34" col="30" terrain="9" name="Black Sea"/>
+  <hex row="34" col="31" terrain="9" name="Black Sea"/>
+  <hex row="34" col="32" terrain="9" name="Black Sea"/>
+  <hex row="34" col="33" terrain="9" name="Black Sea"/>
+  <hex row="34" col="34" terrain="9" name="Black Sea"/>
+  <hex row="34" col="35" terrain="9" name="Black Sea"/>
+  <hex row="34" col="36" terrain="9" name="Black Sea"/>
+  <hex row="34" col="37" terrain="9" name="Black Sea"/>
+  <hex row="34" col="38" terrain="9" name="Black Sea"/>
+  <hex row="34" col="39" terrain="9" name="Black Sea"/>
+  <hex row="34" col="40" terrain="9" name="Black Sea"/>
+  <hex row="34" col="41" terrain="9" name="Black Sea"/>
+  <hex row="34" col="42" terrain="9" name="Black Sea"/>
+</map>

@@ -1,0 +1,1366 @@
+[
+ {
+  "id": 0, 
+  "intro": "Panzer-Verbaende Ostpreussen Sep1939<br><br>In July 1939, the OKH decided to create a unique unit in preparation for the assault on Poland. This unit was officially designated as Panzer-Verbaende Ostpreussen, better known as Panzer Division Kempf. The division was composed of both Heer and Waffen SS units.<br><br>The official explanation for moving the unit into Ostpreussen in July 1939 was that it would participate at the Tannenberg Celebration to commemorate Hindenberg's victory at the Tannenberg in WW1.<br><br>After negotiations between Germany and Poland broke down, Pz Division Kempf units crossed the border into Poland on August 26th 06h00. At the last minute the order to attack was postponed and it wasn't until 09h00 that all the units had been recalled to their assembly points. <br><br>Negotiations to prevent hostilities between Poland and Germany fell through for a final time on August 30th and German units crossed the border a second time on September 1st 04h45.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Panzer-Verbaende Ostpreussen Brilliant Victory<br><br>Herr General!  Very good work!  The crisis is over, and the Polish Army has collapsed.  Once you led us past the river, nothing could stop our panzers.  Congratulations.<br><br>HISTORY<br>Panzer Division Kempf fought more battles with the Poles at Rozan, Lomza, Kliczym and Modlin. The division was disbanded after the Polish campaign at a farewell parade near Neidenburg at October 7th 1939.<br><br>"
+   }, 
+   "lose": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Panzer-Verbaende Ostpreussen Loss<br><br>Your less than spectacular performance has motivated a reevaluation of your usefulness.   Some of the enemy has retreated into Romania.  The British and French have now declared war on Germany.  If we did not need every man to fight, your career would be over!<br><br>HISTORY<br>Panzer Division Kempf fought more battles with the Poles at Rozan, Lomza, Kliczym and Modlin. The division was disbanded after the Polish campaign at a farewell parade near Neidenburg at October 7th 1939."
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Panzer-Verbaende Ostpreussen Tactical Victory<br><br>Herr General. The crisis is over, and the Polish Army has collapsed.   Unfortunately, some of the enemy has retreated into Romania.  No doubt, we will encounter these tough and vengeful troops again.  There are other repercussions as well.  The British and French have now declared war on Germany. <br><br>HISTORY<br>Panzer Division Kempf fought more battles with the Poles at Rozan, Lomza, Kliczym and Modlin. The division was disbanded after the Polish campaign at a farewell parade near Neidenburg at October 7th 1939."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Panzer-Verbaende Ostpreussen Victory<br><br>Herr General!  Good work!  The crisis is over, and the Polish Army has collapsed.  Once you led us past the river, nothing could stop our panzers.  Congratulations.<br><br>HISTORY<br>Panzer Division Kempf fought more battles with the Poles at Rozan, Lomza, Kliczym and Modlin. The division was disbanded after the Polish campaign at a farewell parade near Neidenburg at October 7th 1939."
+   }
+  }, 
+  "scenario": "drpzop01.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Student May1940<br><br>With the Polish problem solved, we are now looking at the West: The Netherlands, Belgium and France.<br>We had to abandon our original plan 'Fall Gelb' after one of our Fallschirmguys lost the plans to the Belgians when his plane crashed. The new Sichelschnitt plan is much more daring, shifting the focus of the attack from The Netherlands and Belgium to the South of Belgium: the supposedly impassable Ardennes. This leaves the forces that need to capture the Netherlands much weaker than originally planned. Generalleutnant Student will land his FliegerKorps XI Fliegerdivision 7 and Luftlandedivision 22 near The Hague, Rotterdam and the bridges at Dordrecht and Moerdijk. Your task is to follow Generalleutnant Schmidt's 9th Panzerdivision through the South of the Netherlands. Once your forces arrive as West as Moerdijk, turn North to the Hague and follow the path cleared by Student's troops.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Student May1940 Brilliant Victory<br><br>Student's troops did such a great job, capturing the Dutch government and Queen Wilhelmina that the Dutch capitulated before the 9th Panzer division and your troops came to the scene. <br><br>HISTORY<br>After 4 days of fighting, Goering decided to force the Dutch in Rotterdam to surrender by bombing the city. When Generalleutnant Schmidt (9th PzDiv) reached an agreement on the terms of surrender of Rotterdam with it's Dutch commander, it was too late to recall all bombers and Rotterdam city center got hit very hard. The same day, Dutch General Winkelman decided to have all equipment destroyed in preparation for the overall Dutch surrender.<br>On that May 14th 1940 General Student was hit in the head by a bullet from an SS sniper in Rotterdam. You and your SS friends are very lucky he survived.<br>"
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Student May1940 Loss<br><br>Your forces arrived at The Hague too late to capture the Dutch government and Queen Wilhelmina - they managed to escape to England. Fortunately the Dutch have capitulated after the center of Rotterdam was bombed into oblivion by the He-111s of Kampfgeschwader 4. <br><br>HISTORY<br>After 4 days of fighting, Goering decided to force the Dutch in Rotterdam to surrender by bombing the city. When Generalleutnant Schmidt (9th PzDiv) reached an agreement on the terms of surrender of Rotterdam with it's Dutch commander, it was too late to recall all bombers and Rotterdam city center got hit very hard. The same day, Dutch General Winkelman decided to have all equipment destroyed in preparation for the overall Dutch surrender.<br>On that May 14th 1940 General Student was hit in the head by a bullet from an SS sniper in Rotterdam. You and your SS friends are very lucky he survived.<br>"
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Student May1940 Victory<br><br>The Dutch government and Queen Wilhelmina managed to escape to England, but the Dutch capitulated after a few days of fighting. Congratulations.<br><br>HISTORY<br>After 4 days of fighting, Goering decided to force the Dutch in Rotterdam to surrender by bombing the city. When Generalleutnant Schmidt (9th PzDiv) reached an agreement on the terms of surrender of Rotterdam with it's Dutch commander, it was too late to recall all bombers and Rotterdam city center got hit very hard. The same day, Dutch General Winkelman decided to have all equipment destroyed in preparation for the overall Dutch surrender.<br>On that May 14th 1940 General Student was hit in the head by a bullet from an SS sniper in Rotterdam. You and your SS friends are very lucky he survived."
+   }, 
+   "victory": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Student May1940 Victory<br><br>The Dutch government and Queen Wilhelmina managed to escape to England, but the Dutch capitulated after a few days of fighting. Congratulations.  <br><br>HISTORY<br>After 4 days of fighting, Goering decided to force the Dutch in Rotterdam to surrender by bombing the city. When Generalleutnant Schmidt (9th PzDiv) reached an agreement on the terms of surrender of Rotterdam with it's Dutch commander, it was too late to recall all bombers and Rotterdam city center got hit very hard. The same day, Dutch General Winkelman decided to have all equipment destroyed in preparation for the overall Dutch surrender.<br>On that May 14th 1940 General Student was hit in the head by a bullet from an SS sniper in Rotterdam. You and your SS friends are very lucky he survived.<br>"
+   }
+  }, 
+  "scenario": "drstu02.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "French 7th Army drive North May 1940<br><br>The French 7th Army has crossed the Belgian-Dutch border. Their 1st Light Mechanized Division is rushing to Moerdijk. If they capture the Moerdijk bridge, your forces are trapped North of the rivers. Hurry your SS forces and the 9th Pz Division South to push the frogs back into Belgium.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "French 7th Army drive North BV<br><br>Great job general. The French have retreated back to Belgium. Continue the pursuit and do not give them any rest.<br>"
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "French 7th Army drive North L<br><br>French forces are still active in the Netherlands. You will spend the coming weeks mopping up pockets of French resistance. It are other forces that will continue the drive into Belgium and France.<br>"
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "French 7th Army drive North TV<br><br>We had expected you to move faster. Move your troops South. They are needed in the North of France where we have encircled a large number of enemy forces.<br>"
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "French 7th Army drive North V<br><br>Great job general. The French have retreated back to Belgium. Continue the pursuit and do not give them any rest.<br>"
+   }
+  }, 
+  "scenario": "dr9fr03.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Crossing the Schelde May 1940<br><br>Take the city of Antwerp and advance South West. There is no time for sightseeing, this is Blitzkrieg warfare! Opposite you are the remnants of the Belgian Army and the retreating French 7th Army that was rushing into The Netherlands only a few days ago. The Belgian King has ordered 2 infantry divisions to prevent you from crossing the Schelde river. Rumor is that a cavalry division is reorganizing behind the front. The bulk of the French forces comes from the 9th Mechanized Division. <br><br>PLAYER ORDERS:<br>- Take all victory hexes.<br>- If playing with restrictions: You can deploy the following core units: 1FlaK+ 3TowedAty+ 3Inf+ 0Pio+ 0KradInf+ 1Recon.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Crossing the Schelde May1940 BV<br><br>Supurb performance Herr General, textbook Blitkrieg. The Belgian King has contacted us to discuss terms of surrender. The French 7th Army has been surrounded and will give up soon. We are getting in orders to move to a different sector of the front.<br><br>"
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Crossing the Schelde May1940 L<br><br>Is this what you call Blitzkrieg, Herr General? Your troops are put in reserve. You would better hope they can take part in a successful action before France capitulates or this might be the end of the Waffen SS.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Crossing the Schelde May1940 TV<br><br>The Belgian King has contacted us to discuss terms of surrender. Because of your slow advance, the French 7th Army has escaped South before it could be surrounded. Prepare to get orders to move to a different sector of the front."
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Crossing the Schelde May1940 V<br><br>The Belgian King has contacted us to discuss terms of surrender. The French 7th Army has been surrounded and will give up soon. We are getting in orders to move to a different sector of the front."
+   }
+  }, 
+  "scenario": "drbelg04.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Maginot line garrison June 1940<br><br>The British Expeditionary Force has been evacuated from the mainland at Dunkirk. The best divisions of the French Army have surrendered or are in disarray and on the run. Our Panzers are in pursuit heading South. Your forces are ordered to take part in mopping up the Maginot line - a complex of fortifications along the German-French border. You will attack the fortresses from the rear while 2 infantry divisions of the 7th Armee / Armee Gruppe C get the difficult task of attacking the fortresses head-on. Orders are to capture the command posts of the 2 big fortresses in the area. Das Oberkommando has asked you to prevent French troops from fleeing into Switzerland. Brandenburg Kommandos are on site to recon the area.<br><br>PLAYER ORDERS:<br>- Take all victory hexes and prevent French troops from crossing the French-Swiss border.<br>- If playing with restrictions: You can deploy the following core units: 1FlaK+ 3TowedAty+ 3Inf+ 0Pio+ 0KradInf+ 1Recon.<br>- Depending on your flag settings, the Swiss border is represented by Swiss or Yugoslav flags.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Maginot line garrison June1940 BV<br><br>France surrenders! We accomplished in 6 weeks what could not be done in 4 years 25 years earlier. German troops will parade on the Champs Elysees.<br>Because of your outstanding performance, you get control over the complete SS-V Division - Standarte Der Fuehrer, Standarte Deutschland, Standarte Germania and their supporting units.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can expand your core with 6 SS Infantry Battalions, a Pioniere Battalion and an Anti Tank (AT) Battalion - all in trucks - to: 1 FlaK, 3 Aty, 9 Inf, 1 Pio, 1 Recon, 1 Towed AT.<br><br>"
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2250, 
+    "text": "Maginot line garrison June1940 L<br><br>Fortunately your failure here did not influence the outcome of this campaign. France surrenders! We accomplished in 6 weeks what could not be done in 4 years 25 years earlier. German troops will parade on the Champs Elysees. <br>Because of your earlier performance you can keep your command. You even get control over the complete SS-V Division - Standarte Der Fuehrer, Standarte Deutschland, Standarte Germania and their supporting units.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can expand your core with 6 Infantry Battalions, a Pioniere Battalion and an Anti Tank (AT) Battalion to: 1 FlaK, 3 Aty, 9 Inf, 1 Pio, 1 Recon, 1 Towed AT.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Maginot line garrison June1940 TV<br><br>France surrenders! We accomplished in 6 weeks what could not be done in 4 years 25 years earlier. German troops will parade on the Champs Elysees.<br>Because of your good performance in the Western campaign, you get control over the complete SS-V Division - Standarte Der Fuehrer, Standarte Deutschland, Standarte Germania and their supporting units.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can expand your core with 6 Infantry Battalions, a Pioniere Battalion and an Anti Tank (AT) Battalion to: 1 FlaK, 3 Aty, 9 Inf, 1 Pio, 1 Recon, 1 Towed AT.<br><br>"
+   }, 
+   "victory": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Maginot line garrison June1940 V<br><br>France surrenders! We accomplished in 6 weeks what could not be done in 4 years 25 years earlier. German troops will parade on the Champs Elysees.<br>Because of your good performance, you get control over the complete SS-V Division - Standarte Der Fuehrer, Standarte Deutschland, Standarte Germania and their supporting units.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can expand your core with 6 Infantry Battalions, a Pioniere Battalion and an Anti Tank (AT) Battalion to: 1 FlaK, 3 Aty, 9 Inf, 1 Pio, 1 Recon, 1 Towed AT.<br>"
+   }
+  }, 
+  "scenario": "drmagi05.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "Operation Marita April 1941<br>Operation Marita, the plan to capture Greece has been complicated after a coup d'etat in Yugoslavia. This coup has ousted the government we signed a protocol with 2 days earlier - which is 2 weeks ago now - a protocol that brought Yugoslavia in the Tripartite Pact. The new government has canceled the protocol and Hitler thinks they will sooner or later join the Allies. He has ordered our troops to not only invade Greece as planned, but Yugoslavia as well. The task of your troops - your division is renamed SS-Division Das Reich - is to cross the border from Rumania into Yugoslavia and to capture Belgrade. The Heer does not want the Waffen SS to capture Belgrade and has added the GrossDeutschland Regiment to your troops. They have also ordered the 8th Panzer division to move on Belgrade from Hungary and has given similar orders to the 11th Panzer Division stationed in Bulgaria.<br><br>PLAYER ORDERS:<br>- Capture the Belgrade Victory Hex<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Marita April1941 BV<br>Congratulations! It was the Waffen SS that captured Belgrade and not Heer troops. One of your SS patrols entered the city center and has hoisted the Nazi flag atop the German legation. About two hours later the mayor of Belgrade officially handed over the city to Obersturmfuehrer Klingenberg who was accompanied by a representative of the German Foreign Ministry, previously interned by the Yugoslavs. <br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can add a Sturmgeschuetz Anti Tank unit, an artillery unit (no heavier than 105mm) and a Krad Infanterie unit to your core forces for the upcoming invasion of Russia.<br><br>"
+   }, 
+   "lose": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1100, 
+    "text": "Operation Marita April1941 L<br>What a pitiful performance Herr General. Von Kleist will have to divert more troops to the North to capture Belgrade now. This will delay the next phase of our invasion of Greece. The plan to capture Crete has been given up already in order not to further delay the invasion of Russia.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can add a Sturmgeschuetz Anti Tank unit, an artillery unit (no heavier than 105mm) and a Krad Infanterie unit to your core forces for the upcoming invasion of Russia.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Marita April1941 TV<br> <br>We heared these messages were received on the radio:<br>During the night the 8th Panzer Division drove into Belgrade, occupied the center of the city, and hoisted the Swastika flag.<br>With General von Kleist at the head, the 11th Panzer Division has been rolling into the capital since 0632.<br>Most important is Belgrade is captured, but we hoped your SS forces would be able to accomplish this task on their own, without the help from 2 Panzer divisions.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can add a Sturmgeschuetz Anti Tank unit, an artillery unit (no heavier than 105mm) and a Krad Infanterie unit to your core forces for the upcoming invasion of Russia.<br>"
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Marita April1941 V<br>Congratulations! One of your SS patrols entered the city center and has hoisted the Nazi flag atop the German legation. About two hours later the mayor of Belgrade officially handed over the city to Obersturmfuehrer Klingenberg who was accompanied by a representative of the German Foreign Ministry, previously interned by the Yugoslavs. <br><br>At the same time these messages were received on the radio:<br>During the night the 8th Panzer Division drove into Belgrade, occupied the center of the city, and hoisted the Swastika flag.<br>With General von Kleist at the head, the 11th Panzer Division has been rolling into the capital since 0632.<br><br>PLAYER ORDERS:<br>- If playing with restrictions: You can add a Sturmgeschuetz Anti Tank unit, an artillery unit (no heavier than 105mm) and a Krad Infanterie unit to your core forces for the upcoming invasion of Russia.<br>"
+   }
+  }, 
+  "scenario": "drmari07.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "Smolensk-Crossing the Dnepr July 1941<br>Your Das Reich division is part of Guderian's 2nd Panzer Gruppe. Your troops have covered more than 700km in a bit over 2 weeks since Operation Barbarossa started but have not seen much action yet.<br>Guderian has decided to not wait for the infantry divisions and to cross the Dnepr with only his mobile troops because General Hoth's 3rd Panzer Gruppe has already done the same to the north of us. Both Gruppen could meet at Smolensk thereby trapping more Russians in a new pocket. 10Pz Division will cross the Dnepr North of Mogilev with your division and the GrossDeutschland Infantry Regiment covering the flanks. The first goals are Kopyr and Gorki.<br><br>PLAYER ORDERS:<br>- Capture all Victory Hexes.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Smolensk-Crossing the Dnepr July1941 BV<br>Congratulations, you have successfully crossed the Dnepr and have penetrated the Russian defenses. Gather your forces for the drive on Smolensk.<br>"
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Smolensk-Crossing the Dnepr July1941 BV<br>Your offensive was a complete disaster. We will have to wait for the infantry divisions to catch up before we can try another Dnepr crossing."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Smolensk-Crossing the Dnepr July1941 TV<br>You have successfully crossed the Dnepr, but you have lost valuable time. All chances of encircling the Russian forces are gone. <br>"
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Smolensk-Crossing the Dnepr July1941 V<br>Congratulations, you have successfully crossed the Dnepr. Gather your forces for the drive on Smolensk."
+   }
+  }, 
+  "scenario": "drdnep08.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "Smolensk-Drive to Yelnya July 1941<br>Now that we crossed the Dnepr and broken the Russian lines, the 10th Pz Division will move on Yelnya while your troops are ordered to capture Roslavl. Yelnya will be the starting point for our final drive on Moscow and Roslavl controls the main roads in this area.<br><br>PLAYER ORDERS:<br>- Capture all Victory Hexes.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Smolensk-Drive to Yelnya BV<br>Congratulations Herr General. With Yelnya captured, the next stop is Moscow!<br><br>History<br>When Guderian's and Hoth's troops closed the encirclement around Smolensk, the fate of 100,000 Russians was sealed. The Bolsheviks also lost 2000 tanks and 2000 guns in the Smolensk encirclement.<br><br><br>"
+   }, 
+   "lose": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Smolensk-Drive to Yelnya L<br>You failed to close the encirclement around Smolensk. The Russian 16th, 19th and 20th Armies escaped and are now blocking the roads to Moscow. Reaching Moscow before winter sets in will be a tough job that is better left to more competent generals than you.<br><br>History<br>When Guderian's and Hoth's troops closed the encirclement around Smolensk, the fate of 100,000 Russians was sealed. The Bolsheviks also lost 2000 tanks and 2000 guns in the Smolensk encirclement.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Smolensk-Drive to Yelnya TV<br>Yelnya is captured, but you lost valuable time Herr General. <br><br>History<br>When Guderian's and Hoth's troops closed the encirclement around Smolensk, the fate of 100,000 Russians was sealed. The Bolsheviks also lost 2000 tanks and 2000 guns in the Smolensk encirclement.<br>"
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Smolensk-Drive to Yelnya V<br>Congratulations Herr General. With Yelnya captured, the next stop is Moscow!<br><br>History<br>When Guderian's and Hoth's troops closed the encirclement around Smolensk, the fate of 100,000 Russians was sealed. The Bolsheviks also lost 2000 tanks and 2000 guns in the Smolensk encirclement.<br>"
+   }
+  }, 
+  "scenario": "dryeln09.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "Closing in on Dunkirk May 1940<br>SS-V Division, Leibstandarte and Totenkopf have been moved south of Dunkirk to close the gaps between the Panzer divisions encircling the Belgian army, the B.E.F. and numerous French divisions. <br>Your mission: Break through the British lines and force the B.E.F. to surrender. Beware of British counterattacks. Their armoured brigade has already brought Rommel's 7thPz division and the Totenkopf into problems a few days ago near Arras.<br><br>PLAYER ORDERS:<br>- Capture all Victory Hexes.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Closing in on Dunkirk May1940 BV<br>Congratulations. The Belgian king has capitulated and the British forces are retreating towards the port of Dunkirk. The Luftwaffe can take further care of destroying the encircled troops. Move your forces east to wrap up Maginot line garrisons."
+   }, 
+   "lose": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 2250, 
+    "text": "Closing in on Dunkirk May1940 L<br>What a pitiful performance Herr General. This is the end of the French campaign for your troops. Luckily other generals performed much better and France will soon be in our hands. I don't understand why, but Hitler is giving you command over the complete SS-V division. The division will be renamed to SS Reich.<br><br>PLAYER ORDERS:<br>- You can expand your core with 6 Infantry Battalions, a Pioniere Battalion and an Anti Tank (AT) Battalion to: 1 FlaK, 3 Aty, 9 Inf, 1 Pio, 1 Recon, 1 Towed AT."
+   }, 
+   "tactical": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Closing in on Dunkirk May1940 TV<br>What a poor performance Herr general. You were lucky that the Leibstandarte on your left flank has performed much better than your troops. The Belgian king has capitulated and the British forces are retreating towards the port of Dunkirk. The Luftwaffe can take further care of destroying the encircled troops. Move your forces east to wrap up Maginot line garrisons.<br>"
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Closing in on Dunkirk May1940 V<br>Congratulations. The Belgian king has capitulated and the British forces are retreating towards the port of Dunkirk. The Luftwaffe can take further care of destroying the encircled troops. Move your forces east to wrap up Maginot line garrisons.<br>"
+   }
+  }, 
+  "scenario": "drdunk10.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "Kiev encirclement - Konotop September 1941<br><br>After 19 days of indecisiveness - known as the 19 day interregnum, Hitler has decided you and the rest of Guderian's 2nd Pz Gruppe need turn South to assist Von Rundstedt's less successful Armee Gruppe Sud in the encirclement of Kiev - Ukrain - 350 km South of here. You are to make contact with von Kleist's 1 Pz Gruppe South of Konotop to complete the encirclement. The capture of Moscow will have to wait. Opposing your forces is the newly created Russian 40th Army assisted by the 2nd Air-landing Corps and the 10th Tank Division.<br><br>PLAYER ORDERS<br>- Capture all Victory Hexes.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Kiev encirclement - Konotop September1941 BV<br><br>Congratulations, 600,000 Bolsjeviks are trapped in the Kiev pocket!<br><br>CREDITS<br>The Konotop scenario and the map on which it is played are made by Hannes Gruber."
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Kiev encirclement - Konotop September1941 L<br><br>We missed the chance to trap 600,000 Bolsjeviks in what would have been the Kiev pocket. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the raspoetitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Kiev encirclement - Konotop September1941 TV<br><br>600,000 Bolsjeviks are trapped in the Kiev pocket, but we lost valuable time. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the raspoetitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Kiev encirclement - Konotop September1941 V<br><br>Congratulations, 600,000 Bolsjeviks are trapped in the Kiev pocket! <br><br>"
+   }
+  }, 
+  "scenario": "drkono11.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "Kiev encirclement - Romny September 1941<br>The Russians attempt to relieve their encircled forces at Kiev. You must respond with a counter attack.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Kiev encirclement - Romny September1941 BV<br><br>You have successfully beaten off the Russian relieve attempt. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the rasputitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }, 
+   "lose": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Kiev encirclement - Romny September1941 L<br><br>You have failed to beat off the Russian relieve attempt and now hundreds of thousands Bolsheviks have escaped. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the rasputitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Kiev encirclement - Romny September1941 TV<br><br>Although not without problems, you have beaten off the Russian relieve attempt. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the rasputitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Kiev encirclement - Romny September1941 V<br><br>You have successfully beaten off the Russian relieve attempt. Send your troops back North for the final assault on Moscow. And don't give me any excuses, I know the rasputitsa - the dreaded Fall rains - have set in. This will disrupt mobility but we do need to reach Moscow before the winter.<br>"
+   }
+  }, 
+  "scenario": "drromn12.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "Operation Typhoon - Vyazma October 1941<br><br>Your division has been transferred from Guderian's 2nd Pz Gruppe - South of us - to Hoepner's 4 Pz Gruppe for the final drive on Moscow. Our first task is to break through the Russian lines, following the 10Pz Div and move North to Vyazma to make contact with Hoth's 3rd Pz Gruppe North of us and encirle the Russian 16th, 19th and 20th Soviet Armies of the Western Front and the 24th and 32th Armies of the Reserve Front. The Russians made the mistake of putting their Reserve front in the first line of battle. Once we break through their lines we should be able to move on Vyazma and Gzatsk without too much resistance. Gzatsk is a city vital for or further drive on Moscow and also vital for the Russian defense of Moscow.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Typhoon - Vyazma BV<br><br>Excellent job. Again 100,000s of Russians are trapped in pockets behind our lines. The Bolsheviks made the mistake of committing all their troops to the first line of defense. Once you broke through, they had no reserve forces to stop you. Partisan activity makes it  increasingly difficult to operate from the airfields close to the front (That's why the airfields did not offer resupply). Now it's time to move East. Moscow is the target."
+   }, 
+   "lose": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Typhoon - Vyazma L<br><br>You were lucky 2nd Pz and 10th Pz divisions captured your targets. Vayzma and Gzhatsk are in our hands now. Again 100,000s of Russians are trapped in pockets behind our lines. Partisan activity makes it increasingly difficult to operate from the airfields close to the front (That's why the airfields did not offer resupply). Now it's time to move East. Moscow is the target. Let's hope we have not lost too much time. Intelligence reports Siberian troops have arrived at the front already.<br>"
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Typhoon - Vyazma TV<br><br>We are not on schedule, but again 100,000s of Russians are trapped in pockets behind our lines. The Bolsheviks made the mistake of committing all their troops to the first line of defense. Once you broke through, they had no reserve forces to stop you. Partisan activity makes it increasingly difficult to operate from the airfields close to the front (That's why the airfields did not offer resupply). Now it's time to move East. Moscow is the target. Let's hope we have not lost too much time. Intelligence reports Siberian troops have arrived at the front already."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Typhoon - Vyazma V<br><br>Good job. Again 100,000s of Russians are trapped in pockets behind our lines. The Bolsheviks made the mistake of committing all their troops to the first line of defense. Once you broke through, they had no reserve forces to stop you. Partisan activity makes it  increasingly difficult to operate from the airfields close to the front (That's why the airfields did not offer resupply). Now it's time to move East. Moscow is the target."
+   }
+  }, 
+  "scenario": "drvyaz13.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "Operation Typhoon - Borodino October 1941<br><br>The SS-Division \"Reich\" and parts of the 10th Panzer Division were approaching the Borodino battlefield 100 km west of Moscow. Between them and the Russian Capital stood the reinforced 32nd Siberian Rifle Division, just arrived by train to man the partly completed Mozhaisk Defense Line. After five days of brutal fighting, the SS finally got through, but fresh units filled in behind the survivors.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Typhoon - Borodino October1941 BV<br><br>A magnificent but costly victory Herr General. Continue your advance towards Moscow."
+   }, 
+   "lose": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Typhoon - Borodino October1941 L<br><br>Your forces have been stopped. Capturing Moscow before winter will become very difficult now."
+   }, 
+   "tactical": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Typhoon - Borodino October1941 TV<br><br>A costly victory Herr General. Continue your advance towards Moscow.<br>"
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Typhoon - Borodino October1941 V<br><br>A nice but costly victory Herr General. Continue your advance towards Moscow."
+   }
+  }, 
+  "scenario": "drboro14.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "Operation Typhoon - Moscow Novembe r1941<br><br>We had to break up our 11SS Regiment to bring the Deutschland and Der Fuerher regiments up to strength again. Some of our units have started to run out of ammo. But even though the  mud, rain and cold slowed us down, we have come close to the end goal of our offensive: the capture of Moscow. The 10th Pz Division will again be fighting at our left flank. Make us proud General.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Typhoon - Moscow November1941 BV<br><br>General, the enemy fought valiantly, but this did not stop you. And now the last Bolshevist reserves await your attack. Defeat them! And end this war!<br><br>The last Russian reserves have succeeded in recapturing Moscow. Gather your forces once more and throw them out again.<br>"
+   }, 
+   "lose": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Typhoon - Moscow November1941 L<br><br>Your inability to capture your objectives in and around Moscow has led to disaster. The Soviet armies, reinforced by troops from Siberia have wreaked havoc on our overextended and once invincible armies. Fierce Soviet counterattacks this winter have put back our weary troops all along the front."
+   }, 
+   "tactical": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Typhoon - Moscow November1941 TV<br><br>General, the enemy fought valiantly, but this did not stop you. And now the last Bolshevist reserves await your attack. Defeat them! And end this war!<br><br>The last Russian reserves have succeeded in recapturing Moscow. Gather your forces once more and throw them out again.<br>"
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Typhoon - Moscow November1941 V<br><br>General, the enemy fought valiantly, but this did not stop you. And now the last Bolshevist reserves await your attack. Defeat them! And end this war!<br><br>The last Russian reserves have succeeded in recapturing Moscow. Gather your forces once more and throw them out again.<br>"
+   }
+  }, 
+  "scenario": "drmosc15.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "Typhoon called off - December 1941<br><br>HQ reports that yesterday the Bolsheviks launched heavy counter-attacks against the 2nd PzGruppe to the North of us. Watch out, this Russian offensive could spread to your sector.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Typhoon called off - December1941 BV<br><br>Capturing Moscow this Winter has now become impossible. Fortunately you were able to conduct an orderly retreat. Your request to relieve your forces is denied. SS Reich is needed to prevent a Russian breakthrough."
+   }, 
+   "lose": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Typhoon called off - December1941 L<br><br>Capturing Moscow this Winter has now become impossible. On top of this you weren't able to maintain what even resembles a line of defense. The remaining forces of SS Reich are sent to France to be reequipped. You'll be lucky if they allow you to remain in command of the division."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Typhoon called off - December1941 TV<br><br>Capturing Moscow this Winter has now become impossible. Fortunately you were able to conduct an orderly retreat. Your request to relieve your forces is denied. SS Reich is needed to prevent a Russian breakthrough."
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Typhoon called off - December1941 V<br><br>Capturing Moscow this Winter has now become impossible. Fortunately you were able to conduct an orderly retreat. Your request to relieve your forces is denied. SS Reich is needed to prevent a Russian breakthrough."
+   }
+  }, 
+  "scenario": "drtyco16.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "Rzhev-Vyazma Operation - January 1942<br><br>The Russian 39rd Army followed by the 29th Army and the 11th Cavalry Corps have broken through our lines near Rzhev and are advancing South on Vyazma. Our Corps has just closed the lines behind these Bolshevik forces. Your orders are to hold Vyazma and stop the relief attempt by the Russian 33rd Army - that is advancing on Vyazma from the East - by capturing Maloyaroslavets and thus also cutting the 33rd Army off from their own lines.<br><br>PLAYER ORDERS<br>- Hold your own victory hex and capture the Russian one.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Rzhev-Vyazma Operation - Februari 1942 BV<br><br>After the Russian 39rd Army, 29th Army and the 11th Cavalry Corps, now also the 33rd Army is encircled. You have stopped the Russian Winter offensive. Congratulations. <br>A Kamfgruppe of your division will stay on the Eastern front until June 1st, but you are ordered to move to France to prepare the reorganization of Das Reich into a Panzer-Grenadier division.<br><br>"
+   }, 
+   "lose": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 5000, 
+    "text": "Rzhev-Vyazma Operation - Februari 1942 L<br><br>The Russian 33rd Army was able to relieve the 39rd Army, 29th Army and the 11th Cavalry Corps. Instead of Russian troops, lots of German divisions are now trapped behind enemy lines. <br>A Kamfgruppe of your division will stay on the Eastern front until June 1st, but you are ordered to move to France to prepare the reorganization of Das Reich into a Panzer-Grenadier division.<br><br>"
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Rzhev-Vyazma Operation - Februari 1942 TV<br><br>After the Russian 39rd Army, 29th Army and the 11th Cavalry Corps, now also some troops of the 33rd Army are encircled. Altough we expected more from you in this battle, you have stopped the Russian Winter offensive. Congratulations. <br>A Kamfgruppe of your division will stay on the Eastern front until June 1st, but you are ordered to move to France to prepare the reorganization of Das Reich into a Panzer-Grenadier division.<br>"
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Rzhev-Vyazma Operation - Februari 1942 V<br><br>After the Russian 39rd Army, 29th Army and the 11th Cavalry Corps, now also the 33rd Army is encircled. You have stopped the Russian Winter offensive. Congratulations. <br>A Kamfgruppe of your division will stay on the Eastern front until June 1st, but you are ordered to move to France to prepare the reorganization of Das Reich into a Panzer-Grenadier division."
+   }
+  }, 
+  "scenario": "drrzvy17.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "Operation Lila - November 1942<br><br>After a hard winter in Russia, your division is rested and re-equipped. The division is re-designated as SS Panzer-Grenadier Division Das Reich. As a reaction to the Allied landings in North-Africa, Hitler ordered Operation Anton - the occupation of Vichy France to protect it against the Allies. The French were allowed to hold the port of Toulon, to defend it against an Allied invasion. Now Hitler has changed his mind and wants Operation Lila executed. We are to move into Toulon and capture the Vichy French fleet that Hitler has promised to Mussolini. You will have to move fast because the French are expected to scuttle their fleet, rather than hand it over to us. French GMR and SOL forces are thought to be more favorable to our cause than the rest of the Vichy French troops.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Lila - November 1942 BV<br><br>Great job commander. A lot of Vichy French ships fell into our hands. Hitler and Mussolini will be pleased.<br><br>Prepare your forces for a move to the Eastern front. The Bolsheviks have started a winter offensive that must be stopped by the complete SS Panzer Corps.<br><br>HISTORY<br>- The French scuttled most (73 ships) of their fleet. Only few would be salvaged and used by the Axis.<br>- SS Panzer-Grenadier Divisions LSSAH, Das Reich and Totenkopf - forming the SS Panzer Corps - were sent to the Eastern front to stop the Russians advancing after their victory at Stalingrad."
+   }, 
+   "lose": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Lila - November 1942 L<br><br>You did not prevent the scuttling of the Vichy French fleet. Hitler will be furious. What does he have to tell Mussolini?<br><br>Prepare your forces for a move to the Eastern front. The Bolsheviks have started a winter offensive that must be stopped by the complete SS Panzer Corps.<br><br>HISTORY<br>- The French scuttled most (73 ships) of their fleet. Only few would be salvaged and used by the Axis.<br>- SS Panzer-Grenadier Divisions LSSAH, Das Reich and Totenkopf - forming the SS Panzer Corps - were sent to the Eastern front to stop the Russians advancing after their victory at Stalingrad."
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Lila - November 1942 TV<br><br>You did not prevent the scuttling of most of the Vichy French fleet. Hitler will be furious. What does he have to tell Mussolini?<br><br>Prepare your forces for a move to the Eastern front. The Bolsheviks have started a winter offensive that must be stopped by the complete SS Panzer Corps.<br><br>HISTORY<br>- The French scuttled most (73 ships) of their fleet. Only few would be salvaged and used by the Axis.<br>- SS Panzer-Grenadier Divisions LSSAH, Das Reich and Totenkopf - forming the SS Panzer Corps - were sent to the Eastern front to stop the Russians advancing after their victory at Stalingrad."
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Lila - November 1942 V<br><br>You could not prevent the scuttling of a large part of the Vichy French fleet. Mussolini will have to do with less ships than he had hoped for.<br><br>Prepare your forces for a move to the Eastern front. The Bolsheviks have started a winter offensive that must be stopped by the complete SS Panzer Corps.<br><br>HISTORY<br>- The French scuttled most (73 ships) of their fleet. Only few would be salvaged and used by the Axis.<br>- SS Panzer-Grenadier Divisions LSSAH, Das Reich and Totenkopf - forming the SS Panzer Corps - were sent to the Eastern front to stop the Russians advancing after their victory at Stalingrad.<br>"
+   }
+  }, 
+  "scenario": "drlila18.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "Kharkov - March 1943<br><br>On December 30th a Fuehrer order directed Totenkopf, Leibstandarte and Das Reich - the SS Panzer Corps - to return to Russia to strengthen Army Group South. Our trains were given absolute priority over all other railway traffic. As soon as they arrived on the front, our troops were used to try and stop the Bolsjevik advance. Thanks to our commander Hausser our troops could retreat out of Kharkov - against Fuehrer orders - and avoid certain destruction. This decision saved our SS Panzer Corps as a unit and allowed us to open the counterattack in N/E direction towards Kharkov.<br>STAVKA is apparantly under the impression their troops are still advancing and has marched 3rd Tank Army - a mighty force of 3 Inf divisions, 3 Tank brigades and a Guard Cav Corps in a gap which had openend between our division and the Leibstandarte. Your task is to trap these formations and capture Kharkov. <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Kharkov - March 1943 BV<br><br>The threat of our armies in Southern Russia being encircled has been countered. We destroyed or severely damadged 4 Soviet Armies and regained most of the territory lost in January. Prepare your troops for a Summer offensive near Kursk.<br><br>The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management."
+   }, 
+   "lose": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Kharkov - March 1943 L<br><br>The threat of our armies in Southern Russia being encircled has been countered although you did not recapture Kharkov as intended. We destroyed or severely damadged 4 Soviet Armies and regained most of the territory lost in January. Prepare your troops for a Summer offensive near Kursk.<br><br>The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management."
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Kharkov - March 1943 TV<br><br>The threat of our armies in Southern Russia being encircled has been countered. We destroyed or severely damadged 4 Soviet Armies and regained most of the territory lost in January. Prepare your troops for a Summer offensive near Kursk.<br><br>The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Kharkov - March 1943 V<br><br>The threat of our armies in Southern Russia being encircled has been countered. We destroyed or severely damadged 4 Soviet Armies and regained most of the territory lost in January. Prepare your troops for a Summer offensive near Kursk.<br><br>The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management."
+   }
+  }, 
+  "scenario": "drkhar19.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "Operation Zitadelle - July 1943<br><br>We urgently need to regain the offensive on the Eastern front to deal the Red Army a blow that will weaken its offensive potential for a very long time to come. That will allow us to concentrate on the probable invasion by the Western Allies of either Southern Europe or France. <br>The location for our summer offensive is clear: the great salient around Kursk. Success here will shorten the front by 500km and create a reserve that can be used in the West. Model's 9th Army will strike from the North and Hoth's 4th Pz Army will attack from the South. The SS Corps is part of Hoth's Army.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Zitadelle - July 1943 BV<br><br>Congratulations Herr General. You have broken through the Russian defenses and have ran into and crushed the lead elements of the 5th Guards Tank Army. Next stop on the way to Kursk is the village of Prochorovka.<br><br>The Zitadelle scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "lose": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Zitadelle - July 1943 L<br><br>You failed to break through even the first Russian defensive lines. After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler has decided to cancel Operation Zitadelle.<br><br>The Zitadelle scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Zitadelle - July 1943 TV<br><br>Congratulations Herr General. You have broken through the first Russian defensive lines. This has however taken far more time than expected. <br>After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler has decided to cancel Operation Zitadelle.<br><br>The Zitadelle scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Zitadelle - July 1943 V<br><br>Congratulations Herr General. You have broken through the Russian defenses and have ran into and beaten the lead elements of the 5th Guards Tank Army. Next stop on the way to Kursk is the village of Prochorovka.<br><br>The Zitadelle scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }
+  }, 
+  "scenario": "drkurs20.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "Prochorovka - July 1943<br>Model's 9th Army in the North and Kempf's III Panzer Corps on our right flank have not made much progress. Hoth's Fourth Panzer Army has done better and we are now in a position to capture Prochorovka and extend the bridgehead over the Psel river west of Prochorovka. <br>Totenkopf's bridgehead is under heavy attack by the Russian 1st Tank Army and the 5th Guards Tank Army is counterattacking out of the Prochorovka direction to our East. <br>Gather whatever tanks you have and engage the Bolshevik hords.<br><br>HISTORY<br>The story of 3 SS divisions attacking Prochorovka with hunderds of Tiger and Panther tanks is a myth and so is the SS divisions loosing +400 tanks in the engagement. The Panther battalions where in Germany and each division had only 1 Tiger company. At the start of  Zitadelle, the 3 divisions of IISS Panzer Corps, totalled no more than about 350 tanks. By the time the battle for Prochorovka started, the number of operational tanks had dropped to 211 - T94 / LSSAH56 / Reich 61. Only 15 were Tigers. After the battle, II SS Panzer Corps reported 163 operational tanks. Russian tank losses were close to 650.<br>Leibstandarte's 13th Tiger company (leader) was commanded by 2nd Lt. Michael Wittmann.<br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Prochorovka - July 1943 BV<br><br>Herr General, You defeated the Tank Armies that formed the last Russian reserves in this sector. If it wasn't for Hitler, we could drive on to Kursk and accomplish all of our goals. <br>After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler decided to cancel Operation Zitadelle. Unfortunately, we will not be able to completely finish of the Russian armor with the 3 Panzer divisions we kept in reserve.<br><br>Hitler has decided IISS Panzer Corps is needed to deal with the anticipated Soviet diversionary attacks south of the Belgorod-Kharkov sector.<br><br>Source: 'New evidence suggests that the Germans may have been closer to victory at Kursk than previously recognized' by George M. Nipe, Jr.<br><br>The Prochorovka scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "lose": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Prochorovka - July 1943 L<br><br>Herr General, You failed to defeat the Tank Armies that formed the last Russian reserves in this sector.<br>After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler decided to cancel Operation Zitadelle. <br><br>Hitler has decided IISS Panzer Corps is needed to deal with the anticipated Soviet diversionary attacks south of the Belgorod-Kharkov sector.<br><br>Source: 'New evidence suggests that the Germans may have been closer to victory at Kursk than previously recognized' by George M. Nipe, Jr.<br><br>The Prochorovka scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Prochorovka - July 1943 TV<br><br>Herr General, You defeated the Tank Armies that formed the last Russian reserves in this sector. If it wasn't for Hitler, we could drive on to Kursk and accomplish all of our goals. <br>After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler decided to cancel Operation Zitadelle. Unfortunately, we will not be able to completely finish of the Russian armor with the 3 Panzer divisions we kept in reserve.<br><br>Hitler has decided IISS Panzer Corps is needed to deal with the anticipated Soviet diversionary attacks south of the Belgorod-Kharkov sector.<br><br>Source: 'New evidence suggests that the Germans may have been closer to victory at Kursk than previously recognized' by George M. Nipe, Jr.<br><br>The Prochorovka scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Prochorovka - July 1943 V<br><br>Herr General, You defeated the Tank Armies that formed the last Russian reserves in this sector. If it wasn't for Hitler, we could drive on to Kursk and accomplish all of our goals. <br>After receiving the news of the Allied invasion of Sicily, as well as reports of impeding Soviet attacks on the Mius River and at Izyum, Hitler decided to cancel Operation Zitadelle. Unfortunately, we will not be able to completely finish of the Russian armor with the 3 Panzer divisions we kept in reserve.<br><br>Hitler has decided IISS Panzer Corps is needed to deal with the anticipated Soviet diversionary attacks south of the Belgorod-Kharkov sector.<br><br>Source: 'New evidence suggests that the Germans may have been closer to victory at Kursk than previously recognized' by George M. Nipe, Jr.<br><br>The Prochorovka scenario is influenced by Jorge Gabitto's Kursk campaign."
+   }
+  }, 
+  "scenario": "drprok21.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "Counter Attack on the Mius - July 1943<br>The bolsheviks have crossed the Mius South of the Kursk salient near the village of Stepanovka in an effort to divert forces from the attack on Kursk. Throw them back to the other side of the river.<br>LSSAH has departed for Italy. We got their armored vehicles, bringing our Panzer forces up to strength. <br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Counter Attack on the Mius - August 1943 BV<br>The bolshevik bidgehead has been crushed, but Russian forces have crossed the Mius at multiple other locations. Kharkov is now under severe Russian pressure. Send your troops to the Kharkov area to safeguard the city. Your well-trained Panther battalion will join you shortly.<br>"
+   }, 
+   "lose": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1200, 
+    "text": "Counter Attack on the Mius - August 1943 L<br>Not only here, but also at multiple other locations, the Bolsheviks have crossed the Mius. Kharkov is now under severe Russian pressure. Send your troops to the Kharkov area to safeguard the city. Your well-trained Panther battalion will join you shortly.<br>"
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Counter Attack on the Mius - August 1943 TV<br>It took quite some effort, but the bolshevik bidgehead has been crushed. Unfortunately Russian forces have crossed the Mius at multiple other locations. Kharkov is now under severe Russian pressure. Send your troops to the Kharkov area to safeguard the city. Your well-trained Panther battalion will join you shortly.<br>"
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Counter Attack on the Mius - August 1943 V<br>The bolshevik bidgehead has been crushed, but Russian forces have crossed the Mius at multiple other locations. Kharkov is now under severe Russian pressure. Send your troops to the Kharkov area to safeguard the city. Your well-trained Panther battalion will join you shortly.<br>"
+   }
+  }, 
+  "scenario": "drmius22.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "The Fourth Battle of Kharkov - August 1943<br>The Russian 5th Guards tank army that got badly mauled at Prokhorovka when meeting your forces in mid July has been rebuilt, rushed through the gap between our 4th Pz Army and Group Kempf and is now threatening Kharkov. A Kampfgruppe of the 3rd Pz Division, the 198ID and some corps troops are defending the city. They urgently need your help to stop the flood of T34 tanks.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The Fourth Battle of Kharkov - August 1943 BV<br>You have inflicted great tank losses on the 5GTA and you held on to Kharkov. However, Russian advances North and South of the city force us to retreat to the Dnepr. Most of your forces are sent to France for rest and refit. Only a Kampfgruppe will remain on the Eastern front until the spring of 1944.<br>"
+   }, 
+   "lose": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 6200, 
+    "text": "The Fourth Battle of Kharkov - August 1943 L<br>A complete failure. You lost Kharkov and Russian advances North and South of the city force us to retreat to the Dnepr. Most of your forces are sent to France for rest and refit. Only a Kampfgruppe will remain on the Eastern front until the spring of 1944.<br>"
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "The Fourth Battle of Kharkov - August 1943 TV<br>You have inflicted great tank losses on the 5GTA and you held on to Kharkov. Russian advances North and South of the city force us however to retreat to the Dnepr. Most of your forces are sent to France for rest and refit. Only a Kampfgruppe will remain on the Eastern front until the spring of 1944.<br>"
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Fourth Battle of Kharkov - August 1943 V<br>You have inflicted great tank losses on the 5GTA and you held on to Kharkov. However, Russian advances North and South of the city force us however to retreat to the Dnepr. Most of your forces are sent to France for rest and refit. Only a Kampfgruppe will remain on the Eastern front until the spring of 1944.<br>"
+   }
+  }, 
+  "scenario": "drkhar23.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "March to Limoges - June 1944<br><br>Our division has now been fully redrawn from Russia to Montauban/Toulouse in France and is renamed to SS Panzer Division \"Das Reich\". Our main concern is the large number of fresh troops (9000) in Das Reich - we even had to accept conscripts to fill our ranks.<br><br>The Allies landed in Normandy June 6 1944, 2 days ago. Yesterday preparations were made to come to march readiness. Today we are moving out. First stop is the Limoges-Tulle area. We will travel there in two columns. Be aware of partisan attacks. Resistance activity has increased considerably over the last few days throughout France.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "March to Limoges - June 1944 BV<br><br>You have reached the Normandy St-Lo area ahead of schedule. Your troops are put in LXXXIV Corps reserve for now. <br><br>HISTORY<br>Resistance activity stopped for weeks after June 11th as a response to very hard German reprisals at Tulle (triggered by the murder and mutilation of garrison members by the Resistance) and Oradour (inexplicable killing of villagers after a German officer got abducted).<br>The complete division reached Normandy about 20th June and was kept in reserve for more than a week.<br>"
+   }, 
+   "lose": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "March to Limoges - June 1944 L<br><br>You have reached the Normandy St-Lo area way behind schedule. Your troops will be thrown in action without much preparation. <br><br>HISTORY<br>Resistance activity stopped for weeks after June 11th as a response to very hard German reprisals at Tulle (triggered by the murder and mutilation of garrison members by the Resistance) and Oradour (inexplicable killing of villagers after a German officer got abducted).<br>The complete division reached Normandy about 20th June and was kept in reserve for more than a week.<br>"
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "March to Limoges - June 1944 TV<br><br>You have reached the Normandy St-Lo area slightly behind schedule. Your troops are put in LXXXIV Corps reserve for now. <br><br>HISTORY<br>Resistance activity stopped for weeks after June 11th as a response to very hard German reprisals at Tulle (triggered by the murder and mutilation of garrison members by the Resistance) and Oradour (inexplicable killing of villagers after a German officer got abducted).<br>The complete division reached Normandy about 20th June and was kept in reserve for more than a week.<br>"
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "March to Limoges - June 1944 V<br><br>You have reached the Normandy St-Lo area on schedule. Your troops are put in LXXXIV Corps reserve for now. <br><br>HISTORY<br>Resistance activity stopped for weeks after June 11th as a response to very hard German reprisals at Tulle (triggered by the murder and mutilation of garrison members by the Resistance) and Oradour (inexplicable killing of villagers after a German officer got abducted).<br>The complete division reached Normandy about 20th June and was kept in reserve for more than a week.<br>"
+   }
+  }, 
+  "scenario": "drlimo24.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "Battle of the Hedgerows - July 1944<br><br>Your division is one of the few Panzer divisions facing the Americans in Normandy. Send a KG to La-Haye-du-Puits in support of the 353th Division that is under heavy American attack. Send another KG to support 17SS Panzergrenadier Division \"Goetz von Berlichingen\" in its counterattack NW of St-Lo. The rest of your forces will be kept in reserve for now.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Battle of the Hedgerows - July 1944 BV<br><br>Congratulations Herr General. The American beachhead has been annihilated. Unfortunately the British and Canadians have broken through our lines near Caen. This has forced us to retreat in order to escape from getting surrounded. Our retreat allowed US forces that remained in the Cherbourg area to outflank us in the Coutance area. Your mission is to push West to the shore in order to restore the front line and cut off the US divisions that have broken through."
+   }, 
+   "lose": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Battle of the Hedgerows - August 1944 L<br><br>You did not succeed in eliminating the US beachhead. US forces have outflanked us by breaking through our lines near Coutance. Your mission is to push West to the shore in order to restore the front line and cut off the US divisions that have broken through. Do not fail us again!"
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Battle of the Hedgerows - August 1944 TV<br><br>Congratulations Herr General. The American beachhead has been annihilated. Unfortunately the British and Canadians have broken through our lines near Caen. This has forced us to retreat in order to escape from getting surrounded. Our retreat allowed US forces that remained in the Cherbourg area to outflank us in the Coutance area. Your mission is to push West to the shore in order to restore the front line and cut off the US divisions that have broken through."
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Battle of the Hedgerows - July 1944 V<br><br>Congratulations Herr General. The American beachhead has been annihilated. Unfortunately the British and Canadians have broken through our lines near Caen. This has forced us to retreat in order to escape from getting surrounded. Our retreat allowed US forces that remained in the Cherbourg area to outflank us in the Coutance area. Your mission is to push West to the shore in order to restore the front line and cut off the US divisions that have broken through."
+   }
+  }, 
+  "scenario": "drstlo25.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "Operation Luettich - August 1944<br><br>Our new operation to break the Allied offensive by driving to Avranches and destroying their forces has started on time, but with fewer troops than expected. Both the 116 (PzLehr) and the 1SS (LSSAH) have problems reaching the front. The attack has started with the 2Pz in the North and our division reinforced with a KG of the 17SS (Goetz von Berlichingen) in the South. Opposite us is the US 30ID which is putting up a stubborn defense.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Operation Luettich - August 1944 BV<br><br>Even with limited forces you achieved great success. The frontline opposite the American troops has been restored. <br>East of here the Brits have broken through near Caen and again our troops are at risk of being surrounded. Retreat East towards Falaise.<br>"
+   }, 
+   "lose": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Operation Luettich - August 1944 L<br><br>American forces are moving fast through the gap that you failed to close near Avranches. The US VII and XV corps are moving East to the South of us, threatening to surround us now that the Brits have broken through North-East of us near Caen. Retreat East towards Falaise to save your troops.<br>"
+   }, 
+   "tactical": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Operation Luettich - August 1944 TV<br><br>Even with limited forces you achieved your objectives. The frontline opposite the American troops has been restored. <br>East of here the Brits have broken through near Caen and again our troops are at risk of being surrounded. Retreat East towards Falaise.<br>"
+   }, 
+   "victory": {
+    "goto": 25, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Operation Luettich - August 1944 V<br><br>Even with limited forces you achieved your objectives. The frontline opposite the American troops has been restored. <br>East of here the Brits have broken through near Caen and again our troops are at risk of being surrounded. Retreat East towards Falaise.<br>"
+   }
+  }, 
+  "scenario": "drlutt26.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 25, 
+  "intro": "The Falaise Gap - August 1944<br><br><br>The 1st Polish Armor division has made contact with the US 90th Infantry Division near Chamboix causing multiple divisions of ours, between Falaise and Argentan, to be cut off during our retreat East. Your division got out in time. Counterattack and break through the Polish lines to get as much troops out of the Falaise pocket as possible.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The Falaise Gap - August 1944 BV<br><br>\"The misery around us screams to high heaven. Refugees and soldiers from the broken German armies look helplessly at the bombers flying continuously overhead. It is useless to take cover from the bursting shells and bombs.\" Kurt Meyer<br><br>Congratulations. Most troops were able to get out of the Falaise pocket. Retreat east to form a new line of defense.<br>"
+   }, 
+   "lose": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 3200, 
+    "text": "The Falaise Gap - August 1944 L<br><br>\"The misery around us screams to high heaven. Refugees and soldiers from the broken German armies look helplessly at the bombers flying continuously overhead. It is useless to take cover from the bursting shells and bombs.\" Kurt Meyer<br><br>Complete failure! Tens of thousands of our troops are trapped in the Falaise pocket. Nothing is gonna stop the Allies now from reaching the fatherland.<br>"
+   }, 
+   "tactical": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "The Falaise Gap - August 1944 TV<br><br>\"The misery around us screams to high heaven. Refugees and soldiers from the broken German armies look helplessly at the bombers flying continuously overhead. It is useless to take cover from the bursting shells and bombs.\" Kurt Meyer<br><br>Tens of thousands of our troops are trapped in the Falaise pocket. Nothing is going to stop the Allies now from reaching the fatherland. Retreat east with the troops you have left.<br>"
+   }, 
+   "victory": {
+    "goto": 26, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Falaise Gap - August 1944 V<br><br>\"The misery around us screams to high heaven. Refugees and soldiers from the broken German armies look helplessly at the bombers flying continuously overhead. It is useless to take cover from the bursting shells and bombs.\" Kurt Meyer<br><br>Nice job. Tens of thousands of our troops are trapped in the Falaise pocket, but the best divisions got out. Retreat east to form a new line of defense.<br>"
+   }
+  }, 
+  "scenario": "drfala27.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 26, 
+  "intro": "Wacht am Rhein - December 1944<br><br>Lines have stabilized after your retreat from Normandy. Hitler has gathered all available forces for a counterattack. Your division and the 9thSS Hohenstaufen form the 2SS Pz Corps. The original plan called for you to exploit the initial success of the 1SS Pz Corps attack on the northern shoulder of our attack through the Ardennes. The enemy however has stalled the LSSAH's attack. The goal of advancing as far west as Antwerp and cutting the Allied forces in half has been given up. <br>Your troops have been transferred from 6SSPz Armee to the 5PzArmee and have swung south around LSSAH. Your task is to capture the crossroads at Baraque Fraiture, push through the US lines of defense and capture Liege. Maybe that will move the Allies to start peace negotiations.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 29, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Wacht am Rhein - December 1944 BV<br><br>You performed magnificantly, striking a blow so serious to the US forces, that they have <br>started peace negotiations. <br>Your division is ordered to move to the Eastern front to stop the new Russian winter offensive.<br>"
+   }, 
+   "lose": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "Wacht am Rhein - December 1944 L<br><br>A complete failure! To our south, US divisions moving north have relieved the surrounded <br>101Abn at Bastogne and continue moving north, threatening to cut us of from the main lines. <br>Give up your offensive and retreat back east to avoid being surrounded.<br>"
+   }, 
+   "tactical": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Wacht am Rhein - December 1944 TV<br><br>You performed well, but US divisions moving in from the south have relieved the surrounded <br>101Abn at Bastogne and keep on moving north, threatening to cut us of from the main lines. <br>Give up your offensive and retreat back east to avoid being surrounded.<br>"
+   }, 
+   "victory": {
+    "goto": 27, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Wacht am Rhein - December 1944 V<br><br>You performed very well, but US divisions moving in from the south have relieved the <br>surrounded 101Abn at Bastogne and keep on moving north, threatening to cut us of <br>from the main lines. Give up your offensive and retreat back east to avoid being surrounded.<br>"
+   }
+  }, 
+  "scenario": "drbulg28.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 27, 
+  "intro": "The Plattensee offensive - March 1945<br><br>Hitler has grouped Ist and IInd SS Panzer Corps West of Budapest in an attempt to retake the city from the Russians, thereby destroying the Bolsheviks in the area between the Drava, the Danube and the Plattensee. Your forces are positioned on the left flank of the offensive.<br>An early thaw has caused severe flooding in the area, producing swamp-like conditions. On my way to your HQ, I saw 15 King Tigers that had sank into the mud up to their turrets. What is Hitler thinking having 4SS Panzer Divisions attack on this terrain?<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The Plattensee offensive - March 1945 BV<br><br>Your forces are well under way to Budapest. The Bolsheviks are astounded by the success of your offensive against their over-extended forces. Stalin has indicated he wants to negotiate a peace settlement. This will allow us to direct forces to the west to fight the Western Allies.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cuffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme."
+   }, 
+   "lose": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "The Plattensee offensive - March 1945 L<br><br>You were not able to penetrate the Russian lines of defense. Retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cuffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br>"
+   }, 
+   "tactical": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "The Plattensee offensive - March 1945 TV<br><br>You penetrated the first Russian lines of defense, but the offensive is getting stuck in the mud. We need to retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cuffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br><br>"
+   }, 
+   "victory": {
+    "goto": 28, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Plattensee offensive - March 1945 V<br><br>You penetrated the first Russian lines of defense, but the offensive is getting stuck in the mud. We need to retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cuffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks."
+   }
+  }, 
+  "scenario": "drplat29.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 28, 
+  "intro": "Vienna - April 1945<br><br>The Russians have almost completely encircled Vienna. Your division's task is too hold open the bridges over the Danube to let as many troops as possible escape to the west.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Vienna - April 1945 BV<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will allow us to direct forces to the west to fight the Western Allies.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Vienna - April 1945 L<br><br>Vienna fell to the Russians and your division ends it glorious history is Bolshevik captivity. I am sure your troops wished they escaped to the west to surrender to the Americans.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Vienna - April 1945 TV<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will allow us to direct forces to the west to fight the Western Allies.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Vienna - April 1945 V<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will allow us to direct forces to the west to fight the Western Allies.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }
+  }, 
+  "scenario": "drvien30.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 29, 
+  "intro": "The Plattensee offensive - March 1945<br><br>Hitler has grouped Ist and IInd SS Panzer Corps West of Budapest in an attempt to retake the city from the Russians, thereby destroying the Bolsheviks in the area between the Drava, the Danube and the Plattensee. Your forces are positioned on the left flank of the offensive.<br>An early thaw has caused severe flooding in the area, producing swamp-like conditions. On my way to your HQ, I saw 15 King Tigers that had sank into the mud up to their turrets. What is Hitler thinking having 4SS Panzer Divisions attack on this terrain?<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "The Plattensee offensive - March 1945 BV<br><br>Your forces are well under way to Budapest. The Bolsheviks are astounded by the success of your offensive against their over-extended forces. Stalin has indicated he wants to negotiate a peace settlement. This will bring peace to Europe and will save our country. You performed wonderfully General.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cufffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br><br>"
+   }, 
+   "lose": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "The Plattensee offensive - March 1945 L<br><br>You were not able to penetrate the Russian lines of defense. Retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cufffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br>"
+   }, 
+   "tactical": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "The Plattensee offensive - March 1945 TV<br><br>You penetrated the first Russian lines of defense, but the offensive is getting stuck in the mud. We need to retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cufffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks.<br><br>"
+   }, 
+   "victory": {
+    "goto": 30, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "The Plattensee offensive - March 1945 V<br><br>You penetrated the first Russian lines of defense, but the offensive is getting stuck in the mud. We need to retreat towards Vienna and regroup North of the NeusiedlerSee.<br><br>HISTORY<br>Hitler, enraged at the failure of the Platensee attack, orders the SS divisions LSSAH, Das Reich, Totenkopf and Hohenstaufen to remove the honor cufffbands from their uniforms. 6 SS-Panzer Army commander Oberstgruppenfuehrer Joseph (Sepp) Dietrich refuses to pass the order down the ranks."
+   }
+  }, 
+  "scenario": "drplat29.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 30, 
+  "intro": "Vienna - April 1945<br><br>The Russians have almost completely encircled Vienna. Your division's task is too hold open the bridges over the Danube to let as many troops as possible escape to the west.<br><br>", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Vienna - April 1945 BV<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will bring peace to Europe and will save our country. You performed wonderfully General.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Vienna - April 1945 L<br><br>Vienna fell to the Russians and your division ends it glorious history is Bolshevik captivity. I am sure your troops wished they escaped to the west to seek refuge with our former enemies - the Western Allies.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 100, 
+    "text": "Vienna - April 1945 TV<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will bring peace to Europe and will save our country. You performed wonderfully General.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 250, 
+    "text": "Vienna - April 1945 V<br><br>Your forces have repelled the attack on Vienna and have struck a severe blow to the enemy. The Russians - tired of the war and unable to cope with long supply lines - have gotten in comparable difficulties on other fronts. This situation is forcing Stalin to negotiate a peace settlement. This will bring peace to Europe and will save our country. You performed wonderfully General.<br><br>HISTORY<br>Vienna fell to the Russians. The Der Fuehrer regiment was sent to Prague for a (successful) rescue mission of the entrapped garrison forces, the Deutschland regiment clashed with American forces near St Poelten Austria and the rest of the division was sent to Dresden.<br><br>Thank you for playing this campaign to the very end. I hope you enjoyed it. Please post your feedback on the web forum listed in the readme.<br>"
+   }
+  }, 
+  "scenario": "drvien30.xml", 
+  "startprestige": 0
+ }
+]

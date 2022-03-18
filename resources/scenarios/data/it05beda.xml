@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='ASCII'?>
+<map file="it05beda.scn" name="Beda-Fomm" turns="6, 12, 18" date="February 05, 1941" dayturns="3" ground="0" atmosferic="0" latitude="0" rows="25" cols="21" eqp="eqp-adlerkorps" image="resources/maps/images/map_490.png">
+  <player id="0" country="12" side="0" airtrans="0" navaltrans="0" support="0, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 10, 0, 10, 0, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <player id="1" country="22" side="1" airtrans="0" navaltrans="0" support="27, 0, 0, 0" turnprestige="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"/>
+  <reinforce turn="2">
+    <at row="21" col="11">
+      <unit id="369" owner="1" flag="23" face="11" exp="317" str="11"/>
+    </at>
+  </reinforce>
+  <reinforce turn="3">
+    <at row="7" col="10">
+      <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+    </at>
+    <at row="6" col="10">
+      <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+    </at>
+    <at row="19" col="11">
+      <unit id="551" owner="1" flag="23" face="12" exp="358"/>
+    </at>
+    <at row="5" col="11">
+      <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+    </at>
+  </reinforce>
+  <reinforce turn="4">
+    <at row="14" col="18">
+      <unit id="551" owner="1" flag="23" face="12" exp="361"/>
+    </at>
+  </reinforce>
+  <reinforce turn="6">
+    <at row="17" col="11">
+      <unit id="551" owner="1" flag="23" face="12" exp="388"/>
+    </at>
+  </reinforce>
+  <hex row="0" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="0" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="0" col="5" terrain="9" name="Gulf of Sirte"/>
+  <hex row="0" col="7" terrain="7"/>
+  <hex row="0" col="8" road="16" name="Via Balbia"/>
+  <hex row="0" col="9" terrain="16"/>
+  <hex row="0" col="13" terrain="1" name="Abfar" flag="22" owner="1"/>
+  <hex row="0" col="15" terrain="7"/>
+  <hex row="0" col="17" terrain="5"/>
+  <hex row="0" col="19" terrain="5"/>
+  <hex row="1" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="1" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="1" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="1" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="1" col="5" terrain="7"/>
+  <hex row="1" col="6" terrain="7"/>
+  <hex row="1" col="7" terrain="7" road="18" name="Via Balbia">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="1" col="8" terrain="7" road="33" name="Via Balbia">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="1" col="9" terrain="7"/>
+  <hex row="1" col="10" terrain="16">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="1" col="11" terrain="16">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="1" col="12" terrain="7"/>
+  <hex row="1" col="13" terrain="7" road="34">
+    <unit id="2289" owner="1" flag="27" face="14" transport="2310" exp="350" str="11"/>
+  </hex>
+  <hex row="1" col="14" terrain="7" road="168">
+    <unit id="2279" owner="1" flag="27" face="14" transport="2310" exp="350" str="11"/>
+  </hex>
+  <hex row="1" col="15" terrain="7" road="136"/>
+  <hex row="1" col="16" terrain="7"/>
+  <hex row="1" col="17" terrain="5"/>
+  <hex row="1" col="18" terrain="5"/>
+  <hex row="1" col="19" terrain="5"/>
+  <hex row="1" col="20" terrain="5"/>
+  <hex row="2" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="2" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="2" col="3" terrain="12" road="24" name="Benghazi harbour" flag="12" owner="0" supply="0"/>
+  <hex row="2" col="4" terrain="7"/>
+  <hex row="2" col="5" terrain="7"/>
+  <hex row="2" col="6" terrain="7">
+    <unit id="2299" owner="1" flag="27" face="14" exp="300" str="11"/>
+  </hex>
+  <hex row="2" col="7" terrain="7" road="17" name="Via Balbia"/>
+  <hex row="2" col="8" terrain="7">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="2" col="9" terrain="7"/>
+  <hex row="2" col="10" terrain="16"/>
+  <hex row="2" col="11" terrain="16"/>
+  <hex row="2" col="12" terrain="7" road="18">
+    <unit id="336" owner="1" flag="27" face="14" transport="2310" exp="350" str="12"/>
+  </hex>
+  <hex row="2" col="13" terrain="7"/>
+  <hex row="2" col="14" terrain="7"/>
+  <hex row="2" col="15" terrain="7"/>
+  <hex row="2" col="16" terrain="7" road="136"/>
+  <hex row="2" col="17" terrain="7" road="152"/>
+  <hex row="2" col="18" terrain="5"/>
+  <hex row="2" col="19" terrain="7"/>
+  <hex row="2" col="20" terrain="5"/>
+  <hex row="3" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="3" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="3" col="3" terrain="1" road="19" name="Benghazi"/>
+  <hex row="3" col="4" terrain="1" road="168" name="Benghazi">
+    <unit id="625" owner="0" flag="13" face="6" exp="79" str="7"/>
+  </hex>
+  <hex row="3" col="5" terrain="7" road="130" name="Via Balbia"/>
+  <hex row="3" col="6" terrain="7" road="40" name="Via Balbia"/>
+  <hex row="3" col="7" terrain="7" road="131"/>
+  <hex row="3" col="8" terrain="1" road="40" name="Banina" flag="12" owner="0">
+    <unit id="625" owner="0" flag="13" face="6" exp="26" str="7"/>
+  </hex>
+  <hex row="3" col="9" terrain="7" road="136"/>
+  <hex row="3" col="10" terrain="2" flag="12" owner="0"/>
+  <hex row="3" col="11" terrain="16"/>
+  <hex row="3" col="12" terrain="16" road="17"/>
+  <hex row="3" col="13" terrain="16"/>
+  <hex row="3" col="14" terrain="7"/>
+  <hex row="3" col="15" terrain="7"/>
+  <hex row="3" col="16" terrain="7"/>
+  <hex row="3" col="17" terrain="1" road="1" name="Jardis" flag="22" owner="1"/>
+  <hex row="3" col="18" terrain="7" road="136"/>
+  <hex row="3" col="19" terrain="7" road="130"/>
+  <hex row="3" col="20" terrain="7" road="40"/>
+  <hex row="4" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="4" col="2" terrain="7"/>
+  <hex row="4" col="3" terrain="7" road="17" name="Via Balbia"/>
+  <hex row="4" col="4" terrain="7"/>
+  <hex row="4" col="5" terrain="7"/>
+  <hex row="4" col="6" terrain="7"/>
+  <hex row="4" col="7" terrain="7"/>
+  <hex row="4" col="8" terrain="7"/>
+  <hex row="4" col="9" terrain="7"/>
+  <hex row="4" col="10" terrain="16" road="136"/>
+  <hex row="4" col="11" terrain="16" road="144"/>
+  <hex row="4" col="12" terrain="16" road="17"/>
+  <hex row="4" col="13" terrain="16"/>
+  <hex row="4" col="14" terrain="16"/>
+  <hex row="4" col="15" terrain="16"/>
+  <hex row="4" col="16" terrain="7"/>
+  <hex row="4" col="17" terrain="7"/>
+  <hex row="4" col="18" terrain="7"/>
+  <hex row="4" col="19" terrain="7"/>
+  <hex row="4" col="20" terrain="7"/>
+  <hex row="5" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="5" col="2" terrain="7"/>
+  <hex row="5" col="3" terrain="7" road="17" name="Via Balbia"/>
+  <hex row="5" col="4" terrain="7"/>
+  <hex row="5" col="5" terrain="7"/>
+  <hex row="5" col="6" terrain="7"/>
+  <hex row="5" col="7" terrain="7"/>
+  <hex row="5" col="8" terrain="7"/>
+  <hex row="5" col="9" terrain="7"/>
+  <hex row="5" col="10" terrain="7"/>
+  <hex row="5" col="11" terrain="7" road="9"/>
+  <hex row="5" col="12" terrain="16" road="17"/>
+  <hex row="5" col="13" terrain="7"/>
+  <hex row="5" col="14" terrain="16"/>
+  <hex row="5" col="15" terrain="16"/>
+  <hex row="5" col="16" terrain="7"/>
+  <hex row="5" col="17" terrain="16"/>
+  <hex row="5" col="18" terrain="7"/>
+  <hex row="5" col="19" terrain="7"/>
+  <hex row="5" col="20" terrain="7"/>
+  <hex row="6" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="6" col="2" terrain="7"/>
+  <hex row="6" col="3" terrain="7" road="25" name="Via Balbia"/>
+  <hex row="6" col="4" terrain="7"/>
+  <hex row="6" col="5" terrain="7"/>
+  <hex row="6" col="6" terrain="7"/>
+  <hex row="6" col="7" terrain="7"/>
+  <hex row="6" col="8" terrain="7"/>
+  <hex row="6" col="9" terrain="5"/>
+  <hex row="6" col="10" terrain="7" road="24"/>
+  <hex row="6" col="11" terrain="7" road="130"/>
+  <hex row="6" col="12" terrain="7" road="161"/>
+  <hex row="6" col="13" terrain="7"/>
+  <hex row="6" col="14" terrain="7"/>
+  <hex row="6" col="15" terrain="7"/>
+  <hex row="6" col="16" terrain="16"/>
+  <hex row="6" col="17" terrain="16"/>
+  <hex row="6" col="18" terrain="16"/>
+  <hex row="6" col="19" terrain="16"/>
+  <hex row="6" col="20" terrain="16"/>
+  <hex row="7" col="1" terrain="7"/>
+  <hex row="7" col="2" terrain="7"/>
+  <hex row="7" col="3" terrain="7" road="17" name="Via Balbia"/>
+  <hex row="7" col="4" terrain="7" road="136"/>
+  <hex row="7" col="5" terrain="7" road="144"/>
+  <hex row="7" col="6" terrain="7"/>
+  <hex row="7" col="7" terrain="7"/>
+  <hex row="7" col="8" terrain="7"/>
+  <hex row="7" col="9" terrain="5" road="18"/>
+  <hex row="7" col="10" terrain="5" road="33"/>
+  <hex row="7" col="11" terrain="5"/>
+  <hex row="7" col="12" terrain="7"/>
+  <hex row="7" col="13" terrain="7"/>
+  <hex row="7" col="14" terrain="7"/>
+  <hex row="7" col="15" terrain="5"/>
+  <hex row="7" col="16" terrain="7"/>
+  <hex row="7" col="17" terrain="14"/>
+  <hex row="7" col="18" terrain="16"/>
+  <hex row="7" col="19" terrain="16"/>
+  <hex row="7" col="20" terrain="16"/>
+  <hex row="8" col="1" terrain="7"/>
+  <hex row="8" col="2" terrain="7"/>
+  <hex row="8" col="3" terrain="7" road="17" name="Via Balbia"/>
+  <hex row="8" col="4" terrain="7"/>
+  <hex row="8" col="5" terrain="7" road="9"/>
+  <hex row="8" col="6" terrain="7"/>
+  <hex row="8" col="7" terrain="7"/>
+  <hex row="8" col="8" terrain="7"/>
+  <hex row="8" col="9" terrain="5" road="33"/>
+  <hex row="8" col="10" terrain="5"/>
+  <hex row="8" col="11" terrain="7"/>
+  <hex row="8" col="12" terrain="7"/>
+  <hex row="8" col="13" terrain="5"/>
+  <hex row="8" col="14" terrain="7"/>
+  <hex row="8" col="15" terrain="5"/>
+  <hex row="8" col="16" terrain="14"/>
+  <hex row="8" col="17" terrain="7">
+    <unit id="986" owner="1" flag="23" face="0" exp="39"/>
+  </hex>
+  <hex row="8" col="18" terrain="14"/>
+  <hex row="8" col="19" terrain="7"/>
+  <hex row="8" col="20" terrain="16"/>
+  <hex row="9" col="1" terrain="7"/>
+  <hex row="9" col="2" terrain="7"/>
+  <hex row="9" col="3" terrain="1" road="25" name="Quaminis" flag="12" owner="0"/>
+  <hex row="9" col="4" terrain="7"/>
+  <hex row="9" col="5" terrain="7" road="40"/>
+  <hex row="9" col="6" terrain="7" road="136"/>
+  <hex row="9" col="7" terrain="1" road="186" name="Suluq" flag="12" owner="0"/>
+  <hex row="9" col="8" terrain="7" road="34"/>
+  <hex row="9" col="9" terrain="7"/>
+  <hex row="9" col="10" terrain="7"/>
+  <hex row="9" col="11" terrain="7"/>
+  <hex row="9" col="12" terrain="5"/>
+  <hex row="9" col="13" terrain="7"/>
+  <hex row="9" col="14" terrain="7"/>
+  <hex row="9" col="15" terrain="7"/>
+  <hex row="9" col="16" terrain="14"/>
+  <hex row="9" col="17" terrain="14"/>
+  <hex row="9" col="18" terrain="14"/>
+  <hex row="9" col="19" terrain="7"/>
+  <hex row="9" col="20" terrain="7"/>
+  <hex row="10" col="1" terrain="7"/>
+  <hex row="10" col="2" terrain="7"/>
+  <hex row="10" col="3" terrain="7" road="17" name="Via Balbia">
+    <unit id="204" owner="0" flag="13" face="0" transport="224" exp="113"/>
+  </hex>
+  <hex row="10" col="4" terrain="7" road="130"/>
+  <hex row="10" col="5" terrain="7"/>
+  <hex row="10" col="6" terrain="7" road="130"/>
+  <hex row="10" col="7" terrain="1" road="33" name="Suluq"/>
+  <hex row="10" col="8" terrain="1" road="136" name="Suluq"/>
+  <hex row="10" col="9" terrain="7" road="130"/>
+  <hex row="10" col="10" terrain="7" road="40"/>
+  <hex row="10" col="11" terrain="7" road="136"/>
+  <hex row="10" col="12" terrain="7"/>
+  <hex row="10" col="13" terrain="7"/>
+  <hex row="10" col="14" terrain="7"/>
+  <hex row="10" col="15" terrain="7"/>
+  <hex row="10" col="16" terrain="7"/>
+  <hex row="10" col="17" terrain="7"/>
+  <hex row="10" col="18" terrain="7"/>
+  <hex row="10" col="19" terrain="7"/>
+  <hex row="10" col="20" terrain="7"/>
+  <hex row="11" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="11" col="2" terrain="7"/>
+  <hex row="11" col="3" terrain="7" road="17" name="Via Balbia">
+    <unit id="206" owner="0" flag="13" face="0" transport="224" exp="180"/>
+  </hex>
+  <hex row="11" col="4" terrain="7"/>
+  <hex row="11" col="5" terrain="7"/>
+  <hex row="11" col="6" terrain="7" road="18"/>
+  <hex row="11" col="7" terrain="7"/>
+  <hex row="11" col="8" terrain="7"/>
+  <hex row="11" col="9" terrain="16"/>
+  <hex row="11" col="10" terrain="16"/>
+  <hex row="11" col="11" terrain="16"/>
+  <hex row="11" col="12" terrain="7" road="136"/>
+  <hex row="11" col="13" terrain="7" road="136"/>
+  <hex row="11" col="14" terrain="7"/>
+  <hex row="11" col="15" terrain="7"/>
+  <hex row="11" col="16" terrain="7"/>
+  <hex row="11" col="17" terrain="7"/>
+  <hex row="11" col="18" terrain="7"/>
+  <hex row="11" col="19" terrain="7"/>
+  <hex row="11" col="20" terrain="7"/>
+  <hex row="12" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="12" col="2" terrain="7"/>
+  <hex row="12" col="3" terrain="7" road="17" name="Via Balbia">
+    <unit id="701" owner="0" flag="13" face="0" exp="56" str="3"/>
+  </hex>
+  <hex row="12" col="4" terrain="7"/>
+  <hex row="12" col="5" terrain="7"/>
+  <hex row="12" col="6" terrain="7" road="17"/>
+  <hex row="12" col="7" terrain="7"/>
+  <hex row="12" col="8" terrain="16"/>
+  <hex row="12" col="9" terrain="7"/>
+  <hex row="12" col="10" terrain="7"/>
+  <hex row="12" col="11" terrain="7"/>
+  <hex row="12" col="12" terrain="16"/>
+  <hex row="12" col="13" terrain="16"/>
+  <hex row="12" col="14" terrain="7" road="136"/>
+  <hex row="12" col="15" terrain="7" road="136"/>
+  <hex row="12" col="16" terrain="7"/>
+  <hex row="12" col="17" terrain="7"/>
+  <hex row="12" col="18" terrain="7"/>
+  <hex row="12" col="19" terrain="7"/>
+  <hex row="12" col="20" terrain="7" road="18"/>
+  <hex row="13" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="13" col="2" terrain="7"/>
+  <hex row="13" col="3" terrain="1" road="9" name="Al Mogrun" flag="12" owner="0">
+    <unit id="982" owner="0" flag="13" face="1" exp="86" str="3"/>
+  </hex>
+  <hex row="13" col="4" terrain="7"/>
+  <hex row="13" col="5" terrain="7" road="34"/>
+  <hex row="13" col="6" terrain="7" road="33"/>
+  <hex row="13" col="7" terrain="7"/>
+  <hex row="13" col="8" terrain="7"/>
+  <hex row="13" col="9" terrain="7"/>
+  <hex row="13" col="10" terrain="7"/>
+  <hex row="13" col="11" terrain="16"/>
+  <hex row="13" col="12" terrain="7"/>
+  <hex row="13" col="13" terrain="7"/>
+  <hex row="13" col="14" terrain="16"/>
+  <hex row="13" col="15" terrain="16"/>
+  <hex row="13" col="16" terrain="7" road="136"/>
+  <hex row="13" col="17" terrain="7" road="136"/>
+  <hex row="13" col="18" terrain="7"/>
+  <hex row="13" col="19" terrain="1" road="50" name="Zawiyat Mausus"/>
+  <hex row="13" col="20" terrain="1" road="51" name="Zawiyat Mausus" flag="22" owner="1"/>
+  <hex row="14" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="14" col="2" terrain="7"/>
+  <hex row="14" col="3" terrain="7"/>
+  <hex row="14" col="4" terrain="7" road="146" name="Via Balbia">
+    <unit id="220" owner="0" flag="13" face="0" exp="15" str="7"/>
+  </hex>
+  <hex row="14" col="5" terrain="7"/>
+  <hex row="14" col="6" terrain="7"/>
+  <hex row="14" col="7" terrain="7"/>
+  <hex row="14" col="8" terrain="7"/>
+  <hex row="14" col="9" terrain="16"/>
+  <hex row="14" col="10" terrain="16"/>
+  <hex row="14" col="11" terrain="7"/>
+  <hex row="14" col="12" terrain="16"/>
+  <hex row="14" col="13" terrain="7"/>
+  <hex row="14" col="14" terrain="7"/>
+  <hex row="14" col="15" terrain="7"/>
+  <hex row="14" col="16" terrain="16"/>
+  <hex row="14" col="17" terrain="16"/>
+  <hex row="14" col="18" terrain="7" road="130"/>
+  <hex row="14" col="19" terrain="1" road="9" name="Zawiyat Mausus"/>
+  <hex row="14" col="20" terrain="7" road="17"/>
+  <hex row="15" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="15" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="15" col="3" terrain="7"/>
+  <hex row="15" col="4" terrain="7" road="9" name="Via Balbia">
+    <unit id="220" owner="0" flag="13" face="1" exp="26" str="7"/>
+  </hex>
+  <hex row="15" col="5" terrain="7" road="144" name="Via Balbia">
+    <unit id="220" owner="0" flag="13" face="0" exp="91" str="9"/>
+  </hex>
+  <hex row="15" col="6" terrain="7"/>
+  <hex row="15" col="7" terrain="16"/>
+  <hex row="15" col="8" terrain="16"/>
+  <hex row="15" col="9" terrain="7"/>
+  <hex row="15" col="10" terrain="16"/>
+  <hex row="15" col="11" terrain="16"/>
+  <hex row="15" col="12" terrain="7"/>
+  <hex row="15" col="13" terrain="16"/>
+  <hex row="15" col="14" terrain="7"/>
+  <hex row="15" col="15" terrain="7"/>
+  <hex row="15" col="16" terrain="7"/>
+  <hex row="15" col="17" terrain="7"/>
+  <hex row="15" col="18" terrain="7"/>
+  <hex row="15" col="19" terrain="7" road="18"/>
+  <hex row="15" col="20" terrain="7" road="161"/>
+  <hex row="16" col="1" terrain="9" name="Gulf of Sirte" owner="0" victory="1"/>
+  <hex row="16" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="16" col="3" terrain="7"/>
+  <hex row="16" col="4" terrain="7"/>
+  <hex row="16" col="5" terrain="7" road="9" name="Via Balbia">
+    <unit id="2369" owner="0" flag="13" face="1" exp="18" str="8"/>
+  </hex>
+  <hex row="16" col="6" terrain="7"/>
+  <hex row="16" col="7" terrain="7"/>
+  <hex row="16" col="8" terrain="7"/>
+  <hex row="16" col="9" terrain="7"/>
+  <hex row="16" col="10" terrain="7"/>
+  <hex row="16" col="11" terrain="7"/>
+  <hex row="16" col="12" terrain="16"/>
+  <hex row="16" col="13" terrain="7"/>
+  <hex row="16" col="14" terrain="7"/>
+  <hex row="16" col="15" terrain="16"/>
+  <hex row="16" col="16" terrain="7"/>
+  <hex row="16" col="17" terrain="5"/>
+  <hex row="16" col="18" terrain="7"/>
+  <hex row="16" col="19" terrain="7" road="33"/>
+  <hex row="16" col="20" terrain="7"/>
+  <hex row="17" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="17" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="17" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="17" col="4" terrain="7"/>
+  <hex row="17" col="5" terrain="7"/>
+  <hex row="17" col="6" terrain="7" road="144" name="Via Balbia">
+    <unit id="2659" owner="0" flag="13" face="1" exp="54" str="3"/>
+  </hex>
+  <hex row="17" col="7" terrain="7"/>
+  <hex row="17" col="8" terrain="7"/>
+  <hex row="17" col="9" terrain="7"/>
+  <hex row="17" col="10" terrain="7"/>
+  <hex row="17" col="11" terrain="7"/>
+  <hex row="17" col="12" terrain="7"/>
+  <hex row="17" col="13" terrain="7"/>
+  <hex row="17" col="14" terrain="7"/>
+  <hex row="17" col="15" terrain="7"/>
+  <hex row="17" col="16" terrain="5"/>
+  <hex row="17" col="17" terrain="5" road="34"/>
+  <hex row="17" col="18" terrain="5" road="34"/>
+  <hex row="17" col="19" terrain="5"/>
+  <hex row="17" col="20" terrain="16"/>
+  <hex row="18" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="18" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="18" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="18" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="18" col="5" terrain="7"/>
+  <hex row="18" col="6" terrain="7" road="17" name="Via Balbia">
+    <unit id="2369" owner="0" flag="13" face="0" exp="41" str="7"/>
+  </hex>
+  <hex row="18" col="7" terrain="7"/>
+  <hex row="18" col="8" terrain="7"/>
+  <hex row="18" col="9" terrain="7"/>
+  <hex row="18" col="10" terrain="7"/>
+  <hex row="18" col="11" terrain="16"/>
+  <hex row="18" col="12" terrain="16"/>
+  <hex row="18" col="13" terrain="7"/>
+  <hex row="18" col="14" terrain="7"/>
+  <hex row="18" col="15" terrain="7" road="34"/>
+  <hex row="18" col="16" terrain="5" road="34"/>
+  <hex row="18" col="17" terrain="5"/>
+  <hex row="18" col="18" terrain="5"/>
+  <hex row="18" col="19" terrain="14"/>
+  <hex row="18" col="20" terrain="14"/>
+  <hex row="19" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="19" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="19" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="19" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="19" col="5" terrain="7"/>
+  <hex row="19" col="6" terrain="7" road="17" name="Via Balbia">
+    <unit id="746" owner="0" flag="13" face="0" str="9"/>
+  </hex>
+  <hex row="19" col="7" terrain="7"/>
+  <hex row="19" col="8" terrain="7"/>
+  <hex row="19" col="9" terrain="7"/>
+  <hex row="19" col="10" terrain="16"/>
+  <hex row="19" col="11" terrain="16"/>
+  <hex row="19" col="12" terrain="7"/>
+  <hex row="19" col="13" terrain="7"/>
+  <hex row="19" col="14" terrain="7" road="18"/>
+  <hex row="19" col="15" terrain="7"/>
+  <hex row="19" col="16" terrain="7"/>
+  <hex row="19" col="17" terrain="16"/>
+  <hex row="19" col="18" terrain="16"/>
+  <hex row="19" col="19" terrain="14"/>
+  <hex row="19" col="20" terrain="5">
+    <unit id="986" owner="1" flag="23" face="0" exp="49"/>
+  </hex>
+  <hex row="20" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="20" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="20" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="20" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="20" col="5" terrain="7"/>
+  <hex row="20" col="6" terrain="1" road="25" name="Beda Fomm">
+    <unit id="2369" owner="0" flag="13" face="0" exp="85" str="5"/>
+  </hex>
+  <hex row="20" col="7" terrain="1" road="168" name="Beda Fomm" flag="12" owner="0"/>
+  <hex row="20" col="8" terrain="7"/>
+  <hex row="20" col="9" terrain="7" road="40"/>
+  <hex row="20" col="10" terrain="7"/>
+  <hex row="20" col="11" terrain="7"/>
+  <hex row="20" col="12" terrain="7"/>
+  <hex row="20" col="13" terrain="1" road="34" name="Antelat" flag="22" owner="1"/>
+  <hex row="20" col="14" terrain="7" road="33"/>
+  <hex row="20" col="15" terrain="7"/>
+  <hex row="20" col="16" terrain="7"/>
+  <hex row="20" col="17" terrain="7"/>
+  <hex row="20" col="18" terrain="7"/>
+  <hex row="20" col="19" terrain="7"/>
+  <hex row="20" col="20" terrain="14"/>
+  <hex row="21" col="1" terrain="9" name="Gulf of Sirte" owner="0" victory="1"/>
+  <hex row="21" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="21" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="21" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="21" col="5" terrain="7" road="18" name="Via Balbia"/>
+  <hex row="21" col="6" terrain="1" road="35" name="Beda Fomm">
+    <unit id="874" owner="0" flag="13" face="0" exp="15" str="2"/>
+  </hex>
+  <hex row="21" col="7" terrain="7"/>
+  <hex row="21" col="8" terrain="7" road="130"/>
+  <hex row="21" col="9" terrain="7"/>
+  <hex row="21" col="10" terrain="7" road="136"/>
+  <hex row="21" col="11" terrain="7" road="138"/>
+  <hex row="21" col="12" terrain="1" name="Antelat"/>
+  <hex row="21" col="13" terrain="7"/>
+  <hex row="21" col="14" terrain="7"/>
+  <hex row="21" col="15" terrain="7"/>
+  <hex row="21" col="16" terrain="7"/>
+  <hex row="21" col="17" terrain="7"/>
+  <hex row="21" col="18" terrain="7"/>
+  <hex row="21" col="19" terrain="7"/>
+  <hex row="21" col="20" terrain="7" road="18"/>
+  <hex row="22" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="22" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="22" col="3" terrain="9" name="Gulf of Sirte"/>
+  <hex row="22" col="4" terrain="9" name="Gulf of Sirte"/>
+  <hex row="22" col="5" terrain="7" road="17" name="The Pimple"/>
+  <hex row="22" col="6" terrain="7"/>
+  <hex row="22" col="7" terrain="7"/>
+  <hex row="22" col="8" terrain="7"/>
+  <hex row="22" col="9" terrain="7"/>
+  <hex row="22" col="10" terrain="7"/>
+  <hex row="22" col="11" terrain="7"/>
+  <hex row="22" col="12" terrain="7" road="137"/>
+  <hex row="22" col="13" terrain="7" road="136"/>
+  <hex row="22" col="14" terrain="7"/>
+  <hex row="22" col="15" terrain="7"/>
+  <hex row="22" col="16" terrain="7"/>
+  <hex row="22" col="17" terrain="1" road="32" name="Saunnu"/>
+  <hex row="22" col="18" terrain="7"/>
+  <hex row="22" col="19" terrain="7"/>
+  <hex row="22" col="20" terrain="7" road="17"/>
+  <hex row="23" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="23" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="23" col="3" terrain="7"/>
+  <hex row="23" col="4" terrain="7" flag="22" owner="1" victory="1">
+    <unit id="2594" owner="1" flag="23" face="6" transport="334" exp="318" ent="5"/>
+  </hex>
+  <hex row="23" col="5" terrain="7" road="33" name="Via Balbia" flag="22" owner="1" victory="1">
+    <unit id="324" owner="1" flag="23" face="6" transport="334" exp="344" ent="5"/>
+  </hex>
+  <hex row="23" col="6" terrain="7"/>
+  <hex row="23" col="7" terrain="7"/>
+  <hex row="23" col="8" terrain="7"/>
+  <hex row="23" col="9" terrain="7"/>
+  <hex row="23" col="10" terrain="7"/>
+  <hex row="23" col="11" terrain="7" road="40"/>
+  <hex row="23" col="12" terrain="7"/>
+  <hex row="23" col="13" terrain="7"/>
+  <hex row="23" col="14" terrain="7" road="136"/>
+  <hex row="23" col="15" terrain="7" road="162"/>
+  <hex row="23" col="16" terrain="1" road="42" name="Saunnu" flag="22" owner="1"/>
+  <hex row="23" col="17" terrain="7" road="136"/>
+  <hex row="23" col="18" terrain="7"/>
+  <hex row="23" col="19" terrain="7" road="34"/>
+  <hex row="23" col="20" terrain="7" road="33"/>
+  <hex row="24" col="1" terrain="9" name="Gulf of Sirte"/>
+  <hex row="24" col="2" terrain="9" name="Gulf of Sirte"/>
+  <hex row="24" col="3" terrain="7"/>
+  <hex row="24" col="4" terrain="7" road="18" name="Via Balbia">
+    <unit id="328" owner="1" flag="23" face="7" transport="334" exp="349"/>
+  </hex>
+  <hex row="24" col="5" terrain="7"/>
+  <hex row="24" col="6" terrain="7">
+    <unit id="1701" owner="1" flag="23" face="7" transport="334" exp="475" ent="5" str="8" ldr="1"/>
+  </hex>
+  <hex row="24" col="7" terrain="7"/>
+  <hex row="24" col="8" terrain="2" road="16" name="Ajdabia airport" flag="22" owner="1">
+    <unit id="1705" owner="1" flag="23" face="9" exp="200" ent="5" str="4"/>
+  </hex>
+  <hex row="24" col="9" terrain="7" road="34"/>
+  <hex row="24" col="10" terrain="7" road="34"/>
+  <hex row="24" col="11" terrain="7"/>
+  <hex row="24" col="12" terrain="7" road="136"/>
+  <hex row="24" col="13" terrain="7" road="130"/>
+  <hex row="24" col="14" terrain="7" road="34"/>
+  <hex row="24" col="15" terrain="7"/>
+  <hex row="24" col="16" terrain="7"/>
+  <hex row="24" col="17" terrain="7"/>
+  <hex row="24" col="18" terrain="7" road="130"/>
+  <hex row="24" col="19" terrain="7"/>
+  <hex row="24" col="20" terrain="7"/>
+</map>

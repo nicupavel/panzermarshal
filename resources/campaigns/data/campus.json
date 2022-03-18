@@ -1,0 +1,1102 @@
+[
+ {
+  "id": 0, 
+  "intro": "Commander, you must force your way into Tunisia by way of the Kasserine Pass.  It is suspected that Rommel will oppose this move with the bulk of his forces.  Be aware that Rommel troops are very experienced and Rommel is always sly in his engagements, he is not named Desert Fox for nothing ! He might try to lure you away from your objective in the east  at Sbiba city and get you to focus on the northen objective at Thala while he waits for his promised reinforcements. Take great care with his panzer units, these are veteran units and can inflict a lot of losses to your side.<br><br>Good luck, Commander.", 
+  "outcome": {
+   "briliant": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "This operation was a snafu from the start, Commander.  The United States Army doesn't have the time or the patience to put up with such ineptitude.  Do me a personal favor and get outta here.  Dismissed!"
+   }, 
+   "tactical": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 1, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }
+  }, 
+  "scenario": "wdkass.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 1, 
+  "intro": "Commander.  Following your victory at Kasserine, the enemy is reeling. You must follow up your win with an assault on the Mareth line.", 
+  "outcome": {
+   "briliant": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "This operation was a snafu from the start, Commander.  The United States Army doesn't have the time or the patience to put up with such ineptitude.  Do me a personal favor and get outta here.  Dismissed!"
+   }, 
+   "tactical": {
+    "goto": 2, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 800, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "victory": {
+    "goto": 4, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "wdmareth.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 2, 
+  "intro": "Commander. Even though you had some trouble overseas, the situation demands that we once more appeal to you to take over a combat command. As you know, the Germans have invaded the United States. They have now captured the atomic bomb factory at Oak Ridge. You must take back the factory and drive the enemy from the area before the technology can be sent to Germany and used against us.", 
+  "outcome": {
+   "briliant": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  Hey, rumor has it the president may want to pin a medal on you himself. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "I don't know a diplomatic way to say this, Commander.  You've been canned.  Oh, you'll get a medal and they'll probably call you a hero.  But, you know the truth, and you've got to live with it."
+   }, 
+   "tactical": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 3, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  Hey, rumor has it the president may want to pin a medal on you himself. "
+   }
+  }, 
+  "scenario": "wdoakridge.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 3, 
+  "intro": "Following the victory at Oak Ridge, we have been able to sustain a counteroffensive against the Axis invaders. We have trapped the remnants of this force near Savannah. You must destroy these forces completely. The U.S. and British Fleets have sent units to deny any efforts to save these forces.", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "I don't know a diplomatic way to say this, Commander.  You've been canned.  Oh, you'll get a medal and they'll probably call you a hero.  But, you know the truth, and you've got to live with it."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "wdsav.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 4, 
+  "intro": "Now we have an interesting little assignment for you. Your forces will accompany a party of British Commandos on a raid of the Norwegian port of Haugesund. Speed is imperative here or we will be forced to abandon you and your men in Norway.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }, 
+   "lose": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Commander, you have failed miserably.  One can only wonder why the British Navy even picked you up after the battle. However, since we're in desperate need of commanders we will give you a second chance. Your next assignment will be the Italian island of Pantelleria where aircraft from bases on the island have harrassed our shipping and pose a threat to our planned invasion of Sicily. You and your men will remove this problem by invading and taking the Island."
+   }, 
+   "tactical": {
+    "goto": 5, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Commander, I suppose it was too much to hope that you would put up a good show for our British Allies. Your next assignment will be the Italian island of Pantelleria where aircraft from bases on the island have harrassed our shipping and pose a threat to our planned invasion of Sicily. You and your men will remove this problem by invading and taking the Island."
+   }, 
+   "victory": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 200, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }
+  }, 
+  "scenario": "wdhaugesun.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 5, 
+  "intro": "Commander, the Italian island bastion of Pantalleria has proved a thorn in our side. Aircraft from bases on the island have harrassed our shipping and pose a threat to our planned invasion of Sicily. You and your men will remove this problem by invading and taking the Island.", 
+  "outcome": {
+   "briliant": {
+    "goto": 7, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well, commander, you managed a victory, but you could have done more in Ike's opinion. "
+   }, 
+   "victory": {
+    "goto": 6, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well, commander, you managed a victory, but you could have done more in Ike's opinion. "
+   }
+  }, 
+  "scenario": "wdpanta.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 6, 
+  "intro": "Commander, you will lead our assault on Sicily.  If Sicily falls into our hands, the Italians will never recover.  Now is our chance to drive them out of the War.", 
+  "outcome": {
+   "briliant": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Good work.  You hit a  home run!  Now, we've got men and machines rolling into southern Italy, and rumor has it that Italy's on the verge of surrendering.  Nice going, Commander."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 10, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Well, nice work.  Now, we've got men and machines rolling into southern Italy, and rumor has it that Italy's on the verge of surrendering.  Good goin', Commander."
+   }
+  }, 
+  "scenario": "wdsicily.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 7, 
+  "intro": "Good news, Comrade General.  The fascist offensive has been halted.  Now is the time for our counter-offensive.  You have been selected to drive the fascists back.  The Red Army of workers and peasants will triumph!", 
+  "outcome": {
+   "briliant": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You have exceeded our expectations!  The enemy has been crushed.  We are victorious.   Now, the Red Army holds the initiative.  This is good, very good.  To the west, Comrade!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Your failure to follow the clear directives of the Party's Central Committee has resulted in a grievous defeat.  You are therefore to report to Yakutsk, to study further the writings of Marx, Lenin and the Great Stalin.  "
+   }, 
+   "tactical": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You and your forces have crushed the enemy.  We are victorious.   Now, the Red Army holds the initiative.  This is good.  To the west, Comrade!"
+   }, 
+   "victory": {
+    "goto": 8, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "You and your forces have crushed the enemy.  We are victorious.   Now, the Red Army holds the initiative.  This is good.  To the west, Comrade!"
+   }
+  }, 
+  "scenario": "wdpro.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 8, 
+  "intro": "At this moment, the fascist invaders are in retreat.  But, we know they hope to stop our offensive along the Dnepr River.  You and your men will force a crossing of the river aided by our Guards Airborne forces. The sight of red parachutes will help demoralize the fascists and bring us victory. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Good work, Comrade, very good!  Thanks to your proper understanding of party doctrine, you have been able to accomplish your mission.  The fascist invaders are trapped without any hope of escape.  Now, prepare yourself and your men to drive them out of the Motherland."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have been defeated Comrade General.  The Party is most displeased with your performance.  Due to your failure, at Prohkorovka, many workers and peasants are no longer with us.  Report immediately for punishment, you will be informed of your trial date later."
+   }, 
+   "tactical": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Comrade, your counterattack has sent the enemy reeling, but, at the same time your men have suffered severe losses.  Nevertheless, the Red Army now holds the initiative.  It is the beginning of the end of the fascists. Comrade, to the west!"
+   }, 
+   "victory": {
+    "goto": 9, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Comrade, your counterattack has sent the enemy reeling, but, at the same time your men have suffered severe losses.  Nevertheless, the Red Army now holds the initiative.  It is the beginning of the end of the fascists. Comrade, to the west!"
+   }
+  }, 
+  "scenario": "wdkan.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 9, 
+  "intro": "Comrade General, for over 900 days, Leningrad has been entrapped by the fascist invaders.  The Party has decreed that you must break their stranglehold on the city.  Comrade, the people must be freed at all costs. Their sacrifices must not have been in vain.", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Commander, welcome back to the west!  After the brilliant performance you and your men have given in Russia, we have decided we can once again use you in the west. Perhaps you won't need those snowshoes I sent you last month after all!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You have been defeated Comrade General.  The Party is most displeased with your performance.  Due to your failure, at Prohkorovka, many workers and peasants are no longer with us.  Report immediately for punishment, you will be informed of your trial date later."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Your failure to follow the clear directives of the Party's Central Committee has resulted in a grievous defeat.  You are therefore to report to Yakutsk, to study further the writings of Marx, Lenin and the Great Stalin.  "
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Commander, welcome back to the west!  After the brilliant performance you and your men have given in Russia, we have decided we can once again use you in the west. Perhaps you won't need those snowshoes I sent you last month after all!"
+   }
+  }, 
+  "scenario": "wdlen.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 10, 
+  "intro": "Commander, our Sicilian invasion has become bogged down in the Simeto Valley. The Italians must be driven back.  Powerful units of the Hermann Goering Panzer division are known to be in the area. ", 
+  "outcome": {
+   "briliant": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 11, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }
+  }, 
+  "scenario": "wdsimeto.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 11, 
+  "intro": "General Patton's drive on Messina has been halted in the face of fierce Italian resistance. You and your men will make an Amphibious landing in the enemy's rear at Cape Milazzo to break his defenses. Patton must beat that pompous Brit, Montgomery, to Messina at all costs!", 
+  "outcome": {
+   "briliant": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 12, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "wdmillazzo.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 12, 
+  "intro": "Commander, good to see you.  Smoke? Here you are.  Well, let's get down to business.  American and British troops are to land at Salerno and begin a Second Front against the Germans and knock Italy out of the war.  Once you're ashore, you'll need to get your men off those beaches  pronto.  By the way, you should be aware that the Krauts have got a panzer division somewhere in the area.  Good luck, Commander.", 
+  "outcome": {
+   "briliant": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Good work.  You hit a  home run!  Now, we've got men and machines rolling into southern Italy, and rumor has it that Italy's on the verge of surrendering.  Nice going, Commander."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 13, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Good work.  You hit a  home run!  Now, we've got men and machines rolling into southern Italy, and rumor has it that Italy's on the verge of surrendering.  Nice going, Commander."
+   }
+  }, 
+  "scenario": "wdsalerno.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 13, 
+  "intro": "Commander, the Germans are entrenched in apparently impregnable positions atop Monte Cassino. You and your men will attempt to drive to the rear of the positions and open the road to Rome. A simultaneous frontal assault will try to overrun the enemy stronghold while they are preoccupied by your attack.", 
+  "outcome": {
+   "briliant": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  Hey, rumor has it the president may want to pin a medal on you himself. "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 14, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }
+  }, 
+  "scenario": "wdcassino.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 14, 
+  "intro": "Commander, we have reached the outskirts of the Italian capitol. German resistance is heavy, but we are sure you can drive through them and take the capitol!", 
+  "outcome": {
+   "briliant": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "I don't know a diplomatic way to say this, Commander.  You've been canned.  Oh, you'll get a medal and they'll probably call you a hero.  But, you know the truth, and you've got to live with it."
+   }, 
+   "tactical": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 15, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 400, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }
+  }, 
+  "scenario": "wdrome.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 15, 
+  "intro": "As you well know, commander, we have planned for many months for an invasion of Europe. All available forces have been summoned for this invasion which will occur at Normandy, France. You and you men are assigned an important role in this attack.  You must get off the beach and drive on the strategic city of St. Lo as quickly as possible. Best of luck, Commander.", 
+  "outcome": {
+   "briliant": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Excellent work, Commander. You've got the Krauts high-tailing it back to the fatherland. Looks like you might get another star for this one. I heard you were right up there with your boys!  Good job, good job, son."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 16, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well done, Commander. You've got the Krauts high-tailing it back to the fatherland. Looks like you might get another star for this one. Good job son."
+   }
+  }, 
+  "scenario": "wddday.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 16, 
+  "intro": "Commander, our troops are driving on the city of Sedan. This was the scene of a German victory in the early stages of the war.  It is now our turn to rout the Krauts.", 
+  "outcome": {
+   "briliant": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "We really needed a knockout blow here, Commander.  Instead, you put up a weak little jab.  Our boys are fighters, but we need a general who can lead them!  Son, I put a lot of faith in your abilities... I was wrong, Commander.  It's time to send you back home. "
+   }, 
+   "tactical": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 17, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }
+  }, 
+  "scenario": "wdsedan44.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 17, 
+  "intro": "Okay, Commander, here's the deal.  We've been here for two months now.  We've got to push the Krauts out of Metz.  Once we've done that, we can smash through the Maginot Line and drive into Germany.  I'm counting on you and your men.  Good luck.", 
+  "outcome": {
+   "briliant": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Well done, Commander. You've got the Krauts high-tailing it back to the fatherland. Looks like you might get another star for this one. Good job son."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "This operation was a snafu from the start, Commander.  The United States Army doesn't have the time or the patience to put up with such ineptitude.  Do me a personal favor and get outta here.  Dismissed!"
+   }, 
+   "tactical": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Look Commander, Metz was a tough nut to crack, and you did it.  But, there's a lot of talk at HQ about you right now.  The brass seems to think you could have moved a lot faster than you did.   Don't worry, we'll get them next time."
+   }, 
+   "victory": {
+    "goto": 18, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 500, 
+    "text": "Look Commander, Metz was a tough nut to crack, and you did it.  But, there's a lot of talk at HQ about you right now.  The brass seems to think you could have moved a lot faster than you did.   Don't worry, we'll get them next time."
+   }
+  }, 
+  "scenario": "wdmetz.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 18, 
+  "intro": "Commander, the situation here is critical. The germans have surprised us with a winter offensive in the Ardennes. Our troops there have been cut down like butter. We are sending you and your seasoned troops in to stop the German tide. You must be successful, the outcome of the war is still in doubt!", 
+  "outcome": {
+   "briliant": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1500, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, you struck out here, and good men died because of it.  We're lucky the Krauts didn't kick us back into the sea.  You've earned yourself a ticket home, but we both know there's nothing to be proud of.  Good luck as a civilian."
+   }, 
+   "tactical": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1500, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }, 
+   "victory": {
+    "goto": 19, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1500, 
+    "text": "Well, you did your best and you will be given another chance to prove yourself.  Good luck, Commander."
+   }
+  }, 
+  "scenario": "wdbulge.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 19, 
+  "intro": "Oh, Commander, come on in. Well, it's almost over. We want you to capture the experimental airbase here at Dessau before the Commies can get there and before the Krauts can destroy everything else. Now, there's nothing complicated about this, just get there, fast. Good luck.<br>\u001a", 
+  "outcome": {
+   "briliant": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "All right, Commander, a job well done!  The Krauts never knew what hit them.  Well, we're really looking good, thanks to you.  By the way, rumor has it that Ike speaks highly of you.  "
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "What the sam hill happened Commander?  Right when the war is about to end you get yourself clobbered by the Krauts. Is that the way to end a war, mister? I don't think so.  At least it's all over and we won. You're dismissed.<br>\u001a"
+   }, 
+   "tactical": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }, 
+   "victory": {
+    "goto": 20, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }
+  }, 
+  "scenario": "wddes.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 20, 
+  "intro": "Commander, the Bolsheviks have almost succeeded in taking Berlin. Ike has decided to turn our forces south and occupy Austria.  You will lead our troops to the attack!", 
+  "outcome": {
+   "briliant": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Amazing job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "What the sam hill happened Commander?  Right when the war is about to end you get yourself clobbered by the Krauts. Is that the way to end a war, mister? I don't think so.  At least it's all over and we won. You're dismissed.<br>\u001a"
+   }, 
+   "tactical": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "You did it Commander! We got what we came for, and you've done a fine job for us.  And now son, it's time to go home. You've done your country proud. Here have a cigar. See you stateside.<br>\u001a"
+   }, 
+   "victory": {
+    "goto": 21, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Not bad, Commander, but we're going to have to do better in the next one, or it's going to be a long war."
+   }
+  }, 
+  "scenario": "wdaustria.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 21, 
+  "intro": "Austria has fallen and the Bolsheviks have taken Berlin.  The Hungarians, however, still defy us. You will lead an attack and overwhelm the Hungarian resistance. It is known that Stalin has made plans of his own for the future of Hungary.  Any Russian interference will be treated as an act of war. Do not hesitate to fire on our former allies.", 
+  "outcome": {
+   "briliant": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well, the Bolshevik hordes have proven too much for us. The U.S. cannot hope to win a war against them. We have pulled our troops out of Hungary and sued for peace. As for you, Commander, your next assignment is a one man commando raid on Hirohito's palace in Japan!"
+   }, 
+   "tactical": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Commander, though you won a narrow victory, you have enraged the Soviets and they have declared war on the United States. Because of the poor showing you and your men have made against second rate Soviet unit, there is no hope that we can defeat the Russians in a protracted war. We are forced to sue for peace and give Stalin a free hand in Central Europe."
+   }, 
+   "victory": {
+    "goto": 22, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Good job, Commander.  We dropped you into a real mess, but you came out smelling like a rose.  The fighting was tough, but your boys hung in there."
+   }
+  }, 
+  "scenario": "wdhungary.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 22, 
+  "intro": "Commander, your victory over the Bolsheviks has given Congress the incentive to declare war on the Soviets. With the help of our British allies, we have retaken the german capitol of Berlin. It is now up to you to drive the Commies back across the Oder.", 
+  "outcome": {
+   "briliant": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Good work, Commander. We really have those Commies on the run.  May I introduce you to your new Commanding Officer, General Manstein, formerly with the German Wehrmacht. He will brief you on our next mission!"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, I am surprised to see you alive. After this fiasco, I would have committed suicide rather than return to face the shame of this defeat.  The Bolshevik hordes are just now approaching our position and we have no power to stop their surge. There is a good chance all od Europe will be overrun before they are through. If I was you I would grab a rifle and defend yourself!"
+   }, 
+   "tactical": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Well, Commander, you have dashed our hopes of victory. We have asked the Russians for peace terms and have been forced to evacuate Berlin. All of Germany will be under Bolshevik control thanks to you. You are lucky that Ike has outlawed the firing squad, however, he may just reinstate it in your case! "
+   }, 
+   "victory": {
+    "goto": 23, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Good work, Commander. We really have those Commies on the run.  May I introduce you to your new Commanding Officer, General Manstein, formerly with the German Wehrmacht. He will brief you on our next mission!"
+   }
+  }, 
+  "scenario": "wdbear.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 23, 
+  "intro": "Herr General,  it is your privilege to lead our attack here, south of Novgorod, in the Russian heartland.  A successful offensive here will sever communications between Moscow and Leningrad and trap several Soviet armies. It is, of course, imperative to take your objectives quickly.  Our thoughts are with you.", 
+  "outcome": {
+   "briliant": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Excellent. The Bolshevik armies are cut off without hope of relief.  And, even now,  communication between Moscow and Leningrad has been severed.  Leningrad should now fall easily; Moscow will be more problematic."
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, I am surprised to see you alive. After this fiasco, I would have committed suicide rather than return to face the shame of this defeat.  The Bolshevik hordes are just now approaching our position and we have no power to stop their surge. There is a good chance all od Europe will be overrun before they are through. If I was you I would grab a rifle and defend yourself!"
+   }, 
+   "tactical": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "Well, Commander, you have dashed our hopes of victory. We have asked the Russians for peace terms and have been forced to evacuate Berlin. All of Germany will be under Bolshevik control thanks to you. You are lucky that Ike has outlawed the firing squad, however, he may just reinstate it in your case! "
+   }, 
+   "victory": {
+    "goto": 24, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 1000, 
+    "text": "A  good performance, to be sure. The Bolshevik armies are cut off without hope of relief.  And, even now,  communication between Moscow and Leningrad has been severed.  Leningrad should now fall easily; Moscow will be more problematic."
+   }
+  }, 
+  "scenario": "wdnov.xml", 
+  "startprestige": 0
+ }, 
+ {
+  "id": 24, 
+  "intro": "Herr General, our drive on Moscow has been quite successful, but enemy resistance continues to stiffen.  You must break through along the Volokolamsk Highway.   There is no doubt; the enemy will commit his toughest units to defend the capital, but we will persevere.", 
+  "outcome": {
+   "briliant": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You did it Commander.  We got what we came for. You've done a fine job for us.  It's time to go home.  You've done your country proud.  Here, have a cigar! See you stateside.<br>\u001a"
+   }, 
+   "lose": {
+    "goto": 255, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Commander, I am surprised to see you alive. After this fiasco, I would have committed suicide rather than return to face the shame of this defeat.  The Bolshevik hordes are just now approaching our position and we have no power to stop their surge. There is a good chance all od Europe will be overrun before they are through. If I was you I would grab a rifle and defend yourself!"
+   }, 
+   "tactical": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "Well, Commander, you have dashed our hopes of victory. We have asked the Russians for peace terms and have been forced to evacuate Berlin. All of Germany will be under Bolshevik control thanks to you. You are lucky that Ike has outlawed the firing squad, however, he may just reinstate it in your case! "
+   }, 
+   "victory": {
+    "goto": 254, 
+    "gotoplayed": [
+     0, 
+     0
+    ], 
+    "prestige": 0, 
+    "text": "You did it Commander.  We got what we came for. You've done a fine job for us.  It's time to go home.  You've done your country proud.  Here, have a cigar! See you stateside.<br>\u001a"
+   }
+  }, 
+  "scenario": "wdvol.xml", 
+  "startprestige": 0
+ }
+]
